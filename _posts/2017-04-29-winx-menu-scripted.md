@@ -14,4 +14,4 @@ tags:
 
 ---
 
-{% gist 685d9bdaa5f135f576b0d518baa05b23 %}
+gist 685d9bdaa5f135f576b0d518baa05b23
