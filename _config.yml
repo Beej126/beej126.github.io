@@ -294,7 +294,9 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - [vendor]
+
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
 
 plugins:
   - jekyll-paginate
