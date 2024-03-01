@@ -18,4 +18,4 @@ tags:
 one day i accidentally deleted my self hosted wordpress blog... i had backups of the posts but off went all my images in a brutal flash... this script pulls what was still out there on the Internet Archive [Wayback Machine](https://archive.org/web/)
 <!--more-->
 
-gist a38495a051cf06c47c6bf84db6dbbf9a
+{% gist a38495a051cf06c47c6bf84db6dbbf9a %}
