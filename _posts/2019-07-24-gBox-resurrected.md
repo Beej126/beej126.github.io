@@ -8,6 +8,7 @@ month: "2019/07"
 url: /2019/07/2019-07-24-gBox-Resurrected.html
 tags:
   - Hardware
+thumbnail-img: https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg
 ---
 
 <img style="height: 300px; float:right; margin: 0.6em" src="https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg" />
