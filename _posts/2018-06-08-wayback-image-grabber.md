@@ -11,7 +11,7 @@ thumbnail: ""
 categories:
 tags:
   - Blogging
-  - Powershell
+  - PowerShell
 ---
 
 # Background: 
