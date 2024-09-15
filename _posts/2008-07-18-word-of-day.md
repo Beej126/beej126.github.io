@@ -21,7 +21,7 @@ blogger_permalink:
 dsq_thread_id:
   - 5508631581
 tags:
-  - Fun
+  - Thoughts
 
 ---
 Adjective: meretricious \`meri'treeshus

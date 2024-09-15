@@ -17,7 +17,7 @@ blogger_author:
 blogger_permalink:
   - /2010/01/austere-word-of-day.html
 tags:
-  - Fun
+  - Thoughts
 
 ---
 Adjective: austere    

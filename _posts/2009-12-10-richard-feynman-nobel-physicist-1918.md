@@ -30,7 +30,7 @@ dsq_thread_id:
   - 5753670713
 categories:
 tags:
-  - Fun
+  - Entertainment
   - Video
 
 ---

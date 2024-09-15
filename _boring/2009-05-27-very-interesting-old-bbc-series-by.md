@@ -17,8 +17,6 @@ blogger_author:
 blogger_permalink:
   - /2009/05/very-interesting-old-bbc-series-by.html
 tags:
-  - Fun
-  - Life
   - Video
 
 ---

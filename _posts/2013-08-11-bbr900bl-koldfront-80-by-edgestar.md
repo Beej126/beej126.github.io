@@ -30,10 +30,8 @@ dsq_thread_id:
   - 5542135581
 categories:
 tags:
-  - Fun
   - Hardware
-  - Life
-
+  
 ---
 
 <a href="https://www.edgestar.com/koldfront-bbr900bl-80-can-beverage-cooler/BBR900.html?term=BBR900BL" target="_blank"><img title="View larger image of Koldfront 80 Can Built-In Beverage Cooler - Black" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: right; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 10px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="View larger image of Koldfront 80 Can Built-In Beverage Cooler - Black" align="right" src="https://user-images.githubusercontent.com/6301228/45936451-7b8c5380-bf6b-11e8-87fd-bcb41f4a48d1.png" width="308" height="313" /></a>

@@ -1,5 +1,5 @@
 ---
-title: "front-mount-240mm-radiator-in-cooler-master-storm-scout-2"
+title: "Front Mmount 240mm Radiator in Cooler Mmaster Storm Scout 2"
 date: 2024-08-14
 type: post
 author: Beej
@@ -7,7 +7,7 @@ tags:
   - Hardware
 ---
 
-(posted here: https://linustechtips.com/topic/201317-how-to-remove-the-hard-drive-cage-from-a-cm-storm-scout-2-for-water-cooling-and-air-flow/#comment-2729332)
+(posted here: [https://linustechtips.com/topic/201317-how-to-remove-the-hard-drive-cage-from-a-cm-storm-scout-2-for-water-cooling-and-air-flow/#comment-2729332](https://linustechtips.com/topic/201317-how-to-remove-the-hard-drive-cage-from-a-cm-storm-scout-2-for-water-cooling-and-air-flow/#comment-2729332))
 
 to answer that last question in more detail (only 10 short years later =)... at least on my revision of the case, the very top bay for 5-1/4" drives was indeed fastened with several rivets... i count roughly 8 attaching it to the front panel, 2 to the mobo back plate panel, 4 on the top and then 2 more if you want to separate the top cage from the middle cage... i wanted to remove both the top and middle cages (to install a 240mm radiator, see why below) so i left the two cages riveted together, but that then meant i still needed to detach the middle cage from the bottom cage, which required 2 more rivets.
 
