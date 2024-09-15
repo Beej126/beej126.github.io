@@ -69,7 +69,7 @@ good'nuf!
 
 ![radiator installed]({{ site.baseurl }}/images/uploads/2024/coolermaster-case/9 - radiator installed.png)
 ![installed - side]({{ site.baseurl }}/images/uploads/2024/coolermaster-case/10 - installed - side profile.png)
-![30 degrees at idle]({{ site.baseurl }}/images/uploads/2024/coolermaster-case/11 - 30 degrees idle.jpg)
+![30 degrees at idle]({{ site.baseurl }}/images/uploads/2024/coolermaster-case/11 - 30 degrees idle.png)
 ![upgraded parts]({{ site.baseurl }}/images/uploads/2024/coolermaster-case/12 - upgraded parts.png)
 ![full package on desk - front]({{ site.baseurl }}/images/uploads/2024/coolermaster-case/13 - full package on desk - front.jpg)
 ![full package on desk - side]({{ site.baseurl }}/images/uploads/2024/coolermaster-case/14 - full package on desk - side.jpg)
