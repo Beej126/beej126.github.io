@@ -33,7 +33,8 @@
 
       {% if site.edit_page_button and site.github.repository_url %}
         &nbsp;&bull;&nbsp;
-        <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
+        {% comment %} used to be "{{ site.github.source.branch }}" but that was still outputting master vs main {% endcomment %}
+        <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
        {% endif%}
 
       </p>

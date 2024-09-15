@@ -10,7 +10,7 @@ month: "2018/06"
 thumbnail: ""
 categories:
 tags:
-  - CmdLine
+  - CommandLine
 ---
 
 this is a great spin on [Sudo for Windows](https://github.com/mattn/sudo).

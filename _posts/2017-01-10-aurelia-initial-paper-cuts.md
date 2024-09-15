@@ -24,8 +24,8 @@ snapTW:
     %EXCERPT%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
 categories:
 tags:
-  - DotNetCore
-  - Aurelia
+  - C#
+  - Dev
 
 ---
 #### Baseline Wishlist for Dev Tools & Architecture

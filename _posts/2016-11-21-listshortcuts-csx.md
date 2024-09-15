@@ -14,7 +14,7 @@ dsq_thread_id:
   - 5529483311
 categories:
 tags:
-  - CmdLine
+  - CommandLine
 
 ---
     #r "Interop.IWshRuntimeLibrary.dll"

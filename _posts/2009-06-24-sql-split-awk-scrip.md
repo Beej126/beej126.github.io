@@ -20,7 +20,7 @@ dsq_thread_id:
   - 5528972367
 categories:
 tags:
-  - CmdLine
+  - CommandLine
   - Database
 
 ---

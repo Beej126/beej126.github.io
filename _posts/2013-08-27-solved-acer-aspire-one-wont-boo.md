@@ -19,7 +19,7 @@ blogger_permalink:
 dsq_thread_id:
   - 5642392447
 tags:
-  - CmdLine
+  - CommandLine
   - Hardware
   - Security
   - SysAdmin

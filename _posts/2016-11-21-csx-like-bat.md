@@ -14,7 +14,7 @@ dsq_thread_id:
   - 5540890490
 categories:
 tags:
-  - CmdLine
+  - CommandLine
 
 ---
 first, get [Chocolatety][1] if you don't already have... killer handy

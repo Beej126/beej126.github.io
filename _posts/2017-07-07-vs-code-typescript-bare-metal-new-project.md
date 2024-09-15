@@ -10,7 +10,7 @@ dsq_thread_id:
   - 5972829990
 categories:
 tags:
-  - TypeScript
+  - JavaScript
   - VisualStudio
   - WebDev
 

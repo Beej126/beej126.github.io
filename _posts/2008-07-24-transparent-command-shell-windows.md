@@ -30,9 +30,7 @@ dsq_thread_id:
   - 5542148863
 categories:
 tags:
-  - CmdLine
-  - Software
-  - SysAdmin
+  - CommandLine
 
 ---
 Nice, someone's gone and created the perfect pill for even the most serious case of Mac OS X Terminal envy...

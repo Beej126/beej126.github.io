@@ -20,7 +20,8 @@ dsq_thread_id:
   - 5821406805
 categories:
 tags:
-  - DotNetFramework
+  - C#
+  - Dev
   - Database
 
 ---

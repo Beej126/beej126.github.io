@@ -9,8 +9,8 @@ url: /2016/03/wordpress-show-all-tags-in-cloud.html
 dsq_thread_id:
   - 6304593094
 tags:
-  - WordPress
-
+  - Blogging
+  - PHP
 ---
 wordpress defaults to only showing the [first 45 tags][1]
   

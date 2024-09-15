@@ -10,7 +10,7 @@ dsq_thread_id:
   - 5770060104
 categories:
 tags:
-  - CmdLine
+  - CommandLine
 
 ---
 

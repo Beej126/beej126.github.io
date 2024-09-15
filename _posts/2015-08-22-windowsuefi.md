@@ -19,8 +19,7 @@ blogger_permalink:
 dsq_thread_id:
   - 5526321196
 tags:
-  - Hardware
-  - Windows 8+
+  - SysAdmin
 
 ---
 ##### Motivation &#8211; Booting Windows in UEFI mode offers a couple mild advantages:

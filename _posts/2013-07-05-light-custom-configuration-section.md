@@ -20,7 +20,8 @@ dsq_thread_id:
   - 5541558754
 categories:
 tags:
-  - DotNetFramework
+  - C#
+  - Dev
 ---
 
 ```csharp

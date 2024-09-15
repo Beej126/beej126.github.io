@@ -19,7 +19,7 @@ blogger_permalink:
 dsq_thread_id:
   - 5529355788
 tags:
-  - CmdLine
+  - CommandLine
 
 ---
 <pre class="prettyprint">#!/bin/bash
