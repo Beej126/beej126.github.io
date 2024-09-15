@@ -7,9 +7,9 @@ tags:
   - Hardware
 ---
 
-([posted here](https://linustechtips.com/topic/201317-how-to-remove-the-hard-drive-cage-from-a-cm-storm-scout-2-for-water-cooling-and-air-flow/#comment-2729332))
-
 at least on my revision of the case, the very top bay for 5-1/4" drives was fastened with several rivets... i count 8 attaching it to the front panel, 2 to the mobo back plate panel, 4 on the top and then 2 more if you want to separate the top cage from the middle cage... i wanted to remove both the top and middle cages (to install a 240mm radiator, see why below) so i left the two cages riveted together, but that then meant i still needed to detach the middle cage from the bottom cage, which required 2 more rivets.
+
+([posted here](https://linustechtips.com/topic/201317-how-to-remove-the-hard-drive-cage-from-a-cm-storm-scout-2-for-water-cooling-and-air-flow/#comment-2729332))
 
 nearly all of the rivets are a straight shot with a drill, EXCEPT the 4 on the top require removing two individual pieces from the outer top of the case, to be able to hit the top of the rivets with a drill... first the upper plastic comes off with 6 easy latches, look under the top lip and you'll find 3 bendable plastic latches on each side, 2 towards the back of the case and 1 up front... there are also smaller internal plastic latch pins (like in most toys) in the middle of this plastic near the handle... be gentle, i probably broke the tips of one set but it still all went back together very solid when i was done anyway... after that top panel is removed, there are 6 screws to remove what appears to be a handle reinforcement bracket ... then you can slide the last plastic piece up there back about a quarter inch to unlock and lift up, with the front panel wires giving just enough slack to get a drill onto the 2 rivets that last panel covered up... the other 2 rivets are already exposed after the first top piece comes off.
 

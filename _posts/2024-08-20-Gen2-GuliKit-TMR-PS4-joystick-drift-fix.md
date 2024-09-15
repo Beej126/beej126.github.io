@@ -7,9 +7,9 @@ tags:
   - Hardware
 ---
 
-([posted here](https://www.amazon.com/gp/customer-reviews/R8FIYBK1X56SJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9Q16NJX))
-
 Bottom line up front, just like other reviewers have said, my controller went from REAL BAD jitter on the right stick to absolute ZERO drift, pegging very very close to center w/o any tuning... super happy with the result!
+
+([posted here](https://www.amazon.com/gp/customer-reviews/R8FIYBK1X56SJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9Q16NJX))
 
 I bricked two!! other PS5 controllers a few months back attempting to install the older yellow hall effect sticks, really painful learning?? experience =( Recently stumbled on a very positive YT review of these new TMR GuliKits over the previous gen and gathered the courage to try again.
 
