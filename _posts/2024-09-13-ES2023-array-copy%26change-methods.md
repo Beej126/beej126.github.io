@@ -1,5 +1,5 @@
 ---
-title: "Array.with()"
+title: "ES2023 array copy & change methods"
 date: 2024-09-13
 type: post
 author: Beej
