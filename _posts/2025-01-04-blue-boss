@@ -1,0 +1,56 @@
+---
+title: The Blue Boss (aka Grafting 8BitDo Zero 2 onto legacy Wico Boss joystick)
+date: 2025-01-04
+type: post
+author: Beej
+tags:
+  - Hardware
+  - Entertainment
+---
+
+Basically looking to bluetooth enable my favorite old school Wico Boss joystick from my mid-80's Amiga childhood days.
+
+## Points of interest:
+1. speaking of Amiga games, [Future Tank](https://amiga.abime.net/games/view/future-tank) gets the most reps =)
+     - tip: make sure you find the version that doesn't have the water graphics bug
+   - sure is nice to have LaunchBox + RetroArch + puae emulating amiga games so smoothly on Android, besides being mobile, old school computer resolutions are tailor made for small form factor screens
+1. I chose 8BitDo Zero 2 due to it's obvious good intersection of size, price ($20), features & availability
+   - sure would be nice if they threw all of us hackers a bone and broke out some real soldering points though! getting leads soldered to the little traces is by far the most challenging aspect of this approach.
+1. this was the main 8BitDo Zero 2 soldering reference i found to lead the way: https://www.reddit.com/r/8bitdo/comments/ighlet/8bitdo_zero_and_zero_2_pcb/
+   - sure wish that reddit wasn't closed so i could post some clarifications...
+   - main one being, i found no need to have two commons... i was readily able to combine ground from the left side area joy pad with fire button mapped to 'B' on the right side control pad
+1. i chose to mount the Zero 2 to the outside housing of the joystick so i could use all the other Zero 2 buttons without having to extend any more leads to new buttons on the Boss... 
+   - i could easily see people motivated for a more self contained aesthetic, this was a practical bee line for me to get something working with the least effort =)
+   - therefore i only needed solder 6 connections: joystick left,right,up,down, fire and ground
+1. but boy oh boy, getting those little leads to hold solder sure is a challenge!!!
+   - this is where fiberglass scratch pen is absolutely crucial
+   - on amazon there's not many choices, definitely make sure to get the finest tip you can find for this kind of work
+   - here's a link to the one i used: https://www.amazon.com/gp/product/B002RMCFZM
+   - hopefully anyone looking here for reference gets a good enough sense of where i chose to tap into leads... 
+     - when you zoom in it's pretty obvious one side of each control button pad with the big black intersection "U" shapes has one U connecting to ground and then most of them connect to an obvious "[via](https://en.wikipedia.org/wiki/Via_(electronics))" which seems like the optimal place to scratch and solder but but not all of them go to an obvious via so you just have to scratch into somewhere along a fine lead... 
+     - WARNING - once you have connected magnet wire to a trace lead, be very careful you don't tug the whole thing off... if you look at my joystick right pad you can see i ran into that kind of trouble
+1. **WIRE** - i also used 30 AWG enameled magnet wire like the reddit post and found that to be a good fit: https://www.amazon.com/gp/product/B0CK83CR2B
+1. PHONE = soldering microscope - i think it's a good cheap hack here to use one's phone as a "soldering microscope"... i found i didn't need to go any more than 8-10x magnification to see these small traces really really well
+   - i wound up getting a cheapo articulating magsafe stand to position the phone above the soldering area... i'm not sure this is the optimal choice but it worked well enough: https://www.amazon.com/gp/product/B0CP29VTPY
+   - little "coin" microscopes are amazingly cheap as well and this seems worth trying: https://www.amazon.com/Elikliv-Microscope-Endoscope-Magnification-Adjustable/dp/B07QB79SN6
+1. see [this post](Gen2-GuliKit-TMR-PS4-joystick-drift-fix) for more soldering tips if you're as rusty as i was =)
+
+### final build
+![final build profile](https://github.com/user-attachments/assets/a2b491e9-13f6-4600-8954-6ea5527b055a)
+![final build top down](https://github.com/user-attachments/assets/02923edd-3d03-45f4-bfd4-0dcb14472a69)
+
+### fiberglass scratch pen
+![fiberglass scratch pen](https://github.com/user-attachments/assets/e7a27c9e-bb21-420d-9fe5-51cb2e3f08d0)
+![scratch pen in use](https://github.com/user-attachments/assets/4e8cd0b5-73f0-4f28-a5b9-f0ee9d8f7e2a)
+
+### phone stand
+![phone stand in use](https://github.com/user-attachments/assets/b2aad20b-6faa-4729-9c0d-2433dfa08409)
+![makeshift phone stand](https://github.com/user-attachments/assets/2a5b6efd-2120-4aa1-a84f-247baa3ad0db)
+
+### leads up close
+![leads up close](https://github.com/user-attachments/assets/48f4e31c-16ae-4a31-8996-2af61442f9d3)
+![left side leads](https://github.com/user-attachments/assets/7261534b-1e34-4e39-b0f9-8518a25f7305)
+![leads full](https://github.com/user-attachments/assets/b2725cbe-64a1-4724-95d6-73c7459c920d)
+
+### plug on internal joystick side
+![final plug](https://github.com/user-attachments/assets/132e0e6a-db6f-4635-9639-409980f16595)
