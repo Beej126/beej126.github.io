@@ -1,5 +1,5 @@
 ---
-title: "Sax'y eBike =)"
+title: "Sax'ee-Bike =)"
 date: 2024-09-13
 type: post
 author: Beej
