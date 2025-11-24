@@ -34,7 +34,7 @@ categories:
 tags:
   - Hardware
 
-thumbnail-img: {{ site.baseurl }}/images/uploads/2009/10/Snap1.png
+thumbnail-img: /images/uploads/2009/10/Snap1.png
 ---
 Update 2015-01-07: Replacing the HDD cage fan &#8211; mine got a bad case of the rattles 
       

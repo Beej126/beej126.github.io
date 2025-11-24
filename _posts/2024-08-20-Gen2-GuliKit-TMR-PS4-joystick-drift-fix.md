@@ -5,7 +5,7 @@ type: post
 author: Beej
 tags:
   - Hardware
-thumbnail-img: {{ site.baseurl }}/images/uploads/2024/GuliKit-TMR-1.png
+thumbnail-img: /images/uploads/2024/GuliKit-TMR-1.png
 ---
 
 Bottom line up front, just like other reviewers have said, my controller went from REAL BAD jitter on the right stick to absolute ZERO drift, pegging very very close to center w/o any tuning... super happy with the result!

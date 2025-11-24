@@ -32,7 +32,7 @@ categories:
 tags:
   - Database
 
-thumbnail-img: {{ site.baseurl }}/images/uploads/2014/02/SQL-Server-Configuration-Manager.png
+thumbnail-img: /images/uploads/2014/02/SQL-Server-Configuration-Manager.png
 ---
 <div class="separator" style="clear: both; text-align: center;">
   <a href="{{ site.baseurl }}/images/uploads/2014/02/SQL-Server-Configuration-Manager.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="{{ site.baseurl }}/images/uploads/2014/02/SQL-Server-Configuration-Manager.png" height="557" width="640" /></a>
