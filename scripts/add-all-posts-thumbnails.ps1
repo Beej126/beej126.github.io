@@ -7,8 +7,8 @@ Write-Host "Scanning $PostsPath"
 
 $mdFiles = Get-ChildItem -Path $PostsPath -Filter *.md -File -ErrorAction Stop
 
-$markdownImgRegex = [regex]'!\[[^\]]*\]\((?<url>[^)\s]+)'
-$htmlImgRegex     = [regex]'<img[^>]*\bsrc=["''](?<url>[^"''>]+)'
+$markdownImgRegex = [regex]'!\[[^\]]*\]\((?<url>(?:\{\{[^}]+\}\})?[^)\s]+)'
+$htmlImgRegex     = [regex]'<img[^>]*\bsrc=["''](?<url>(?:\{\{[^}]+\}\})?[^"''>]+)'
 
 foreach ($file in $mdFiles) {
   $lines = (Get-Content -LiteralPath $file.FullName -Raw -ErrorAction Stop -Encoding UTF8) -split "`r?`n"

@@ -5,7 +5,7 @@ type: post
 author: Beej
 tags:
   - Hardware
-thumbnail-img: {{
+thumbnail-img: {{ site.baseurl }}/images/uploads/2024/coolermaster-case/1
 ---
 
 at least on my revision of the case, the very top bay for 5¼" drives was fastened with several rivets... i counted:

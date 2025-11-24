@@ -6,7 +6,7 @@ author: Beej
 tags:
   - Kids
   - Outdoors
-thumbnail-img: {{
+thumbnail-img: {{ site.baseurl }}/images/uploads/2024/sax-ebike1.png
 ---
 
 The bike is a Rad Power, Rad Mini 4
