@@ -35,6 +35,7 @@ tags:
   - IIS
   - Software
 
+thumbnail-img: https://lh6.ggpht.com/_XlySlDLkdOc/SdqRvnBRMqI/AAAAAAAACs0/Og8icqoaIUc/image%5B22%5D.png?imgmax=800
 ---
 i was having a heck of a time trying to get “net use * [https://myhost.com][1]” type WebDAV client mounts to connect… all that would ever work would be [https://localhost][2] … nothing i tried would connect to my WAN ip… always something like “System error 5… access is denied”… then i thought, ah what the heck, gotta google it… and sure enough… loaded the trial of <a href="https://www.webdrive.com/products/webdrive/index.html" target="_blank">WebDrive from South River Technologies</a> simple little gui popped up, hit ok and two seconds later i was sitting on a W: drive in explorer… Right Mouse > New > Text Document worked, so i had write capability… obviously i had to twiddle some bits on the IIS end too but that was mainly just a matter following any <a href="https://learn.iis.net/page.aspx/350/installing-and-configuring-webdav-on-iis-70/" target="_blank">typical IIS WebDAV walkthrough guide</a>… cool, $60 for a one off license is reasonable…oh yeah, it’ll also map a drive letter to an FTP Server, Amazon S3 and SharePoint… i leave you with… ahhhhh yes the logo
   

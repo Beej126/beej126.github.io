@@ -32,6 +32,7 @@ categories:
 tags:
   - CommandLine
 
+thumbnail-img: https://www.hanselman.com/blog/content/binary/transparentcommentprompt_thumb.jpg
 ---
 Nice, someone's gone and created the perfect pill for even the most serious case of Mac OS X Terminal envy...
 

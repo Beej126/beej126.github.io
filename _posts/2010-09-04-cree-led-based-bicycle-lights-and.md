@@ -29,6 +29,7 @@ tags:
   - Hardware
   - Outdoors
 
+thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TXzwdyL4uOI/AAAAAAAAE60/rEFD9_CFjCM/image27.png?imgmax=800
 ---
 References:
 

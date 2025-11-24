@@ -32,6 +32,7 @@ categories:
 tags:
   - Hardware
 
+thumbnail-img: https://lh6.ggpht.com/_XlySlDLkdOc/S1HIP2OFCxI/AAAAAAAAErk/kZPLR3w6v0U/00919224000%5B2%5D.jpg?imgmax=800
 ---
 ### Good References: 
 

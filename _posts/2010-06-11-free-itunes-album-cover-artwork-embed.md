@@ -34,6 +34,7 @@ categories:
 tags:
   - Music
 
+thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TBKOUjN_ZzI/AAAAAAAAEtY/VgTs_2ocysU/image_thumb2.png?imgmax=800
 ---
 ### Misc Notes:
 

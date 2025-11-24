@@ -32,6 +32,7 @@ categories:
 tags:
   - Database
 
+thumbnail-img: https://lh5.ggpht.com/_XlySlDLkdOc/SvLcn9HbSbI/AAAAAAAAEoY/wQlRvFldGfc/image_thumb%5B9%5D.png?imgmax=800
 ---
 Feedback Update #1 [2009-11-15]:
 

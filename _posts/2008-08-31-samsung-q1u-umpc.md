@@ -36,6 +36,7 @@ tags:
   - Hardware
   - Mapping
 
+thumbnail-img: https://ak.buy.com/db_assets/large_images/604/204996604.jpg
 ---
 * [Update:  5 Apr 2012] Just popped for a [Samsung Galaxy Tab 7.7](/2012/04/samsung-galaxy-tab-77-p6800.html).
 * [Update: 19 Aug 2009] Windows 7 totally rocks on this thing!!! At least as peppy as XP, probably better.   

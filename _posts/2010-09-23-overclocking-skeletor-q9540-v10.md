@@ -32,6 +32,7 @@ categories:
 tags:
   - Hardware
 
+thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TJvSjY6bYqI/AAAAAAAAExw/_b2V82SAEZA/image_thumb%5B2%5D.png?imgmax=800
 ---
 [Update: 14 Dec 2010] <a href="/2010/12/overclocking-skeletor-q9450-round-2.html" target="_blank">Round 2 here</a> <a href="/2009/10/open-air-pc.html" target="_blank">Photos of the rig</a> Well I just spent a few hours racking up some serious negative wifey points to see what I could see at the end of the OC rainbow 🙂 Current CPU specs: 
 

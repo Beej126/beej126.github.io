@@ -22,6 +22,7 @@ categories:
 tags:
   - ProjMgmt
 
+thumbnail-img: https://user-images.githubusercontent.com/6301228/60238832-9411fd00-9860-11e9-81d3-de5d47392de7.png
 ---
 (Emphasis on For Developers)
 

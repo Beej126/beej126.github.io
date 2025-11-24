@@ -32,6 +32,7 @@ categories:
 tags:
   - Fitness
 
+thumbnail-img: https://lh3.ggpht.com/_XlySlDLkdOc/TW5ifwg1olI/AAAAAAAAE5Q/xLCgSMB9kAc/image%5B2%5D.png?imgmax=800
 ---
 <a title="Link to Amazon" href="https://www.amazon.com/dp/030746363X/ref=as_li_tf_til?tag=httpwwwbeejbl-20&camp=0&creative=0&linkCode=as1&creativeASIN=030746363X&adid=10169PK7PCC18R0XGR78&" target="_blank"><img title="Link to Amazon" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: right; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="Link to Amazon" align="right" src="https://lh3.ggpht.com/_XlySlDLkdOc/TW5ifwg1olI/AAAAAAAAE5Q/xLCgSMB9kAc/image%5B2%5D.png?imgmax=800" width="251" height="325" /></a> Ferris gets right to his go-to Mexican oriented mix pretty quick into the fat loss section of the book… it’s very quick reading to pick up his basic approach.&nbsp;&nbsp; Here’s how we’ve taken that and made it our own:
 

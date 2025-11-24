@@ -31,6 +31,7 @@ tags:
   - Hardware
   - Mac
 
+thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TW7eVg3roZI/AAAAAAAAE4M/QbgOABkhFcs/image_thumb%5B1%5D.png?imgmax=800
 ---
 Update [2011 Aug 6]: The original drivers appear to work just fine under Lion v10.7
   

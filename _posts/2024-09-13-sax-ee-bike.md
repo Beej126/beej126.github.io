@@ -6,6 +6,7 @@ author: Beej
 tags:
   - Kids
   - Outdoors
+thumbnail-img: {{
 ---
 
 The bike is a Rad Power, Rad Mini 4

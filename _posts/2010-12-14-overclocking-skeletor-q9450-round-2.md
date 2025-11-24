@@ -32,6 +32,7 @@ categories:
 tags:
   - Hardware
 
+thumbnail-img: https://lh6.ggpht.com/_XlySlDLkdOc/TQft-g9YLLI/AAAAAAAAE1w/bYsoWDaKe3I/image_thumb%5B4%5D.png?imgmax=800
 ---
 (see <a href="/2010/09/overclocking-skeletor-q9540-v10.html" target="_blank">round 1 notes</a> for full specs) After watching a quick youtube of a guy that hit 3.9Ghz (485MHz FSB) where he didn’t bat and eye about leaving his DDR2 at something around 1000MHz, I decided to copy his lead and give up on the 1:1 DRAM:FSB thing and just go for the CPU gusto… I wasn’t seeing much love at 485… it would somehow boot if I goosed the DRAM to 1349 or something like that… but Win7 would reset after boot logo… lower DRAM frequencies wouldn’t even boot until I set it to auto and it came back with 971 🙁 I’m at 420 FSB with 1400 DRAM now and holding in Win7 for a nice stretch here… that’s around 3.4GHz which is at respectable 26% increase… we shall see. Primary OC BIOS settings (gleaned <a href="https://www.youtube.com/watch?v=_-ksS41TxvI" target="_blank">from here</a>) 
 

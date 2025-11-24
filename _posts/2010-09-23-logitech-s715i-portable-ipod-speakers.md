@@ -12,6 +12,7 @@ tags:
   - Music
   - Outdoors
 
+thumbnail-img: https://user-images.githubusercontent.com/6301228/82738766-1f08ab00-9cef-11ea-9e79-a00c35c7309b.png
 ---
 Looking for small-group biking… want some bass to carry to other riders in the immediate vicinity over typical road & wind noise... needs to be well contained for bumping around and not too heavy since we hop a lot of trains, stairs, etc
 

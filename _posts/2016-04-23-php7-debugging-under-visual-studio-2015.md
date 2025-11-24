@@ -16,6 +16,7 @@ categories:
 tags:
   - PHP
 
+thumbnail-img: https://4.bp.blogspot.com/-Tw53GpKe6q8/VxvtTqx9yII/AAAAAAAATos/0Kk7cDML_zo5WgvA2bwNtfZGZnzWtAu_ACLcB/s1600/Snap1.png
 ---
 1. I suggest installing PHP7 through the IIS Web Platform Installer so it does the Handler Mapping vs having to mess with that manually (i.e. assigning PHP extension to php-cgi.exe) &#8211; but there's a lot of guides out there for doing that yourself if you want.
 

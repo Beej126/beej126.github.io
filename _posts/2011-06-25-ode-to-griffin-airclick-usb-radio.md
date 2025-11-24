@@ -35,6 +35,7 @@ tags:
   - Hardware
   - Music
 
+thumbnail-img: https://lh5.ggpht.com/-QP95wE_SF5w/TgYpWc35PSI/AAAAAAAAE8o/QaQTsTDgHuw/AirClick%25255B5%25255D.png?imgmax=800
 ---
 This little bugger just so totally rocks!!!&#160; IMHO the most compelling aspects are:
 

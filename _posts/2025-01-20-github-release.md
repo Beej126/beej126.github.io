@@ -5,6 +5,7 @@ type: post
 author: Beej
 tags:
   - Dev
+thumbnail-img: https://github.com/user-attachments/assets/038ece87-925e-40e4-a089-aa15be019ea8
 ---
 
 - [GitHub Desktop](https://desktop.github.com/download/) offers a really convenient UI for squashing commits

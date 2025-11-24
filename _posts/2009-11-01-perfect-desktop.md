@@ -32,6 +32,7 @@ categories:
 tags:
   - Productivity
 
+thumbnail-img: https://user-images.githubusercontent.com/6301228/41195268-d1ae3e1c-6bde-11e8-8dd7-2fe351d26bab.png
 ---
 This should really be titled "Endlessly Searching For... The Perfect Desktop"... circa Windows 7, this is a reasonably satisfying mock of OS X's desktop:
 

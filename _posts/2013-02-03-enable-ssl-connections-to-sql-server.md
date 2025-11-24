@@ -33,6 +33,7 @@ tags:
   - Database
   - Security
 
+thumbnail-img: https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9Neyd74/Fig.0%25255B2%25255D.png?imgmax=800
 ---
 <table border="1" cellpadding="2" cellspacing="0">
   <tr>

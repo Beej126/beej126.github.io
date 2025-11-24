@@ -4,6 +4,7 @@ date: 2025-01-27
 type: post
 author: Beej
 tags: Productivity
+thumbnail-img: https://github.com/user-attachments/assets/5e206101-c657-4577-a822-a9071f6de8cf
 ---
 
 Use this field to drive your browser's built in password generator.<br/>

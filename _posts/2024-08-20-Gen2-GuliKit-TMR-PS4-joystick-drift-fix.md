@@ -5,6 +5,7 @@ type: post
 author: Beej
 tags:
   - Hardware
+thumbnail-img: {{
 ---
 
 Bottom line up front, just like other reviewers have said, my controller went from REAL BAD jitter on the right stick to absolute ZERO drift, pegging very very close to center w/o any tuning... super happy with the result!

@@ -28,6 +28,7 @@ tags:
   - Database
   - Synthesis
 
+thumbnail-img: https://lh6.ggpht.com/-niqKmY68t9o/UhpHnXT6cgI/AAAAAAAAFVU/PgmIvRftPAE/image_thumb%25255B8%25255D.png?imgmax=800
 ---
 ## [Full GitHub Source][1]
 

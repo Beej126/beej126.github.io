@@ -30,6 +30,7 @@ tags:
   - Mapping
   - Synthesis
 
+thumbnail-img: https://lh5.ggpht.com/-aGWvx5bGstU/UFAT-gcmngI/AAAAAAAAFGQ/vkF8uCG3obo/image_thumb%25255B2%25255D.png?imgmax=800
 ---
 ## Nutshell
 

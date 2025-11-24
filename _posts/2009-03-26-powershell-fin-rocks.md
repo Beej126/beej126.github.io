@@ -33,6 +33,7 @@ tags:
   - PowerShell
   - SysAdmin
 
+thumbnail-img: https://lh6.ggpht.com/_XlySlDLkdOc/ScvX--jTD_I/AAAAAAAACr0/qvC1p_EPgmw/image_thumb%5B8%5D.png?imgmax=800
 ---
   * <a href="https://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx" target="_blank">Main Microsoft landing page for PowerShell</a>… download and install it!!&#160; (if you’re running Windows Server 2008, it’s already loaded) 
   * Out of the box executing PowerShell scripts is completely disabled for security… there’s a couple immediate tasks to enable… 

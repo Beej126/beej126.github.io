@@ -36,6 +36,7 @@ tags:
   - IIS
   - Security
 
+thumbnail-img: https://lh4.ggpht.com/-wI03RdKtKWs/TusB39wZG-I/AAAAAAAAE9Y/mCLHvs8_Fzg/image_thumb%25255B5%25255D.png?imgmax=800
 ---
   * The only configuration settings required are (IIS7 screenshots below): 
       * Require SSL (this represents server side) 

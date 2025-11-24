@@ -33,6 +33,7 @@ tags:
   - Hardware
   - Outdoors
 
+thumbnail-img: https://lh6.ggpht.com/-zUTVJtFe3sE/UZwQMBZJtII/AAAAAAAAFTM/cJyifG1u-Fo/image%25255B26%25255D.png?imgmax=800
 ---
 <a title="yeah, i know, really poor iphone photo :(" href="https://www.pepboys.com/product/details/9511536/00528/" target="_blank"><img title="yeah, i know, really poor iphone photo :(" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: right; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 10px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="yeah, i know, really poor iphone photo :(" align="right" src="https://lh6.ggpht.com/-zUTVJtFe3sE/UZwQMBZJtII/AAAAAAAAFTM/cJyifG1u-Fo/image%25255B26%25255D.png?imgmax=800" width="434" height="348" /></a>Installed this last night... found in local <a href="https://www.pepboys.com/product/details/9511536/00528/" target="_blank">Pep Boys</a> inventory… blasted them with a $20 coupon that expired that day 🙂 so was out the door at $210 + tax.
 

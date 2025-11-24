@@ -23,6 +23,7 @@ tags:
   - Mac
   - Xamarin
 
+thumbnail-img: https://3.bp.blogspot.com/-qgcZ6beVm0k/V3C-LjucRtI/AAAAAAAAUj0/WLDupVxqgbMHoqxt4rI1xDzzBtoS-SLYQCLcB/s1600/Snap08.png
 ---
 # Virtualizing only Compute
 

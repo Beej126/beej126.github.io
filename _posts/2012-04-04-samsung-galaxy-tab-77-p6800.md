@@ -38,6 +38,7 @@ tags:
   - Mapping
   - Outdoors
 
+thumbnail-img: https://lh3.ggpht.com/-KN-mAI8kB08/T3zVJXv5T8I/AAAAAAAAFCQ/qdSMVGcQg8Y/image%25255B10%25255D.png?imgmax=800
 ---
 (My previous go to device, the [Samsung Q1 Ultra](/2008/08/samsung-q1u-umpc.html).&nbsp; She served us well. 🙂 Have we come a long way in 5 _short_ years??? 
 

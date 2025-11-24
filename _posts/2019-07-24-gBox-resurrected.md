@@ -11,11 +11,14 @@ tags:
 thumbnail-img: https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg
 ---
 
-<img style="height: 300px; float:right; margin: 0.6em" src="https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg" />
-
 ## Geek Crush Origin Story
 Back around 2002 (yes '02 not '20), I still remember sitting in the company lunch room where I worked on the south side of Chicago, casually browsing the back ads section of an [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld) when I saw this barebones kit they were calling the "gBox". 
+
+<img style="height: 300px; float:right; margin: 0.6em" src="https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg" />
+
+
 <img style="height: 300px; float:right; margin: 0.6em" src="https://user-images.githubusercontent.com/6301228/64924190-a5e7aa00-d796-11e9-880c-c9f2498ba540.png" />
+
 I was instantly drawn to the acrylic wrapped aluminum look... an admitedly crude reference to the Power Mac G4 Cube which had [gloriously fizzled just a year prior](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/) - that S.Job's article is a great example of "[Strong Opinions Loosely Held](https://tim.blog/2018/01/01/the-tim-ferriss-show-transcripts-marc-andreessen/#:~:text=strong%20opinions%20loosely%20held)".
 
 ## Old School Refs

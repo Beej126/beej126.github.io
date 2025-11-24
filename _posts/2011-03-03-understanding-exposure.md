@@ -32,6 +32,7 @@ categories:
 tags:
   - Photography
 
+thumbnail-img: https://lh5.ggpht.com/_XlySlDLkdOc/TW-YLaRs_JI/AAAAAAAAE4o/XjYPHv3ukxE/Understanding%20Exposure%2C%203rd%20Edition%20-%20Bryan%20Peterson%20%282010.08%29%20-cover%20image%5B7%5D.jpg?imgmax=800
 ---
 This is book by Bryan Peterson was nicely approachable
 

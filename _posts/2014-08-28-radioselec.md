@@ -32,6 +32,7 @@ categories:
 tags:
   - WebDev
 
+thumbnail-img: {{ site.baseurl }}/images/uploads/2014/08/8-27-20148-40-58PM.png
 ---
 <a style="font-size: x-large;" href="https://stackoverflow.com/a/25455374/813599">https://stackoverflow.com/a/25455374/813599</a>
 

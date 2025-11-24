@@ -22,6 +22,7 @@ categories:
 tags:
   - Mac
 
+thumbnail-img: https://cloud.githubusercontent.com/assets/6301228/24815086/cd160dc8-1b88-11e7-949d-8a9a2f0f8171.png
 ---
 
 ### Background
