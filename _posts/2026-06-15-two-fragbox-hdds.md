@@ -4,7 +4,7 @@ date: 2026-06-15
 type: post
 author: Beej
 tags: Hardeware
-thumbnail-img: 
+thumbnail-img: /images/uploads/2026/two_drives_mounted.jpg
 ---
 
 # Project
