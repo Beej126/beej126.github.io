@@ -8,22 +8,22 @@ thumbnail-img: /images/uploads/2026/two_drives_mounted.jpg
 ---
 
 # Project
-- Needed two 3.5" drives for RocketRAID 620 (Sata 3) controller that's been [running solid for 15 years](/highpoint-rocketraid-620-indeed-works/)... started with 2TB, then 4TB, currently 8TB with 2TB remaining.
-- Falcon's stock bracket holds one 3.5" HDD and one 2.5" but two 3.5's work out dandy with this approach.
+- Wanting to support two HDDs tied to an old HighPoint RocketRAID 620 controller that's been [running solid for 15 years](/highpoint-rocketraid-620-indeed-works/)... started with 2TB in simple RAID1, then 4TB, and currently 8TB with 1/4 remaining... good to see 16TB drives dipping into $400 range.
+- Falcon's stock bracket holds one 3.5" HDD and one 2.5" but two 3.5's work out well with a little effort
 
 ## Easy Parts
 - [~$12 HDD bracket](https://www.amazon.com/dp/B0DZHNQKFW)
 - [~$12 Alien Nano Tape](https://www.amazon.com/dp/B07YB1ZXG6)
-- [2 x 10 Lego plate (everybody has this on hand right? =)](https://www.bricklink.com/v2/catalog/catalogitem.page?id=718&idColor=11#T=S)
+- [2 x 10 Lego plate (everybody has an old lego stash right? =)](https://www.bricklink.com/v2/catalog/catalogitem.page?id=718&idColor=11#T=S)
 
 ### Stock trays
-![image1]({{ site.baseurl }}/images/uploads/2026/stock_drive_trays.png){:width="600px"}
-### Add on Bracket
-![image1]({{ site.baseurl }}/images/uploads/2026/HDD_bracket.png){:width="600px"}
-### Lego
+![image1]({{ site.baseurl }}/images/uploads/2026/stock_drive_trays.png){:width="400px"}
+### Add on Brackets
+![image1]({{ site.baseurl }}/images/uploads/2026/HDD_bracket.png){:width="300px"}
+### Lego =)
 ![image1]({{ site.baseurl }}/images/uploads/2026/lego_plate.png)
 ### Finished
-![image1]({{ site.baseurl }}/images/uploads/2026/two_drives_mounted.jpg){:width="600px"}
+![image1]({{ site.baseurl }}/images/uploads/2026/two_drives_mounted.jpg){:width="400px"}
 
 
 ## Tips
