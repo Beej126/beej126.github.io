@@ -8,28 +8,32 @@ thumbnail-img: /images/uploads/2026/two_drives_mounted.jpg
 ---
 
 # Project
-- Needed to mount two 3.5" drives for RocketRAID 620 (Sata 3) controller that's been [running solid for 15 years](/highpoint-rocketraid-620-indeed-works/)... started with 2TB, then 4TB, currently 8TB with 2TB remaining.
-- Falcon's stock bracket holds one 3.5" HDD and one 2.5" but two 3.5's works great with this approach.
+- Needed two 3.5" drives for RocketRAID 620 (Sata 3) controller that's been [running solid for 15 years](/highpoint-rocketraid-620-indeed-works/)... started with 2TB, then 4TB, currently 8TB with 2TB remaining.
+- Falcon's stock bracket holds one 3.5" HDD and one 2.5" but two 3.5's work out dandy with this approach.
 
 ## Easy Parts
 - [~$12 HDD bracket](https://www.amazon.com/dp/B0DZHNQKFW)
 - [~$12 Alien Nano Tape](https://www.amazon.com/dp/B07YB1ZXG6)
-- 1 x slim height Lego =)
+- [2 x 10 Lego plate (everybody has this on hand right? =)](https://www.bricklink.com/v2/catalog/catalogitem.page?id=718&idColor=11#T=S)
 
 ### Stock trays
-![image1]({{ site.baseurl }}/images/uploads/2026/stock_drive_trays.png)
+![image1]({{ site.baseurl }}/images/uploads/2026/stock_drive_trays.png){:width="600px"}
 ### Add on Bracket
-![image1]({{ site.baseurl }}/images/uploads/2026/HDD_bracket.png)
+![image1]({{ site.baseurl }}/images/uploads/2026/HDD_bracket.png){:width="600px"}
+### Lego
+![image1]({{ site.baseurl }}/images/uploads/2026/lego_plate.png)
 ### Finished
-![image1]({{ site.baseurl }}/images/uploads/2026/two_drives_mounted.jpg)
+![image1]({{ site.baseurl }}/images/uploads/2026/two_drives_mounted.jpg){:width="600px"}
 
 
 ## Tips
 - not much to screw up... 
-- look at your sata power cables in advance and get those snugged up as much as possible with zip ties and aligned with both drives
-- definitely connect the cables to the drives **BEFORE** installing in the case
-- one drive to tray and then brackets for 2nd drive
-- note in the image, pointing one of the brackets down becomes a great point of stability on the case floor along with the lego and nano tape to lock it all down
-- slide in the combined drives & align tray bolt but don't tighten... remember there's a flange that secures bottom of tray to case as well
-- stretch less than full lego length's worth of nano tape across lego and slide it in under the downward bracket... the channel between nubs of the lego creates a perfect catch point
+- get sata power cables zip tied and aligned with how you're going to position drives (sata connectors have keyed orientation)
+- definitely connect cables to drives before installing to case
+- bolt one drive to tray and combine both drives with brackets
+- ** note in the finished image, pointing lower bracket down to rest on lego and nano tape really locks it all in super solid
+- slide in drives & align tray mounting screw with case, but don't tighten just yet... remember there's also a bottom flange that secures tray to case
+- cut piece of nano tape about half length of lego and stretch it across to thin out
+- slide nano'ed lego in under lower bracket with edge between lego nubs forming perfect lock channel
 - wiggle for fit and tighten the stock tray bolt. that's it.
+- still plenty of clearance for water pipes without pinching... i don't have a graphics card so that helps spacing a lot but it looks doable by snaking pipes in space between drives and PSU
