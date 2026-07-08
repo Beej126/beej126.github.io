@@ -30,8 +30,8 @@ thumbnail-img: /images/uploads/2026/two_drives_mounted.jpg
 - not much to screw up... 
 - get sata power cables zip tied and aligned with how you're going to position drives (sata connectors have keyed orientation)
 - definitely connect cables to drives before installing to case
-- bolt one drive to tray and combine both drives with brackets
-- ** note in the finished image, pointing lower bracket down to rest on lego and nano tape really locks it all in super solid
+- first bolt one drive to stock tray and then combine both drives with third party brackets
+- ** note in the finished image, pointing lower bracket down to rest on lego + nano tape really locks it all in super solid
 - slide in drives & align tray mounting screw with case, but don't tighten just yet... remember there's also a bottom flange that secures tray to case
 - cut piece of nano tape about half length of lego and stretch it across to thin out
 - slide nano'ed lego in under lower bracket with edge between lego nubs forming perfect lock channel
