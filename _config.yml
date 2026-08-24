@@ -16,6 +16,8 @@ title: BeejBlog
 # Your name to show in the footer
 author: Brent Anderson (Beej)
 
+url: https://Next-Technologies.com
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -103,7 +105,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Beej126.github.io"
+url-pretty: "Next-Technologies.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
