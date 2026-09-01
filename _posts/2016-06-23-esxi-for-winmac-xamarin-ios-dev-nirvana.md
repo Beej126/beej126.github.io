@@ -1,30 +1,15 @@
 ---
 title: Configuring VMware ESXi as a Workstation
 author: Beej
-type: post
-date: 2016-06-23T23:14:27+00:00
-year: "2016"
-month: "2016/06"
-url: /2016/06/esxi-for-winmac-xamarin-ios-dev-nirvana.html
-dsq_thread_id:
-  - 5512951017
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:244:"a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:19:"%TITLE% - %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
+date: 2016-06-23
 tags:
   - Hardware
   - iOS
   - Mac
   - Xamarin
-
 thumbnail-img: https://3.bp.blogspot.com/-qgcZ6beVm0k/V3C-LjucRtI/AAAAAAAAUj0/WLDupVxqgbMHoqxt4rI1xDzzBtoS-SLYQCLcB/s1600/Snap08.png
 ---
+
 # Virtualizing only Compute
 
 ## Overview
@@ -50,9 +35,9 @@ thumbnail-img: https://3.bp.blogspot.com/-qgcZ6beVm0k/V3C-LjucRtI/AAAAAAAAUj0/WL
 
 ## Specs
 
-  * [mobo: Gigabyte GA-X99-UD4 (BIOS F22)](/2015/09/x99build.html)
+  * [mobo: Gigabyte GA-X99-UD4 (BIOS F22)](/x99build/)
   * GPU: ATI 5450
-  * ESXi 6.0.0U2 &#8211; [download]( https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6), <input type="checkbox" class="expander"><span class="hl">[Update: 2017-02-15] ESXi 6.5.0-4564106 was a no-go for me</span>...<div>Frozen Windows logo upon booting the Win10 RDM. Tried creating fresh VM definition and using the new SATA controller instead of SCSI with no luck... bummer because the new ESXi Host Web Client was notably better at saving the necessary settings; didn't have to resort to vSphere Client... fingers crossed future releases will resolve... for the record, the ESXi installer is thankfully smart enough to leave our datastore partition intact, conducive to quickly trying ESXi upgrades by simply REATTACHING the VM's after install</div>
+  * ESXi 6.0.0U2 &#8211; [download](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6), <input type="checkbox" class="expander"><span class="hl">[Update: 2017-02-15] ESXi 6.5.0-4564106 was a no-go for me</span>...<div>Frozen Windows logo upon booting the Win10 RDM. Tried creating fresh VM definition and using the new SATA controller instead of SCSI with no luck... bummer because the new ESXi Host Web Client was notably better at saving the necessary settings; didn't have to resort to vSphere Client... fingers crossed future releases will resolve... for the record, the ESXi installer is thankfully smart enough to leave our datastore partition intact, conducive to quickly trying ESXi upgrades by simply REATTACHING the VM's after install</div>
     * [unlocker 2.0.8](https://www.insanelymac.com/forum/topic/303311-workstation-1112-player-712-fusion-78-and-esxi-6-mac-os-x-unlocker-2/) (there is now a [2.0.9 RC](https://github.com/DrDonk/unlocker) targeting ESXi 6.5, the author does caution that it's not quite ready, but there's [at least one successful report](https://ithinkvirtual.com/2017/02/12/create-macos-os-x-vm-on-vmware-esxi-6-5-vmware-workstation-12-x))
       Windows 10 (v1607 build 14393.693)
       El Capitan OS X v10.11.5, now running fine on Sierra as well
@@ -87,7 +72,7 @@ i took these screenshots via ESXi host Web client but that actually runs into va
 * this does mean once the VM starts up, it completely takes over the graphics card to where the ESXi host is truly "headless"... so i've actually got 2 GPUs running, an old ATI dedicated to the Windows VM and another just for getting into ESXi shell on physical host...
 * **NOTE: single GPU configuration is very viable**... all settings (both host and VM) are done through remote clients (see [Which Client?](#which_client) below)... if for some reason that wasn't an option, you could disable VM autostart via vSphere client and thereby leave a lone GPU for troubleshooting directly on the host console after boot up... i suppose if things were ever so horked up that disabling the GPU takeover autostart remotely wasn't an option, then finding another graphics card to throw in might be the only choice... but really any old card would do (i.e. temp borrow someone else's) since it's just a text based linux console.
 * reportedly nVidia consumer grade cards like my nVidia GTX 750 Ti are specifically crippled against VT-d... nVidia reserves this for their high end $$ cards... [clever folks are mod'ing low end cards to report VT-d compatible DeviceId's](https://www.eevblog.com/forum/chat/hacking-nvidia-cards-into-their-professional-counterparts/) but i haven't found anyone doing the 750 Ti yet... also wonder about DSDT override approaches... unfortunately Windows doesn't pay attention to bootloader magic ala Clover, otherwise [FakeId](https://1.bp.blogspot.com/-uWBiM74OoIA/V3CwNHbIq_I/AAAAAAAAUjA/mY_gGi9oGtQLAJxAOaRqbncIUGNr1QCSACLcB/s1600/SDdVvBO.png) would be awesomely too easy... [ESXi does seem to support a custom DSDT](https://communities.vmware.com/thread/494835?start=0&tstart=0) -or- it looks like there's a way to [punch a DSDT into the registry](https://github.com/Microsoft/graphics-driver-samples/wiki/Install-Driver-in-a-Windows-VM) for development purposes
-* fortunately ATI doesn't cripple their consumer GPUs... the [5450 was a $30 card circa 2012](/?p=47) and supports 3 digital displays with completely passive cooling (i'm a sucker for fanless)
+* fortunately ATI doesn't cripple their consumer GPUs... the [5450 was a $30 card circa 2012](/ati-5450-with-hackintosh-lion-107x/) and supports 3 digital displays with completely passive cooling (i'm a sucker for fanless)
 * more recently I'm liking the footprint of an HP 2GB ATI 7570 i picked up for $40 used on eBay also with all 3 digital port types, including the elusive DisplayPort... the HP ones with model#'s 672462, 695635, 695633 are nice small half length cards that i can report are an essentially silent fan... keep an eye on the RAM since there's a lot of 1GB ones out there but frankly 1GB probably runs everything fine anyway
 * pretty sure could just as well run the Mac on the VT-d GPU and thereby gain full QE/CI accelerated graphics if needed (iMovie being a notable app)... VM'ing OSX with VT-d graphics providing full speed QE/CI is an interesting blend of virtual and physical versus more traditional full physical approach to the hackintosh game... i suppose it still comes down to fiddling with each of your specific I/O devices (Bluetooth, WiFi, Audio, etc)
 
