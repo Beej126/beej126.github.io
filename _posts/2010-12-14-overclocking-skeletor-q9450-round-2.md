@@ -2,39 +2,13 @@
 title: Overclocking ‘Skeletor’ Q9450 – Round 2
 author: Beej
 type: post
-date: 2010-12-14T22:21:00+00:00
-year: "2010"
-month: "2010/12"
-url: /2010/12/overclocking-skeletor-q9450-round-2.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7993362248027286597
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2010/12/overclocking-skeletor-q9450-round-2.html
-blogger_thumbnail:
-  - https://lh6.ggpht.com/_XlySlDLkdOc/TQft-g9YLLI/AAAAAAAAE1w/bYsoWDaKe3I/image_thumb%5B4%5D.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5753671153
-categories:
+date: 2010-12-14
 tags:
   - Hardware
-
 thumbnail-img: https://lh6.ggpht.com/_XlySlDLkdOc/TQft-g9YLLI/AAAAAAAAE1w/bYsoWDaKe3I/image_thumb%5B4%5D.png?imgmax=800
 ---
-(see <a href="/2010/09/overclocking-skeletor-q9540-v10.html" target="_blank">round 1 notes</a> for full specs) After watching a quick youtube of a guy that hit 3.9Ghz (485MHz FSB) where he didn’t bat and eye about leaving his DDR2 at something around 1000MHz, I decided to copy his lead and give up on the 1:1 DRAM:FSB thing and just go for the CPU gusto… I wasn’t seeing much love at 485… it would somehow boot if I goosed the DRAM to 1349 or something like that… but Win7 would reset after boot logo… lower DRAM frequencies wouldn’t even boot until I set it to auto and it came back with 971 🙁 I’m at 420 FSB with 1400 DRAM now and holding in Win7 for a nice stretch here… that’s around 3.4GHz which is at respectable 26% increase… we shall see. Primary OC BIOS settings (gleaned <a href="https://www.youtube.com/watch?v=_-ksS41TxvI" target="_blank">from here</a>) 
+
+(see <a href="/overclocking-skeletor-q9540-v10/" target="_blank">round 1 notes</a> for full specs) After watching a quick youtube of a guy that hit 3.9Ghz (485MHz FSB) where he didn’t bat and eye about leaving his DDR2 at something around 1000MHz, I decided to copy his lead and give up on the 1:1 DRAM:FSB thing and just go for the CPU gusto… I wasn’t seeing much love at 485… it would somehow boot if I goosed the DRAM to 1349 or something like that… but Win7 would reset after boot logo… lower DRAM frequencies wouldn’t even boot until I set it to auto and it came back with 971 🙁 I’m at 420 FSB with 1400 DRAM now and holding in Win7 for a nice stretch here… that’s around 3.4GHz which is at respectable 26% increase… we shall see. Primary OC BIOS settings (gleaned <a href="https://www.youtube.com/watch?v=_-ksS41TxvI" target="_blank">from here</a>) 
 
   * CPU Ratio = 8 
   * C1E = disabled (I have no idea) 
