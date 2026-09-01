@@ -1,43 +1,14 @@
 ---
 title: HighPoint RocketRAID 620 indeed works for Hackintosh
 author: Beej
-type: post
-date: 2011-02-24T19:20:00+00:00
-year: "2011"
-month: "2011/02"
-url: /2011/02/highpoint-rocketraid-620-indeed-works.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 2272768634989664355
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 25
-blogger_permalink:
-  - /2011/02/highpoint-rocketraid-620-indeed-works.html
-blogger_thumbnail:
-  - https://lh4.ggpht.com/_XlySlDLkdOc/TW7eVg3roZI/AAAAAAAAE4M/QbgOABkhFcs/image_thumb%5B1%5D.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - 's:162:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";'
-dsq_thread_id:
-  - 5508631371
+date: 2011-02-24
 categories:
 tags:
   - Hardware
   - Mac
-
 thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TW7eVg3roZI/AAAAAAAAE4M/QbgOABkhFcs/image_thumb%5B1%5D.png?imgmax=800
 ---
 Update [2011 Aug 6]: The original drivers appear to work just fine under Lion v10.7
-  
-[Please see here][1] for background on the “main PC = NAS” approach this hardware facilitates.
-  
-[And here for my other Hackintosh tribulations with getting my old graphics card to work][2].
   
 I’m very satisfied for a $60 part… the drivers loaded right up under both Win7 and OS X v10.6.6 (and 10.7 currently)
   
@@ -63,7 +34,7 @@ The card itself is very miniscule… about 2.75&#8243; inches square (see below)
   
 <a href="https://www.virgulestar.com/Photos/Hardware/HighPoint%20RocketRAID%20620/DSCF5030.JPG" target="_blank"><img alt="DSCF5030 - closeup" border="0" src="https://lh6.ggpht.com/_XlySlDLkdOc/TWgKk-tqiNI/AAAAAAAAE3o/W_U9nSnCAKE/DSCF5030%20-%20closeup%5B6%5D.jpg?imgmax=800" height="433" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="DSCF5030 - closeup" width="1037" /></a>
   
-Checkout this last photo… I realized the RocketRAID card’s bracket alignment was off quite a bit (too short)… after installing, the card would slide itself loose of the slot… so much so that the mobo’s electric disconnect warning light for that slot came on… the bracket for my graphics card right next door doesn’t exhibit anything close to this height deficit so I’ve got to assume the RocketRAID is a bit out of spec… after scratching my head for a minute, the obvious solution that presented itself was to move the bracket _under_ my case’s _card stability rail..._ it seems like my <a href="/2009/10/open-air-pc.html" target="_blank">Antec Skeleton</a>’s card rail particularly lends itself to this approach… I wonder if a normal case’s bracket screw down area would ?
+Checkout this last photo… I realized the RocketRAID card’s bracket alignment was off quite a bit (too short)… after installing, the card would slide itself loose of the slot… so much so that the mobo’s electric disconnect warning light for that slot came on… the bracket for my graphics card right next door doesn’t exhibit anything close to this height deficit so I’ve got to assume the RocketRAID is a bit out of spec… after scratching my head for a minute, the obvious solution that presented itself was to move the bracket _under_ my case’s _card stability rail..._ it seems like my <a href="/open-air-pc/" target="_blank">Antec Skeleton</a>’s card rail particularly lends itself to this approach… I wonder if a normal case’s bracket screw down area would ?
   
 [<img alt="P1050814 - closeup" border="0" src="https://lh6.ggpht.com/_XlySlDLkdOc/TWqy4CC345I/AAAAAAAAE30/0Pde2kf9TV8/P1050814%20-%20closeup_thumb%5B3%5D.jpg?imgmax=800" height="613" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="P1050814 - closeup" width="793" />][7]
 
