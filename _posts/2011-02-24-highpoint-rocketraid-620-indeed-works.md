@@ -38,8 +38,6 @@ Checkout this last photo… I realized the RocketRAID card’s bracket alignment
   
 [<img alt="P1050814 - closeup" border="0" src="https://lh6.ggpht.com/_XlySlDLkdOc/TWqy4CC345I/AAAAAAAAE30/0Pde2kf9TV8/P1050814%20-%20closeup_thumb%5B3%5D.jpg?imgmax=800" height="613" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="P1050814 - closeup" width="793" />][7]
 
- [1]: /2010/09/considering-home-network-storage.html
- [2]: /2010/03/ati-x1300-pro-on-mac-os-x-snow-leopard.html
  [3]: https://www.highpoint-tech.com/BIOS_Driver/page/rr620_U.htm
  [4]: https://www.hptmac.com.cn/China/rr620c.htm
  [5]: https://lh4.ggpht.com/_XlySlDLkdOc/TW7eU3l6bKI/AAAAAAAAE4I/HZaPgFxfTzs/s1600-h/image%5B4%5D.png
