@@ -1,25 +1,7 @@
 ---
 title: Hacking ATI x1300 into Mac OS X (Latest = Snow Leopard v10.6.8)
 author: Beej
-type: post
-date: 2010-03-28T20:55:00+00:00
-year: "2010"
-month: "2010/03"
-url: /2010/03/ati-x1300-pro-on-mac-os-x-snow-leopard.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7540634767486175383
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 83
-blogger_permalink:
-  - /2010/03/ati-x1300-pro-on-mac-os-x-snow-leopard.html
-dsq_thread_id:
-  - 5508631415
+date: 2010-03-28
 tags:
   - Hardware
   - Mac
@@ -27,7 +9,7 @@ tags:
 ---
 [Update: 2012 March 29] A commenter has his 7146 X1300 running Lion via EvoEnabler and no other mods… if you have a x1300 card that’s not cooperating with Lion, it would be interesting to try patching your bios to report a 7146 deviceid and see what happens… see the related comments below for links to corresponding tools. 
 
-[Update: 2011 Sep 3] <a href="/2012/03/ati-5450-with-hackintosh-lion-107x.html" target="_blank">See here</a> for my successful transition to cheap, fanless, 3 Display capable replacement for the x1300. 
+[Update: 2011 Sep 3] <a href="/ati-5450-with-hackintosh-lion-107x/" target="_blank">See here</a> for my successful transition to cheap, fanless, 3 Display capable replacement for the x1300. 
 
 <div style="margin-bottom: 5px;">
   Here are the main tweaks in a nutshell (“S/L/E” = System / Library / Extensions path on your OSX system drive):
@@ -59,7 +41,7 @@ Full Disclosure… These are the other tweaks in play on my Hackintosh:
 
   * DSDT.aml – 
       * <strike>see DSDT Patcher GUI below</strike> – 
-      * [Update: 2011 July 26] Thanks to ‘tkrotoff’, there is now a [hand crafted DSDT.aml][3] for the <a href="/2010/09/overclocking-skeletor-q9540-v10.html" target="_blank">Asus P5E3 Premium mobo</a>. 
+      * [Update: 2011 July 26] Thanks to ‘tkrotoff’, there is now a [hand crafted DSDT.aml][3] for the <a href="/overclocking-skeletor-q9540-v10/" target="_blank">Asus P5E3 Premium mobo</a>. 
   * Bootloader &#8211; 
       * <a href="https://netkas.org/?p=372" target="_blank"><strike>PC-EFI v10.6</strike></a><strike> (</strike><a href="https://tonymacx86.blogspot.com/2010/02/pc-efi-106-released-p55-supported-by.html" target="_blank"><strike>Tony Mac’s handy install package</strike></a><strike>)</strike> 
       * [Update: 2011 Aug 10] I’m currently running v10.6.8 & 10.7 via Chameleon 2.0 RC5 r1329 [patched by Azimutz as described here][4] 
@@ -97,7 +79,7 @@ Terminal: kextstat | grep ATI
     </td>
     
     <td nowrap="nowrap" valign="top">
-      <strong><a href="/2010/09/overclocking-skeletor-q9540-v10.html" target="_blank">ASUS P5E3 Premium WiFi @N</a></strong>
+      <strong><a href="/overclocking-skeletor-q9540-v10/" target="_blank">ASUS P5E3 Premium WiFi @N</a></strong>
     </td>
   </tr>
   
@@ -145,7 +127,7 @@ Misc Notes:
       * It’s fanless (literally silent) 
       * I’m kicking myself for going with the noisy, expensive ATI 3870 in the first place! Boy was I wrong about my video hardware requirements. 
       * [Update: 30 Jun 2010] Ok so Photoshop CS5 is way cool (try the new “Refine Edge” button under the Quick Selection Tool, they’ve amazingly solved the classic carving-out-hair-from-a-background problem) <strike>… anyway, PS CS5 barked at me about a few things it wasn’t going to manage in 3D mode with the AT X1300… and some other motions were a little more pokey than i’d like… so there is some reason to miss my beefier card.</strike> 
-      * [Update: 14 Jul 2010] Loaded the latest ATI drivers (duh) and Photoshop CS5 was then happy with all the OpenGL bits it was previously missing… so the little ATI x1300 really is all I need. [Upate: 28 Oct 2010] Actually, enabling hardware acceleration in Photoshop <a href="/2010/10/solved-photoshop-cs5-detected-video.html" target="_blank">wasn’t quite as easy as I originally thought</a>. 
+      * [Update: 14 Jul 2010] Loaded the latest ATI drivers (duh) and Photoshop CS5 was then happy with all the OpenGL bits it was previously missing… so the little ATI x1300 really is all I need. [Upate: 28 Oct 2010] Actually, enabling hardware acceleration in Photoshop <a href="/solved-photoshop-cs5-detected-video/" target="_blank">wasn’t quite as easy as I originally thought</a>. 
       * [Update: 01 Feb 2011] Photoshop CS5 on the Mac side has no such issues recognizing this card. 
       * [Update: 12 Aug 2011] CS5 under Win7 64bit behaved properly straight away. 
   * My main objective was iMovie which requires QE/CI. 
@@ -189,7 +171,7 @@ Unrelated:
 > 
 > Note: as has been well documented, there are no drivers currently (nor planned??) which fully support the Intel Matrix RAID functionality (aka Intel “Rapid Storage Technology”) under OSX.&nbsp; However, non RAID –and- RAID 1 volumes connected in to this controller _in RAID mode_ do work just fine (with this little coaxing)… you obviously only want to access your RAID 1 drives in read-only mode since the Mac simply sees them as two distinct drives and any writes to either drive would immediately invalidate the mirror, perhaps to dire consequences.
   
-> [Update: 2011 July 26] I finally went with a cheap <a href="/2011/02/highpoint-rocketraid-620-indeed-works.html" target="_blank">HighPoint RAID1</a> card that has Mac as well as windows drivers… I love it!!
+> [Update: 2011 July 26] I finally went with a cheap <a href="/highpoint-rocketraid-620-indeed-works/" target="_blank">HighPoint RAID1</a> card that has Mac as well as windows drivers… I love it!!
 
  [1]: https://www.kexts.com/
  [2]: https://www.projectosx.com/forum/index.php?showtopic=9&view=findpost&p=726
