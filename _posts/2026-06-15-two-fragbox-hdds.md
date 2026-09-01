@@ -3,7 +3,7 @@ title: Ideal fit for 2 x 3.5" HDD in Falcon Northwest FragBox 2023
 date: 2026-06-15
 type: post
 author: Beej
-tags: Hardeware
+tags: Hardware
 thumbnail-img: /images/uploads/2026/two_drives_mounted.jpg
 ---
 
