@@ -1,3 +1,14 @@
 {
-  "default_group": "uncategorized"
+  "default_group": "uncategorized",
+  "groups": [],
+  "assignments": {
+    "_boring_posts/2018-06-09-self-escalating-batch.md": "uncategorized",
+    "_boring_posts/2017-07-07-vs-code-typescript-bare-metal-new-project.md": "uncategorized",
+    "_boring_posts/2017-08-10-easy-native-windows-self-extracting-exe-builder-sfx.md": "uncategorized",
+    "_boring_posts/2017-03-01-nuget-cheatsheet.md": "uncategorized",
+    "_boring_posts/2015-06-29-purecsstreeviewfontawesome.md": "uncategorized",
+    "_boring_posts/2017-01-11-automatic-header-links.md": "uncategorized",
+    "_boring_posts/2011-06-08-transcoding-motion-jpeg-mov-to-mpeg-4.md": "uncategorized"
+  },
+  "auto_sync": true
 }
