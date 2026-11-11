@@ -1,18 +1,30 @@
-{% if site.utterances.repository and site.utterances.issue-term  %}
-
-<script src="https://utteranc.es/client.js"
-        repo="{{ site.utterances.repository }}"
-        {% assign migrated_issue = site.data.utterances[page.path] %}
-        {% if migrated_issue %}
-        issue-number="{{ migrated_issue }}"
-        {% else %}
-        issue-term="{{ site.utterances.issue-term }}"
-        {% endif %}
-        theme="{{ site.utterances.theme}}"
-        label="{{ site.utterances.label}}"
-        crossorigin="anonymous"
-        async>
-</script>
-
+{% if site.utterances.repository and site.utterances.issue-term %}
+{% assign discussion_issue = page.utterances_issue_number | default: site.data.utterances[page.path] %}
+<section class="blog-comments" id="comments" aria-labelledby="comments-heading"
+  data-repository="{{ site.utterances.repository | escape }}" data-issue-number="{{ discussion_issue }}"
+  data-since="{{ page.comment_snapshot_since | escape }}">
+  <h2 id="comments-heading">Comments{% if page.static_comments.size > 0 %} ({{ page.static_comments.size }}){% endif %}</h2>
+  <div class="static-comment-list">
+    {% for comment in page.comment_threads %}
+      {% include comment-thread.html comment=comment %}
+    {% endfor %}
+  </div>
+  <details class="live-discussion">
+    <summary>Reply / live discussion</summary>
+    {% if discussion_issue %}
+    <div class="comment-update-controls">
+      <button type="button" class="comment-check-new" hidden>Check for newer comments</button>
+      <span class="comment-update-status" role="status"></span>
+      <a href="https://github.com/{{ site.utterances.repository }}/issues/{{ discussion_issue }}">View discussion on GitHub</a>
+    </div>
+    {% else %}
+    <p><a href="https://github.com/{{ site.utterances.repository }}/issues">View discussions on GitHub</a></p>
+    {% endif %}
+    <div class="utterances-mount" data-repository="{{ site.utterances.repository | escape }}"
+      data-issue-number="{{ discussion_issue }}" data-issue-term="{{ site.utterances.issue-term | escape }}"
+      data-theme="{{ site.utterances.theme | escape }}" data-label="{{ site.utterances.label | escape }}"></div>
+    <noscript><p>Reply directly on GitHub using the discussion link above.</p></noscript>
+  </details>
+</section>
 {% endif %}
 

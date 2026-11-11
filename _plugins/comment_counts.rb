@@ -18,6 +18,7 @@ module BeejBlog
                   issues.select { |item| item["title"] == title }.min_by { |item| item["number"] }
                 end
         count = issue ? issue["comments"].to_i : 0
+        post.data['utterances_issue_number'] = issue['number'] if issue
         next if count.zero?
         { "post" => post, "count" => count }
       end.sort_by { |row| [-row["count"], -row["post"].date.to_i, row["post"].url] }

@@ -1,0 +1,11 @@
+<article class="blog-comment" id="comment-{{ include.comment.id }}" data-github-comment-id="{{ include.comment.id }}" data-published="{{ include.comment.published | escape }}"{% if include.comment.parent_id %} data-parent-comment-id="{{ include.comment.parent_id }}"{% endif %} itemscope itemtype="https://schema.org/Comment">
+  <header class="blog-comment-header">
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person"><strong itemprop="name">{% if include.comment.profile %}<a href="{{ include.comment.profile | escape }}" rel="nofollow ugc">{{ include.comment.author | escape }}</a>{% else %}{{ include.comment.author | escape }}{% endif %}</strong></span>
+    <a href="#comment-{{ include.comment.id }}"><time itemprop="datePublished" datetime="{{ include.comment.published | escape }}">{{ include.comment.published | date: "%B %-d, %Y" }}</time></a>
+    {% if include.comment.reply_href and include.comment.parent_id == nil %}<a class="comment-reply-link" href="{{ include.comment.reply_href | escape }}" rel="nofollow ugc">replying to...</a>{% endif %}
+  </header>
+  <div class="blog-comment-body" itemprop="text">{{ include.comment.html }}</div>
+  <div class="comment-replies">
+    {% for child in include.comment.children %}{% include comment-thread.html comment=child %}{% endfor %}
+  </div>
+</article>

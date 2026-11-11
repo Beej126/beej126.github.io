@@ -39,11 +39,12 @@ module BeejBlog
       @responses = {}
     end
 
-    def fetch(url)
-      @responses[url] ||= begin
-        path = File.join(@site.source, "_remote_content", "#{Digest::SHA256.hexdigest(url)}.json")
+    def fetch(url, accept: nil)
+      key = accept ? "#{url}\n#{accept}" : url
+      @responses[key] ||= begin
+        path = File.join(@site.source, "_remote_content", "#{Digest::SHA256.hexdigest(key)}.json")
         begin
-          body = request(url)
+          body = accept ? request(url, 5, accept: accept) : request(url)
         rescue StandardError => error
           snapshot = File.file?(path) ? JSON.parse(File.read(path, encoding: "UTF-8")) : nil
           unless snapshot && snapshot["url"] == url && snapshot["body"].is_a?(String)
@@ -60,14 +61,14 @@ module BeejBlog
       end
     end
 
-    def request(url, redirects = 5)
+    def request(url, redirects = 5, accept: nil)
       uri = URI.parse(url)
       unless uri.is_a?(URI::HTTPS) && uri.host && !uri.userinfo
         raise ArgumentError, "Remote content requires an HTTPS URL without credentials"
       end
       raise ArgumentError, "Too many redirects" if redirects.negative?
 
-      headers = { "User-Agent" => "BeejBlog-Jekyll", "Accept" => "*/*" }
+      headers = { "User-Agent" => "BeejBlog-Jekyll", "Accept" => accept || "*/*" }
       token = ENV["GITHUB_TOKEN"]
       headers["Authorization"] = "Bearer #{token}" if uri.host == "api.github.com" && token && !token.empty?
       http = Net::HTTP.new(uri.host, uri.port)
@@ -83,7 +84,7 @@ module BeejBlog
             raise IOError, "Response exceeds #{MAX_BYTES} bytes" if body.bytesize > MAX_BYTES
           end
         when Net::HTTPRedirection
-          return request(URI.join(url, response.fetch("location")).to_s, redirects - 1)
+          return request(URI.join(url, response.fetch("location")).to_s, redirects - 1, accept: accept)
         else
           raise IOError, "HTTP #{response.code}"
         end

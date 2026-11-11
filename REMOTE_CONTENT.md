@@ -1,5 +1,27 @@
 # Static remote content
 
+## Static comments and live replies
+
+Every build snapshots GitHub issue comments as rendered HTML and embeds them in
+post pages, readable without JavaScript and available to search crawlers. This
+makes text indexable; it does not guarantee search rankings. Original Disqus
+author/date attribution is lifted into each comment header; native GitHub
+comments retain their GitHub author and creation date. GitHub comments themselves
+are unchanged. Imported replies are nested under their parent in date order.
+When a parent is unavailable, its reply remains visible at the top level.
+
+The comment section checks GitHub once when it approaches the viewport and adds
+comments not in the snapshot. A button allows another explicit check. API
+failures leave the static archive intact. No tokens are embedded in the page.
+Opening **Reply / live discussion** loads Utterances on demand, with the complete
+thread and its existing GitHub sign-in flow. Utterances cannot filter its iframe
+to newer comments only, so the full live thread is not loaded automatically.
+New comments become part of the static archive on the next build.
+
+Snapshots use the existing `_remote_content` fallback mechanism and retain
+GitHub's sanitized HTML response. The workflow's `GITHUB_TOKEN` authenticates
+build-time reads; local builds fall back to committed snapshots on rate limits.
+
 The **By Comments** navbar page ranks active posts using GitHub issue comment
 counts fetched on each build. Explicit Utterances mappings take precedence;
 other posts are matched using the configured page-title convention. Posts with

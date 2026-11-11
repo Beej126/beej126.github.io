@@ -105,6 +105,9 @@ module BeejBlog
       end
       fragment.css("a[href]").each do |node|
         local = @mapping[node["href"]]
+        if !local && node["href"].match?(/\.(png|jpe?g|gif|webp|svg|bmp)([?#]|$)/i)
+          local = localize(node["href"], document)
+        end
         if local
           node["href"] = local
           changed = true

@@ -6,8 +6,55 @@ require "jekyll"
 require_relative "../_plugins/remote_content"
 require_relative "../_plugins/comment_counts"
 require_relative "../_plugins/local_images"
+require_relative "../_plugins/static_comments"
 
 class RemoteContentTest < Minitest::Test
+  def test_comment_threads_preserve_order_nested_replies_orphans_and_cycles
+    comments = [
+      { 'id' => 3, 'published' => '2020-01-03', 'reply_href' => '#comment-2' },
+      { 'id' => 1, 'published' => '2020-01-01', 'reply_href' => nil },
+      { 'id' => 4, 'published' => '2020-01-04', 'reply_href' => '#comment-999' },
+      { 'id' => 2, 'published' => '2020-01-02', 'reply_href' => '#comment-1' },
+      { 'id' => 5, 'published' => '2020-01-05', 'reply_href' => '#comment-6' },
+      { 'id' => 6, 'published' => '2020-01-06', 'reply_href' => '#comment-5' }
+    ]
+    roots = BeejBlog::StaticComments.thread(comments)
+    assert_equal [1, 4, 5, 6], roots.map { |comment| comment['id'] }
+    assert_equal [2], roots[0]['children'].map { |comment| comment['id'] }
+    assert_equal [3], roots[0]['children'][0]['children'].map { |comment| comment['id'] }
+    assert_equal '#comment-999', roots[1]['reply_href']
+    assert_nil roots[2]['parent_id']
+    assert_nil roots[3]['parent_id']
+  end
+
+  def test_imported_comment_attribution_becomes_header_metadata
+    comment = {
+      'id' => 2, 'user' => { 'login' => 'importer', 'html_url' => 'https://github.com/importer' },
+      'created_at' => '2026-11-11T20:00:00Z', 'html_url' => 'https://github.com/example/blog/issues/1#issuecomment-2',
+      'body' => '<!-- disqus-comment:123 -->',
+      'body_html' => '<p><strong>Originally posted by Alice &amp; Bob on 2011-03-02T14:00:00Z</strong></p><p>Reply to <a href="https://github.com/example/blog/issues/1#issuecomment-1">an earlier comment</a>.</p><pre><code>&lt;safe&gt;</code></pre>'
+    }
+    result = BeejBlog::StaticComments.normalize(comment, [1, 2])
+    assert_equal 'Alice & Bob', result['author']
+    assert_equal '2011-03-02T14:00:00Z', result['published']
+    assert_nil result['profile']
+    refute_includes result['html'], 'Originally posted'
+    assert_equal '#comment-1', result['reply_href']
+    refute_includes result['html'], 'Reply to an earlier comment'
+    assert_includes result['html'], '&lt;safe&gt;'
+  end
+
+  def test_native_comment_keeps_github_author_and_original_created_date
+    comment = { 'id' => 3, 'user' => { 'login' => 'reader', 'html_url' => 'https://github.com/reader' },
+                'created_at' => '2026-11-12T00:00:00Z', 'html_url' => 'https://github.com/example/blog/issues/1#issuecomment-3',
+                'body' => 'A reply', 'body_html' => '<p>A reply</p>' }
+    result = BeejBlog::StaticComments.normalize(comment, [3])
+    assert_equal 'reader', result['author']
+    assert_equal 'https://github.com/reader', result['profile']
+    assert_equal comment['created_at'], result['published']
+    assert_includes result['html'], 'A reply'
+  end
+
   def test_comment_ranking_uses_issue_mapping_and_title_fallback_and_excludes_empty_posts
     post_type = Struct.new(:relative_path, :data, :date, :url)
     posts = [
