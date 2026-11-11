@@ -1,28 +1,10 @@
 ---
 title: MS Project 101 for Developers
+date: 2010-09-10
 author: Beej
-type: post
-date: 2010-09-10T18:48:00+00:00
-year: "2010"
-month: "2010/09"
-url: /2010/09/ms-project-101-for-developers.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 2826481050576614017
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2010/09/ms-project-101-for-developers.html
-dsq_thread_id:
-  - 5607353342
-categories:
 tags:
   - ProjMgmt
-
-thumbnail-img: https://user-images.githubusercontent.com/6301228/60238832-9411fd00-9860-11e9-81d3-de5d47392de7.png
+thumbnail-img: /images/uploads/2010/ms-project-101-for-developers-thumbnail.png
 ---
 (Emphasis on For Developers)
 
@@ -78,4 +60,4 @@ when it's time to review your progress...
       - in Development land, “physical” of course gets very abstract and therefore makes it fun deciding where to draw the line on what is the smallest "thing" to be a trackable task...
       - if you're looking for concrete examples - as mentioned above, functional bundles like screens, stored procedures and classes are granular enough things typically worthy of tracking completion... start there and hopefully you'll start to see the things you are naturally drawn to
 
-![image](https://user-images.githubusercontent.com/6301228/60238832-9411fd00-9860-11e9-81d3-de5d47392de7.png)
+![image](/images/uploads/2010/ms-project-101-for-developers-thumbnail.png)

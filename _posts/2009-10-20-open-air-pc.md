@@ -1,39 +1,9 @@
 ---
 title: Open Air PC
+date: 2009-10-20
 author: Beej
-type: post
-date: 2009-10-20T18:45:00+00:00
-year: "2009"
-month: "2009/10"
-url: /2009/10/open-air-pc.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 6827198588309815171
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 3
-blogger_permalink:
-  - /2009/10/open-air-pc.html
-blogger_thumbnail:
-  - https://lh4.ggpht.com/_XlySlDLkdOc/TSeo21ktn3I/AAAAAAAAE2c/2-uK0cWHeYs/DSC03810_thumb%5B2%5D.jpg?imgmax=800
-dsq_thread_id:
-  - 5508631540
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
 tags:
   - Hardware
-
 thumbnail-img: /images/uploads/2009/10/Snap1.png
 ---
 Update 2015-01-07: Replacing the HDD cage fan &#8211; mine got a bad case of the rattles 
@@ -53,12 +23,12 @@ Update 2015-01-07: Replacing the HDD cage fan &#8211; mine got a bad case of the
       
 ### Before: Raw Parts on a Shelf ;) (circa April 2008)
       
-[![](https://lh4.ggpht.com/_XlySlDLkdOc/TSeo21ktn3I/AAAAAAAAE2c/2-uK0cWHeYs/DSC03810_thumb%5B2%5D.jpg?imgmax=800)](https://lh3.ggpht.com/_XlySlDLkdOc/TSeo2LtPhcI/AAAAAAAAE2Y/mrB7V9YZN_Q/s1600-h/DSC03810%5B5%5D.jpg)
+[![](/images/uploads/2009/open-air-pc-f05d15a47249.jpg)](/images/uploads/2009/open-air-pc-d3501b3f2aba.jpg)
 
-[![](https://lh4.ggpht.com/_XlySlDLkdOc/TSeo4qzOTJI/AAAAAAAAE2k/hhfDDsftXIg/IMG_5612-2000x1500_thumb%5B2%5D.jpg?imgmax=800)](https://lh3.ggpht.com/_XlySlDLkdOc/TSeo4CtvSNI/AAAAAAAAE2g/Hrg7yYhwaL0/s1600-h/IMG_5612-2000x1500%5B5%5D.jpg)
+[![](/images/uploads/2009/open-air-pc-bee8945c5f3f.jpg)](/images/uploads/2009/open-air-pc-6db4ea4da177.jpg)
         
 ### Antec Skeleton (installed Sunday 13 December 2009)
 
-![](https://lh5.ggpht.com/_XlySlDLkdOc/SuSzQPT4WsI/AAAAAAAAEmM/AensvAFSA48/Antec_Skeleton%5B8%5D.jpg?imgmax=800)
+![](/images/uploads/2009/open-air-pc-c87a75dd4f43.jpg)
 
-[![](https://lh6.ggpht.com/_XlySlDLkdOc/TSeozl0YkTI/AAAAAAAAE2s/lT6d3eKpxtI/DSCF3253-2816x2112_thumb%5B1%5D.jpg?imgmax=800)](https://lh4.ggpht.com/_XlySlDLkdOc/TSevhvk28WI/AAAAAAAAE2o/Jy-IAy5hqvI/s1600-h/DSCF3253-2816x2112%5B1%5D.jpg)
+[![](/images/uploads/2009/open-air-pc-591be9db5189.jpg)](/images/uploads/2009/open-air-pc-c1e8e10eaec9.jpg)

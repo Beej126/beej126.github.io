@@ -1,28 +1,10 @@
 ---
 title: Chrome Blacklist Blocker (PowerShell)
+date: 2014-12-13
 author: Beej
-type: post
-date: 2014-12-14T05:31:00+00:00
-year: "2014"
-month: "2014/12"
-url: /2014/12/chrome-blacklist-blocker.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 6715127496823372847
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2014/12/Chrome-Blacklist-Blocker.html
-dsq_thread_id:
-  - 5521600624
-categories:
 tags:
   - PowerShell
   - Security
-
 ---
 If you need this, you'll know why ;)
 

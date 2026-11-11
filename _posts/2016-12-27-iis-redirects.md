@@ -1,23 +1,9 @@
 ---
 title: Cleanly driving SSL and WWW prefix on IIS
+date: 2016-12-27
 author: Beej
-type: post
-date: 2016-12-27T20:53:05+00:00
-year: "2016"
-month: "2016/12"
-url: /2016/12/iis-redirects.html
-snap_isAutoPosted:
-  - 1
-snapEdIT:
-  - 1
-snapTW:
-  - 's:312:"a:1:{i:0;a:11:{s:2:"do";s:1:"1";s:9:"timeToRun";s:0:"";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"813850275500855296";s:5:"pDate";s:19:"2016-12-27 20:53:22";}}";'
-dsq_thread_id:
-  - 5597202286
-categories:
 tags:
   - IIS
-
 ---
 ### Background
 

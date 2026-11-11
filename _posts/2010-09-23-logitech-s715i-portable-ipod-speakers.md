@@ -1,22 +1,17 @@
 ---
 title: Logitech S715i Portable iPod Speakers Review
+date: 2010-09-23
 author: Beej
-type: post
-date: 2010-09-23T09:13:00+00:00
-year: "2010"
-month: "2010/09"
-url: /2010/09/logitech-s715i-portable-ipod-speakers.html
 tags:
   - Biking
   - Hardware
   - Music
   - Outdoors
-
-thumbnail-img: https://user-images.githubusercontent.com/6301228/82738766-1f08ab00-9cef-11ea-9e79-a00c35c7309b.png
+thumbnail-img: /images/uploads/2010/logitech-s715i-portable-ipod-speakers-thumbnail.png
 ---
 Looking for small-group biking… want some bass to carry to other riders in the immediate vicinity over typical road & wind noise... needs to be well contained for bumping around and not too heavy since we hop a lot of trains, stairs, etc
 
-![2010-09-22%20New%20Logitech%20Bike%20Speakers%20CREE%20Light%20Mount/#8](https://user-images.githubusercontent.com/6301228/82738766-1f08ab00-9cef-11ea-9e79-a00c35c7309b.png)![#9](https://user-images.githubusercontent.com/6301228/82738781-30ea4e00-9cef-11ea-827c-c498842577e3.png)![#1](https://user-images.githubusercontent.com/6301228/82738785-3a73b600-9cef-11ea-997b-80e84d305061.png)![image](https://user-images.githubusercontent.com/6301228/82738751-05676380-9cef-11ea-89ae-e6574e057c28.png)
+![2010-09-22%20New%20Logitech%20Bike%20Speakers%20CREE%20Light%20Mount/#8](/images/uploads/2010/logitech-s715i-portable-ipod-speakers-thumbnail.png)![#9](/images/uploads/2010/logitech-s715i-portable-ipod-speakers-221455dc289c.png)![#1](/images/uploads/2010/logitech-s715i-portable-ipod-speakers-c441dc975d5f.png)![image](/images/uploads/2010/logitech-s715i-portable-ipod-speakers-6b2b57a7a545.png)
 
 
 # Highlights
@@ -44,9 +39,9 @@ feel solid, not as bulky as i expected
 Battery = NiMH 180AAHC3TMX 3.6V 1800mAh (see photo)
 
 ## Batteries!!
-<img src="https://user-images.githubusercontent.com/6301228/82740258-f6d37900-9cfb-11ea-91d6-906c61dc9f16.png" style="float: left; margin: 0.6em"> I've already started maxing out the battery life during our rides… we saw around 6 hours last ride… to be fair, once I turned down the volume, the light went green for another hour or so… but who wants low volume!?!?  I'm gaga over the [high beam LEDs that run on 18650 Li-Ion rechargables as my main bike headlamp](/2010/09/cree-led-based-bicycle-lights-and.html)... so I hacked together 2 cells in parallel ... 18650 is too long to fit the existing battery cavity so i just strapped my makeshift box on the outside... i was in too much of a hurry and the whole thing is glitchy under road conditions but it <span class="hl">definitely proved the theory that a 3.7v supply is fine</span>.
+<img src="/images/uploads/2010/logitech-s715i-portable-ipod-speakers-75493a3c6c04.png" style="float: left; margin: 0.6em"> I've already started maxing out the battery life during our rides… we saw around 6 hours last ride… to be fair, once I turned down the volume, the light went green for another hour or so… but who wants low volume!?!?  I'm gaga over the [high beam LEDs that run on 18650 Li-Ion rechargables as my main bike headlamp](/2010/09/cree-led-based-bicycle-lights-and.html)... so I hacked together 2 cells in parallel ... 18650 is too long to fit the existing battery cavity so i just strapped my makeshift box on the outside... i was in too much of a hurry and the whole thing is glitchy under road conditions but it <span class="hl">definitely proved the theory that a 3.7v supply is fine</span>.
 
-[<img src="https://user-images.githubusercontent.com/6301228/82739654-1798d000-9cf6-11ea-854c-b78422536961.png" style="float: right; margin: 0.6em">](https://www.fenix-store.com/blog/lets-talk-batteries-probably-the-most-confusing-topicbut-most-important/) Li-Ion cells are great... i think the next best shot is to get few 14500's which are also 3.7v and basically the same size as AA's so they should fit in the existing speaker cavity... probably fill the same space with three in parallel to get enough duration, since they tend to be a lot less mAh than 18650's.
+[<img src="/images/uploads/2010/logitech-s715i-portable-ipod-speakers-59d6d1d4ff91.png" style="float: right; margin: 0.6em">](https://www.fenix-store.com/blog/lets-talk-batteries-probably-the-most-confusing-topicbut-most-important/) Li-Ion cells are great... i think the next best shot is to get few 14500's which are also 3.7v and basically the same size as AA's so they should fit in the existing speaker cavity... probably fill the same space with three in parallel to get enough duration, since they tend to be a lot less mAh than 18650's.
 
 ## Show Off
-[<img src="https://user-images.githubusercontent.com/6301228/82740701-140a4680-9d00-11ea-82f0-d2122db776a3.png" style="float: left; margin: 0.6em">](https://www.amazon.com/Bose-SoundLink-Wireless-Mobile-Speaker/dp/B005KFONIU) Since we're all riding together, a buddy with more disposable income =) one-upped me with a sweet Bose SoundLink bluetooth box for around $300 ... those are definitely another notch or two up the ladder... great sound, very well built rectangular package that lends itself to bungee’ing to a rear bike rack, etc... the wrap around cover that doubles as a stand, can be easily removed, providing some raised Allen screws convenient for mounting.  We couldn't resist cracking it open to check the juice and sure enough it was 3 x 18650's =)
+[<img src="/images/uploads/2010/logitech-s715i-portable-ipod-speakers-330ad055f7b2.png" style="float: left; margin: 0.6em">](https://www.amazon.com/Bose-SoundLink-Wireless-Mobile-Speaker/dp/B005KFONIU) Since we're all riding together, a buddy with more disposable income =) one-upped me with a sweet Bose SoundLink bluetooth box for around $300 ... those are definitely another notch or two up the ladder... great sound, very well built rectangular package that lends itself to bungee’ing to a rear bike rack, etc... the wrap around cover that doubles as a stand, can be easily removed, providing some raised Allen screws convenient for mounting.  We couldn't resist cracking it open to check the juice and sure enough it was 3 x 18650's =)

@@ -23,7 +23,8 @@ url: https://Next-Technologies.com
 ###############################################
 
 navbar-links:
-  Posts by Tag: "/tags/"
+  By Tag: "/tags/"
+  By Comments: "/by-comments/"
   My GitHub: "https://github.com/Beej126"
   My Gists: "https://gist.github.com/Beej126/"
   # About Me: "aboutme"
@@ -299,9 +300,12 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
-# https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
+  - scripts/
+  - tests/
+  - _remote_content/
+  - REMOTE_CONTENT.md
+  - beautiful-jekyll-theme.gemspec
+  - vendor/
 
 plugins:
   - jekyll-paginate

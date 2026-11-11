@@ -1,40 +1,13 @@
 ---
 title: KeePass + Cloud Storage = (near) Password Nirvana
+date: 2013-12-23
 author: Beej
-type: post
-date: 2013-12-23T06:55:00+00:00
-year: "2013"
-month: "2013/12"
-url: /2013/12/keepass-cloud-storage-near-password.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 4826853279959822751
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2014/01/keepass-cloud-storage-near-password.html
-blogger_thumbnail:
-  - https://2.bp.blogspot.com/-lbflleKV6Is/VgjkWZE2JJI/AAAAAAAARoQ/r8RsIzK3duM/s1600/KeePassHttp-remote-host.png
-dsq_thread_id:
-  - 5526005395
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:240:"a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
 tags:
   - Android
   - Productivity
   - Mac
   - Security
-
+thumbnail-img: /images/uploads/2013/keepass-cloud-storage-near-password-thumbnail.png
 ---
 [![][1]][1]
 
@@ -127,14 +100,14 @@ Debug notes:
  [4]: https://keepass.info/download.html
  [5]: https://keepass.info/plugins.html#chromeipass
  [6]: https://sourceforge.net/projects/keepass/
- [7]: {{ site.baseurl }}/images/uploads/2013/12/main_big.jpg
+ [7]: {{ site.baseurl }}/images/uploads/2013/unavailable-09f52660f3a6.svg
  [8]: https://itunes.apple.com/us/app/kypass-companion/id555293879?mt=12
  [9]: https://play.google.com/store/apps/details?id=keepass2android.keepass2android
- [10]: {{ site.baseurl }}/images/uploads/2013/12/unnamed.jpg
- [11]: {{ site.baseurl }}/images/uploads/2013/12/Screen-Shot-2013-12-31-at-11.43.40-AM.png
- [12]: {{ site.baseurl }}/images/uploads/2013/12/Screen-Shot-2014-01-01-at-7.56.14-PM.png
+ [10]: {{ site.baseurl }}/images/uploads/2013/unavailable-68dbf075ee75.svg
+ [11]: {{ site.baseurl }}/images/uploads/2013/unavailable-d0f81675fedf.svg
+ [12]: {{ site.baseurl }}/images/uploads/2013/unavailable-6c976193c6b5.svg
  [13]: https://keepass2.openix.be/
  [14]: https://www.mydigitallife.info/how-to-auto-save-the-database-in-keepass-password-safe/
- [15]: {{ site.baseurl }}/images/uploads/2013/12/Screen-Shot-2014-01-01-at-5.54.33-PM.png
+ [15]: {{ site.baseurl }}/images/uploads/2013/unavailable-e4e589649254.svg
  [16]: https://en.wikipedia.org/wiki/LLDB_%28debugger%29
  [17]: https://monodevelop.com/download

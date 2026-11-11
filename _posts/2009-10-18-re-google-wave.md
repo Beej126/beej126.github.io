@@ -1,25 +1,9 @@
 ---
 title: Google Wave – WOW
+date: 2009-10-18
 author: Beej
-type: post
-date: 2009-10-18T20:53:00+00:00
-year: "2009"
-month: "2009/10"
-url: /2009/10/re-google-wave.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 6753519919735842452
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2009/10/re-google-wave.html
-categories:
 tags:
   - ProjMgmt
-
 ---
 <div class="Section1">
   <a href="https://code.google.com/apis/wave/" target="_blank">https://code.google.com/apis/wave/</a>

@@ -1,26 +1,10 @@
 ---
 title: Ethereum 101 on Windows
+date: 2016-12-23
 author: Beej
-type: post
-date: 2016-12-23T12:15:33+00:00
-year: "2016"
-month: "2016/12"
-url: /2016/12/ethereum-101-on-windows.html
-snap_isAutoPosted:
-  - 1
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:315:"a:1:{i:0;a:11:{s:9:"timeToRun";s:0:"";s:10:"SNAPformat";s:26:"%TITLE% - %URL%
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";i:0;s:2:"do";i:0;s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"813850604971753472";s:5:"pDate";s:19:"2016-12-27 20:54:41";}}";
-dsq_thread_id:
-  - 5508760012
-categories:
 tags:
   - BlockChain
   - Security
-
 ---
 ### background / baseline context
 

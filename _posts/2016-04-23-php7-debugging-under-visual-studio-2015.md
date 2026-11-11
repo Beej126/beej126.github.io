@@ -1,22 +1,10 @@
 ---
 title: PHP7 Debugging under Visual Studio 2015
+date: 2016-04-23
 author: Beej
-type: post
-date: 2016-04-23T21:35:39+00:00
-year: "2016"
-month: "2016/04"
-url: /2016/04/php7-debugging-under-visual-studio-2015.html
-snapEdIT:
-  - 1
-snapTW:
-  - 's:166:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:19:"%TITLE% - %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";'
-dsq_thread_id:
-  - 5508903539
-categories:
 tags:
   - PHP
-
-thumbnail-img: https://4.bp.blogspot.com/-Tw53GpKe6q8/VxvtTqx9yII/AAAAAAAATos/0Kk7cDML_zo5WgvA2bwNtfZGZnzWtAu_ACLcB/s1600/Snap1.png
+thumbnail-img: /images/uploads/2016/php7-debugging-under-visual-studio-2015-thumbnail.png
 ---
 1. I suggest installing PHP7 through the IIS Web Platform Installer so it does the Handler Mapping vs having to mess with that manually (i.e. assigning PHP extension to php-cgi.exe) &#8211; but there's a lot of guides out there for doing that yourself if you want.
 
@@ -41,6 +29,6 @@ Now you can go set breakpoints and step debug! yay :)
   
 Check out your web project properties page and you can see how PHP5 vs PHP7 is chosen as the runtime, easy peasy!
   
-![](https://4.bp.blogspot.com/-Tw53GpKe6q8/VxvtTqx9yII/AAAAAAAATos/0Kk7cDML_zo5WgvA2bwNtfZGZnzWtAu_ACLcB/s1600/Snap1.png)
+![](/images/uploads/2016/php7-debugging-under-visual-studio-2015-thumbnail.png)
   
 **Last note**: I had some screwy behavior where certain files wouldn't take breakpoints but would still step thru if I broke in a different file earlier in the call stack... I think this went away after restarting VS and/or making sure i had a clean rebuild.

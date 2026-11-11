@@ -1,23 +1,7 @@
 ---
 title: The Origin of VirguleStar.com
+date: 2008-09-10
 author: Beej
-type: post
-date: 2008-09-11T05:26:00+00:00
-year: "2008"
-month: "2008/09"
-url: /2008/09/origin-of-virgulestarco.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 8427023106832966820
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2008/09/origin-of-virgulestarcom.html
-categories:
-
 ---
 I’m drafting off the idea of expanding geeky punctuation into words (popularized by [www.SlashDot.org][1])   
 (<a href="https://en.wikipedia.org/wiki/Slashdot" target="_blank">Funny story behind his originating motivation</a>)   

@@ -1,23 +1,19 @@
 ---
 title: "gBox Resurrected"
-date: 2019-07-24T14:19:42-08:00
-type: post
+date: 2019-07-24
 author: Beej
-year: "2019"
-month: "2019/07"
-url: /2019/07/2019-07-24-gBox-Resurrected.html
 tags:
   - Hardware
-thumbnail-img: https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg
+thumbnail-img: /images/uploads/2019/gBox-resurrected-thumbnail.jpg
 ---
 
 ## Geek Crush Origin Story
 Back around 2002 (yes '02 not '20), I still remember sitting in the company lunch room where I worked on the south side of Chicago, casually browsing the back ads section of an [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld) when I saw this barebones kit they were calling the "gBox". 
 
-<img style="height: 300px; float:right; margin: 0.6em" src="https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg" />
+<img style="height: 300px; float:right; margin: 0.6em" src="/images/uploads/2019/gBox-resurrected-thumbnail.jpg" />
 
 
-<img style="height: 300px; float:right; margin: 0.6em" src="https://user-images.githubusercontent.com/6301228/64924190-a5e7aa00-d796-11e9-880c-c9f2498ba540.png" />
+<img style="height: 300px; float:right; margin: 0.6em" src="/images/uploads/2019/gBox-resurrected-fe853e4e71f4.png" />
 
 I was instantly drawn to the acrylic wrapped aluminum look... an admitedly crude reference to the Power Mac G4 Cube which had [gloriously fizzled just a year prior](https://www.wired.com/story/20-years-ago-steve-jobs-built-the-coolest-computer-ever-it-bombed/) - that S.Job's article is a great example of "[Strong Opinions Loosely Held](https://tim.blog/2018/01/01/the-tim-ferriss-show-transcripts-marc-andreessen/#:~:text=strong%20opinions%20loosely%20held)".
 
@@ -38,7 +34,7 @@ I was instantly drawn to the acrylic wrapped aluminum look... an admitedly crude
   - I'm stoked we can finally run two full 4k digital video ports (DP & HDMI) in the ITX footprint without a video card. This fits the compact developer workstation profile I'm looking for in this rig... big screens and fast compiles, no games here, all business =)
   - A short discrete graphics card might just barely fit if I really need to go there some day but those thermals would definitely require revisiting my simplistic ventilation.
 - Cooler: [Corsair Hydro Series H80i v2](https://www.corsair.com/us/en/Categories/Products/Liquid-Cooling/Single-Radiator-Liquid-Coolers/Hydro-Series%E2%84%A2-H80i-v2-High-Performance-Liquid-CPU-Cooler/p/CW-9060024-WW)
-  - admittedly this little 1U 120mm radiator would be easily overwhelmed by the 9900K doing any aggressive overclocking... at least the radiator is double thick and the fans are configured in optimal push+pull... i love how well this bugger brings the biggest cooling stack possible for the space available ([best photo](https://user-images.githubusercontent.com/6301228/61926906-78fde000-af27-11e9-9a90-f62c0eca7a34.png)).
+  - admittedly this little 1U 120mm radiator would be easily overwhelmed by the 9900K doing any aggressive overclocking... at least the radiator is double thick and the fans are configured in optimal push+pull... i love how well this bugger brings the biggest cooling stack possible for the space available ([best photo](/images/uploads/2019/gBox-resurrected-39b244b451fd.png)).
 - RAM: [Corsair Dominator Platinum 32GB (2x16GB) DDR4 3200MHz C16](https://www.corsair.com/us/en/Categories/Products/Memory/DOMINATOR%C2%AE-PLATINUM-32GB-%282-x-16GB%29-DDR4-DRAM-3200MHz-C16-Memory-Kit/p/CMD32GX4M2C3200C16)
 - SSD: 
   1. [Samsung 970 PRO 512GB - NVMe PCIe M.2](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-pro-nvme-m2-512gb-mz-v7p512bw/) - These PCIe drives crank 3500 MB/s reads! and 5yr warranty.
@@ -53,18 +49,18 @@ div.gallery + p img {
 </style>
 
 <div class="gallery"></div>
-![](https://www.asrock.com/mb/photo/Z390%20Phantom%20Gaming-ITXac(L4).png)
-![](https://user-images.githubusercontent.com/6301228/64915747-4d2af980-d723-11e9-831d-cf6d8af2625b.png)
-![](https://www.corsair.com/medias/sys_master/images/images/h8d/h78/9110765076510/-CW-9060024-WW-Gallery-H80i-01.png)
-![](https://www.corsair.com/medias/sys_master/images/images/hfd/h03/9110470361118/-CMD32GX4M2C3200C16-Gallery-DOM-DDR4-PLAT-002.png)
-![](https://image-us.samsung.com/SamsungUS/home/computing/memory-and-storage/solid-state-drives/pdp/mz-v7p512bw/gallery-updates-10-02-18/002_gallery_MZ-V7P512BW_10-02-18.jpg)
-![](https://www.corsair.com/medias/sys_master/images/images/h07/h21/9112508497950/-CP-9020182-NA-Gallery-SF600-09.png)
+![](/images/uploads/2019/unavailable-c1f1cb47c6b8.svg)
+![](/images/uploads/2019/gBox-resurrected-9299a1abccb4.png)
+![](/images/uploads/2019/gBox-resurrected-4efebca54390.webp)
+![](/images/uploads/2019/unavailable-935a8c8aa5de.svg)
+![](/images/uploads/2019/gBox-resurrected-49ac88c34145.jpg)
+![](/images/uploads/2019/gBox-resurrected-c25d5516d1c8.png)
 
 ## Highlights
 
 - **<span style="float: left; font-size: 3em; margin: 0.3em 5px 0 0px; color: red">H</span>andle** - The "LAN box" handle on this case remains pretty hard to find in the endless stream of cases we see year after year.  There's always plenty of Small Form Factor (SFF) cases to choose from but somehow handles have never caught on mainstream.  It's so satisfying to grab that sucker and chuck it somewhere.  Allegedly it jumped in my backpack and went to work one day ;)
 
-- [<img style="float: right; height: 300px; margin: 0.6em;" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/ATX_ITX_AT_Motherboard_Compatible_Dimensions.svg" />](https://en.wikipedia.org/wiki/ATX) The original layout of this kit was based on a short lived standard called "[FlexATX](https://en.wikipedia.org/wiki/FlexATX)". Note on the adjascent wikipedia diagram in the light orange outline how it was a little bit longer and wider than the ubiquitous mini-ITX format. This resulted in a little work to add new mount posts on the floor of the case to align with the ITX hole standard.
+- [<img style="float: right; height: 300px; margin: 0.6em;" src="/images/uploads/2019/gBox-resurrected-927d1c98d447.svg" />](https://en.wikipedia.org/wiki/ATX) The original layout of this kit was based on a short lived standard called "[FlexATX](https://en.wikipedia.org/wiki/FlexATX)". Note on the adjascent wikipedia diagram in the light orange outline how it was a little bit longer and wider than the ubiquitous mini-ITX format. This resulted in a little work to add new mount posts on the floor of the case to align with the ITX hole standard.
 
    - The extra Flex depth wound up being a real blessing - providing just enough headroom for the giant cooling radiator and fans to squeeze in behind the front face. Then the ITX mobo eats up all the remaining floor space (see photos). The fans are in push + pull configuration to get as much cooling as possible. But it's true, the i9-9900k CPU can still easily overwhelm this small of a cooler with overclocking.
    - I also like how a case like this keeps the motherboard in what I feel is the more natural horizontal position, where weights like the CPU cooler  are pressing down into the socket versus endlessly torquing sideways throughout the lifespan.
@@ -72,7 +68,7 @@ div.gallery + p img {
 
 - I/O plate - The original "bare bones" kit this case came with had a noble design of marrying the mobo's I/O ports to customized punchouts in the case's rear aluminum face... but now we want a modern ITX I/O plate there, which meant carving out that whole area with the dremel to be an open "mouth".
 
-- <img style="float: right; height: 300px; margin: 0.6em;" src="https://user-images.githubusercontent.com/6301228/64915665-1227c680-d721-11e9-9e59-30fa51b537aa.png" /> I was particularly relieved to finally stumble into [SFX](https://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-4.html) form factor PSUs (wait, this has been a standard since 1997!?)
+- <img style="float: right; height: 300px; margin: 0.6em;" src="/images/uploads/2019/gBox-resurrected-fab74f545d12.png" /> I was particularly relieved to finally stumble into [SFX](https://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-4.html) form factor PSUs (wait, this has been a standard since 1997!?)
   - This case absolutely requires the short 100mm depth of more recently defined "PS3" sub species of SFX... any deeper and the power cable bundle would run into the optical drive bay.  So this got me into the right depth, but the stock SFX height didn't fill out the entire opening on the back of this case :\...
   - After fretting quite a bit, I finally noticed these can be fitted with an <u>extension plate</u> that covers the standard ATX PSU opening, exactly what I needed! <span class="hl">The ATX face plate combined with the SFX short depth is an absolute dream fit for this case</span>.
   - The horsepower these vendors are cramming into such a small box is pretty amazing when you look at a full size ATX PSU next to it.
@@ -85,23 +81,23 @@ The ITX retrofitting puts it back on the beaten upgrade path for years to come.
 ## Current State (2019)
 
 <div class="gallery"></div>
-[![image](https://user-images.githubusercontent.com/6301228/232090343-b9a6e517-2506-4c3a-8ce2-c9227f879b4e.png)](https://user-images.githubusercontent.com/6301228/232090343-b9a6e517-2506-4c3a-8ce2-c9227f879b4e.png)
-[![](https://user-images.githubusercontent.com/6301228/61926845-3805cb80-af27-11e9-9d45-774d6e673f3b.png)](https://user-images.githubusercontent.com/6301228/61926845-3805cb80-af27-11e9-9d45-774d6e673f3b.png)
-[![IMG_2942](https://user-images.githubusercontent.com/6301228/64916135-1e655100-d72c-11e9-9e2e-211004a9ada3.JPG)](https://user-images.githubusercontent.com/6301228/64916135-1e655100-d72c-11e9-9e2e-211004a9ada3.JPG)
-[![IMG_2940](https://user-images.githubusercontent.com/6301228/64916116-a1d27280-d72b-11e9-99fc-fb6a967ed446.JPG)](https://user-images.githubusercontent.com/6301228/64916116-a1d27280-d72b-11e9-99fc-fb6a967ed446.JPG)
-[![](https://user-images.githubusercontent.com/6301228/61926906-78fde000-af27-11e9-9a90-f62c0eca7a34.png)](https://user-images.githubusercontent.com/6301228/61926906-78fde000-af27-11e9-9a90-f62c0eca7a34.png)
-[![IMG_2954](https://user-images.githubusercontent.com/6301228/70576016-a8229000-1b5c-11ea-9821-e3bdf97c84a4.png)](https://user-images.githubusercontent.com/6301228/70576016-a8229000-1b5c-11ea-9821-e3bdf97c84a4.png)
+[![image](/images/uploads/2019/gBox-resurrected-68ce4be51c6b.png)](/images/uploads/2019/gBox-resurrected-68ce4be51c6b.png)
+[![](/images/uploads/2019/gBox-resurrected-d62da7e6cf6f.png)](/images/uploads/2019/gBox-resurrected-d62da7e6cf6f.png)
+[![IMG_2942](/images/uploads/2019/gBox-resurrected-95c96928f235.jpg)](/images/uploads/2019/gBox-resurrected-95c96928f235.jpg)
+[![IMG_2940](/images/uploads/2019/gBox-resurrected-df8a0320221c.jpg)](/images/uploads/2019/gBox-resurrected-df8a0320221c.jpg)
+[![](/images/uploads/2019/gBox-resurrected-39b244b451fd.png)](/images/uploads/2019/gBox-resurrected-39b244b451fd.png)
+[![IMG_2954](/images/uploads/2019/gBox-resurrected-bfb7b3d791f7.png)](/images/uploads/2019/gBox-resurrected-bfb7b3d791f7.png)
 
 
 
 ## Mod'ing *(sortof =)*
 
 <div class="gallery"></div>
-[![IMG_2531](https://user-images.githubusercontent.com/6301228/64916167-4ef9ba80-d72d-11e9-8ceb-838ca34487e0.JPG)](https://user-images.githubusercontent.com/6301228/64916167-4ef9ba80-d72d-11e9-8ceb-838ca34487e0.JPG)
-[![img_2538](https://user-images.githubusercontent.com/6301228/64916161-1823a480-d72d-11e9-9c2b-82756caa4ba2.jpg)](https://user-images.githubusercontent.com/6301228/64916161-1823a480-d72d-11e9-9c2b-82756caa4ba2.jpg)
-[![IMG_2543](https://user-images.githubusercontent.com/6301228/64916185-a3049f00-d72d-11e9-995c-7d62f2b3a835.JPG)](https://user-images.githubusercontent.com/6301228/64916185-a3049f00-d72d-11e9-995c-7d62f2b3a835.JPG)
-[![IMG_2541](https://user-images.githubusercontent.com/6301228/64916189-adbf3400-d72d-11e9-9ca4-4f37efdaa879.JPG)](https://user-images.githubusercontent.com/6301228/64916189-adbf3400-d72d-11e9-9ca4-4f37efdaa879.JPG)
-[![IMG_2541](https://user-images.githubusercontent.com/6301228/70576206-2d0da980-1b5d-11ea-8488-0ff2375b220c.png)](https://user-images.githubusercontent.com/6301228/70576206-2d0da980-1b5d-11ea-8488-0ff2375b220c.png)
-[![image](https://user-images.githubusercontent.com/6301228/70576462-d3f24580-1b5d-11ea-82ca-19fdcf702c5b.png)](https://user-images.githubusercontent.com/6301228/70576462-d3f24580-1b5d-11ea-82ca-19fdcf702c5b.png)
-[![image](https://user-images.githubusercontent.com/6301228/70576900-eae56780-1b5e-11ea-8425-07689a009bb8.png)](https://user-images.githubusercontent.com/6301228/70576900-eae56780-1b5e-11ea-8425-07689a009bb8.png)
-[![image](https://user-images.githubusercontent.com/6301228/70576324-76f68f80-1b5d-11ea-93b9-bf33337ca919.png)](https://user-images.githubusercontent.com/6301228/70576324-76f68f80-1b5d-11ea-93b9-bf33337ca919.png)
+[![IMG_2531](/images/uploads/2019/gBox-resurrected-832998f36ec7.jpg)](/images/uploads/2019/gBox-resurrected-832998f36ec7.jpg)
+[![img_2538](/images/uploads/2019/gBox-resurrected-61b029d6a3be.jpg)](/images/uploads/2019/gBox-resurrected-61b029d6a3be.jpg)
+[![IMG_2543](/images/uploads/2019/gBox-resurrected-b2910747c04a.jpg)](/images/uploads/2019/gBox-resurrected-b2910747c04a.jpg)
+[![IMG_2541](/images/uploads/2019/gBox-resurrected-1e197c2e3b19.jpg)](/images/uploads/2019/gBox-resurrected-1e197c2e3b19.jpg)
+[![IMG_2541](/images/uploads/2019/gBox-resurrected-aa117f491387.png)](/images/uploads/2019/gBox-resurrected-aa117f491387.png)
+[![image](/images/uploads/2019/gBox-resurrected-c9145631477d.png)](/images/uploads/2019/gBox-resurrected-c9145631477d.png)
+[![image](/images/uploads/2019/gBox-resurrected-1abb06a29ab1.png)](/images/uploads/2019/gBox-resurrected-1abb06a29ab1.png)
+[![image](/images/uploads/2019/gBox-resurrected-ed6c044aabe5.png)](/images/uploads/2019/gBox-resurrected-ed6c044aabe5.png)

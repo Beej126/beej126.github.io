@@ -1,24 +1,12 @@
 ---
 title: 'Exposing Azure Function web API to native & web clients through Azure AD authentication'
+date: 2016-11-29
 author: Beej
-type: post
-date: 2016-11-29T08:44:13+00:00
-year: "2016"
-month: "2016/11"
-url: /2016/11/azure-function-adal.html
-snapEdIT:
-  - 1
-snapTW:
-  - 's:289:"a:1:{i:0;a:10:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"804437431785168897";s:5:"pDate";s:19:"2016-12-01 21:30:07";}}";'
-dsq_thread_id:
-  - 5511007699
-categories:
 tags:
   - Azure
   - Security
   - WebDev
   - Xamarin
-
 ---
 ### Problem Statement
 
@@ -136,4 +124,4 @@ our tenant appears to be simply our azure ad domain name, at least in typical co
  [4]: https://docs.microsoft.com/en-us/azure/active-directory/active-directory-authentication-scenarios#web-application-to-web-api
  [5]: https://github.com/Azure-Samples/active-directory-javascript-singlepageapp-dotnet-webapi
  [6]: https://www.cloudidentity.com/blog/2015/02/19/introducing-adal-js-v1/
- [7]: https://cloud.githubusercontent.com/assets/6301228/20546192/912bad5c-b0c8-11e6-8243-1f8cdc8a0ef5.png
+ [7]: /images/uploads/2016/azure-function-adal-918cb52b9418.png

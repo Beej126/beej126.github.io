@@ -1,11 +1,7 @@
 ---
 title: "Oracle vs SQL Server"
-date: 2018-11-13T14:19:42-08:00
-type: post
+date: 2018-11-13
 author: Beej
-year: "2018"
-month: "2018/11"
-url: /2018/11/2018-11-13-Oracle-vs-SQL-Server.html
 tags:
   - Database
 ---

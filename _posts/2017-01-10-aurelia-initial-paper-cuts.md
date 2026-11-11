@@ -1,32 +1,10 @@
 ---
 title: Aurelia – initial paper cuts
+date: 2017-01-10
 author: Beej
-type: post
-date: 2017-01-10T08:46:34+00:00
-year: "2017"
-month: "2017/01"
-url: /2017/01/aurelia-initial-paper-cuts.html
-snap_isAutoPosted:
-  - 1
-dsq_thread_id:
-  - 5509938447
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:400:"a:1:{i:0;a:13:{s:9:"timeToRun";s:0:"";s:10:"SNAPformat";s:29:"%TITLE%
-    %URL%
-    
-    %EXCERPT%
-    ";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:2:"do";i:0;s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"818905376351358976";s:5:"pDate";s:19:"2017-01-10 19:40:32";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
 tags:
   - C#
   - Dev
-
 ---
 #### Baseline Wishlist for Dev Tools & Architecture
 
@@ -138,10 +116,10 @@ I'm gone like the wind!
  [7]: https://github.com/aurelia/skeleton-navigation/issues/757#issuecomment-270949641
  [8]: https://github.com/aspnet/JavaScriptServices
  [9]: https://github.com/aspnet/JavaScriptServices/issues/561#issuecomment-270968331
- [10]: https://cloud.githubusercontent.com/assets/6301228/21798875/9f49cdc8-d6cb-11e6-9abf-2a4b5a7cb8cc.png
+ [10]: /images/uploads/2017/aurelia-initial-paper-cuts-482fdef14e13.png
  [11]: https://itunes.apple.com/us/app/xcode/id497799835?mt=12#
  [12]: https://stackoverflow.com/a/16203106/813599
- [13]: https://cloud.githubusercontent.com/assets/6301228/21831718/b8d1b2d0-d75a-11e6-94df-61121db9ea24.png
+ [13]: /images/uploads/2017/aurelia-initial-paper-cuts-c38e4c3d5bae.png
  [14]: https://github.com/aurelia/fetch-client/issues/13#issuecomment-137876549
  [15]: https://github.com/github/fetch#installation
  [16]: https://github.com/aurelia/fetch-client/blob/master/doc/article/en-US/http-services.md#bring-your-own-polyfill

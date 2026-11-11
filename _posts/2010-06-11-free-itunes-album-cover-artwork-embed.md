@@ -1,40 +1,10 @@
 ---
 title: Free iTunes Album Cover Artwork + Embed Artwork Image to MP3 via iTunes COM API SDK w/JavaScript
+date: 2010-06-11
 author: Beej
-type: post
-date: 2010-06-12T02:29:00+00:00
-year: "2010"
-month: "2010/06"
-url: /2010/06/free-itunes-album-cover-artwork-embed.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7248963592038299807
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 1
-blogger_permalink:
-  - /2010/06/free-itunes-album-cover-artwork-embed.html
-blogger_thumbnail:
-  - https://lh4.ggpht.com/_XlySlDLkdOc/TBKOUjN_ZzI/AAAAAAAAEtY/VgTs_2ocysU/image_thumb2.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5508631633
-categories:
 tags:
   - Music
-
-thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TBKOUjN_ZzI/AAAAAAAAEtY/VgTs_2ocysU/image_thumb2.png?imgmax=800
+thumbnail-img: /images/uploads/2010/free-itunes-album-cover-artwork-embed-thumbnail.png
 ---
 ### Misc Notes:
 
@@ -133,14 +103,14 @@ function forEach(enumerable, delegate)
 
 Step | Notes
 --- | ---
-Enter iTunes App Store Select “Free Apps” (currently in lower right page gutter) | [![](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOUjN_ZzI/AAAAAAAAEtY/VgTs_2ocysU/image_thumb2.png?imgmax=800)](https://lh3.ggpht.com/_XlySlDLkdOc/TBKOTlU-ohI/AAAAAAAAEtU/msLZvGWtknk/s1600-h/image6.png)
-Select “Free App” | [![](https://lh5.ggpht.com/_XlySlDLkdOc/TBKOWmUsLvI/AAAAAAAAEtg/Fb9ZWkP1Oy0/image_thumb%5B5%5D.png?imgmax=800)](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOVpI7c5I/AAAAAAAAEtc/4wLxneCcigs/s1600-h/image%5B11%5D.png)
-Create New Account | [![](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOX4OuolI/AAAAAAAAEto/kY1WjxCe6Yk/image_thumb%5B2%5D.png?imgmax=800)](https://lh6.ggpht.com/_XlySlDLkdOc/TBKOXVna2hI/AAAAAAAAEtk/022y85xUngM/s1600-h/image%5B6%5D.png)
-Continue | [![](https://lh3.ggpht.com/_XlySlDLkdOc/TBKOZHXo28I/AAAAAAAAEtw/sd2fJvvuHaI/image_thumb%5B8%5D.png?imgmax=800)](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOYvnjzGI/AAAAAAAAEts/gLK5S4O32FM/s1600-h/image%5B18%5D.png)
-Accept & Continue | [![](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOaWA8RoI/AAAAAAAAEt4/1Z5kaeKbOIM/image_thumb%5B10%5D.png?imgmax=800)](https://lh3.ggpht.com/_XlySlDLkdOc/TBKOZ_n1e9I/AAAAAAAAEt0/vbm9JflM7fI/s1600-h/image%5B22%5D.png)
-Enter Personal Info and Continue | [![](https://lh6.ggpht.com/_XlySlDLkdOc/TBKOb1eIATI/AAAAAAAAEuA/SOLWg1nkFM0/image_thumb%5B12%5D.png?imgmax=800)](https://lh4.ggpht.com/_XlySlDLkdOc/TBKObCzZwXI/AAAAAAAAEt8/4e29CBy7lhQ/s1600-h/image%5B26%5D.png)
-This is the big enchilada… Select “None” for payment type. Note: this option only shows up when you start by selecting a free download. | [![](https://lh3.ggpht.com/_XlySlDLkdOc/TBKOc8WxMOI/AAAAAAAAEuI/zNCJiFRpk9o/image_thumb%5B14%5D.png?imgmax=800)](https://lh5.ggpht.com/_XlySlDLkdOc/TBKOcWsNzlI/AAAAAAAAEuE/jyPsVYdhc5Q/s1600-h/image%5B30%5D.png)
-Done | [![](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOdylO62I/AAAAAAAAEuQ/FDf0U51tf28/image_thumb%5B16%5D.png?imgmax=800)](https://lh3.ggpht.com/_XlySlDLkdOc/TBKOdaBn1PI/AAAAAAAAEuM/_kkK64Eu714/s1600-h/image%5B34%5D.png)
-Confirm the verification eMail via embedded link | [![](https://lh3.ggpht.com/_XlySlDLkdOc/TBKOfaoPKrI/AAAAAAAAEuc/q8M-TP84jHg/image_thumb%5B37%5D.png?imgmax=800)](https://lh6.ggpht.com/_XlySlDLkdOc/TBKOel7djiI/AAAAAAAAEuU/k1Eoa7TN3BI/s1600-h/image%5B77%5D.png)
-Pop the little iTunes download thingy and sign in | [![](https://lh6.ggpht.com/_XlySlDLkdOc/TBKOgO8L6uI/AAAAAAAAEuk/wBZxXB7hS1E/image_thumb%5B17%5D.png?imgmax=800)](https://lh5.ggpht.com/_XlySlDLkdOc/TBKOf_Pb1oI/AAAAAAAAEug/AnSwY-qoz-o/s1600-h/image%5B37%5D.png) [![](https://lh5.ggpht.com/_XlySlDLkdOc/TBKOhCTiYlI/AAAAAAAAEus/ObZ11hqBj6U/image_thumb%5B32%5D.png?imgmax=800)](https://lh5.ggpht.com/_XlySlDLkdOc/TBKOgiMkD_I/AAAAAAAAEuo/6iza61SA0B0/s1600-h/image%5B68%5D.png)
-If all has gone according to plan… you should be greeted with this pleasantry You now have an album art download capable yet free iTunes account 🙂 | [![](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOipp_EcI/AAAAAAAAEu0/9A8FUJ3OAH4/image_thumb%5B40%5D.png?imgmax=800)](https://lh4.ggpht.com/_XlySlDLkdOc/TBKOhwryt5I/AAAAAAAAEuw/9eoBalzrQU0/s1600-h/image%5B80%5D.png)
+Enter iTunes App Store Select “Free Apps” (currently in lower right page gutter) | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-thumbnail.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-5dcc0a01428f.png)
+Select “Free App” | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-29327c7117b4.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-375d71ff374d.png)
+Create New Account | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-974ed3e768cc.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-76a1c1f34caf.png)
+Continue | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-df9eae93dc62.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-55ef19c3b3ad.png)
+Accept & Continue | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-1b898ef07796.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-b081bb5b1aa4.png)
+Enter Personal Info and Continue | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-13cdda919813.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-6a533c18e8e9.png)
+This is the big enchilada… Select “None” for payment type. Note: this option only shows up when you start by selecting a free download. | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-99d6fca142f1.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-092ec8745dc4.png)
+Done | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-f8911a3fa115.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-9f00b9df1268.png)
+Confirm the verification eMail via embedded link | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-4628b81c8f74.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-06f10d39e0e0.png)
+Pop the little iTunes download thingy and sign in | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-4d61914c8712.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-75a99d72fa27.png) [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-bf1010db22b6.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-04ad052fcf6b.png)
+If all has gone according to plan… you should be greeted with this pleasantry You now have an album art download capable yet free iTunes account 🙂 | [![](/images/uploads/2010/free-itunes-album-cover-artwork-embed-b6be3fa831c5.png)](/images/uploads/2010/free-itunes-album-cover-artwork-embed-a136b13e04db.png)

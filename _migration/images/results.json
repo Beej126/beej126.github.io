@@ -1,0 +1,3207 @@
+[
+  {
+    "url": "//1.bp.blogspot.com/-QA4eYW9wo8g/VcuSzubjoSI/AAAAAAAAQOQ/SyH2H9Ixbvw/s1600/Peripherals_%255B18-27-04%255D.jpg",
+    "posts": [
+      "_posts/2015-04-05-osx-v2p.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/osx-v2p-1cafc951e701.jpg",
+    "sha256": "37eb3816fd9ce10752080650d720f11b8aa77fd0ac43749d47d7cd808582d820",
+    "bytes": 111144
+  },
+  {
+    "url": "//1.bp.blogspot.com/-w2wTqLLjvbs/VcuSz0_D1rI/AAAAAAAAQOM/lp2fNLlq_YQ/s1600/Chipset_%255B18-27-15%255D.jpg",
+    "posts": [
+      "_posts/2015-04-05-osx-v2p.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/osx-v2p-22f0cede8b1c.jpg",
+    "sha256": "5f0c5ce7c691a6852da52a8a18f21ca61489d81ef402f70efc0bff8ea01f7e86",
+    "bytes": 106860
+  },
+  {
+    "url": "//4.bp.blogspot.com/-4ttbJZE237c/VejhnI7gCVI/AAAAAAAAREo/NC-ap76tloY/s1600/IMG_2724.JPG",
+    "posts": [
+      "_posts/2015-09-04-x99build.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/x99build-799d2fdb5656.jpg",
+    "sha256": "6ee0d953305ea0befc568316f8d5918b6dd93d42ae0dc3deffe662b1e1c76c80",
+    "bytes": 331097
+  },
+  {
+    "url": "//4.bp.blogspot.com/-SO23C__zJnc/VejhmzUHIOI/AAAAAAAAREk/F8wlzgrv84M/s1600/IMG_2731.JPG",
+    "posts": [
+      "_posts/2015-09-04-x99build.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/x99build-a9ddffd3e567.jpg",
+    "sha256": "24d4266ced1eac582640b12c655c074d92f7bf60e2c6682fe6cad997d1b4304f",
+    "bytes": 316827
+  },
+  {
+    "url": "//images/uploads/2015/04/Snap1.png",
+    "posts": [
+      "_posts/2015-04-05-osx-v2p.md"
+    ],
+    "direct_error": "Missing local screenshot (original post already notes the screenshots were lost)",
+    "archive_errors": [],
+    "local": "/images/uploads/2015/unavailable-b6c937fff658.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "//images/uploads/2015/04/Untitled.png",
+    "posts": [
+      "_posts/2015-04-05-osx-v2p.md"
+    ],
+    "direct_error": "Missing local screenshot (original post already notes the screenshots were lost)",
+    "archive_errors": [],
+    "local": "/images/uploads/2015/unavailable-6f4e4b509ebf.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "//lh4.ggpht.com/-o7bEJ_P9Hlk/Tza6_lHroPI/AAAAAAAAFCM/kZbUN1QgPbQ/Snap1%25255B13%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-02-11-sql-server-solved-unable-to-initialize.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/sql-server-solved-unable-to-initialize-34a5825b8857.png",
+    "sha256": "6178dd733b135a9b27deda7baa601edac58604a40503838266ea420f56cc0431",
+    "bytes": 97296
+  },
+  {
+    "url": "//lh6.ggpht.com/-GWYFCTiBYhs/Tza6-xQQACI/AAAAAAAAFB0/3XcFzrprRBg/Snap3%25255B6%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-02-11-sql-server-solved-unable-to-initialize.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/sql-server-solved-unable-to-initialize-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "e15eedb38ae674aff83ccad18ab5fc480b609394783cf389a861cee21e7ba823",
+    "bytes": 119352
+  },
+  {
+    "url": "//user-images.githubusercontent.com/6301228/44941450-a4e20700-ad52-11e8-9090-1a6c43ab9250.png",
+    "posts": [
+      "_posts/2015-09-04-x99build.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/x99build-9273eb38404f.png",
+    "sha256": "0ef1d389534b6819201e7afc19c421b607b24d5fab3273c89e8590fcd74819e7",
+    "bytes": 243248
+  },
+  {
+    "url": "/images/uploads/2013/12/Screen-Shot-2013-12-31-at-11.43.40-AM.png",
+    "posts": [
+      "_posts/2013-12-23-keepass-cloud-storage-near-password.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "archive_errors": [],
+    "local": "/images/uploads/2013/unavailable-d0f81675fedf.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "/images/uploads/2013/12/Screen-Shot-2014-01-01-at-5.54.33-PM.png",
+    "posts": [
+      "_posts/2013-12-23-keepass-cloud-storage-near-password.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "archive_errors": [],
+    "local": "/images/uploads/2013/unavailable-e4e589649254.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "/images/uploads/2013/12/Screen-Shot-2014-01-01-at-7.56.14-PM.png",
+    "posts": [
+      "_posts/2013-12-23-keepass-cloud-storage-near-password.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "archive_errors": [],
+    "local": "/images/uploads/2013/unavailable-6c976193c6b5.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "/images/uploads/2013/12/main_big.jpg",
+    "posts": [
+      "_posts/2013-12-23-keepass-cloud-storage-near-password.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "archive_errors": [],
+    "local": "/images/uploads/2013/unavailable-09f52660f3a6.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "/images/uploads/2013/12/unnamed.jpg",
+    "posts": [
+      "_posts/2013-12-23-keepass-cloud-storage-near-password.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "archive_errors": [],
+    "local": "/images/uploads/2013/unavailable-68dbf075ee75.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "/images/uploads/2017/10/snap218.png",
+    "posts": [
+      "_posts/2017-10-01-oracle-data-access-components-development-installation-tips.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "archive_errors": [],
+    "local": "/images/uploads/2017/unavailable-daa86faed70a.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "https://1.bp.blogspot.com/-XvXIHzhEKAQ/V3DNkJgoJ9I/AAAAAAAAUkU/nKIlzLE-dDUaL1Z0ZWbWa-tWhB_s_YMoQCLcB/s1600/Snap12.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6cfc6b99e915.png",
+    "sha256": "33260ce330898b234b2b03a9a2a398c5ac2964a97ba67710e832e59fcc280a30",
+    "bytes": 97860
+  },
+  {
+    "url": "https://1.bp.blogspot.com/-uWBiM74OoIA/V3CwNHbIq_I/AAAAAAAAUjA/mY_gGi9oGtQLAJxAOaRqbncIUGNr1QCSACLcB/s1600/SDdVvBO.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6197d53f4c01.png",
+    "sha256": "6ebd6a02b93252ca23bdc5e550584d2c098b3cca2176fda6c6f210d023dc7f4a",
+    "bytes": 125455
+  },
+  {
+    "url": "https://3.bp.blogspot.com/-FJILG9yrTJk/V3C-Kkp5b2I/AAAAAAAAUjY/AIN1DnACKJgv226XBHPdLQGD-VbaD0cZwCLcB/s1600/Snap03.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-ac513a4b2fa6.png",
+    "sha256": "1dc8090aa608f410861239033f81508e177d36aca56c93b825a040631a17e8ef",
+    "bytes": 108905
+  },
+  {
+    "url": "https://3.bp.blogspot.com/-RUbSa34aqD4/V3C-LFt1JXI/AAAAAAAAUjk/AgUa29yFcgsQGnlccBzKHCEUISWAh_MNgCLcB/s1600/Snap05.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-336380c6e3a9.png",
+    "sha256": "b92bf0c6a1474e14d08a70471b5c080b53e38a1af89bea0bbadeb4c38a51c329",
+    "bytes": 100449
+  },
+  {
+    "url": "https://3.bp.blogspot.com/-WjyVp-BrbMg/V3C-K77ketI/AAAAAAAAUjo/1KhEAzp92wIaSPQ3OXmHdW5Z3tCxCy9wQCLcB/s1600/Snap04.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-e3af383cb849.png",
+    "sha256": "3f47f88148aa1c3042bd1d3c0f6b57bca6ae55267c4ce47a65152255f5208f91",
+    "bytes": 67686
+  },
+  {
+    "url": "https://3.bp.blogspot.com/-qgcZ6beVm0k/V3C-LjucRtI/AAAAAAAAUj0/WLDupVxqgbMHoqxt4rI1xDzzBtoS-SLYQCLcB/s1600/Snap08.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "224561a132ef038dc08dedff986e58522f41c02315897d07ba9372c0a5ef7556",
+    "bytes": 133787
+  },
+  {
+    "url": "https://3.bp.blogspot.com/-whybJL6hWEE/V3C-KnoN70I/AAAAAAAAUjU/cawRI1gEXN8f1UlYGf7v7-ZTEAHZI5t3wCLcB/s1600/Snap02.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-c453b16308d4.png",
+    "sha256": "a3e1ca816d42dbd0b81cbfe1a327ff9851bfda37f2d3cf0afb78e80aaf9854aa",
+    "bytes": 108301
+  },
+  {
+    "url": "https://4.bp.blogspot.com/-3vlrlWdjww0/V3C-L-tYqlI/AAAAAAAAUjw/8zEnYy-0WCgUjPWikE8ttxz2CmkrD-YcwCLcB/s1600/Snap09.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-42664a7285a0.png",
+    "sha256": "eb6e84bae1c10035432ca57da52feec3be9f427a132419b8ceffa9d93cd21eec",
+    "bytes": 111362
+  },
+  {
+    "url": "https://4.bp.blogspot.com/-SaVNUKa8LCI/TVe3a_WgRfI/AAAAAAAABiI/13CK2uvi31o/s1600/Capacity.jpg",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-945c959db02d.jpg",
+    "sha256": "7aeedafd5f7980e00ef2c729995f990cc3092488ac8ba54a8a6c8d5ba89ca47f",
+    "bytes": 382707
+  },
+  {
+    "url": "https://4.bp.blogspot.com/-Tw53GpKe6q8/VxvtTqx9yII/AAAAAAAATos/0Kk7cDML_zo5WgvA2bwNtfZGZnzWtAu_ACLcB/s1600/Snap1.png",
+    "posts": [
+      "_posts/2016-04-23-php7-debugging-under-visual-studio-2015.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/php7-debugging-under-visual-studio-2015-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "0ab9cc093fc00e40ca072f1feb2b7f4b31f4855cbc245e2956b4b10ff041e543",
+    "bytes": 22581
+  },
+  {
+    "url": "https://4.bp.blogspot.com/-eNUYtP2vBCI/V3DavGp5sII/AAAAAAAAUlI/OjRYWBVB8OM50X211pvUIlgDc2XzAL_3gCLcB/s1600/Snap12.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-3f3eb9cf27e1.png",
+    "sha256": "a5d23b2f7a9404bf3fe52c2ca1a419ea8ce28140b4f4a2aec86d04ba626222be",
+    "bytes": 131190
+  },
+  {
+    "url": "https://cache.lego.com/upload/contentTemplating/LDDHomepage/images/2057/picE9286D5C-661B-4152-8292-8560AECF75EF.jpg",
+    "posts": [
+      "_posts/2009-01-14-awesome-cad-for-legos.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "method": "internet-archive",
+    "archive_url": "https://web.archive.org/web/20151019085123id_/https://cache.lego.com/upload/contentTemplating/LDDHomepage/images/2057/picE9286D5C-661B-4152-8292-8560AECF75EF.jpg",
+    "local": "/images/uploads/2009/01/picE9286D5C-661B-4152-8292-8560AECF75EF.jpg",
+    "deduplicated": true,
+    "sha256": "062740fb7559b612b00d4acbb16db70e50edc9fceab37078de117f3a7ef3ebf2",
+    "bytes": 55486
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/20070283/ab4e62e2-a4d4-11e6-84ab-70abd4ff34b9.png",
+    "posts": [
+      "_posts/2016-11-02-powershell-hot-corners.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/powershell-hot-corners-d8edd93282df.png",
+    "sha256": "1aaad1b8da62e9352115257669d69b0a143b11cfb5642743fc3afce81a28ffeb",
+    "bytes": 14775
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/20336248/90c7ca9e-ab7d-11e6-865c-a35cde5d44cf.png",
+    "posts": [
+      "_posts/2011-06-25-evolving-custom-sqlclientnet-datalayer.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/evolving-custom-sqlclientnet-datalayer-9ed1419589ef.png",
+    "sha256": "cdd1e261a1b29bfa1649966a2ec592fab645b07bf3551dcaf2cb653f78171893",
+    "bytes": 131882
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/20498893/cd6d1340-afe3-11e6-9703-d0dddee7723a.png",
+    "posts": [
+      "_posts/2016-11-21-csx-like-bat.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/csx-like-bat-6cadd56d11ae.png",
+    "sha256": "27eb9fbec56ea2ce0b104ab973073587b6e0d0340bcab5716852691a58a62c1e",
+    "bytes": 39903
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/20516333/f1d69564-b04a-11e6-96fe-f334306fc5b9.png",
+    "posts": [
+      "_posts/2016-11-21-listshortcuts-csx.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/listshortcuts-csx-324833fa865a.png",
+    "sha256": "1a790945bbd851a96496ee5c5d15e8d5826b00118c2ff2501d05949899bea2c7",
+    "bytes": 57434
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/20546192/912bad5c-b0c8-11e6-8243-1f8cdc8a0ef5.png",
+    "posts": [
+      "_posts/2016-11-29-azure-function-adal.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/azure-function-adal-918cb52b9418.png",
+    "sha256": "a3b7ec36ede33c9411b79929134850f375e22b35fd05026d8824776203f61a7e",
+    "bytes": 138180
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/21798875/9f49cdc8-d6cb-11e6-9abf-2a4b5a7cb8cc.png",
+    "posts": [
+      "_posts/2017-01-10-aurelia-initial-paper-cuts.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/aurelia-initial-paper-cuts-482fdef14e13.png",
+    "sha256": "a799ab1a9fb6f3c8c22e4f39bb3509a9953ffc0784f06f08349d4da0cf00d4bf",
+    "bytes": 66432
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/21831718/b8d1b2d0-d75a-11e6-94df-61121db9ea24.png",
+    "posts": [
+      "_posts/2017-01-10-aurelia-initial-paper-cuts.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/aurelia-initial-paper-cuts-c38e4c3d5bae.png",
+    "sha256": "7cccfd3e684d31f1df0bd0766901e32b6051bd39e9de8932754517d695685c2f",
+    "bytes": 436259
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/21834849/4225598a-d76d-11e6-87b1-6188a28f600a.png",
+    "posts": [
+      "_posts/2017-01-10-xamarin-ios-provisioning-gotchas.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/xamarin-ios-provisioning-gotchas-2c62a6f833f5.png",
+    "sha256": "64efaa9bb4d72b0b50c4c6534f596cd2ea2de60019051950b776cf7d9c6632ed",
+    "bytes": 116539
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/22683281/1c793688-eccc-11e6-8ed6-c12c5034ab71.png",
+    "posts": [
+      "_posts/2017-02-07-win10_on_legacy_macbookpro.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/win10_on_legacy_macbookpro-6b19de8b2703.png",
+    "sha256": "6d2ad86766524ddcaec65f36d70c99ca17ce8570cd8fe598fdc8edddd2758e18",
+    "bytes": 51514
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/23633174/87f6d0ce-0279-11e7-8b9e-cd103efd366a.png",
+    "posts": [
+      "_posts/2017-01-23-javascript-es7-async-wrappers-perfect-for-chrome-bookmarks-api.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/javascript-es7-async-wrappers-perfect-for-chrome-bookmarks-api-bd667035386f.png",
+    "sha256": "b0327c908af4b222c5cfb6106286fd31ad806a794d29ecda382054eb03c83def",
+    "bytes": 67812
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/23776364/b780a6a6-04e2-11e7-92e2-2f970a9a3595.png",
+    "posts": [
+      "_posts/2017-03-09-weather-desk.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/weather-desk-f128ba28011a.png",
+    "sha256": "14541d45c8cbebbf5d531cbcb12803f03ae2bf3043cca2474c0593a268d2a591",
+    "bytes": 961580
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/24815086/cd160dc8-1b88-11e7-949d-8a9a2f0f8171.png",
+    "posts": [
+      "_posts/2017-02-07-win10_on_legacy_macbookpro.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/win10_on_legacy_macbookpro-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "595b5efefd056d4e47086e5d50e9263bf3531835b40536bc5a52abf7eed999be",
+    "bytes": 96539
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316405/b70cd170-281b-11e7-80ea-b9887756a3fa.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-b0a4f6064079.png",
+    "sha256": "1f65004b4f14e56e167a289b8f4267212ad22c8fe082742f605009400e479d05",
+    "bytes": 88908
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316407/bef2b0da-281b-11e7-87b6-848424631812.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-14b2717d2c5e.png",
+    "sha256": "7db9e991a79643007b94168396ebc9b50191e0ce1128356e9b859b835bbafa65",
+    "bytes": 92339
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316410/c3347d7c-281b-11e7-9efe-30dad8799715.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-cefb7a3dd9bd.png",
+    "sha256": "6cc1262f72c69fd67378e0cba5cf054980d68b805653e7210a957bab4a1b29ee",
+    "bytes": 52942
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316411/c8a71dfa-281b-11e7-894f-74f35a0b4bda.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-857f919ed952.png",
+    "sha256": "d5ef0059db28d67d166f939c7637b9729003174e350ea64323d08218b0497e69",
+    "bytes": 49853
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316414/ccd9ceae-281b-11e7-8f64-66286dcf7cdd.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-60df48dcf407.png",
+    "sha256": "10ebb9f5daee848c5e847a513ba9342faa4ac706fb9c9d7a45f15380a0af7d07",
+    "bytes": 40217
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316416/d00d1914-281b-11e7-9ea4-4fed9696f6f8.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-4497b49350e2.png",
+    "sha256": "45ee324e699fb9da5a16e1c4f2fc390032ff7aa446b407c000c9cd37341d08bc",
+    "bytes": 141580
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316417/d3339c44-281b-11e7-8b33-d49e3d9e412a.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6b4cc8f84904.png",
+    "sha256": "ea17b3a47d148261fcbb2cb6e6b2f3398260e9b2d9bd8025ba6d543efbc16c52",
+    "bytes": 35168
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316421/d941b404-281b-11e7-8659-17df1fb4307a.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-fcad0ad8c7d4.png",
+    "sha256": "e738d73a999c655eed778c1e151854485f357910cbf187c342bbb7162d1dcb4d",
+    "bytes": 34861
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316422/dedc057c-281b-11e7-8a4c-5bc705888bf2.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-e30f08f42fec.png",
+    "sha256": "dce2879dfb2c76af855a58ad32537a90fbafbe5832df80b48ed930352464e280",
+    "bytes": 54517
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316423/e38497c4-281b-11e7-8176-83ac3346ab77.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-868e03495407.png",
+    "sha256": "aef9c677f86158755e4dbe39e52ec8978c49ffc139f11648b6c74290a11594e4",
+    "bytes": 50560
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316425/e6f906ce-281b-11e7-8081-d08d5267f664.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-14019ff13f0b.png",
+    "sha256": "d47d812c034f23a9d19fc74d001c2c839a32586cc026f690e8557d0b66658f3c",
+    "bytes": 56571
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316427/eb36147a-281b-11e7-81bd-1702dcbd9214.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-0ebcd27368b2.png",
+    "sha256": "0ca788c88cca1c78604089215bb758ebcc2ff451e0ca0529e1644cb591434415",
+    "bytes": 142356
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316428/ef2352a0-281b-11e7-9981-7ec9ed530033.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-5d9ed4b36cd3.png",
+    "sha256": "f1ca935f008299b8a97d601f83af26653a4c83d74e63806d8caca5cedf991085",
+    "bytes": 89026
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316433/f3e7f1c4-281b-11e7-9d56-39f48580561c.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-2a08b6e6c380.png",
+    "sha256": "62bab8ed8c5c0bc7bc4cca140b8a57be4fd48222eecfa5a045da17da0780b8c2",
+    "bytes": 24284
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316435/f79d7ba4-281b-11e7-8c97-e92506c0d7f4.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-d46504fb8864.png",
+    "sha256": "48dfeb9f0331b1f3d221e442215f1a33625bf032b2c055ac0c8efff55ee57abf",
+    "bytes": 110744
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316436/fb7e1c6a-281b-11e7-92c0-46d48d2ec162.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-ecfa3159b84d.png",
+    "sha256": "9d5ef24110dcbf27568641033bf24bbe68219f6ddfce6ebe8974fe1a56f5a994",
+    "bytes": 81998
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316438/fec17656-281b-11e7-9f32-3ece014d10bf.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6486159c297d.png",
+    "sha256": "864315e98fa106cdbf0856584061c90af70eb9245f6827525914e7e74fdcaef8",
+    "bytes": 47152
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316440/01a2faac-281c-11e7-8a79-a590488c92b0.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-0d0c3ffd41b6.png",
+    "sha256": "41a31346263959034f4ae985387817c7602d486cf67fdfd1ccc640e78befedf9",
+    "bytes": 50513
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316589/ac9a93f0-281e-11e7-9b02-6d54e97c1a94.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-4f031168088c.png",
+    "sha256": "179cf21b77aa86033fdfb11905df04ca821bd456b8c0b57651ec619c7eea5f9e",
+    "bytes": 49145
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316598/e2d11200-281e-11e7-8a0f-ce69d4e1d5a6.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-5502d419921d.png",
+    "sha256": "584d3e2673bbda2fe63dbc7da048f8a152f56ff3c2a9e57e8df0dde6b5c7e885",
+    "bytes": 57850
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316623/72b04666-281f-11e7-8d9e-87de18a0c23e.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-b3be8b4d9418.png",
+    "sha256": "ac54ea3ae6b4e2c245e8ae49cf07fd5113f2ef71b8f1de41ddfdf5c6794dca7d",
+    "bytes": 48672
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316687/c47c65f0-2820-11e7-99fb-75f38a76f230.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-3ee1d610a987.png",
+    "sha256": "43545cfef60e0bcf4d823c757c9c40e4b001bcb25afd92d91d74206cb4c7c7f8",
+    "bytes": 115068
+  },
+  {
+    "url": "https://cloud.githubusercontent.com/assets/6301228/25316765/a7349f34-2821-11e7-9c99-1350fafbdbd8.png",
+    "posts": [
+      "_posts/2016-06-23-esxi-for-winmac-xamarin-ios-dev-nirvana.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-2086a78d15e3.png",
+    "sha256": "48395d364e354883bc5080912a850b85b74e5aaf538edbcf53f50eaf969c1ace",
+    "bytes": 45006
+  },
+  {
+    "url": "https://daydealx-com.s3.amazonaws.com/files/i28/sam_77tab_oem_book_v2.jpg",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "direct_error": "HTTP Error 404: Not Found",
+    "archive_errors": [],
+    "local": "/images/uploads/2012/unavailable-5db6cc20e469.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "https://daydealx-com.s3.amazonaws.com/files/i28/sam_77tab_oem_book_v3.jpg",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "direct_error": "HTTP Error 404: Not Found",
+    "archive_errors": [],
+    "local": "/images/uploads/2012/unavailable-46114921e6de.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/02923edd-3d03-45f4-bfd4-0dcb14472a69",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-8bfe6cd91556.jpg",
+    "sha256": "4f0205528a181f61afe6c640d20688d5f618a307d3578051ed759110bc291cf6",
+    "bytes": 519209
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/038ece87-925e-40e4-a089-aa15be019ea8",
+    "posts": [
+      "_posts/2025-01-20-github-release.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/github-release-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "196e342fac5da67aed6b1738e5c27979f82fcb132fe0953cfff187d1b12db0fb",
+    "bytes": 59805
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/132e0e6a-db6f-4635-9639-409980f16595",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-0ea6a58a4e3b.jpg",
+    "sha256": "b67dc6d8144b1d9a351819348be2fdb23ceef9ff0b1b0b42f711e957e07caa5a",
+    "bytes": 707685
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/2a5b6efd-2120-4aa1-a84f-247baa3ad0db",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-59a3f1c5873e.jpg",
+    "sha256": "114a8d4201b9770217da39299de87b0d0b7541510fbd9d09ff41eed2bcc818ad",
+    "bytes": 823147
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/48f4e31c-16ae-4a31-8996-2af61442f9d3",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-8851961b8bb3.jpg",
+    "sha256": "fdeba545a99f378d7d2cb64266b78deb7455966df01db18781f066975243133f",
+    "bytes": 564185
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/4e8cd0b5-73f0-4f28-a5b9-f0ee9d8f7e2a",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-02fb17dccb1e.jpg",
+    "sha256": "e50cd00c6c7077b022abaafc42671a4c0df1e798545008b2c8e39274f6b3c614",
+    "bytes": 527557
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/7261534b-1e34-4e39-b0f9-8518a25f7305",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-c83f5e4a9cb5.jpg",
+    "sha256": "3161e12891c6cab23ac96d397eaffb1ec0539a06faec95be52b4019dcee977e3",
+    "bytes": 754298
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/8d2fe80f-d6a8-41c9-842b-f6ef930b897f",
+    "posts": [
+      "_posts/2024-08-20-Gen2-GuliKit-TMR-PS4-joystick-drift-fix.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2024/Gen2-GuliKit-TMR-PS4-joystick-drift-fix-837fcf6ad02e.png",
+    "sha256": "5c458f9d2bd0edc66ec7c110d0c1d6bf0cb7ee726bc60340d33d7c2e00a0c3cb",
+    "bytes": 118828
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/a2b491e9-13f6-4600-8954-6ea5527b055a",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "f31f73df22d8185d92beac6107510d1bda3e1115a26a8870cacd9831e65231ab",
+    "bytes": 940516
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/aecb14d7-ac0f-462b-a5f6-767f4a219186",
+    "posts": [
+      "_posts/2024-08-20-Gen2-GuliKit-TMR-PS4-joystick-drift-fix.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2024/Gen2-GuliKit-TMR-PS4-joystick-drift-fix-d383772306c6.png",
+    "sha256": "8b67589eb3efe6deeac512880f3b3fb3fba79a0ced4b57432e4283727b4c761d",
+    "bytes": 38887
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/b2725cbe-64a1-4724-95d6-73c7459c920d",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-28be882b4516.jpg",
+    "sha256": "a505ed9d8ba3ed7eed6dd509ba7fb634e34332acd973be6aca4e46ce7dcff990",
+    "bytes": 933506
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/b2aad20b-6faa-4729-9c0d-2433dfa08409",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-24700b8a2567.jpg",
+    "sha256": "76e993c876b982f9c2c6b7d2078effbefe447a41f801406f44fc63f3e0e2b1b2",
+    "bytes": 268963
+  },
+  {
+    "url": "https://github.com/user-attachments/assets/e7a27c9e-bb21-420d-9fe5-51cb2e3f08d0",
+    "posts": [
+      "_posts/2025-01-04-blue-boss.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2025/blue-boss-9cc0bf879ccd.jpg",
+    "sha256": "0d2357088d698717b6e6879fbacf90ae881c6b9236694626fa434019a4f7be0d",
+    "bytes": 22525
+  },
+  {
+    "url": "https://image-us.samsung.com/SamsungUS/home/computing/memory-and-storage/solid-state-drives/pdp/mz-v7p512bw/gallery-updates-10-02-18/002_gallery_MZ-V7P512BW_10-02-18.jpg",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-49ac88c34145.jpg",
+    "sha256": "05921e8eaf89fedf6a09ff9235a7829582437b3135a2fc885960658320ae0fff",
+    "bytes": 572099
+  },
+  {
+    "url": "https://images.techhive.com/images/article/2014/01/device-manager-100226208-orig.png",
+    "posts": [
+      "_posts/2017-02-07-win10_on_legacy_macbookpro.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2017/win10_on_legacy_macbookpro-5da229e40ced.png",
+    "sha256": "f63790ed66a5ec48ab4dd899ac9fd0431d1a1e29db0d8d5d126e456cab79896b",
+    "bytes": 288427
+  },
+  {
+    "url": "https://lh3.ggpht.com/-0KpdxFo7qic/UQ7B3cW3z_I/AAAAAAAAFLo/dTx8ujRdWa0/Export%252520Fig.3-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-a9b8a733aa02.png",
+    "sha256": "29eda75bf1ca4668ff54c5787169bdc685d18285b5e14333cf95ee97c63ee362",
+    "bytes": 17460
+  },
+  {
+    "url": "https://lh3.ggpht.com/-3FZ9DdZEb5Q/T3zVRRtlRTI/AAAAAAAAFDI/eqJVeTyTLhs/image%25255B53%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-444253e339cb.png",
+    "sha256": "de074eb22dadfffd590b3f06717be9b16e4552338b3f13dc6e154ef9ec9f8b46",
+    "bytes": 25819
+  },
+  {
+    "url": "https://lh3.ggpht.com/-49Pa_vCzb_M/T3zVPtKsyZI/AAAAAAAAFDA/NX9qDvpJM28/image%25255B54%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-40883977e116.png",
+    "sha256": "63634a45aa13626ccab2e014e6f0896a9e7924a2782e1706c14113fb03b4e995",
+    "bytes": 43571
+  },
+  {
+    "url": "https://lh3.ggpht.com/-7KGlQYuJQXI/T3zVL1gnv3I/AAAAAAAAFCg/y_EDBJ1x3YA/image%25255B23%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-841e7db20add.png",
+    "sha256": "e4c7e74659977fe5f96c7a1aeaa6711c065464b7a9726e16e79653a6981ee877",
+    "bytes": 63908
+  },
+  {
+    "url": "https://lh3.ggpht.com/-9f9Bmc3bgoU/UQ7B0P0oA-I/AAAAAAAAFKw/UJ82zKUg2DM/Fig.5%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-7a1d1994bba6.png",
+    "sha256": "74dd4acf7b7d08259b5f77c4122bc6148c92eda61ddf58d7d9f13897a088a907",
+    "bytes": 44499
+  },
+  {
+    "url": "https://lh3.ggpht.com/-IONPjQdhsrU/UQ7BwvyC5XI/AAAAAAAAFJw/BK_zdgr6oZc/fig.1%25255B69%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-e01d46e3ccbf.png",
+    "sha256": "fe187b9fe07fd7cb85344aeeb4cc59a3d1bc4b7f333862924f750ea249fbb12b",
+    "bytes": 34674
+  },
+  {
+    "url": "https://lh3.ggpht.com/-JJdLWCGhaXg/UQ7B8CEsmEI/AAAAAAAAFNY/9mjFu6pDReE/Import%252520Fig.3-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-1d2f840ad960.png",
+    "sha256": "fcaa1fc9bf388691fef5dd7d1e21a18d1b350156616805b6541788ff8736258c",
+    "bytes": 56406
+  },
+  {
+    "url": "https://lh3.ggpht.com/-JhGn938ZGCo/UgclRZhW9QI/AAAAAAAAFUM/fmE2K3tnk54/s1600-h/DSC_0991-50%252525%25255B7%25255D.jpg",
+    "posts": [
+      "_posts/2013-08-11-bbr900bl-koldfront-80-by-edgestar.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2013/bbr900bl-koldfront-80-by-edgestar-54a6540a581f.jpg",
+    "sha256": "4e9d1a393d6baf9a9b92983d252178a83362b83b0be0fe1d3d8a4f2bb9368230",
+    "bytes": 96276
+  },
+  {
+    "url": "https://lh3.ggpht.com/-KJPMlhOZEAY/TusB3J87fjI/AAAAAAAAE9U/3Lsup3GXUEo/s1600-h/image%25255B11%25255D.png",
+    "posts": [
+      "_posts/2011-12-16-cac-smartcard-enabling-aspnet-on-iis.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-c2e8f65a8f9c.png",
+    "sha256": "a3f8d6ea37baaf3e13ee9e0aed45866db000dbc9384250c9e8d968c85b122583",
+    "bytes": 268630
+  },
+  {
+    "url": "https://lh3.ggpht.com/-KN-mAI8kB08/T3zVJXv5T8I/AAAAAAAAFCQ/qdSMVGcQg8Y/image%25255B10%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "12a9a5abfc70ba8467cce4efc97207d0a33d833e106447e04e851f6ff51558ad",
+    "bytes": 27378
+  },
+  {
+    "url": "https://lh3.ggpht.com/-NbHD0SShZEM/UQ7B-eKTc2I/AAAAAAAAFOA/I1DNWcIfoMg/Import%252520Fig.5%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-fb2753b9b7ce.png",
+    "sha256": "3e1fa2429007d3d65facd2f460242e37939da54f93c877e97da1499747bd2843",
+    "bytes": 31230
+  },
+  {
+    "url": "https://lh3.ggpht.com/-QyOFZ3We46g/Ul7uSmuOCiI/AAAAAAAAFW4/xkgkPcUet5w/DSC_1698_thumb%25255B3%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2012-03-29-ati-5450-with-hackintosh-lion-107x.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/ati-5450-with-hackintosh-lion-107x-442a34e3289e.jpg",
+    "sha256": "ebde01f798d4321d1328bcf9c0896af008c231ea071416bea6753112660d7333",
+    "bytes": 58077
+  },
+  {
+    "url": "https://lh3.ggpht.com/-RWCGsjzb0_0/UQ7B75_lErI/AAAAAAAAFNQ/iDX2R1TDhA4/Import%252520Fig.2%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-94e6b01ae9b0.png",
+    "sha256": "65dfbdc7172a878495e0048314be2939ba98235e8c245b6049b19db0c4f13c9c",
+    "bytes": 28547
+  },
+  {
+    "url": "https://lh3.ggpht.com/-RuHRnNjvSFs/UQ7Bz8fdjYI/AAAAAAAAFKo/aPP-DBTPyEg/Fig.5-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-c583879a7f9a.png",
+    "sha256": "6bbc69913220812963131837d1ee4b28ba12db2b1c8e955c6a0e33a9821fa05e",
+    "bytes": 38791
+  },
+  {
+    "url": "https://lh3.ggpht.com/-UdUU8HV9v3s/UQ7B-nxqrXI/AAAAAAAAFOI/zDctROCG8Mk/Import%252520Fig.6-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-3ee1cd109239.png",
+    "sha256": "57d7a7c778e405d836107234ac4e3af89b4d4a1b7ea21b52fee14742eb45f067",
+    "bytes": 18355
+  },
+  {
+    "url": "https://lh3.ggpht.com/-dL-pU3fG8Hc/TgZQcVITrNI/AAAAAAAAE8s/AiXbWSp8DUo/s1600-h/AirClick_Diagram%25255B17%25255D.png",
+    "posts": [
+      "_posts/2011-06-25-ode-to-griffin-airclick-usb-radio.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/ode-to-griffin-airclick-usb-radio-3fa6c593ed0f.png",
+    "sha256": "378225802833f827276cf94c252602ac3cc560ee87b529858352dc27920863a9",
+    "bytes": 89899
+  },
+  {
+    "url": "https://lh3.ggpht.com/-eFchzr9M4Q8/T3zVWBGiLqI/AAAAAAAAFDo/wG79SqBrVtQ/image%25255B70%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-0d405140ed9e.png",
+    "sha256": "699225812f3b6352568f46e5ebb6e4a4834cd60c8076c6bdaa33a8ef8ba0f6a9",
+    "bytes": 39559
+  },
+  {
+    "url": "https://lh3.ggpht.com/-hIq63seSqAE/Ul7uOdsXE2I/AAAAAAAAFWY/hKvceaJ0VM4/Untitled_thumb%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-03-29-ati-5450-with-hackintosh-lion-107x.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/ati-5450-with-hackintosh-lion-107x-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "838405d309f0ee5a73bad4be0abc6e908f5d081d59f870300f88ff074d488ee3",
+    "bytes": 196941
+  },
+  {
+    "url": "https://lh3.ggpht.com/-iiQtyN0uyTI/UQ7BytImi9I/AAAAAAAAFKQ/hvAMHUuvPos/Fig.3%25255B4%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-308f53813a8a.png",
+    "sha256": "f58adddea14d49ac90ed53d21b69b803764aa92fc2a65ec030c129d3aec3055c",
+    "bytes": 16794
+  },
+  {
+    "url": "https://lh3.ggpht.com/-kRCnFsoSpBY/T3za3YBR0yI/AAAAAAAAFEA/jrsL0l1haIk/DSC_5916-50%252525-1530x1701_thumb%25255B2%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-32f40929f338.jpg",
+    "sha256": "8b1fe8f81d1e5dadcd8f5b4388d5bd0137cbba752f223f2e2b6a5ad9f5dd6801",
+    "bytes": 39544
+  },
+  {
+    "url": "https://lh3.ggpht.com/-oKYX6CjjkLI/UQ7B6_SlVYI/AAAAAAAAFM4/l2pBs-KtV5k/Import%252520Fig.1-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-429ff39d5f58.png",
+    "sha256": "708a11bae5613c7370b3a6e050fec96a6ec93d93975dc6ad63fa2d80a1850bf2",
+    "bytes": 42920
+  },
+  {
+    "url": "https://lh3.ggpht.com/-pCEi8yI54FU/UQ7BxhaqwhI/AAAAAAAAFKA/VC5G5VlSYro/Fig.2%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-6fd8557c47e9.png",
+    "sha256": "0364cc943d2cc982231c763f058be6df033203c83668ff4ae675e7c65ea2ba7f",
+    "bytes": 43730
+  },
+  {
+    "url": "https://lh3.ggpht.com/-vqn5vp14d9k/UQ7B7Pa8S8I/AAAAAAAAFNA/MbucCXCxiuI/Import%252520Fig.1%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-845e8f61aa16.png",
+    "sha256": "2718305a7664b40dadbc76b78108c4117699f2b901de34270949396f6efb7dca",
+    "bytes": 39442
+  },
+  {
+    "url": "https://lh3.ggpht.com/-x9I2lGLXVsQ/T3zVPO0euOI/AAAAAAAAFC4/eGK2yPtslkE/image%25255B55%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-b5451a796110.png",
+    "sha256": "75fc28e8bff1629976dfd28a9f54c515a257fbf870eee1eee38133055aba1b9c",
+    "bytes": 23878
+  },
+  {
+    "url": "https://lh3.ggpht.com/-yPwaHTQCOq4/UQ7B5DY8dtI/AAAAAAAAFMQ/1SDLV1UJevA/Export%252520Fig.5%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-3e792ada0b70.png",
+    "sha256": "5070da45873c75644a52a9fac758697808d759b362a45edb47eddf0d1d843247",
+    "bytes": 21692
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/S1HIWc3IM2I/AAAAAAAAEro/a9Hrib99WRw/41P2JBVEZXL._SL500_AA280_%5B2%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2010-01-14-portable-air-compressor-hose-off-the.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/portable-air-compressor-hose-off-the-b3b9a4c28a70.jpg",
+    "sha256": "61a1860f581f4ff74803bb162caab18f55fb69417a4f12125dcff42402e66dc4",
+    "bytes": 16903
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/SXYXrlVOS_I/AAAAAAAACrs/qSZDftGMJzk/Snap1_thumb%5B4%5D.jpg",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-64c04dfb3685.jpg",
+    "sha256": "c6d3c98e235d50690081fc65ab8b735bff76e1213420bfc55251f94087b04b65",
+    "bytes": 60423
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TBKOTlU-ohI/AAAAAAAAEtU/msLZvGWtknk/s1600-h/image6.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-5dcc0a01428f.png",
+    "sha256": "5a7445301ca53a6f905a0a65d7b0b6886afccfeeb32cde0a85197420dd650521",
+    "bytes": 218081
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TBKOZHXo28I/AAAAAAAAEtw/sd2fJvvuHaI/image_thumb%5B8%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-df9eae93dc62.png",
+    "sha256": "8ce6acc738fea9c254e1eef22f6271a2eac2ad87b5106aeccf6a906fdb4c31c8",
+    "bytes": 75964
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TBKOZ_n1e9I/AAAAAAAAEt0/vbm9JflM7fI/s1600-h/image%5B22%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-b081bb5b1aa4.png",
+    "sha256": "73fab19aeaacf048b91d863749c16fa5843ac8e0108592798f5f01f2faeab1ab",
+    "bytes": 160576
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TBKOc8WxMOI/AAAAAAAAEuI/zNCJiFRpk9o/image_thumb%5B14%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-99d6fca142f1.png",
+    "sha256": "34ec72bd3f32a0654fb31cde02bbdee1f9c933eddafe68e6a4c68f7b4f7eb191",
+    "bytes": 77864
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TBKOdaBn1PI/AAAAAAAAEuM/_kkK64Eu714/s1600-h/image%5B34%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-9f00b9df1268.png",
+    "sha256": "878e248844addfc6727967b85f2d680f4012a8ce15fc6a73d8c4d60ae7853120",
+    "bytes": 91738
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TBKOfaoPKrI/AAAAAAAAEuc/q8M-TP84jHg/image_thumb%5B37%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-4628b81c8f74.png",
+    "sha256": "7b78b530191e932ef1f8f5a8d62eb0fe6eb465df1c6a15955cf1553383cfba28",
+    "bytes": 144590
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TIIukQcz6zI/AAAAAAAAEwE/CO2wPfPLmvk/image%5B22%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-f9609e32eaf3.png",
+    "sha256": "dd96489585855c09f0f951b52cfa2c103ba1dba919e62af25f54dac574926d07",
+    "bytes": 17901
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TIZ16X-HzeI/AAAAAAAAEwc/uoZCgA_9z6I/ramb108u%5B3%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-a50082b5b5b8.jpg",
+    "sha256": "9accae9a8d50d4e8f16276219c3e71ff2a9e3f383d0ca8563e5ea9cead4fbfb3",
+    "bytes": 6674
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TMKu4kEyHnI/AAAAAAAAE0k/ZJgboBFngBA/s1600-h/image%5B26%5D.png",
+    "posts": [
+      "_posts/2010-10-23-itunescontro.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/itunescontro-aff4a5641554.png",
+    "sha256": "bf3305d2493e79dd4fcaee47657836bf8d085f366ba84490398e6ce1ae7df2a4",
+    "bytes": 364577
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TSeo2LtPhcI/AAAAAAAAE2Y/mrB7V9YZN_Q/s1600-h/DSC03810%5B5%5D.jpg",
+    "posts": [
+      "_posts/2009-10-20-open-air-pc.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/open-air-pc-d3501b3f2aba.jpg",
+    "sha256": "5a2c6e9f709ae4364f879210897488702a0c1ac27c068c0661b3bb78e5a06fb0",
+    "bytes": 248998
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TSeo4CtvSNI/AAAAAAAAE2g/Hrg7yYhwaL0/s1600-h/IMG_5612-2000x1500%5B5%5D.jpg",
+    "posts": [
+      "_posts/2009-10-20-open-air-pc.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/open-air-pc-6db4ea4da177.jpg",
+    "sha256": "d49e41860093543910e0f85699f4c7d5c2d568414da44bf12ecb018a16ee0d70",
+    "bytes": 245257
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TW5ifwg1olI/AAAAAAAAE5Q/xLCgSMB9kAc/image%5B2%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-03-02-our-4-hour-body-recipe.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/our-4-hour-body-recipe-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "d0c968a3b015d2fd20b6f3b9bd024aee3dc62ef43ac77279095d6a89f7cc3032",
+    "bytes": 50689
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TW7WwiNKDRI/AAAAAAAAE4A/lllxfhmoIlQ/image_thumb%5B7%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-03-02-yasbe-open-source-code-incremental.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/yasbe-open-source-code-incremental-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "fbdaef04a7b1ce2afb88b5fff3d16e6f4ce93331d91f28e177f72f348dde7bc5",
+    "bytes": 376950
+  },
+  {
+    "url": "https://lh3.ggpht.com/_XlySlDLkdOc/TX5ms26x5MI/AAAAAAAAE7Y/1KzBPro9DPg/s1600-h/Untitled-2%5B3%5D.png",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-0aa1fd740f68.png",
+    "sha256": "e62a8cdc619e37e8fb251f9f36d2eb987700064fa847f0bb6891aa04e9835b4e",
+    "bytes": 133583
+  },
+  {
+    "url": "https://lh4.ggpht.com/-1pr9Ft2JoJM/UQ7B6MOJKhI/AAAAAAAAFMo/rkyV1Ul1G9s/Export%252520Fig.7-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-3f903d49f131.png",
+    "sha256": "8bbc87142fa556f8c580d435bf44d7c5b97ade35c2ba3c6efbcbde2fa309b437",
+    "bytes": 18941
+  },
+  {
+    "url": "https://lh4.ggpht.com/-5oTN_Tdnj6w/UQ7BwxZKZ1I/AAAAAAAAFJ4/BihPDfbAIPs/Fig.2-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-55d4e629d776.png",
+    "sha256": "8f19878f59559fcb837162362f7d07ced70fea4bb261066bcb35d8efdaaac179",
+    "bytes": 37640
+  },
+  {
+    "url": "https://lh4.ggpht.com/-87pf9as9nTM/UQ7B1o6_D3I/AAAAAAAAFLI/XuQeqF_0MOU/Fig.6-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-9e7d855b5a0e.png",
+    "sha256": "9b351e7b30705d63049632f8f449947be3c269f8c05ea94f2a0693ba926360de",
+    "bytes": 40320
+  },
+  {
+    "url": "https://lh4.ggpht.com/-ERmjFuDNEH4/TyW5-MFGKLI/AAAAAAAAE_Y/kRZgcHFra4Q/s1600-h/clip_image002%25255B7%25255D.jpg",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-77aeaad8e62c.jpg",
+    "sha256": "3df0717e38242ce5af111745c0392ef31887a66b49a63944bdf516ec239cd518",
+    "bytes": 128026
+  },
+  {
+    "url": "https://lh4.ggpht.com/-El23DmPMB2M/UFAUAZfq8eI/AAAAAAAAFGg/pTle5ETSb6M/image_thumb%25255B3%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-09-12-trail-map-image-to-google-ear.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/trail-map-image-to-google-ear-80581cd2bf88.png",
+    "sha256": "c3de2382001a5c670bd66ff8108da6707c7d8967efc5a52f3d18ee3857b2a96f",
+    "bytes": 79750
+  },
+  {
+    "url": "https://lh4.ggpht.com/-GltWs7E7U1o/UZwQMkklYBI/AAAAAAAAFTQ/Qjq_0mjeZ-M/image%25255B27%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-05-01-roof-cargo-box.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/roof-cargo-box-d79b1f7f7622.png",
+    "sha256": "ebbe5d0a841065b0a7baa19f43025d3820760d42de8f2932f605b8a905a671c1",
+    "bytes": 29115
+  },
+  {
+    "url": "https://lh4.ggpht.com/-MYJ8Zj-4K9c/UQ7By7e-c3I/AAAAAAAAFKY/T-1ZwPrrxHE/Fig.4-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-854e695222ce.png",
+    "sha256": "2ba65cfe7ed5d81e2645b8d9c37f26508d014835f98730458e2bfb8be3987ccf",
+    "bytes": 13378
+  },
+  {
+    "url": "https://lh4.ggpht.com/-OmxnHpxlLiU/TyW6BzN7x7I/AAAAAAAAFAM/vzWovC-CtS0/clip_image001%25255B7%25255D_thumb%25255B4%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-a1cdbb6aa17a.jpg",
+    "sha256": "b49e66a7048aac0130b854ee6b352d039d5649a43eb6b7677d4e4aabde0883e6",
+    "bytes": 54145
+  },
+  {
+    "url": "https://lh4.ggpht.com/-SYFszFqjDf8/UQ7B_vXPGWI/AAAAAAAAFOg/RUc3V6Up8W0/Import%252520Fig.7%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-c3011d0aa878.png",
+    "sha256": "d153d8886ea0c1a587fd2985ccb46769ea26ea07a3bc4f839b594a4bacc04a0f",
+    "bytes": 21793
+  },
+  {
+    "url": "https://lh4.ggpht.com/-WHBnHH84598/UQ7B4XKI_OI/AAAAAAAAFMA/RPsYfVQckj0/Export%252520Fig.4%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-848d68d47450.png",
+    "sha256": "5b88d044e777e5cdae14ef28c86f894eaea76cb5830cedae48d474921599d46a",
+    "bytes": 34139
+  },
+  {
+    "url": "https://lh4.ggpht.com/-XSIS_WnImoA/TyW6AVetxgI/AAAAAAAAE_0/mCVCPzHrLfs/s1600-h/clip_image001%25255B5%25255D%25255B4%25255D.jpg",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-2ff81bd200ad.jpg",
+    "sha256": "2f42e89d7893b91fcba4ddafca1278857515519a4b132eb746ad0be106cfb13b",
+    "bytes": 41441
+  },
+  {
+    "url": "https://lh4.ggpht.com/-ltkJAvoZGzM/UQ7BwNB9wbI/AAAAAAAAFJo/eJkZ8_FnOUU/fig.1-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-9f8d8b939f4b.png",
+    "sha256": "82c675b8a91f4de9ced20fc5a776999343068178be5d0d27d6661c6ddf0e8605",
+    "bytes": 10800
+  },
+  {
+    "url": "https://lh4.ggpht.com/-rZC9Z8EUpUM/UQ7Bu00evzI/AAAAAAAAFJY/8om521xT8_0/Fig.0-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-214fdca2f4c4.png",
+    "sha256": "aef6c30be020c9f5c18e013005a0c08c426ab7b5b3dd8f92e742622647d6a90b",
+    "bytes": 81913
+  },
+  {
+    "url": "https://lh4.ggpht.com/-wI03RdKtKWs/TusB39wZG-I/AAAAAAAAE9Y/mCLHvs8_Fzg/image_thumb%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-12-16-cac-smartcard-enabling-aspnet-on-iis.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "702ed6b48ec2a3d69a9208de30596415cd12b4fe2b02e5c03ffcb2a609450b01",
+    "bytes": 95682
+  },
+  {
+    "url": "https://lh4.ggpht.com/-yOgqtm1YpRE/UFAT-CZ_aQI/AAAAAAAAFGI/PHCGztQlVBg/s1600-h/image%25255B6%25255D.png",
+    "posts": [
+      "_posts/2012-09-12-trail-map-image-to-google-ear.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/trail-map-image-to-google-ear-dde55fed5142.png",
+    "sha256": "92254f6bc04d92da8ffff16330891cd75fd937e1d5431a809d1a7c94f506be34",
+    "bytes": 1193394
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/S1HIXiIAD7I/AAAAAAAAEr0/3CjJkulEpNY/21aTdJHJfPL._SL500_AA200_%5B2%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2010-01-14-portable-air-compressor-hose-off-the.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/portable-air-compressor-hose-off-the-c682aebee282.jpg",
+    "sha256": "15bdb077f519c0bbecfbedcd20ed34fd3b09dfa0ac84544674217fc0f6b9ddc5",
+    "bytes": 6081
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/SWcrtD50j2I/AAAAAAAACq0/AicWwxyVbZA/s1600-h/image%5B10%5D.png",
+    "posts": [
+      "_posts/2009-01-09-volume-shadow-copy-service-is-pretty.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/volume-shadow-copy-service-is-pretty-afba734064f5.png",
+    "sha256": "dc9bc17f6f63fd89d69bb4cfea00b754bbb36ba93327ef66e8e7f8caa76777eb",
+    "bytes": 133744
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/ScvX-TcD4LI/AAAAAAAACrw/QHM_xIprQaA/s1600-h/image%5B12%5D.png",
+    "posts": [
+      "_posts/2009-03-26-powershell-fin-rocks.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/powershell-fin-rocks-0f973d01ca4e.png",
+    "sha256": "524ac2824ee17e44b26de3156760abd283068b464c2519238ae0b741090fadaf",
+    "bytes": 10060
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/SpJoRpOXgoI/AAAAAAAAEwM/24j1XisuB7c/Connectorbigc2%5B3%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-ee3878967f16.jpg",
+    "sha256": "e3544affb2b28e48421551a34031899a9722238c1b35628ec266346a7b7d8be1",
+    "bytes": 19044
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/Sqi15jrJGAI/AAAAAAAAEk4/jB52wrx4k1g/RAM-HOL-SAM2U%5B4%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-9986e73eca4f.png",
+    "sha256": "e4cd0456604b5617e3f90027f80960a68c94d1501f3cd06c613ac465a130ddf4",
+    "bytes": 54780
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/SvLcncmk5tI/AAAAAAAAEoU/EGdKjCBlwoI/s1600-h/image%5B15%5D.png",
+    "posts": [
+      "_posts/2009-11-05-yet-another-simple-audit-table-approac.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/yet-another-simple-audit-table-approac-b0dab635b9ba.png",
+    "sha256": "abaec342f21009f6e2e18c9b847ba6e776ea16497e6f17ab9912b0408c6118a7",
+    "bytes": 70122
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/SyEsdtukrAI/AAAAAAAAEo4/kALSTBqCgfI/Richard_Feynman%5B3%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2009-12-10-richard-feynman-nobel-physicist-1918.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/richard-feynman-nobel-physicist-1918-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "debcddf6541af946b1ebd2c47cb03ea277b19c77f73ec9a4755eee0f862700b9",
+    "bytes": 13290
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOUjN_ZzI/AAAAAAAAEtY/VgTs_2ocysU/image_thumb2.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "7a1a1f4bdf0463920d3f1153904bcf6fcaeae3cfac6694f4537aa90ef6f8c1b8",
+    "bytes": 161476
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOVpI7c5I/AAAAAAAAEtc/4wLxneCcigs/s1600-h/image%5B11%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-375d71ff374d.png",
+    "sha256": "0c7602d9194a73aa9d6116a82ba20f2327e7bd47645e1467857adec7395a4bef",
+    "bytes": 192582
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOX4OuolI/AAAAAAAAEto/kY1WjxCe6Yk/image_thumb%5B2%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-974ed3e768cc.png",
+    "sha256": "5fe5c410caaa312fd0491e087f93381447533ab7896253ef083c37c2dafa07c8",
+    "bytes": 71249
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOYvnjzGI/AAAAAAAAEts/gLK5S4O32FM/s1600-h/image%5B18%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-55ef19c3b3ad.png",
+    "sha256": "7ef39a78353d9b21d24b3afdc98620ba6179b7f5bdfe6c512939acaadcfc6bc8",
+    "bytes": 139251
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOaWA8RoI/AAAAAAAAEt4/1Z5kaeKbOIM/image_thumb%5B10%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-1b898ef07796.png",
+    "sha256": "fd791a7920e270181be6fd9654f1dbbaa79aed1406d2963136f0b2fd934a5b9b",
+    "bytes": 88685
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKObCzZwXI/AAAAAAAAEt8/4e29CBy7lhQ/s1600-h/image%5B26%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-6a533c18e8e9.png",
+    "sha256": "5c049f178a195c867d81a175d015fcebae0541c6c27bc79591cbf57f4e10f15d",
+    "bytes": 127026
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOdylO62I/AAAAAAAAEuQ/FDf0U51tf28/image_thumb%5B16%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-f8911a3fa115.png",
+    "sha256": "5eda4a6db5b2707ad9ade25f370202d8d0a9f484fdc379f1d1ded225786ce1d2",
+    "bytes": 57449
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOhwryt5I/AAAAAAAAEuw/9eoBalzrQU0/s1600-h/image%5B80%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-a136b13e04db.png",
+    "sha256": "c96b9e7fee2f7249b0bfa8e7f4f604cb41d99e9ff70683fb05669dc175527b0c",
+    "bytes": 129174
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TBKOipp_EcI/AAAAAAAAEu0/9A8FUJ3OAH4/image_thumb%5B40%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-b6be3fa831c5.png",
+    "sha256": "e1f9edbb00f49b7a55c676a3c0bc1cc45775b35541cee6e95a40ee9bd78a5736",
+    "bytes": 116547
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TIIui6mylgI/AAAAAAAAEv4/XUFGISHnVkc/image%5B19%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-44cc2078be05.png",
+    "sha256": "2c0004eb79be2bb5ae047fc5cd398daa209b47b77404db19119ee6a321f3c190",
+    "bytes": 41581
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TJvSiVADv5I/AAAAAAAAExs/QZ1wfrcN29g/s1600-h/image%5B4%5D.png",
+    "posts": [
+      "_posts/2010-09-23-overclocking-skeletor-q9540-v10.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/overclocking-skeletor-q9540-v10-fd08cc13129a.png",
+    "sha256": "9fcdbcf5a25aa43b1a59b7ba5fe8e8111808a859e702e7ad90ee6e5355fcb22c",
+    "bytes": 203530
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TJvSjY6bYqI/AAAAAAAAExw/_b2V82SAEZA/image_thumb%5B2%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-23-overclocking-skeletor-q9540-v10.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/overclocking-skeletor-q9540-v10-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "3e308fb67580e3f695ff9088733c7b1e80d8fac376bd65ea4710f477b16695c2",
+    "bytes": 181209
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TQfuAOlUzPI/AAAAAAAAE14/q9yljOud_1g/image_thumb%5B7%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-12-14-overclocking-skeletor-q9450-round-2.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/overclocking-skeletor-q9450-round-2-23932216bb66.png",
+    "sha256": "c3860e82ddf2b6aba1ebd0fb698d389e80667e69c4c7899fc75516a1041cab87",
+    "bytes": 71598
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TSeo21ktn3I/AAAAAAAAE2c/2-uK0cWHeYs/DSC03810_thumb%5B2%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2009-10-20-open-air-pc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/open-air-pc-f05d15a47249.jpg",
+    "sha256": "16af063ff7335402929d616a0d2fcae536c34256411c1c4ce72f90195cfd4a20",
+    "bytes": 42103
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TSeo4qzOTJI/AAAAAAAAE2k/hhfDDsftXIg/IMG_5612-2000x1500_thumb%5B2%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2009-10-20-open-air-pc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/open-air-pc-bee8945c5f3f.jpg",
+    "sha256": "210d68518399a96e99e906abfc70e5d8a36f6f67ddf2c94b919394af9d055924",
+    "bytes": 38938
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TSevhvk28WI/AAAAAAAAE2o/Jy-IAy5hqvI/s1600-h/DSCF3253-2816x2112%5B1%5D.jpg",
+    "posts": [
+      "_posts/2009-10-20-open-air-pc.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/open-air-pc-c1e8e10eaec9.jpg",
+    "sha256": "ebef0aa58651e0f5222b347a5a6816421ab3956d97260993e93e3d54e9db12b8",
+    "bytes": 232270
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TW7eU3l6bKI/AAAAAAAAE4I/HZaPgFxfTzs/s1600-h/image%5B4%5D.png",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/highpoint-rocketraid-620-indeed-works-1a68b70809b6.png",
+    "sha256": "2301d8d083716a8e0dc089fa816fb43b2286528bc7a455794e55513b998431df",
+    "bytes": 44153
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TW7eVg3roZI/AAAAAAAAE4M/QbgOABkhFcs/image_thumb%5B1%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/highpoint-rocketraid-620-indeed-works-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "de5f41ccee5b775b594afe103f4168ce823aae535f8c1171a04c845295849b9b",
+    "bytes": 102390
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TXzwdyL4uOI/AAAAAAAAE60/rEFD9_CFjCM/image27.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "cb14fbd116781770d4c64e01b633fff2cdc6e5d471233b9af4230b62058dd716",
+    "bytes": 89218
+  },
+  {
+    "url": "https://lh4.ggpht.com/_XlySlDLkdOc/TXzwfgZV-6I/AAAAAAAAE7A/2SPog0bsFvk/image7.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-97d5307a2aac.png",
+    "sha256": "e7c20dc7dc6452d2977155d05a026e3b5f35b564effae90cfeedb0f55681ef16",
+    "bytes": 105502
+  },
+  {
+    "url": "https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9Neyd74/Fig.0%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "338c2d08c4262a07d7f8ccb63bb138218c4bcd9b24330a49514a915946f99d5d",
+    "bytes": 48771
+  },
+  {
+    "url": "https://lh5.ggpht.com/-1690N5axyT8/ULJoAD3OUZI/AAAAAAAAFG0/qPkoHhiLBdM/image%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-9712243bdd8a.png",
+    "sha256": "af287395756293d7076990cf4b0c05d7fd9263ce6169dc4b87aa433b14f2d06a",
+    "bytes": 21096
+  },
+  {
+    "url": "https://lh5.ggpht.com/-1i2DeVCOIk4/UQ7B3lywILI/AAAAAAAAFLw/mkOtLy0Vi_Q/Export%252520Fig.3%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-1bdd43cf928b.png",
+    "sha256": "4fccf6f88873f4e2f0cd18aaa078598afd3c1f76989b49c90cb76e895f21235a",
+    "bytes": 25436
+  },
+  {
+    "url": "https://lh5.ggpht.com/-EXIEChRZO7Q/UQ7B6t20X8I/AAAAAAAAFMw/I4pUORvh8E8/Export%252520Fig.7%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-2a997473cce1.png",
+    "sha256": "9a86992d3064178f6058463d4c5261ade606b3433a6ad2ef380ca5b3a9b3cd57",
+    "bytes": 28410
+  },
+  {
+    "url": "https://lh5.ggpht.com/-GDwCrF_8zYs/UQ7B4veEBTI/AAAAAAAAFMI/eikuDWJj6YA/Export%252520Fig.5-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-3a69f566a246.png",
+    "sha256": "a8ec23559a24bef93b394294fff4b11cf6313e04d4038cb71925d316c45642eb",
+    "bytes": 16463
+  },
+  {
+    "url": "https://lh5.ggpht.com/-Hhqj_I5QhMQ/T38naKmhL6I/AAAAAAAAFEg/8wXn2DOWBPY/image_thumb%25255B11%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-a49e77cc85ae.png",
+    "sha256": "c051e65796af02f0f7b72a22fd9be2afa26da4dece1fbe25d7a5fb38293debfd",
+    "bytes": 45136
+  },
+  {
+    "url": "https://lh5.ggpht.com/-MOZ09i33bwA/T3zVVr5emGI/AAAAAAAAFDg/cDQTear_k-U/image%25255B52%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-82e977674593.png",
+    "sha256": "74c20710d35391d8c275590531b7a0ec83f78203dc8b776492e36ba43685d265",
+    "bytes": 22674
+  },
+  {
+    "url": "https://lh5.ggpht.com/-NNsQhh-rB30/TyW6Ah2FTHI/AAAAAAAAE_8/Uo9tw-dzAEk/clip_image001%25255B5%25255D_thumb%25255B2%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-91b1d10d4281.jpg",
+    "sha256": "420ff87da6d5e4ae7ab7f7f3cccc1ccb04ee3e97a5fa03472345ba4338674e18",
+    "bytes": 47860
+  },
+  {
+    "url": "https://lh5.ggpht.com/-OxFxtg13XA0/Ul7uQY_FLlI/AAAAAAAAFWo/tuFtNLHnWsI/image_thumb%25255B10%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-03-29-ati-5450-with-hackintosh-lion-107x.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/ati-5450-with-hackintosh-lion-107x-c5493edd3a73.png",
+    "sha256": "c97e5d5212ccaac01822091e5feca52fcc870a8ce3b975fd12549d277d834e4d",
+    "bytes": 259471
+  },
+  {
+    "url": "https://lh5.ggpht.com/-PMxKLAP8hxw/UQ7B1cZBpPI/AAAAAAAAFLA/U8lZ2sd2sY4/Export%252520Fig.8%25255B3%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-b7400066c2d3.png",
+    "sha256": "270d9fd7dae7dee21b60a47d275199b8e2f038edc718f080ff890970b08f6f4c",
+    "bytes": 33046
+  },
+  {
+    "url": "https://lh5.ggpht.com/-PeHt2pnRCQQ/UQ7B85JXUrI/AAAAAAAAFNg/t__-1JeKGn8/Import%252520Fig.3%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-9657cd9e08c6.png",
+    "sha256": "7e485e3a127eb2a954229ae745fe8085b932d8b69ad77ec58f5bb69d8a5596ed",
+    "bytes": 34605
+  },
+  {
+    "url": "https://lh5.ggpht.com/-QP95wE_SF5w/TgYpWc35PSI/AAAAAAAAE8o/QaQTsTDgHuw/AirClick%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-06-25-ode-to-griffin-airclick-usb-radio.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/ode-to-griffin-airclick-usb-radio-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "e1d0e9b976efbdd2c52eb56f9e74e8554fd80b0f241691d7e595915d506fe0f2",
+    "bytes": 51169
+  },
+  {
+    "url": "https://lh5.ggpht.com/-ROWS7HGsFh0/T38nZTeUO3I/AAAAAAAAFEY/Lpc8ZDj2yU8/s1600-h/image%25255B27%25255D.png",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-fa13a90cc5a3.png",
+    "sha256": "3133fd47ef16e713207ae0c26c5970037f4885988c71c0860d43afb975cfae56",
+    "bytes": 65239
+  },
+  {
+    "url": "https://lh5.ggpht.com/-UMYarvLTk9o/T4gedAtk0NI/AAAAAAAAFFc/vjYVQTuPwUg/image%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-9f73fa5bc112.png",
+    "sha256": "8458a08d4fb8c0fccadb1d86f9282849c44b4100a7824dc48cba19012f8c52fa",
+    "bytes": 39512
+  },
+  {
+    "url": "https://lh5.ggpht.com/-UizG2rpJEcY/UQ7B_RCpsMI/AAAAAAAAFOY/QGMtLIYSLQg/Import%252520Fig.7-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-a01e2c42d234.png",
+    "sha256": "3dd7f8559d72557b4429ea97c9fc76d8ebf97caabc04f63d7cf986b145a59f9d",
+    "bytes": 14525
+  },
+  {
+    "url": "https://lh5.ggpht.com/-X0TeH_QuGLE/T38nbAjd1xI/AAAAAAAAFEk/JaGyen1YzZw/image%25255B10%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-7a640f142974.png",
+    "sha256": "d880aead54e5bfb27680c229d320ae987b8db69dea8b13663a8afd7f8c7953a8",
+    "bytes": 48071
+  },
+  {
+    "url": "https://lh5.ggpht.com/-YCAl-VoJK4Y/UQ7B9WMNRhI/AAAAAAAAFNw/oZ6KTntb8Jc/Import%252520Fig.4%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-2f61dc1e9902.png",
+    "sha256": "284e807b67165e25f87e10e045232ef4d7ec157f5204c03316332d8d1f0091b8",
+    "bytes": 27451
+  },
+  {
+    "url": "https://lh5.ggpht.com/-ZNq4ACeb-5E/TyW6BMZnujI/AAAAAAAAFAI/8TZD4yk9F1Q/s1600-h/clip_image001%25255B7%25255D%25255B6%25255D.jpg",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-d3d8cf360bbc.jpg",
+    "sha256": "1f559a9b7f4930933775c68b3e0555a201c8c918b6ee3857fd40c50b74bd36cb",
+    "bytes": 45074
+  },
+  {
+    "url": "https://lh5.ggpht.com/-ZdcJINdxfR0/UQ7B7qlw81I/AAAAAAAAFNI/DB_qoRfef8s/Import%252520Fig.2-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-e66a18873ac5.png",
+    "sha256": "bd9945d4b67084209ea94cefb519deb341e7674576a91f57cad76c99a1b254a7",
+    "bytes": 17171
+  },
+  {
+    "url": "https://lh5.ggpht.com/-aGWvx5bGstU/UFAT-gcmngI/AAAAAAAAFGQ/vkF8uCG3obo/image_thumb%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-09-12-trail-map-image-to-google-ear.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/trail-map-image-to-google-ear-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "1b9939d51cc2594ed697177c6a317afaec3b0d338b8363444f86673ea96291d0",
+    "bytes": 72206
+  },
+  {
+    "url": "https://lh5.ggpht.com/-c2Rqle0T-Dw/T3za2yLRDuI/AAAAAAAAFD4/J635if1Eh48/s1600-h/DSC_5916-50%252525-1530x1701%25255B4%25255D.jpg",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-2b706c0feee1.jpg",
+    "sha256": "f096baae2961c5a4612a8d76643115e84da41e3f0de55926d31bf871f95a89fa",
+    "bytes": 107418
+  },
+  {
+    "url": "https://lh5.ggpht.com/-dtzBPoQp2m0/TgW6vSGaG3I/AAAAAAAAE8c/p_TCvGk9ybw/clip_image001_thumb%25255B3%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2011-06-25-going-portrai.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/going-portrai-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "f4d9fa942e281bfc030375e345da35dd25fa5da3b9a87110d698173850e207fc",
+    "bytes": 93769
+  },
+  {
+    "url": "https://lh5.ggpht.com/-elkElflTyZI/UhpHmwpb8fI/AAAAAAAAFVM/OVJDzLoJjz4/s1600-h/image%25255B15%25255D.png",
+    "posts": [
+      "_posts/2011-06-25-evolving-custom-sqlclientnet-datalayer.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/evolving-custom-sqlclientnet-datalayer-7f50f98e7003.png",
+    "sha256": "2345cec293d0521a37473ae83d599de8eae0a44a9e6baa77199cd72d68e80b98",
+    "bytes": 100405
+  },
+  {
+    "url": "https://lh5.ggpht.com/-gKwLgAtJeQg/TyW5-sytzNI/AAAAAAAAE_g/qCdnpUmMWls/clip_image002_thumb%25255B4%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "fc2654f34f8487a1135484b66d62a5b89eab78b7ac02b1267e7b3028b92b0ebc",
+    "bytes": 90666
+  },
+  {
+    "url": "https://lh5.ggpht.com/-gQf1ZE4EC0I/TusB5IFd5OI/AAAAAAAAE9o/hBD5diMpub4/image_thumb%25255B3%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-12-16-cac-smartcard-enabling-aspnet-on-iis.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-b66c643c851d.png",
+    "sha256": "75f4ed28353a22be6e904cbc4ce3098d790dc965798e4378af2120f928acf986",
+    "bytes": 23346
+  },
+  {
+    "url": "https://lh5.ggpht.com/-i4sW_3TyKBU/T3zVMi4C5-I/AAAAAAAAFCo/Ufuk632ec9U/image%25255B22%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-5a234a13e7c2.png",
+    "sha256": "44bb4e41936b5ae1e3828549282377b330a6cef77f79991631ecff3ffc111f62",
+    "bytes": 21080
+  },
+  {
+    "url": "https://lh5.ggpht.com/-joOfhtQfc48/UQ7B9EWG8kI/AAAAAAAAFNo/cOxbj8JmhRo/Import%252520Fig.4-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-9596e4f81864.png",
+    "sha256": "757b7630c23593b309d2abc1b982150a92ef1d23d9bd43d28064052e9829dd98",
+    "bytes": 19376
+  },
+  {
+    "url": "https://lh5.ggpht.com/-l5-ImFygZRU/T3zfUCUQ_xI/AAAAAAAAFEI/aSMv_E0qCEk/image%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-3698507fba96.png",
+    "sha256": "f2dc9d4f5c69bd78fe31f83a60b7cc81f02bdd01b04e32413cb95f4b052cd592",
+    "bytes": 24429
+  },
+  {
+    "url": "https://lh5.ggpht.com/-vohgad1JLWY/T4AQd7-l8eI/AAAAAAAAFFU/y6cndq6WPG4/image%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-ec87eaaae925.png",
+    "sha256": "52e07fd87332f1faa0fd390c935beff9cd584bb3360a9bf427e2c660fa6e0781",
+    "bytes": 47177
+  },
+  {
+    "url": "https://lh5.ggpht.com/-x1uAwRWbUiU/UQ7B253fUzI/AAAAAAAAFLg/h5ah_MrHaRQ/Export%252520Fig.2%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-a62240db63fc.png",
+    "sha256": "5cf7b6258d3df704d5d980029608ba0b63e44403287ba6f915b4af114558bf3a",
+    "bytes": 45733
+  },
+  {
+    "url": "https://lh5.ggpht.com/-xX8mJpX2V0s/UgclR_CqpXI/AAAAAAAAFUU/p-IbYLghDv4/DSC_0991-50%252525_thumb%25255B5%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2013-08-11-bbr900bl-koldfront-80-by-edgestar.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/bbr900bl-koldfront-80-by-edgestar-0cae08bab0f8.jpg",
+    "sha256": "e8f7825cbc972f6d5bfca38f19e0eb28dce9c24747f3422e5a733ad73627adf6",
+    "bytes": 35155
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/SoBuHKAg4JI/AAAAAAAAEkY/HUORpKYWmLw/image_thumb%5B3%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-eb559cdcb258.png",
+    "sha256": "70f8cc23337e772041d05964b68e207eeffa5b63ae6da5511e4a072e8d6563d1",
+    "bytes": 8934
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/SpJoQiLYSqI/AAAAAAAAEkg/Li9Pi7K6HdE/laptopupgrade_2067_1399911_thumb.gif?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-174f96bf0295.gif",
+    "sha256": "6ac694e80c710889aa5822bbcd09ffa6db653bfd2a2f3670d6702f065a450f70",
+    "bytes": 11387
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/Sqi14YO7SOI/AAAAAAAAEwY/ZPKLdbc1ZGc/sierra11%5B1%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-e25af2a9f1e8.jpg",
+    "sha256": "8bd7459fcaea663f4c9d5cb23c409ef4416642b3cb08142f28de884c61182f76",
+    "bytes": 17513
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/Sqi16H9wkoI/AAAAAAAAEk8/gu0ZD4bksww/SierraWireless_MC8781%5B7%5D%5B1%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-9bd1931374c9.png",
+    "sha256": "ecc20870f7fd68299d06ec790dd525207e313345b07a9d5ecf5dcace508914c8",
+    "bytes": 53765
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/SuSzQPT4WsI/AAAAAAAAEmM/AensvAFSA48/Antec_Skeleton%5B8%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2009-10-20-open-air-pc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/open-air-pc-c87a75dd4f43.jpg",
+    "sha256": "0fc35f502fec077eaacbf276b4203db6bdcd68daf28a74626cfacae08cfc7653",
+    "bytes": 46397
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/SvLcn9HbSbI/AAAAAAAAEoY/wQlRvFldGfc/image_thumb%5B9%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2009-11-05-yet-another-simple-audit-table-approac.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/yet-another-simple-audit-table-approac-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "c6419692047f7109410413fccc8ceea3920d07a71e9e5bbe4798bab65dd50a7e",
+    "bytes": 73294
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/SvLcopl8vbI/AAAAAAAAEog/FvH9E2TzjXs/image_thumb%5B7%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2009-11-05-yet-another-simple-audit-table-approac.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/yet-another-simple-audit-table-approac-e46304512f41.png",
+    "sha256": "ed6e98ac03074fb7b3d3f9f83ea45aac7ec870448fd525e5bf7b3a45ecbedf62",
+    "bytes": 34819
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TBKOWmUsLvI/AAAAAAAAEtg/Fb9ZWkP1Oy0/image_thumb%5B5%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-29327c7117b4.png",
+    "sha256": "a1d2b82dbeab9bd4bb906403028ae1510f53fd23ba630223ed371a6b9f07e383",
+    "bytes": 129911
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TBKOcWsNzlI/AAAAAAAAEuE/jyPsVYdhc5Q/s1600-h/image%5B30%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-092ec8745dc4.png",
+    "sha256": "61a5002a5a581e64baef05fb5c2a2b50b82c8738904f24902379d4cd68fe246a",
+    "bytes": 101555
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TBKOf_Pb1oI/AAAAAAAAEug/AnSwY-qoz-o/s1600-h/image%5B37%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-75a99d72fa27.png",
+    "sha256": "d1f57db875d06ba43deca7368414647fb832c74e9a18ec9409e70229ef9bb765",
+    "bytes": 55970
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TBKOgiMkD_I/AAAAAAAAEuo/6iza61SA0B0/s1600-h/image%5B68%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-04ad052fcf6b.png",
+    "sha256": "63a1e1cbf95eb5882ecf9550105fbdacf760e8063092b67339647403df19ffd7",
+    "bytes": 35092
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TBKOhCTiYlI/AAAAAAAAEus/ObZ11hqBj6U/image_thumb%5B32%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-bf1010db22b6.png",
+    "sha256": "62db9805946568d8585de262285d5ffcc435d46816ca2283bb778038ab0439b8",
+    "bytes": 50797
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TIIuj-4_ifI/AAAAAAAAEwA/wAr22LRURnQ/image%5B21%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-33290d977f31.png",
+    "sha256": "e02042121bc191db58710efbc138941e389a52730a91672319b9815d8d4f8553",
+    "bytes": 41742
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TIIujdiVJ8I/AAAAAAAAEv8/qWIPf2oEeP8/image%5B20%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-4a971fcc2c89.png",
+    "sha256": "347e059dbfcf14eb1d97d0eb17358aad4ec4760e89a5f80fe25f191401e8608d",
+    "bytes": 58694
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TIZ17iZkhEI/AAAAAAAAEwQ/ifd8aHwYOMI/image%5B5%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-2572e23ac0e9.png",
+    "sha256": "7d1f40a3f210f287a36c847e68fe2ca42ae308cd8de02d157e6c64ec2244af2a",
+    "bytes": 57807
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TMKu5wqLbnI/AAAAAAAAE0o/YvyM0guh-FQ/image_thumb%5B16%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-10-23-itunescontro.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/itunescontro-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "9e39cfa9583b59199558ffa205b4d473c1da687adffb841b7bc1d0657fd11a3d",
+    "bytes": 239245
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TW-YLaRs_JI/AAAAAAAAE4o/XjYPHv3ukxE/Understanding%20Exposure%2C%203rd%20Edition%20-%20Bryan%20Peterson%20%282010.08%29%20-cover%20image%5B7%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2011-03-03-understanding-exposure.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/understanding-exposure-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "d699cbbdcc3b7242ae3c507b98b97d0ba2f5d15d0a56497645a4744969e9aa36",
+    "bytes": 53860
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TW7WvBi6lOI/AAAAAAAAE38/sca1Hz*yjqs/s1600*h/image%5B13%5D.png",
+    "posts": [
+      "_posts/2011-03-02-yasbe-open-source-code-incremental.md"
+    ],
+    "direct_error": "HTTP Error 400: Bad Request",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/yasbe-open-source-code-incremental-f38e8830525a.png",
+    "sha256": "ac869a5676882818050b85cb87be58cea583263f66afec3f3fb286bad13f9c84",
+    "bytes": 452948
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TWavciokSHI/AAAAAAAAE3U/Xy427DEV7Tw/s1600-h/image%5B5%5D.png",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/highpoint-rocketraid-620-indeed-works-34c1bba5b511.png",
+    "sha256": "b9c944a522c2618db30762a7d6d5e3588e1ca802ad943e7923637a0febfc2163",
+    "bytes": 37555
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TWavdEt2Q_I/AAAAAAAAE3Y/8kISo2-vKGU/image_thumb%5B3%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/highpoint-rocketraid-620-indeed-works-897df8f8bdc1.png",
+    "sha256": "009a93578ecdb4b297dcacbac5564471777bfcb342d8b1a697de5f88e3e446f5",
+    "bytes": 69628
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TX5mtaVdnqI/AAAAAAAAE7c/JpAmjLVby4Y/Untitled-2_thumb%5B1%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-70b51074ccb8.png",
+    "sha256": "fd98e2d9f58fb644731d8e6bdaaaf1aca57b34435b9280ff07944488f7d7258e",
+    "bytes": 27126
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TX5muKZa2bI/AAAAAAAAE7g/pyOXzhuRzUs/s1600-h/Untitled-4%5B7%5D.png",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-439db34f7be6.png",
+    "sha256": "99e05ed0681f2b16b941dd432176f7f49e94277ac2c8d6bf488ca6669b1e047f",
+    "bytes": 100448
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TX5muriUSfI/AAAAAAAAE7k/MikF2rZ07Bo/Untitled-4_thumb%5B3%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-92b3b920f199.png",
+    "sha256": "5b7cb427c00f23071d754ad06f460a154ec6a7fd1d781c87a11dc96ac8ae97da",
+    "bytes": 63698
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TXPEGvWTlSI/AAAAAAAAE48/XykcMElylvk/P1060007_thumb%5B3%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2011-03-02-our-4-hour-body-recipe.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/our-4-hour-body-recipe-ac06936965fc.jpg",
+    "sha256": "2389121af227eee30672dda235d594c53b44f5b63749b810ff0dc51c3c1c1197",
+    "bytes": 45248
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TXPEIMD5IRI/AAAAAAAAE5E/St9FWhlWyHE/P1060021_thumb%5B2%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2011-03-02-our-4-hour-body-recipe.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/our-4-hour-body-recipe-2b6ecba5faa3.jpg",
+    "sha256": "767b4fce6d82626f7b910954a4d3ae4a3fdffd8579cbcaa72e9d84f35a2bebb9",
+    "bytes": 39189
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TXZPwsG4JSI/AAAAAAAAE5g/DbY5MdbvdB8/Untitled%5B4%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-e9b1848679e3.png",
+    "sha256": "a84f73efaf49609f7f5a20f12637f70deda8c25042d12aa5e8dab14cf1a566c1",
+    "bytes": 40735
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TXdhxOj5s0I/AAAAAAAAE5o/infzpJ4UDgw/image%5B8%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-4a44aa2609fc.png",
+    "sha256": "bc17191ed86995fbdf5629a425b0bf1c48f19575c4660abe6c392afbeddcc86e",
+    "bytes": 49917
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TXzweWK3qfI/AAAAAAAAE64/4RAkDJG3m7s/image%5B5%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-0550e169a42a.png",
+    "sha256": "551befe139c6a3e6c9a67a9d9fd86112ccbe781e4ec14b9e038b96aab5b74082",
+    "bytes": 16919
+  },
+  {
+    "url": "https://lh5.ggpht.com/_XlySlDLkdOc/TXzwfMjo9jI/AAAAAAAAE68/uT_jrHDqtN8/image21.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-3ae6d2a23cce.png",
+    "sha256": "9fed6d3d242ed8165a091d54d50dca91302d7f4b6502bec2c9d1b95468a47d54",
+    "bytes": 94489
+  },
+  {
+    "url": "https://lh6.ggpht.com/-16C9BBPJOZI/T38oStRg1WI/AAAAAAAAFFI/8MEvRseNRQU/image%25255B32%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-92de094889c4.png",
+    "sha256": "6159ef6d5eaf634eb68c7e57e552b409243e462ada98e2bee20a09b4bdf71977",
+    "bytes": 18353
+  },
+  {
+    "url": "https://lh6.ggpht.com/-386Laxuq5fc/TgW6uvMmjoI/AAAAAAAAE8Y/kW-0tlMUutI/s1600-h/clip_image001%25255B6%25255D.jpg",
+    "posts": [
+      "_posts/2011-06-25-going-portrai.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/going-portrai-8a1b8dda3999.jpg",
+    "sha256": "7f9b0f6f71e482ed96bdfddeb3a29fdd76b007f107eb7ea7020076333207ceaf",
+    "bytes": 189511
+  },
+  {
+    "url": "https://lh6.ggpht.com/-8JjVMmIzvu4/UQ7B_BbP9rI/AAAAAAAAFOQ/tUKRbRbX7WQ/Import%252520Fig.6%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-6b0a931e8874.png",
+    "sha256": "80b6e099dc44eac4373dd67e5794c32b07e9d573f5d21cab64cb9e5db3adedde",
+    "bytes": 25742
+  },
+  {
+    "url": "https://lh6.ggpht.com/-CS2q9WRRPs0/TyW5_X2XzPI/AAAAAAAAE_k/ba6C4pun9y4/s1600-h/clip_image001%25255B10%25255D.jpg",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-90c95ba9d4fa.jpg",
+    "sha256": "7795af2a7be0749120158c2631ee96455a53c8811af314a7861a895e3a08a19c",
+    "bytes": 25806
+  },
+  {
+    "url": "https://lh6.ggpht.com/-CW5y0DM1WoY/UQ7B2auCI9I/AAAAAAAAFLY/Wkmboo8mpr4/Export%252520Fig.2-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-c8f4a320ca30.png",
+    "sha256": "c65d782aba2e62aebe53db32b55c4a30c58a174ec89c461aa2a8c0d16dd976bf",
+    "bytes": 49973
+  },
+  {
+    "url": "https://lh6.ggpht.com/-H18orc9Cnng/UQ7B58L4q-I/AAAAAAAAFMg/cEVlxKrTp7A/Export%252520Fig.6%25255B2%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-6e409c4ee078.png",
+    "sha256": "b7f2b48c8eb3fe7e9904b3e57f3622ff0811c1b7638ca2d0d857b0e44f016415",
+    "bytes": 17013
+  },
+  {
+    "url": "https://lh6.ggpht.com/-JuvIUtjHcLA/TyW5_6a50WI/AAAAAAAAE_s/R_qGSlwRjSQ/clip_image001_thumb%25255B3%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2012-01-29-amiga-future-tank-game-tron-fon.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/amiga-future-tank-game-tron-fon-4e9eeeba9c8c.jpg",
+    "sha256": "7eca3b1b24062e73957e01086261c177a76f7238033dcf457d4b6e7b40c32249",
+    "bytes": 31305
+  },
+  {
+    "url": "https://lh6.ggpht.com/-KDYH0W6GCTk/UQ7Bx0D0E3I/AAAAAAAAFKI/J92lL5qBCZE/Fig.3-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-5bad7005c868.png",
+    "sha256": "75a5f9c9ce3d7291a4a4e193512d2c3081b94ac80bffd02574f1a982e2ddccd9",
+    "bytes": 10605
+  },
+  {
+    "url": "https://lh6.ggpht.com/-MFr4lnqNKT0/UFAT_1lG7II/AAAAAAAAFGY/e-kJDUphsnI/s1600-h/image%25255B7%25255D.png",
+    "posts": [
+      "_posts/2012-09-12-trail-map-image-to-google-ear.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2012/trail-map-image-to-google-ear-f43dfb5a4df7.png",
+    "sha256": "ae6d4caf8c62c5a76304b2b281d5f6ca22f34156f81be3d1cab397e89edc7981",
+    "bytes": 1272138
+  },
+  {
+    "url": "https://lh6.ggpht.com/-NfBz4th8Z2E/TgZQdOB3baI/AAAAAAAAE8w/GjrE8AtptGg/AirClick_Diagram_thumb%25255B9%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-06-25-ode-to-griffin-airclick-usb-radio.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/ode-to-griffin-airclick-usb-radio-1dbe82d2ee0d.png",
+    "sha256": "f8b32b845aa813a569a15955a311e55f62533f07b54ba594a73e6d6cd9d0f9aa",
+    "bytes": 72102
+  },
+  {
+    "url": "https://lh6.ggpht.com/-OlpTLClq3og/T38nYgdIP0I/AAAAAAAAFEQ/A78NY3gdnp8/image%25255B16%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-7c87c96071d2.png",
+    "sha256": "0e711096d3db980d5a1e7e2cfa323f198c3681df698aab83acac85cae8f9465e",
+    "bytes": 28435
+  },
+  {
+    "url": "https://lh6.ggpht.com/-Pkd6zzjWmgs/UQ7BzuPt3vI/AAAAAAAAFKg/ekP-JaFZFO4/Fig.4%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-a4774201da0f.png",
+    "sha256": "3214f778076cb28ae680866d0c2fe1983996d6ca55dad9f2d89a9f6d1c913cd8",
+    "bytes": 29608
+  },
+  {
+    "url": "https://lh6.ggpht.com/-QCXJ9_PDDVg/UQ7B5mA5ViI/AAAAAAAAFMY/3-w8n_VYWx8/Export%252520Fig.6-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-9a86e0420309.png",
+    "sha256": "ab08962a983eefa29c2e862be0e10417b3e15142aeb36954da0b6c9945323cf2",
+    "bytes": 12686
+  },
+  {
+    "url": "https://lh6.ggpht.com/-RQEP-ruCuv4/T3_p5kygQ2I/AAAAAAAAFFM/UhIfFh6dDxU/image57%25255B1%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-9a36e4ce591c.png",
+    "sha256": "81a1c3b7774ba1adefbec1a28c015f8d9b141e9b1746abb23c85d3f1d2638a96",
+    "bytes": 18619
+  },
+  {
+    "url": "https://lh6.ggpht.com/-S_lF7eqlF0s/TusB4TtN-lI/AAAAAAAAE9g/ZJ-3_bI61Aw/s1600-h/image%25255B7%25255D.png",
+    "posts": [
+      "_posts/2011-12-16-cac-smartcard-enabling-aspnet-on-iis.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-72106d86adce.png",
+    "sha256": "280a494aafc1ad43ab39b45df1a35c4c039160e586c15dd78652b9eae21f41de",
+    "bytes": 9015
+  },
+  {
+    "url": "https://lh6.ggpht.com/-U57jI_Yvr_c/UQ7B9zT4rlI/AAAAAAAAFN4/J75tnPVZs9k/Import%252520Fig.5-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-85db0a4da817.png",
+    "sha256": "86c7fa991c5e12969e9f7e96f1a19fcc53edbb20d0386264f73c74dc2ce2d96c",
+    "bytes": 21853
+  },
+  {
+    "url": "https://lh6.ggpht.com/-VPTqmetxNFQ/UQ7B03KM0zI/AAAAAAAAFK4/q6ZBZ78UAyU/Export%252520Fig.8-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-5cb5c3fea9ac.png",
+    "sha256": "7eb42f6a9eb8bc186f8f19924bd712ef47554ac8d37a1bd8d244c7840489345c",
+    "bytes": 104458
+  },
+  {
+    "url": "https://lh6.ggpht.com/-VTEvBKOBA-0/T3zVNdS0G3I/AAAAAAAAFCw/sMH40j4yoNM/image%25255B56%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-0e36bd8301bd.png",
+    "sha256": "a7265e7a120d8dd076cbfc4bb5618eb8817887e7aa77d39621deaaf040517dbd",
+    "bytes": 46229
+  },
+  {
+    "url": "https://lh6.ggpht.com/-fN2AO5a_6OU/UYGeHcI_Y0I/AAAAAAAAFPo/IJeakBc3Q2M/440%25255B5%25255D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2013-05-01-trailer-hitch-bike-rack.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/trailer-hitch-bike-rack-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "4c33cb39a6989b85c62b06ca0b2b00e40dca20c5cd224e1dc23c0d7abc387655",
+    "bytes": 36910
+  },
+  {
+    "url": "https://lh6.ggpht.com/-gxAUjl1kPXE/UgclSVxZY7I/AAAAAAAAFUc/1iGd2E35W18/s1600-h/DSC_0967-50%252525%25255B5%25255D.jpg",
+    "posts": [
+      "_posts/2013-08-11-bbr900bl-koldfront-80-by-edgestar.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2013/bbr900bl-koldfront-80-by-edgestar-df256f2db7a2.jpg",
+    "sha256": "4e2e212f50e3cb194d9527ec9998abc56dd792ead8b4ec4b81ad078a5e9c8c55",
+    "bytes": 76712
+  },
+  {
+    "url": "https://lh6.ggpht.com/-niqKmY68t9o/UhpHnXT6cgI/AAAAAAAAFVU/PgmIvRftPAE/image_thumb%25255B8%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2011-06-25-evolving-custom-sqlclientnet-datalayer.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/evolving-custom-sqlclientnet-datalayer-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "1dfe90c7fa3d0d7094fe9d0916ef264b09e872266b0a530ff8ae4aea9a0ac5c0",
+    "bytes": 102140
+  },
+  {
+    "url": "https://lh6.ggpht.com/-oZM2VlEXQJk/T38nbz7PzaI/AAAAAAAAFEw/wZjqwM-bgXs/image%25255B5%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-b49102aaa1d3.png",
+    "sha256": "dab7d0e307ac69381e841e87d254ec40aee540a7053827da9138ec62dce4dd4f",
+    "bytes": 62142
+  },
+  {
+    "url": "https://lh6.ggpht.com/-xQqL2GuvB4A/UQ7B2OHXzpI/AAAAAAAAFLQ/HVmdGtolT8s/Fig.6%25255B4%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-6eb97a584bb4.png",
+    "sha256": "96a32f7e1a476c556a612ddc37807610f8b904332d70a9843576c57aec20981b",
+    "bytes": 38341
+  },
+  {
+    "url": "https://lh6.ggpht.com/-xezFUKSaSj0/T3zVLdqgMDI/AAAAAAAAFCY/E9bpFYiwi6k/image%25255B9%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2012/samsung-galaxy-tab-77-p6800-2bbf3ea3ead9.png",
+    "sha256": "3ea1f94850e87d58674047e401643d5b5dd76f70fbe224ced319ab7627b5964b",
+    "bytes": 13086
+  },
+  {
+    "url": "https://lh6.ggpht.com/-yDLl-x7s-XU/UQ7B4BFfeFI/AAAAAAAAFL4/_jRRwciiv8A/Export%252520Fig.4-8x6.png?imgmax=800",
+    "posts": [
+      "_posts/2013-02-03-enable-ssl-connections-to-sql-server.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/enable-ssl-connections-to-sql-server-e4d830b6b0a8.png",
+    "sha256": "b2d06e1852665d1ab0390ab5d836450f16645ef4b5a5c738219d1761f630d6c7",
+    "bytes": 26212
+  },
+  {
+    "url": "https://lh6.ggpht.com/-zUTVJtFe3sE/UZwQMBZJtII/AAAAAAAAFTM/cJyifG1u-Fo/image%25255B26%25255D.png?imgmax=800",
+    "posts": [
+      "_posts/2013-05-01-roof-cargo-box.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/roof-cargo-box-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "9aed6efa864b18a914bb8989ca22f8dfa0ced9eaab7d59a0bb6f808572415fb3",
+    "bytes": 150232
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/S1HIP2OFCxI/AAAAAAAAErk/kZPLR3w6v0U/00919224000%5B2%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2010-01-14-portable-air-compressor-hose-off-the.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/portable-air-compressor-hose-off-the-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "a99ea3edcb03597e6a3d96457a357a619c6c7d4cfd34cbd72ba165f568d9b0af",
+    "bytes": 23899
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/S1HIW8nZ9mI/AAAAAAAAErw/7zfHmym2pBA/51RKJN1S99L._SS500_%5B2%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2010-01-14-portable-air-compressor-hose-off-the.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/portable-air-compressor-hose-off-the-ac90ba4ef99b.jpg",
+    "sha256": "3fac8f051c35a23ee0d97d1130fd7447741a6a845409be739499a3a0faf451df",
+    "bytes": 17338
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/SWcrt5E7KmI/AAAAAAAACq4/W3QaS1nSj8w/image_thumb%5B4%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2009-01-09-volume-shadow-copy-service-is-pretty.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/volume-shadow-copy-service-is-pretty-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "fe6c3adf559a90d5d7700d092bde7e7a1a4aaca78ce965db66a9f42a284ea8d6",
+    "bytes": 95589
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/SWcrug3QWLI/AAAAAAAACq8/XKNsB8m6hWE/s1600-h/image%5B6%5D.png",
+    "posts": [
+      "_posts/2009-01-09-volume-shadow-copy-service-is-pretty.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/volume-shadow-copy-service-is-pretty-01c433c80a15.png",
+    "sha256": "c66a1cf1175d80411b2e01eef58cd6a742e2d474534705fc92a6c9e36810f262",
+    "bytes": 109620
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/SWcrvEHCkDI/AAAAAAAACrA/gZOwwHWyOpA/image_thumb%5B2%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2009-01-09-volume-shadow-copy-service-is-pretty.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/volume-shadow-copy-service-is-pretty-39e73be89589.png",
+    "sha256": "91815d14302790d7eefda97f65aa0e04287b880de142506daef6a65604bcbf8f",
+    "bytes": 75943
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/ScvX--jTD_I/AAAAAAAACr0/qvC1p_EPgmw/image_thumb%5B8%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2009-03-26-powershell-fin-rocks.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/powershell-fin-rocks-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "b946463ace2d7466dc7a2b53ac15df039dd4e0c3b7ca5911b5aa9c230b3dae2e",
+    "bytes": 33686
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/SdqRvnBRMqI/AAAAAAAACs0/Og8icqoaIUc/image%5B22%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2009-04-06-webdrive-webdav-client-that-actually.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/webdrive-webdav-client-that-actually-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "efe0055e4a953f5470c3e46649a7a44466e799252270236765b6f30a8bccba9b",
+    "bytes": 11343
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/SoBuG7AqflI/AAAAAAAAEkU/FUaanHNj0uE/s1600-h/image%5B6%5D.png",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-58245c1b2948.png",
+    "sha256": "d1609aa8973e23775b8d872f3a73666343c408042b2f62871b00e0bdff519613",
+    "bytes": 10190
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/Sqi145EKcNI/AAAAAAAAEkw/GuIA9J2YsaQ/OtterBox%5B14%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-e4b33ab41b5b.png",
+    "sha256": "87e1234cc4b374d4364ea390c798439dda0c52478a67b14316d4ab4c727e7439",
+    "bytes": 67975
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/SvLcoIPHdvI/AAAAAAAAEoc/gDM8bWP2fxo/s1600-h/image%5B13%5D.png",
+    "posts": [
+      "_posts/2009-11-05-yet-another-simple-audit-table-approac.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2009/yet-another-simple-audit-table-approac-3496c4e08788.png",
+    "sha256": "78591bec6b989e43ff452a568f9a84a1ea2c3651e4426f1b934727248acd7366",
+    "bytes": 5754
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TBKOXVna2hI/AAAAAAAAEtk/022y85xUngM/s1600-h/image%5B6%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-76a1c1f34caf.png",
+    "sha256": "5b2382ffdee5af1b8a113a3f2db65363799982ca64fc466e011d5393a0251596",
+    "bytes": 41097
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TBKOb1eIATI/AAAAAAAAEuA/SOLWg1nkFM0/image_thumb%5B12%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-13cdda919813.png",
+    "sha256": "b7df7999842e96cbca2de0cb4d13361e4562fd03d6577a46e867e9698eeff085",
+    "bytes": 76770
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TBKOel7djiI/AAAAAAAAEuU/k1Eoa7TN3BI/s1600-h/image%5B77%5D.png",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-06f10d39e0e0.png",
+    "sha256": "01a84b37d70a3473b74f77562c4838925eefcdfb940f81db6e4adf80702a054e",
+    "bytes": 153787
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TBKOgO8L6uI/AAAAAAAAEuk/wBZxXB7hS1E/image_thumb%5B17%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-06-11-free-itunes-album-cover-artwork-embed.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/free-itunes-album-cover-artwork-embed-4d61914c8712.png",
+    "sha256": "d79500349c680fe644d4abbb19fa026062a83f3c90af8d906525ed30808a945f",
+    "bytes": 21683
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TQft-g9YLLI/AAAAAAAAE1w/bYsoWDaKe3I/image_thumb%5B4%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2010-12-14-overclocking-skeletor-q9450-round-2.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/overclocking-skeletor-q9450-round-2-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "f98cca6eb2abc65d908c5c548a372c44dbeaa98214930c179b51d1278c0a5e02",
+    "bytes": 106409
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TQft93EjkvI/AAAAAAAAE1s/kzXJGe5OE8k/s1600-h/image%5B6%5D.png",
+    "posts": [
+      "_posts/2010-12-14-overclocking-skeletor-q9450-round-2.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/overclocking-skeletor-q9450-round-2-b37f0b66e8c0.png",
+    "sha256": "7d5ce295dc6235a8ac3913dfe9ecac946097890743a7deafdb4ce6bc2a7da05d",
+    "bytes": 45374
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TQft_bMlvaI/AAAAAAAAE10/Ab_kFcApNA8/s1600-h/image%5B11%5D.png",
+    "posts": [
+      "_posts/2010-12-14-overclocking-skeletor-q9450-round-2.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2010/overclocking-skeletor-q9450-round-2-582d307c0c4b.png",
+    "sha256": "139a0bf0fec558e583230e532287be09d49106f2fb983d9907f8a3d27b3e3aa7",
+    "bytes": 28292
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TSeozl0YkTI/AAAAAAAAE2s/lT6d3eKpxtI/DSCF3253-2816x2112_thumb%5B1%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2009-10-20-open-air-pc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/open-air-pc-591be9db5189.jpg",
+    "sha256": "209e7f1e8899a61833597709ef56702ed74570f3316c75f1fe6a62b94a6040cd",
+    "bytes": 45637
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TWgKk-tqiNI/AAAAAAAAE3o/W_U9nSnCAKE/DSCF5030%20-%20closeup%5B6%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/highpoint-rocketraid-620-indeed-works-ba67708bac97.jpg",
+    "sha256": "0c8f854b2849d6791d1161df7aa5546883f4aade7e824dc5ceb63d0f58a16a27",
+    "bytes": 103086
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TWpLx0SUFKI/AAAAAAAAE3s/Yu2z1DC3zcg/image%5B5%5D.png?imgmax=800",
+    "posts": [
+      "_posts/2008-08-31-samsung-q1u-umpc.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/samsung-q1u-umpc-2f366894ba56.png",
+    "sha256": "d758f16e9996e32593d34ad4bb2278304d81c320577c0ba71dc0efdd206108ca",
+    "bytes": 78820
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TWqy3u7ho_I/AAAAAAAAE3w/epzuXvX4jho/s1600-h/P1050814%20-%20closeup%5B5%5D.jpg",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "method": "downloaded-fullsize-variant",
+    "local": "/images/uploads/2011/highpoint-rocketraid-620-indeed-works-59b28cc19493.jpg",
+    "sha256": "c8c19dde06dd462b803a79ba8f8dc4fec31d97bba8cd975b3fd3c8c1f33d200f",
+    "bytes": 146940
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TWqy4CC345I/AAAAAAAAE30/0Pde2kf9TV8/P1050814%20-%20closeup_thumb%5B3%5D.jpg?imgmax=800",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2011/highpoint-rocketraid-620-indeed-works-9464db999d93.jpg",
+    "sha256": "f6aecfbc1434516c6b7e7fabf8873005b244f5c6f43310ac1ef87981794b6441",
+    "bytes": 114753
+  },
+  {
+    "url": "https://lh6.ggpht.com/_XlySlDLkdOc/TXzwgf_A87I/AAAAAAAAE7E/m4T7SO-SHE0/image15.png?imgmax=800",
+    "posts": [
+      "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/cree-led-based-bicycle-lights-and-3d3b8fea9964.png",
+    "sha256": "4d2871c616a46d5db067e9e1f222efa808b6d99573d7d2d2f744935d9ff518eb",
+    "bytes": 96903
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/ATX_ITX_AT_Motherboard_Compatible_Dimensions.svg",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-927d1c98d447.svg",
+    "sha256": "7b30e2395c73ddf64b0ba3b9d0ef306e09bcc17d1ea61ba1f09c1e3e578dd853",
+    "bytes": 29098
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/232090343-b9a6e517-2506-4c3a-8ce2-c9227f879b4e.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-68ce4be51c6b.png",
+    "sha256": "e835ee99f245c3dcf1d7b4001da7f6f5b35e6d891b1ed385ce32b31a6511cc0b",
+    "bytes": 1586115
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/27511287-5b6a73f0-58d5-11e7-82fa-05d992b82e60.png",
+    "posts": [
+      "_posts/2015-04-05-osx-v2p.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/osx-v2p-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "1471e313c5a54d13b984eeb95a9911b5d574be1bf45a3a39fd16c6d92e71811e",
+    "bytes": 112747
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/41195268-d1ae3e1c-6bde-11e8-8dd7-2fe351d26bab.png",
+    "posts": [
+      "_posts/2009-11-01-perfect-desktop.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2009/perfect-desktop-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "dcd3a3f4dc5ca5672bce4e5df71f78833261bd4ad29e87f5df20a78eef09bca8",
+    "bytes": 210880
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/45711128-6e233380-bb3d-11e8-9d5f-adb141b7522a.png",
+    "posts": [
+      "_posts/2015-12-20-powershell-photo-slideshow.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/powershell-photo-slideshow-8d8687eb3d94.png",
+    "sha256": "3ba09206cc688665fd92acf7f583a6a60699a95b7f608eceffad8daf39a5b068",
+    "bytes": 24825
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/45711239-c5c19f00-bb3d-11e8-967c-a929a3fe5e35.png",
+    "posts": [
+      "_posts/2015-12-20-powershell-photo-slideshow.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2015/powershell-photo-slideshow-5c569b90369a.png",
+    "sha256": "fa1164175decc186ac2e2e80852ddf25f9cb65a6987d1f15d36ba2fd77edcb70",
+    "bytes": 52176
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/45936451-7b8c5380-bf6b-11e8-87fd-bcb41f4a48d1.png",
+    "posts": [
+      "_posts/2013-08-11-bbr900bl-koldfront-80-by-edgestar.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/bbr900bl-koldfront-80-by-edgestar-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "7742ad5cf029453d4a41614e6944b34c6fd7727b24926a09676188dfea0d04d3",
+    "bytes": 164741
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/45936469-c5753980-bf6b-11e8-81ed-435f6dbe69bb.png",
+    "posts": [
+      "_posts/2013-08-11-bbr900bl-koldfront-80-by-edgestar.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2013/bbr900bl-koldfront-80-by-edgestar-3c1f03e628e0.png",
+    "sha256": "8e108b7afe44c7071492b76191675d5f447ac7c12bf8c4e61367d31e3f105822",
+    "bytes": 532451
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/60238832-9411fd00-9860-11e9-81d3-de5d47392de7.png",
+    "posts": [
+      "_posts/2010-09-10-ms-project-101-for-developers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/ms-project-101-for-developers-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "56555374004f00306757965af084cb02605bf4d8b01a7a7d69ffaffcc166d1e3",
+    "bytes": 78848
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/61926845-3805cb80-af27-11e9-9d45-774d6e673f3b.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-d62da7e6cf6f.png",
+    "sha256": "095453e9eb42a94128c77734d63e88f934fbb62dd690e501a7b338b26786b764",
+    "bytes": 3240904
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/61926906-78fde000-af27-11e9-9a90-f62c0eca7a34.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-39b244b451fd.png",
+    "sha256": "80bcbfd49bea22f49541cac63a733a0a11ce7d100fdbb5f0452840b36f3160ef",
+    "bytes": 3404214
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/62012493-e71af080-b13b-11e9-9957-6ef88e03d005.jpg",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "084fe345046925a97d5762736b9763d4035f011b83950f01471d449463b46502",
+    "bytes": 48617
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64915665-1227c680-d721-11e9-9e59-30fa51b537aa.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-fab74f545d12.png",
+    "sha256": "629a6581926fbd31ea56fd74b72f29604b0db8ad2bc9efc60fb5ad6daec2a62e",
+    "bytes": 335383
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64915747-4d2af980-d723-11e9-831d-cf6d8af2625b.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-9299a1abccb4.png",
+    "sha256": "ec2c8a978d6396f35a9382dabdb1f0ce6b3a925a2d282f7afb04ed1918a3175b",
+    "bytes": 231460
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64916116-a1d27280-d72b-11e9-99fc-fb6a967ed446.JPG",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-df8a0320221c.jpg",
+    "sha256": "521933f3a54678ab0ec18e285cadacd1c6712ad88732b9a62bb7f1fbe9f90039",
+    "bytes": 2128634
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64916135-1e655100-d72c-11e9-9e2e-211004a9ada3.JPG",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-95c96928f235.jpg",
+    "sha256": "2c9c8acc9b6c37c62405d8b7c12904366bbf3f11df1e3d982eb1c09fd16bdfbd",
+    "bytes": 1578188
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64916161-1823a480-d72d-11e9-9c2b-82756caa4ba2.jpg",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-61b029d6a3be.jpg",
+    "sha256": "a87350a46b983311b2bec9e47b5bfcfbd76961de9727990b163318a8f53a8b16",
+    "bytes": 189517
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64916167-4ef9ba80-d72d-11e9-8ceb-838ca34487e0.JPG",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-832998f36ec7.jpg",
+    "sha256": "5fbdcc6c6d41e4c401f8c7646992f6d6c7a427d3f910239424dd026e34534c4e",
+    "bytes": 1331753
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64916185-a3049f00-d72d-11e9-995c-7d62f2b3a835.JPG",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-b2910747c04a.jpg",
+    "sha256": "8cd3a77adb5da3b4d2619b954f8926d9bc3b1f561db49c9e5af19703f4afa671",
+    "bytes": 1988395
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64916189-adbf3400-d72d-11e9-9ca4-4f37efdaa879.JPG",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-1e197c2e3b19.jpg",
+    "sha256": "9c9114a94fd9153307b726f5647be0553905dfc941341f495a3c9c6c42bfc937",
+    "bytes": 1391300
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/64924190-a5e7aa00-d796-11e9-880c-c9f2498ba540.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-fe853e4e71f4.png",
+    "sha256": "67277fce3265f8345d6dcabe18e07421acbc161b0e8bcc551506c5fd0e7263f9",
+    "bytes": 65317
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/70576016-a8229000-1b5c-11ea-9821-e3bdf97c84a4.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-bfb7b3d791f7.png",
+    "sha256": "3d139dd5fdd4d6d12d2587cf07696812c5fc9e4377aa9d1e2e75bc7e726596f5",
+    "bytes": 5009151
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/70576206-2d0da980-1b5d-11ea-8488-0ff2375b220c.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-aa117f491387.png",
+    "sha256": "632b845486dbca0fbd319a451e27be9b2beb5c6f6fe993ed3598a1c18f00374d",
+    "bytes": 3504642
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/70576324-76f68f80-1b5d-11ea-93b9-bf33337ca919.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-ed6c044aabe5.png",
+    "sha256": "0112c3a5bc48794a7d7d51ac8b94ecbfef0a138d2c0224a9b63f474ccbf04978",
+    "bytes": 3373007
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/70576462-d3f24580-1b5d-11ea-82ca-19fdcf702c5b.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-c9145631477d.png",
+    "sha256": "b4188c85f5634c7740cf7eb17b90ea4e00369479945bb579998eba2b8e63d2e6",
+    "bytes": 3350712
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/70576900-eae56780-1b5e-11ea-8425-07689a009bb8.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2019/gBox-resurrected-1abb06a29ab1.png",
+    "sha256": "da3c8511a24ab68ae1731ad1092d05909a2662203562bf2b983eb92ff993eb47",
+    "bytes": 3237308
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/82738751-05676380-9cef-11ea-89ae-e6574e057c28.png",
+    "posts": [
+      "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/logitech-s715i-portable-ipod-speakers-6b2b57a7a545.png",
+    "sha256": "1423e31a51b1c55238cf503b0a0163eab6572524934433d91d874cfecc47355e",
+    "bytes": 99544
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/82738766-1f08ab00-9cef-11ea-9e79-a00c35c7309b.png",
+    "posts": [
+      "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/logitech-s715i-portable-ipod-speakers-thumbnail.png",
+    "deduplicated": true,
+    "sha256": "0e64f5f935e96c5367e95eedcd26c64033d2577f05ba0a9febd0091c09bb3a20",
+    "bytes": 125560
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/82738781-30ea4e00-9cef-11ea-827c-c498842577e3.png",
+    "posts": [
+      "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/logitech-s715i-portable-ipod-speakers-221455dc289c.png",
+    "sha256": "f6fdd8fde35c9f7f9a8f3fb8cc8cb1aae05f636378a01881e006fe28d3b0aa95",
+    "bytes": 110913
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/82738785-3a73b600-9cef-11ea-997b-80e84d305061.png",
+    "posts": [
+      "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/logitech-s715i-portable-ipod-speakers-c441dc975d5f.png",
+    "sha256": "ce17808e28ebe06fdef2fa4e95bafb8b2fd8e56c81d3f1d414cebdf04b08e709",
+    "bytes": 101939
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/82739654-1798d000-9cf6-11ea-854c-b78422536961.png",
+    "posts": [
+      "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/logitech-s715i-portable-ipod-speakers-59d6d1d4ff91.png",
+    "sha256": "f601b781037c9da7d64954794d8313b8cc2e7b737d27514cb83fdbba32530ff1",
+    "bytes": 286018
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/82740258-f6d37900-9cfb-11ea-91d6-906c61dc9f16.png",
+    "posts": [
+      "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/logitech-s715i-portable-ipod-speakers-75493a3c6c04.png",
+    "sha256": "660bd70bb9f1ccd32a37e792a3d74e14517f0c09ffdfd51acd4c4eb3a511911e",
+    "bytes": 223919
+  },
+  {
+    "url": "https://user-images.githubusercontent.com/6301228/82740701-140a4680-9d00-11ea-82f0-d2122db776a3.png",
+    "posts": [
+      "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2010/logitech-s715i-portable-ipod-speakers-330ad055f7b2.png",
+    "sha256": "610b75a252ff1624d82fa04cb267476d193c7ab2c4b5a720458323f94193e6b7",
+    "bytes": 92126
+  },
+  {
+    "url": "https://www.asrock.com/mb/photo/Z390%20Phantom%20Gaming-ITXac(L4).png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "direct_error": "Response is not a recognized image",
+    "archive_errors": [],
+    "local": "/images/uploads/2019/unavailable-c1f1cb47c6b8.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "https://www.corsair.com/medias/sys_master/images/images/h07/h21/9112508497950/-CP-9020182-NA-Gallery-SF600-09.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "direct_error": "HTTP Error 404: Not Found",
+    "method": "internet-archive",
+    "archive_url": "https://web.archive.org/web/20210717231440id_/https://www.corsair.com/medias/sys_master/images/images/h07/h21/9112508497950/-CP-9020182-NA-Gallery-SF600-09.png",
+    "local": "/images/uploads/2019/gBox-resurrected-c25d5516d1c8.png",
+    "sha256": "72b210d8174f40b5d5942d5de87271876ed5f872db72b7630149d58343b38690",
+    "bytes": 988459
+  },
+  {
+    "url": "https://www.corsair.com/medias/sys_master/images/images/h8d/h78/9110765076510/-CW-9060024-WW-Gallery-H80i-01.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "direct_error": "HTTP Error 404: Not Found",
+    "method": "internet-archive",
+    "archive_url": "https://web.archive.org/web/20210119223517id_/https://www.corsair.com/medias/sys_master/images/images/h8d/h78/9110765076510/-CW-9060024-WW-Gallery-H80i-01.png",
+    "local": "/images/uploads/2019/gBox-resurrected-4efebca54390.webp",
+    "sha256": "ac70f2cf9b3c6a9cb54c7626ba799b08d52674f6d8786749fe28c79383e4a5a5",
+    "bytes": 76982
+  },
+  {
+    "url": "https://www.corsair.com/medias/sys_master/images/images/hfd/h03/9110470361118/-CMD32GX4M2C3200C16-Gallery-DOM-DDR4-PLAT-002.png",
+    "posts": [
+      "_posts/2019-07-24-gBox-resurrected.md"
+    ],
+    "direct_error": "HTTP Error 404: Not Found",
+    "archive_errors": [],
+    "local": "/images/uploads/2019/unavailable-935a8c8aa5de.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  },
+  {
+    "url": "https://www.hanselman.com/blog/content/binary/transparentcommentprompt_thumb.jpg",
+    "posts": [
+      "_posts/2008-07-24-transparent-command-shell-windows.md"
+    ],
+    "method": "downloaded",
+    "local": "/images/uploads/2008/transparent-command-shell-windows-thumbnail.jpg",
+    "deduplicated": true,
+    "sha256": "828b291a2853e546e8a6bb4713e67b8bbff885218d4afac0ccca90802b564b03",
+    "bytes": 33967
+  },
+  {
+    "url": "https://www.virgulestar.com/Photos/Hardware/HighPoint%20RocketRAID%20620/DSCF5030.JPG",
+    "posts": [
+      "_posts/2011-02-24-highpoint-rocketraid-620-indeed-works.md"
+    ],
+    "direct_error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "archive_errors": [],
+    "local": "/images/uploads/2011/unavailable-ed629e7f8d88.svg",
+    "method": "unavailable-placeholder",
+    "unresolved": true
+  }
+]

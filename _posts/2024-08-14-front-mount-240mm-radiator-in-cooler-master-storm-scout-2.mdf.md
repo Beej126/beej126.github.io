@@ -1,7 +1,6 @@
 ---
 title: "Front Mount 240mm Radiator in Cooler Master Storm Scout 2"
 date: 2024-08-14
-type: post
 author: Beej
 tags:
   - Hardware

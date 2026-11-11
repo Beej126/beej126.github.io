@@ -1,17 +1,9 @@
 ---
 title: Shred GPX WPT XML with SQL Server
+date: 2016-03-16
 author: Beej
-type: post
-date: 2016-03-16T23:32:21+00:00
-year: "2016"
-month: "2016/03"
-url: /2016/03/shred-gpx-wpt-xml-with-sql-server.html
-dsq_thread_id:
-  - 5572386628
-categories:
 tags:
   - Database
-
 ---
     declare @xml xml = '<gpx>
     <wpt lat="35.0977419" lon="-80.89258">

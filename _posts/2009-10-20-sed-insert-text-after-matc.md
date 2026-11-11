@@ -1,30 +1,10 @@
 ---
 title: SED – Insert text after match
+date: 2009-10-20
 author: Beej
-type: post
-date: 2009-10-20T19:50:00+00:00
-year: "2009"
-month: "2009/10"
-url: /2009/10/sed-insert-text-after-matc.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7853496036489843822
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 1
-blogger_permalink:
-  - /2009/10/sed-insert-text-after-match.html
-dsq_thread_id:
-  - 5508631652
-categories:
 tags:
   - CommandLine
   - Database
-
 ---
 General syntax:
 

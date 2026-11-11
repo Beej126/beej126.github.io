@@ -1,21 +1,9 @@
 ---
 title: Launch .CSX as conveniently as .BAT files
+date: 2016-11-21
 author: Beej
-type: post
-date: 2016-11-22T05:33:56+00:00
-year: "2016"
-month: "2016/11"
-url: /2016/11/csx-like-bat.html
-snapEdIT:
-  - 1
-snapTW:
-  - 's:162:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";'
-dsq_thread_id:
-  - 5540890490
-categories:
 tags:
   - CommandLine
-
 ---
 first, get [Chocolatety][1] if you don't already have... killer handy
 
@@ -65,5 +53,5 @@ with all that fun stuff in place, we can finally do something nifty like this:
  [3]: file://C:/Program+Files+(x86)/MSBuild/14.0/Bin
  [4]: https://technet.microsoft.com/en-us/library/bb490912.aspx
  [5]: https://jpsoft.com/tccle-cmd-replacement.html
- [6]: https://cloud.githubusercontent.com/assets/6301228/20498893/cd6d1340-afe3-11e6-9703-d0dddee7723a.png
+ [6]: /images/uploads/2016/csx-like-bat-6cadd56d11ae.png
  [7]: /?s=csx

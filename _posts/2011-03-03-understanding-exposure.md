@@ -1,42 +1,14 @@
 ---
 title: Understanding Exposure
+date: 2011-03-03
 author: Beej
-type: post
-date: 2011-03-03T17:42:00+00:00
-year: "2011"
-month: "2011/03"
-url: /2011/03/understanding-exposure.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 3976496148497249655
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2011/03/understanding-exposure.html
-blogger_thumbnail:
-  - https://1.bp.blogspot.com/-DhDRqPYeNFQ/VA8YPdDh76I/AAAAAAAAJWY/TD99N1PaXHM/s1600/light_meter.png
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5753667113
-categories:
 tags:
   - Photography
-
-thumbnail-img: https://lh5.ggpht.com/_XlySlDLkdOc/TW-YLaRs_JI/AAAAAAAAE4o/XjYPHv3ukxE/Understanding%20Exposure%2C%203rd%20Edition%20-%20Bryan%20Peterson%20%282010.08%29%20-cover%20image%5B7%5D.jpg?imgmax=800
+thumbnail-img: /images/uploads/2011/understanding-exposure-thumbnail.jpg
 ---
 This is book by Bryan Peterson was nicely approachable
 
-[![Understanding Exposure, 3rd Edition - Bryan Peterson (2010.08) -cover image](https://lh5.ggpht.com/_XlySlDLkdOc/TW-YLaRs_JI/AAAAAAAAE4o/XjYPHv3ukxE/Understanding%20Exposure%2C%203rd%20Edition%20-%20Bryan%20Peterson%20%282010.08%29%20-cover%20image%5B7%5D.jpg?imgmax=800)](https://www.amazon.com/gp/product/0817439390?ie=UTF8&tag=httpwwwbeejbl-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0817439390)  
+[![Understanding Exposure, 3rd Edition - Bryan Peterson (2010.08) -cover image](/images/uploads/2011/understanding-exposure-thumbnail.jpg)](https://www.amazon.com/gp/product/0817439390?ie=UTF8&tag=httpwwwbeejbl-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0817439390)  
 **ISBN-10:** 0817439390  
 **ISBN-13:** 978-0817439392
 

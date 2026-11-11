@@ -1,14 +1,7 @@
 ---
-url: /2018/06/pure-css-expander.html
 title: "Minimal Pure CSS Expand/Collapse Widget"
+date: 2018-06-03
 author: Beej
-type: post
-description: ""
-date: 2018-06-03T14:16:00-07:00
-year: "2018"
-month: "2018/06"
-thumbnail: ""
-categories:
 tags:
   - WebDev
 ---

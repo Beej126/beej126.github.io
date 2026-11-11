@@ -1,11 +1,10 @@
 ---
 title: Overclocking ‘Skeletor’ Q9540 v1.0
-author: Beej
-type: post
 date: 2010-09-23
+author: Beej
 tags:
   - Hardware
-thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TJvSjY6bYqI/AAAAAAAAExw/_b2V82SAEZA/image_thumb%5B2%5D.png?imgmax=800
+thumbnail-img: /images/uploads/2010/overclocking-skeletor-q9540-v10-thumbnail.png
 ---
 
 Update - 14 Dec 2010: <a href="/overclocking-skeletor-q9450-round-2/" target="_blank">Round 2 here</a> <a href="/open-air-pc/" target="_blank">Photos of the rig</a> Well I just spent a few hours racking up some serious negative wifey points to see what I could see at the end of the OC rainbow 🙂 Current CPU specs: 
@@ -97,7 +96,7 @@ Update - 14 Dec 2010: <a href="/overclocking-skeletor-q9450-round-2/" target="_b
     </td>
     
     <td>
-      <a href="https://lh4.ggpht.com/_XlySlDLkdOc/TJvSiVADv5I/AAAAAAAAExs/QZ1wfrcN29g/s1600-h/image%5B4%5D.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="https://lh4.ggpht.com/_XlySlDLkdOc/TJvSjY6bYqI/AAAAAAAAExw/_b2V82SAEZA/image_thumb%5B2%5D.png?imgmax=800" width="379" height="348" /></a>
+      <a href="/images/uploads/2010/overclocking-skeletor-q9540-v10-fd08cc13129a.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2010/overclocking-skeletor-q9540-v10-thumbnail.png" width="379" height="348" /></a>
     </td>
   </tr>
 </table>

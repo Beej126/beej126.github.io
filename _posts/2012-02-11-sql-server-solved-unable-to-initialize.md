@@ -1,37 +1,10 @@
 ---
 title: 'SQL Server – [SOLVED] “Unable to initialize SSL encryption because a valid certificate could not be found, and it is not possible to create a self-signed certificate."'
+date: 2012-02-11
 author: Beej
-type: post
-date: 2012-02-11T18:44:00+00:00
-year: "2012"
-month: "2012/02"
-url: /2012/02/sql-server-solved-unable-to-initialize.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 4877657592610546154
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2012/02/sql-server-solved-unable-to-initialize.html
-blogger_thumbnail:
-  - https://lh6.ggpht.com/-GWYFCTiBYhs/Tza6-xQQACI/AAAAAAAAFB0/3XcFzrprRBg/Snap3%25255B6%25255D.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:244:"a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:19:"%TITLE% - %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5508631624
-categories:
 tags:
   - Database
-
+thumbnail-img: /images/uploads/2012/sql-server-solved-unable-to-initialize-thumbnail.png
 ---
 ### TL;DR
 
@@ -78,7 +51,7 @@ In a blatant attempt to cast a wide net on search hits, here’s a typical sql l
 | 2012-02-10 09:57:09.09 | Server | SQL Server could not spawn FRunCM thread. Check the SQL Server error log and the Windows event logs for information about possible related problems.                                              |
 
  [1]: #cert
- [2]: //lh6.ggpht.com/-GWYFCTiBYhs/Tza6-xQQACI/AAAAAAAAFB0/3XcFzrprRBg/Snap3%25255B6%25255D.png?imgmax=800 "Snap3"
+ [2]: /images/uploads/2012/sql-server-solved-unable-to-initialize-thumbnail.png "Snap3"
  [3]: https://twitter.com/thinkglobally/status/783435120145346560
  [4]: https://www.microsoft.com/download/en/confirmation.aspx?id=17275
- [5]: //lh4.ggpht.com/-o7bEJ_P9Hlk/Tza6_lHroPI/AAAAAAAAFCM/kZbUN1QgPbQ/Snap1%25255B13%25255D.png?imgmax=800 "Snap1"
+ [5]: /images/uploads/2012/sql-server-solved-unable-to-initialize-34a5825b8857.png "Snap1"

@@ -1,44 +1,14 @@
 ---
 title: Samsung Galaxy Tab 7.7 (P6800)
+date: 2012-04-04
 author: Beej
-type: post
-date: 2012-04-05T06:12:00+00:00
-year: "2012"
-month: "2012/04"
-url: /2012/04/samsung-galaxy-tab-77-p6800.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 8937791364339045159
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 2
-blogger_permalink:
-  - /2012/04/samsung-galaxy-tab-77-p6800.html
-blogger_thumbnail:
-  - https://lh3.ggpht.com/-KN-mAI8kB08/T3zVJXv5T8I/AAAAAAAAFCQ/qdSMVGcQg8Y/image%25255B10%25255D.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5508631601
-categories:
 tags:
   - Android
   - eReading
   - Hardware
   - Mapping
   - Outdoors
-
-thumbnail-img: https://lh3.ggpht.com/-KN-mAI8kB08/T3zVJXv5T8I/AAAAAAAAFCQ/qdSMVGcQg8Y/image%25255B10%25255D.png?imgmax=800
+thumbnail-img: /images/uploads/2012/samsung-galaxy-tab-77-p6800-thumbnail.png
 ---
 (My previous go to device, the [Samsung Q1 Ultra](/2008/08/samsung-q1u-umpc.html).&nbsp; She served us well. 🙂 Have we come a long way in 5 _short_ years??? 
 
@@ -69,7 +39,7 @@ Some rather obscure downsides I’ve noticed so far:
 <tr>
 <td valign="top">
 <div align="center">
-  The Tablet 🙂 <br /><a href="https://www.amazon.com/gp/product/B006UAOE42" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh3.ggpht.com/-KN-mAI8kB08/T3zVJXv5T8I/AAAAAAAAFCQ/qdSMVGcQg8Y/image%25255B10%25255D.png?imgmax=800" width="240" height="193" /></a>
+  The Tablet 🙂 <br /><a href="https://www.amazon.com/gp/product/B006UAOE42" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-thumbnail.png" width="240" height="193" /></a>
 </div>
 </td>
 
@@ -81,7 +51,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  AmazonBasics Stylus <br /><a href="https://www.amazon.com/gp/product/B004GCJEZU" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh6.ggpht.com/-xezFUKSaSj0/T3zVLdqgMDI/AAAAAAAAFCY/E9bpFYiwi6k/image%25255B9%25255D.png?imgmax=800" width="180" height="183" /></a>
+  AmazonBasics Stylus <br /><a href="https://www.amazon.com/gp/product/B004GCJEZU" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-2bbf3ea3ead9.png" width="180" height="183" /></a>
 </div>
 </td>
 
@@ -100,7 +70,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  SanDisk 64GB microSD card<a href="https://www.amazon.com/gp/product/B005V7WIA2" target="_blank"> <br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh3.ggpht.com/-7KGlQYuJQXI/T3zVL1gnv3I/AAAAAAAAFCg/y_EDBJ1x3YA/image%25255B23%25255D.png?imgmax=800" width="240" height="240" /></a>
+  SanDisk 64GB microSD card<a href="https://www.amazon.com/gp/product/B005V7WIA2" target="_blank"> <br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-841e7db20add.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -121,7 +91,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  RAM-Mounts Cradle <br />(RAM-HOL-TAB-SMU)<a href="https://www.gpscity.com/ram-mount-universal-tablet-mount-small-tab-tite-cradle-ram-hol-tab-smu.html" target="_blank"> <br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-i4sW_3TyKBU/T3zVMi4C5-I/AAAAAAAAFCo/Ufuk632ec9U/image%25255B22%25255D.png?imgmax=800" width="180" height="240" /></a> <a href="https://www.gpscity.com/ram-mount-strap-rail-base-with-standard-arm-diamond-assembly.html" target="_blank"><br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-l5-ImFygZRU/T3zfUCUQ_xI/AAAAAAAAFEI/aSMv_E0qCEk/image%25255B5%25255D.png?imgmax=800" width="240" height="216" /></a>
+  RAM-Mounts Cradle <br />(RAM-HOL-TAB-SMU)<a href="https://www.gpscity.com/ram-mount-universal-tablet-mount-small-tab-tite-cradle-ram-hol-tab-smu.html" target="_blank"> <br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-5a234a13e7c2.png" width="180" height="240" /></a> <a href="https://www.gpscity.com/ram-mount-strap-rail-base-with-standard-arm-diamond-assembly.html" target="_blank"><br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-3698507fba96.png" width="240" height="216" /></a>
 </div>
 </td>
 
@@ -138,7 +108,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
   <li>
     For bike handlebars I recommend pairing the cradle with this <a href="https://www.gpscity.com/ram-mount-strap-rail-base-with-standard-arm-diamond-assembly.html" target="_blank">RAM kit comprised of a “strap rail base”, medium arm and diamond plate</a>.
   <li>
-    <a href="https://lh5.ggpht.com/-c2Rqle0T-Dw/T3za2yLRDuI/AAAAAAAAFD4/J635if1Eh48/s1600-h/DSC_5916-50%252525-1530x1701%25255B4%25255D.jpg"><img title="DSC_5916-50%-1530x1701" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="DSC_5916-50%-1530x1701" src="https://lh3.ggpht.com/-kRCnFsoSpBY/T3za3YBR0yI/AAAAAAAAFEA/jrsL0l1haIk/DSC_5916-50%252525-1530x1701_thumb%25255B2%25255D.jpg?imgmax=800" width="378" height="427" /></a>
+    <a href="/images/uploads/2012/samsung-galaxy-tab-77-p6800-2b706c0feee1.jpg"><img title="DSC_5916-50%-1530x1701" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="DSC_5916-50%-1530x1701" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-32f40929f338.jpg" width="378" height="427" /></a>
   </li>
 </ul>
 </td>
@@ -146,11 +116,11 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  Sea to Summit Waterproof TPU Case <br /><a href="https://www.amazon.com/gp/product/B003IVJN6A" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh6.ggpht.com/-VTEvBKOBA-0/T3zVNdS0G3I/AAAAAAAAFCw/sMH40j4yoNM/image%25255B56%25255D.png?imgmax=800" width="240" height="240" /></a>
+  Sea to Summit Waterproof TPU Case <br /><a href="https://www.amazon.com/gp/product/B003IVJN6A" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-0e36bd8301bd.png" width="240" height="240" /></a>
 </div>
 
 <div align="center">
-  <a href="https://www.amazon.com/gp/product/B000UDBMZE" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh3.ggpht.com/-x9I2lGLXVsQ/T3zVPO0euOI/AAAAAAAAFC4/eGK2yPtslkE/image%25255B55%25255D.png?imgmax=800" width="131" height="142" /></a>
+  <a href="https://www.amazon.com/gp/product/B000UDBMZE" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-b5451a796110.png" width="131" height="142" /></a>
 </div>
 </td>
 
@@ -177,7 +147,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 </div>
 
 <div align="center">
-  <a href="https://www.amazon.com/gp/product/B006ARM1HM/ref=sr_1_1?ie=UTF8&qid=1333575587&sr=8-1" target="_blank"><img title="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" alt="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" src="https://daydealx-com.s3.amazonaws.com/files/i28/sam_77tab_oem_book_v2.jpg" width="203" height="203" /></a><a href="https://www.amazon.com/gp/product/B006ARM1HM/ref=sr_1_1?ie=UTF8&qid=1333575587&sr=8-1" target="_blank"><img title="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" alt="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" src="https://daydealx-com.s3.amazonaws.com/files/i28/sam_77tab_oem_book_v3.jpg" width="203" height="203" /></a>
+  <a href="https://www.amazon.com/gp/product/B006ARM1HM/ref=sr_1_1?ie=UTF8&qid=1333575587&sr=8-1" target="_blank"><img title="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" alt="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" src="/images/uploads/2012/unavailable-5db6cc20e469.svg" width="203" height="203" /></a><a href="https://www.amazon.com/gp/product/B006ARM1HM/ref=sr_1_1?ie=UTF8&qid=1333575587&sr=8-1" target="_blank"><img title="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" alt="OEM Samsung Book Cover Case for Galaxy Tab 7.7 EFC-1E3NBE" src="/images/uploads/2012/unavailable-46114921e6de.svg" width="203" height="203" /></a>
 </div>
 </td>
 
@@ -202,7 +172,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  <a href="" name="otgadapter"></a>“OTG” USB Host Adapter <br /><a href="https://www.amazon.com/gp/product/B005YWIRBS" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh3.ggpht.com/-3FZ9DdZEb5Q/T3zVRRtlRTI/AAAAAAAAFDI/eqJVeTyTLhs/image%25255B53%25255D.png?imgmax=800" width="240" height="240" /></a>
+  <a href="" name="otgadapter"></a>“OTG” USB Host Adapter <br /><a href="https://www.amazon.com/gp/product/B005YWIRBS" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-444253e339cb.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -223,7 +193,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  <a href="" name="usbcharge"></a>USB Charge Adapter (aka “Filter Plug”) <br /><a href="https://www.amazon.com/dp/B007IXBTCK/ref=pe_175190_21431760_cs_sce_3p_dp_1"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh6.ggpht.com/-RQEP-ruCuv4/T3_p5kygQ2I/AAAAAAAAFFM/UhIfFh6dDxU/image57%25255B1%25255D.png?imgmax=800" width="240" height="240" /></a>
+  <a href="" name="usbcharge"></a>USB Charge Adapter (aka “Filter Plug”) <br /><a href="https://www.amazon.com/dp/B007IXBTCK/ref=pe_175190_21431760_cs_sce_3p_dp_1"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-9a36e4ce591c.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -250,7 +220,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 </div>
 
 <div align="center">
-  <a href="https://powertraveller.com/iwantsome/primatepower/powermonkeyextreme/" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh6.ggpht.com/-oZM2VlEXQJk/T38nbz7PzaI/AAAAAAAAFEw/wZjqwM-bgXs/image%25255B5%25255D.png?imgmax=800" width="240" height="240" /></a>
+  <a href="https://powertraveller.com/iwantsome/primatepower/powermonkeyextreme/" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-b49102aaa1d3.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -294,7 +264,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  Bluetooth Keyboards <br />Think Outside/Sierra Stowaway AND AmazonBasics model <br /><a href="https://www.amazon.com/Think-Outside-SBT5ER-Stowaway-Bluetooth/dp/B000FG44BA" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh6.ggpht.com/-OlpTLClq3og/T38nYgdIP0I/AAAAAAAAFEQ/A78NY3gdnp8/image%25255B16%25255D.png?imgmax=800" width="240" height="240" /></a><a href="https://lh5.ggpht.com/-ROWS7HGsFh0/T38nZTeUO3I/AAAAAAAAFEY/Lpc8ZDj2yU8/s1600-h/image%25255B27%25255D.png"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-Hhqj_I5QhMQ/T38naKmhL6I/AAAAAAAAFEg/8wXn2DOWBPY/image_thumb%25255B11%25255D.png?imgmax=800" width="240" height="240" /></a>
+  Bluetooth Keyboards <br />Think Outside/Sierra Stowaway AND AmazonBasics model <br /><a href="https://www.amazon.com/Think-Outside-SBT5ER-Stowaway-Bluetooth/dp/B000FG44BA" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-7c87c96071d2.png" width="240" height="240" /></a><a href="/images/uploads/2012/samsung-galaxy-tab-77-p6800-fa13a90cc5a3.png"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-a49e77cc85ae.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -327,7 +297,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 
       <li>
         <a href="www.logitech.com/en-us/tablet-accessories/keyboards/devices/tablet-keyboard-android" target="_blank">Logitech</a> has a polished looking tablet keyboard option with integrated case/stand now too: <p>
-          &nbsp;&nbsp;&nbsp;&nbsp; <a href="www.logitech.com/en-us/tablet-accessories/keyboards/devices/tablet-keyboard-android" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-UMYarvLTk9o/T4gedAtk0NI/AAAAAAAAFFc/vjYVQTuPwUg/image%25255B5%25255D.png?imgmax=800" width="240" height="181" /></a>
+          &nbsp;&nbsp;&nbsp;&nbsp; <a href="www.logitech.com/en-us/tablet-accessories/keyboards/devices/tablet-keyboard-android" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-9f73fa5bc112.png" width="240" height="181" /></a>
       </li>
     </ul>
   </li>
@@ -341,7 +311,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
   Media / Charging Dock </p>
 
   <p>
-    <a href="https://www.samsung.com/us/mobile/galaxy-tab-accessories/EDD-D1E3BEGSTA" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-1690N5axyT8/ULJoAD3OUZI/AAAAAAAAFG0/qPkoHhiLBdM/image%25255B5%25255D.png?imgmax=800" width="361" height="185" /></a>
+    <a href="https://www.samsung.com/us/mobile/galaxy-tab-accessories/EDD-D1E3BEGSTA" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-9712243bdd8a.png" width="361" height="185" /></a>
 </div>
 </td>
 
@@ -377,7 +347,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
   Zephyr HxM &#8211; Bluetooth Heart Rate Monitor </p>
 
   <p>
-    <a href="https://www.amazon.com/Zephyr-HxM-Delivers-BlackBerry-Smartphones/dp/B002PL33AQ" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-X0TeH_QuGLE/T38nbAjd1xI/AAAAAAAAFEk/JaGyen1YzZw/image%25255B10%25255D.png?imgmax=800" width="240" height="240" /></a>
+    <a href="https://www.amazon.com/Zephyr-HxM-Delivers-BlackBerry-Smartphones/dp/B002PL33AQ" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-7a640f142974.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -424,7 +394,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  Mujjo Capacitive Gloves <br /><a href="https://store.endomondo.com/us/mujjo-touchscreen-gloves-1.html" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-vohgad1JLWY/T4AQd7-l8eI/AAAAAAAAFFU/y6cndq6WPG4/image%25255B5%25255D.png?imgmax=800" width="240" height="160" /></a>
+  Mujjo Capacitive Gloves <br /><a href="https://store.endomondo.com/us/mujjo-touchscreen-gloves-1.html" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-ec87eaaae925.png" width="240" height="160" /></a>
 </div>
 </td>
 
@@ -449,7 +419,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  Motorola S10-HD Bluetooth Stereo Headphones with Microphone <br /><a href="https://www.amazon.com/gp/product/B004BHCSQC" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh5.ggpht.com/-MOZ09i33bwA/T3zVVr5emGI/AAAAAAAAFDg/cDQTear_k-U/image%25255B52%25255D.png?imgmax=800" width="240" height="240" /></a>
+  Motorola S10-HD Bluetooth Stereo Headphones with Microphone <br /><a href="https://www.amazon.com/gp/product/B004BHCSQC" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-82e977674593.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -474,7 +444,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  Case Logic LNEO-7 7-Inch Sleeve <br /><a href="https://www.amazon.com/gp/product/B004CJ8DKE" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh3.ggpht.com/-49Pa_vCzb_M/T3zVPtKsyZI/AAAAAAAAFDA/NX9qDvpJM28/image%25255B54%25255D.png?imgmax=800" width="240" height="240" /></a>
+  Case Logic LNEO-7 7-Inch Sleeve <br /><a href="https://www.amazon.com/gp/product/B004CJ8DKE" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-40883977e116.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -495,7 +465,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
 <tr>
 <td valign="top">
 <div align="center">
-  Armor Suit &#8211; Screen Protector <a href="https://www.amazon.com/gp/product/B006WFUH64" target="_blank"><br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh3.ggpht.com/-eFchzr9M4Q8/T3zVWBGiLqI/AAAAAAAAFDo/wG79SqBrVtQ/image%25255B70%25255D.png?imgmax=800" width="240" height="240" /></a>
+  Armor Suit &#8211; Screen Protector <a href="https://www.amazon.com/gp/product/B006WFUH64" target="_blank"><br /><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-0d405140ed9e.png" width="240" height="240" /></a>
 </div>
 </td>
 
@@ -525,7 +495,7 @@ I got mine for $645.50 from Amazon Market Vendor “<a href="https://www.amazon.
   Keyboard Stands & Charging Docks <br />Incase Origami Workstation for Apple Wireless Keyboard </p>
 
   <p>
-    <a href="https://goincase.com/products/detail/origami-workstation-cl57934" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh6.ggpht.com/-16C9BBPJOZI/T38oStRg1WI/AAAAAAAAFFI/8MEvRseNRQU/image%25255B32%25255D.png?imgmax=800" width="240" height="159" /></a>
+    <a href="https://goincase.com/products/detail/origami-workstation-cl57934" target="_blank"><img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="/images/uploads/2012/samsung-galaxy-tab-77-p6800-92de094889c4.png" width="240" height="159" /></a>
 </div>
 </td>
 

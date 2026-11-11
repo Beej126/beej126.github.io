@@ -1,26 +1,9 @@
 ---
 title: Installing Windows in UEFI Mode
+date: 2015-08-22
 author: Beej
-type: post
-date: 2015-08-22T11:27:00+00:00
-year: "2015"
-month: "2015/08"
-url: /2015/08/windowsuefi.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 1667649704978745398
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2015/08/WindowsUEFI.html
-dsq_thread_id:
-  - 5526321196
 tags:
   - SysAdmin
-
 ---
 ##### Motivation &#8211; Booting Windows in UEFI mode offers a couple mild advantages:
 

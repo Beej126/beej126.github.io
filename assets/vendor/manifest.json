@@ -1,0 +1,499 @@
+[
+  {
+    "source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css",
+    "resolved_source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css",
+    "file": "bootstrap/bootstrap.min.css",
+    "download_sha256": "2ff5b959fa9f6b4b1d04d20a37d706e90039176ab1e2a202994d9580baeebfd6",
+    "local_sha256": "2ff5b959fa9f6b4b1d04d20a37d706e90039176ab1e2a202994d9580baeebfd6"
+  },
+  {
+    "source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css.map",
+    "resolved_source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css.map",
+    "file": "bootstrap/bootstrap.min.css.map",
+    "download_sha256": "8c7814d762e22ce88cffd95b0dcbef124db4a60a401e120a3de19c2226321058",
+    "local_sha256": "8c7814d762e22ce88cffd95b0dcbef124db4a60a401e120a3de19c2226321058"
+  },
+  {
+    "source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
+    "resolved_source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
+    "file": "bootstrap/bootstrap.min.js",
+    "download_sha256": "5aa53525abc5c5200c70b3f6588388f86076cd699284c23cda64e92c372a1548",
+    "local_sha256": "5aa53525abc5c5200c70b3f6588388f86076cd699284c23cda64e92c372a1548"
+  },
+  {
+    "source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js.map",
+    "resolved_source": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js.map",
+    "file": "bootstrap/bootstrap.min.js.map",
+    "download_sha256": "17d2be171fae03fef1f5d7b19a59183a28a14bca0d6ea3a361f3ef860b35f54b",
+    "local_sha256": "17d2be171fae03fef1f5d7b19a59183a28a14bca0d6ea3a361f3ef860b35f54b"
+  },
+  {
+    "source": "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js",
+    "resolved_source": "https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js",
+    "file": "jquery/jquery.slim.min.js",
+    "download_sha256": "e3e5f35d586c0e6a9a9d7187687be087580c40a5f8d0e52f0c4053bbc25c98db",
+    "local_sha256": "e3e5f35d586c0e6a9a9d7187687be087580c40a5f8d0e52f0c4053bbc25c98db"
+  },
+  {
+    "source": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "resolved_source": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "file": "popper/popper.min.js",
+    "download_sha256": "c776195ad46333c6c9a9fe3c74502ffea9a02faf122388ea3567922cc65a3060",
+    "local_sha256": "c776195ad46333c6c9a9fe3c74502ffea9a02faf122388ea3567922cc65a3060"
+  },
+  {
+    "source": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js.map",
+    "resolved_source": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js.map",
+    "file": "popper/popper.min.js.map",
+    "download_sha256": "a231953f48dd0d33b7fcbbab1fdefb2983c386670eb8eae7624ca7579a7d2055",
+    "local_sha256": "a231953f48dd0d33b7fcbbab1fdefb2983c386670eb8eae7624ca7579a7d2055"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css",
+    "file": "font-awesome/all.min.css",
+    "download_sha256": "9a680b90260b5106d79f4075491ab31daafa7429eff686453c40b58357309649",
+    "local_sha256": "b7cd78a90416820f76607920b7241dd461ce9fbc47d5bd6699a7d7d8c743bbdd"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.eot",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.eot",
+    "file": "font-awesome/fonts/15651a378ee9367b.eot",
+    "download_sha256": "c51993624f2dcdaf8d7b91221e59f86e2befda0df3d13911c0c80467f3bd293c",
+    "local_sha256": "c51993624f2dcdaf8d7b91221e59f86e2befda0df3d13911c0c80467f3bd293c"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.eot?#iefix",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.eot?#iefix",
+    "file": "font-awesome/fonts/39139de7642d9e3a.eot",
+    "download_sha256": "c51993624f2dcdaf8d7b91221e59f86e2befda0df3d13911c0c80467f3bd293c",
+    "local_sha256": "c51993624f2dcdaf8d7b91221e59f86e2befda0df3d13911c0c80467f3bd293c"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.woff2",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.woff2",
+    "file": "font-awesome/fonts/02bf5d1c314770ba.woff2",
+    "download_sha256": "089630244600f33230010f5e04c67419ec642c5228540adb42e3fe92c631e6bf",
+    "local_sha256": "089630244600f33230010f5e04c67419ec642c5228540adb42e3fe92c631e6bf"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.woff",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.woff",
+    "file": "font-awesome/fonts/c1b745dfd57254b5.woff",
+    "download_sha256": "045b18d10f192755e794b64abd0a121ed78e1fef081ba05bf0127e869f6e6ce9",
+    "local_sha256": "045b18d10f192755e794b64abd0a121ed78e1fef081ba05bf0127e869f6e6ce9"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.ttf",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.ttf",
+    "file": "font-awesome/fonts/0914c3702cde6f4f.ttf",
+    "download_sha256": "855c68e3b9f85e9584dd244281b3f1337e5eb3a6c04fcb33b8cb2b2136d258a1",
+    "local_sha256": "855c68e3b9f85e9584dd244281b3f1337e5eb3a6c04fcb33b8cb2b2136d258a1"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.svg#fontawesome",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.svg#fontawesome",
+    "file": "font-awesome/fonts/b633a12c5c1a014f.svg",
+    "download_sha256": "16033bd9a3cc5ce5d47060ad65b8cd9b899cce24a8573e8d95a461635d1fcff6",
+    "local_sha256": "16033bd9a3cc5ce5d47060ad65b8cd9b899cce24a8573e8d95a461635d1fcff6"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.eot",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.eot",
+    "file": "font-awesome/fonts/4da67b9e37849043.eot",
+    "download_sha256": "dcc69087fbb811d2f197f5484fe7a1d43d5c7ba64a964618bf1f66fe088c4595",
+    "local_sha256": "dcc69087fbb811d2f197f5484fe7a1d43d5c7ba64a964618bf1f66fe088c4595"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.eot?#iefix",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.eot?#iefix",
+    "file": "font-awesome/fonts/d65399bb7c11d319.eot",
+    "download_sha256": "dcc69087fbb811d2f197f5484fe7a1d43d5c7ba64a964618bf1f66fe088c4595",
+    "local_sha256": "dcc69087fbb811d2f197f5484fe7a1d43d5c7ba64a964618bf1f66fe088c4595"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.woff2",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.woff2",
+    "file": "font-awesome/fonts/23d0c323ebd9ece2.woff2",
+    "download_sha256": "093f782260d70f914e7e591eba1502d3e992e9f7a69a17d1df6c32bcddd6f06a",
+    "local_sha256": "093f782260d70f914e7e591eba1502d3e992e9f7a69a17d1df6c32bcddd6f06a"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.woff",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.woff",
+    "file": "font-awesome/fonts/481c1244df88ff17.woff",
+    "download_sha256": "532a487f4862ddaa7de6f6e1f79b03ff25ac5f2ad8ab683a9edfa0ab85f81629",
+    "local_sha256": "532a487f4862ddaa7de6f6e1f79b03ff25ac5f2ad8ab683a9edfa0ab85f81629"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.ttf",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.ttf",
+    "file": "font-awesome/fonts/0b8007eef3df7964.ttf",
+    "download_sha256": "42c7255f924602693b33cea190d064ae4ae3ec8a5eebb6ffd173ce747ff2ae57",
+    "local_sha256": "42c7255f924602693b33cea190d064ae4ae3ec8a5eebb6ffd173ce747ff2ae57"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.svg#fontawesome",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-regular-400.svg#fontawesome",
+    "file": "font-awesome/fonts/ddd0e89faaf87d42.svg",
+    "download_sha256": "3ed54666b2bccad5a044c166a73cdd1d7bcab6055beb75dd2db8f99c76557107",
+    "local_sha256": "3ed54666b2bccad5a044c166a73cdd1d7bcab6055beb75dd2db8f99c76557107"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.eot",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.eot",
+    "file": "font-awesome/fonts/f0282389c8f33aec.eot",
+    "download_sha256": "6903de6f003f5a26d7d0c94a24f73179b2b50222676dcb396dbc8593ee3ed52b",
+    "local_sha256": "6903de6f003f5a26d7d0c94a24f73179b2b50222676dcb396dbc8593ee3ed52b"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.eot?#iefix",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.eot?#iefix",
+    "file": "font-awesome/fonts/3a2d8bfe652c47e9.eot",
+    "download_sha256": "6903de6f003f5a26d7d0c94a24f73179b2b50222676dcb396dbc8593ee3ed52b",
+    "local_sha256": "6903de6f003f5a26d7d0c94a24f73179b2b50222676dcb396dbc8593ee3ed52b"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.woff2",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.woff2",
+    "file": "font-awesome/fonts/57033346ebf6d190.woff2",
+    "download_sha256": "2c3097237d60f42e800ebe4009c9af144bb19e5581e1c0501c7b259eee7e210c",
+    "local_sha256": "2c3097237d60f42e800ebe4009c9af144bb19e5581e1c0501c7b259eee7e210c"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.woff",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.woff",
+    "file": "font-awesome/fonts/7fa05e4fb09359fa.woff",
+    "download_sha256": "be439f3ebd1fcd066a2014db28d74078641b3f71df18e71c1b842ba54ed88327",
+    "local_sha256": "be439f3ebd1fcd066a2014db28d74078641b3f71df18e71c1b842ba54ed88327"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.ttf",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.ttf",
+    "file": "font-awesome/fonts/87512ff544286881.ttf",
+    "download_sha256": "1ed6e2192b933bf1434f95ebae2a346b6f80cbd744176657449dffc6efac5f4d",
+    "local_sha256": "1ed6e2192b933bf1434f95ebae2a346b6f80cbd744176657449dffc6efac5f4d"
+  },
+  {
+    "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.svg#fontawesome",
+    "resolved_source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.svg#fontawesome",
+    "file": "font-awesome/fonts/839c8e16d781c8f8.svg",
+    "download_sha256": "a9127d56a182a50333d17ac79e3567538aa92fb69837481bf13f77e50c243f57",
+    "local_sha256": "a9127d56a182a50333d17ac79e3567538aa92fb69837481bf13f77e50c243f57"
+  },
+  {
+    "source": "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&display=swap",
+    "resolved_source": "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&display=swap",
+    "file": "google-fonts/lora.css",
+    "download_sha256": "6e9e4d4ff47fadd8f640f226e58c74900029fc1924ebb9134ddb2ee3e3cf3963",
+    "local_sha256": "e3dca85e30de45a37c08ef4f410e58fc6386820dcd15f88ba8482f5025decd56"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LLPtLp_A.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LLPtLp_A.woff2",
+    "file": "google-fonts/fonts/a7e54face04db775.woff2",
+    "download_sha256": "b67b0f50d1d03fc36a1b3ded113de24a0ab71b838cc27e493d4f62cea00be99b",
+    "local_sha256": "b67b0f50d1d03fc36a1b3ded113de24a0ab71b838cc27e493d4f62cea00be99b"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LJftLp_A.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LJftLp_A.woff2",
+    "file": "google-fonts/fonts/3ac9c0751ea1503e.woff2",
+    "download_sha256": "405b30a5bea8b70446e08e40e5d70b7bf5262ef3c4a9e4f3e4672e079a01a4cd",
+    "local_sha256": "405b30a5bea8b70446e08e40e5d70b7bf5262ef3c4a9e4f3e4672e079a01a4cd"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LXftLp_A.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LXftLp_A.woff2",
+    "file": "google-fonts/fonts/651ca85fa3f2a6c0.woff2",
+    "download_sha256": "49e796554ee2343f0d7a7f111d5dbc64fc5da47ad7168734e9a2d1f302ef3245",
+    "local_sha256": "49e796554ee2343f0d7a7f111d5dbc64fc5da47ad7168734e9a2d1f302ef3245"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LT_tLp_A.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LT_tLp_A.woff2",
+    "file": "google-fonts/fonts/8b9d5dd7b0b7c91d.woff2",
+    "download_sha256": "db2a8b067f0fd836ae1e5155575a1afdb93e7ebc07b4680c4c2438e69e37515f",
+    "local_sha256": "db2a8b067f0fd836ae1e5155575a1afdb93e7ebc07b4680c4c2438e69e37515f"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LLvtLp_A.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LLvtLp_A.woff2",
+    "file": "google-fonts/fonts/797af927405011cf.woff2",
+    "download_sha256": "3acfc1db6992c092405884cf12763e512e21229cc040a1eea94549869006736a",
+    "local_sha256": "3acfc1db6992c092405884cf12763e512e21229cc040a1eea94549869006736a"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LL_tLp_A.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LL_tLp_A.woff2",
+    "file": "google-fonts/fonts/3972e3480bc8bbe8.woff2",
+    "download_sha256": "45f989df83f3a9f40007d2ecdea98bff248c8767a1a0bbe60e94fb37b605ecee",
+    "local_sha256": "45f989df83f3a9f40007d2ecdea98bff248c8767a1a0bbe60e94fb37b605ecee"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LIftL.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIhMX1D_JOuMw_LIftL.woff2",
+    "file": "google-fonts/fonts/7d7da0fe4e25c1b0.woff2",
+    "download_sha256": "d824d807d4d832d12c87932d0b8ec1314dcfd502157a56dee6bb04cf8a3768ae",
+    "local_sha256": "d824d807d4d832d12c87932d0b8ec1314dcfd502157a56dee6bb04cf8a3768ae"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwf7I-NP.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwf7I-NP.woff2",
+    "file": "google-fonts/fonts/332e2e554e112a93.woff2",
+    "download_sha256": "0e523e4bc3c6308f002a3208ea2990cb4f64282d4fbb67c12f5726d13b66eef6",
+    "local_sha256": "0e523e4bc3c6308f002a3208ea2990cb4f64282d4fbb67c12f5726d13b66eef6"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMw77I-NP.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMw77I-NP.woff2",
+    "file": "google-fonts/fonts/0ac8cbc5a9305070.woff2",
+    "download_sha256": "c57d9ca3bd42e6bc093badc7744dd2059a78f66a3a4dc6ca40574480c870f553",
+    "local_sha256": "c57d9ca3bd42e6bc093badc7744dd2059a78f66a3a4dc6ca40574480c870f553"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuM3b7I-NP.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuM3b7I-NP.woff2",
+    "file": "google-fonts/fonts/316d2b9253b5a4ff.woff2",
+    "download_sha256": "a8c4cb778ab6202d22bdea2ccc8d7e7caf802cfe0a7ce37df7b212f82341468f",
+    "local_sha256": "a8c4cb778ab6202d22bdea2ccc8d7e7caf802cfe0a7ce37df7b212f82341468f"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuM2T7I-NP.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuM2T7I-NP.woff2",
+    "file": "google-fonts/fonts/1cb2e5bc34ca410e.woff2",
+    "download_sha256": "2df52199eac56e2ec7a735e609bb151bdab79422c3e73948f4b6580c66bb5a50",
+    "local_sha256": "2df52199eac56e2ec7a735e609bb151bdab79422c3e73948f4b6580c66bb5a50"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwX7I-NP.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwX7I-NP.woff2",
+    "file": "google-fonts/fonts/37201e51a4431a23.woff2",
+    "download_sha256": "98c22de85f6e83bcd6ae1a443e12e256fbc8de7142bec4f76b059f8ff9c2797e",
+    "local_sha256": "98c22de85f6e83bcd6ae1a443e12e256fbc8de7142bec4f76b059f8ff9c2797e"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwT7I-NP.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwT7I-NP.woff2",
+    "file": "google-fonts/fonts/6aacf4f8c2fa85eb.woff2",
+    "download_sha256": "2a2d9c22c9863086a23f5013fede1428585321812b25f2662542c39d02967c5e",
+    "local_sha256": "2a2d9c22c9863086a23f5013fede1428585321812b25f2662542c39d02967c5e"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/lora/v37/0QIvMX1D_JOuMwr7Iw.woff2",
+    "file": "google-fonts/fonts/ebd7f0a79e3288c9.woff2",
+    "download_sha256": "ddb8c66035104e233fc024669183aad3738b6daa16deee2ebb1241bd0f98ace1",
+    "local_sha256": "ddb8c66035104e233fc024669183aad3738b6daa16deee2ebb1241bd0f98ace1"
+  },
+  {
+    "source": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&display=swap",
+    "resolved_source": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&display=swap",
+    "file": "google-fonts/open-sans.css",
+    "download_sha256": "9fece90d2e3587e8eae1fa59b768e8ae57ad034e4f0935676330137dbff1ff65",
+    "local_sha256": "b22ac20f5e2743273684c647cd285b71e2922c9de17e00e3c249f791efae77bc"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+    "file": "google-fonts/fonts/ff2928605b6e4994.woff2",
+    "download_sha256": "f2d92a95ae369af994faeba39e2f987974e7cb1f3f3a984e6538d535f1ff9e9b",
+    "local_sha256": "f2d92a95ae369af994faeba39e2f987974e7cb1f3f3a984e6538d535f1ff9e9b"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+    "file": "google-fonts/fonts/1b394c970e4d586e.woff2",
+    "download_sha256": "9dbf8ed5c11ef7e7e80a08cb18d7f7e0e93eea2f77345ee8a73d6e08e122c36e",
+    "local_sha256": "9dbf8ed5c11ef7e7e80a08cb18d7f7e0e93eea2f77345ee8a73d6e08e122c36e"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+    "file": "google-fonts/fonts/7fbb3e4c05ee1e05.woff2",
+    "download_sha256": "23db8c30fcaf25e39a14a799e776804c7fd541ff0663189db7bb652d15129a73",
+    "local_sha256": "23db8c30fcaf25e39a14a799e776804c7fd541ff0663189db7bb652d15129a73"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+    "file": "google-fonts/fonts/8ce1d90fea7e625e.woff2",
+    "download_sha256": "90e5211e2fa04327726f93c19dc01dffebc18d8def23931848be1213dc826ac3",
+    "local_sha256": "90e5211e2fa04327726f93c19dc01dffebc18d8def23931848be1213dc826ac3"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+    "file": "google-fonts/fonts/b6d3d2d8d0c93dc7.woff2",
+    "download_sha256": "0d3c34da39df0aa6b82347b45364e9e95fcece8029b5d9e7325bcef4e56234f1",
+    "local_sha256": "0d3c34da39df0aa6b82347b45364e9e95fcece8029b5d9e7325bcef4e56234f1"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2",
+    "file": "google-fonts/fonts/1d86c88dc173d310.woff2",
+    "download_sha256": "b011091d0c5f7c3c5139a40f3120b157f6c4b587164ff66e66a2bccd58a5a91f",
+    "local_sha256": "b011091d0c5f7c3c5139a40f3120b157f6c4b587164ff66e66a2bccd58a5a91f"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2",
+    "file": "google-fonts/fonts/8d76dfa0595d700b.woff2",
+    "download_sha256": "be7296389be234abc22997275b6b7d056a0e6ff9d6e7dd63cfe7d3232aac9dac",
+    "local_sha256": "be7296389be234abc22997275b6b7d056a0e6ff9d6e7dd63cfe7d3232aac9dac"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+    "file": "google-fonts/fonts/06fbebbde6353df0.woff2",
+    "download_sha256": "7a79d808ca680f3d672a68aa28098ad9ca9d4a93ae24a04b4b00c07f4ab67d40",
+    "local_sha256": "7a79d808ca680f3d672a68aa28098ad9ca9d4a93ae24a04b4b00c07f4ab67d40"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+    "file": "google-fonts/fonts/cc521688ee99c619.woff2",
+    "download_sha256": "a6fa0e8ac2a665c121a19c2e2434fb286e3afdef7b9288739a73c7cb6849108c",
+    "local_sha256": "a6fa0e8ac2a665c121a19c2e2434fb286e3afdef7b9288739a73c7cb6849108c"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+    "file": "google-fonts/fonts/a58a209c5168ab63.woff2",
+    "download_sha256": "186836b74ceac07b2764c07c0379420e3014efb30fe918461c235e0ef6cbc4a2",
+    "local_sha256": "186836b74ceac07b2764c07c0379420e3014efb30fe918461c235e0ef6cbc4a2"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+    "file": "google-fonts/fonts/54dc4394a39583c5.woff2",
+    "download_sha256": "95dd03b930aca04ab393f625101f7367e3abc83b3b09e6074de1fc081ba6fd1c",
+    "local_sha256": "95dd03b930aca04ab393f625101f7367e3abc83b3b09e6074de1fc081ba6fd1c"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+    "file": "google-fonts/fonts/378793266a617dca.woff2",
+    "download_sha256": "2809606237a64bd9c1461e727f369ddfd77a350e4900fffe64e8bfe16a2b3454",
+    "local_sha256": "2809606237a64bd9c1461e727f369ddfd77a350e4900fffe64e8bfe16a2b3454"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+    "file": "google-fonts/fonts/d2c37667ab34ed9c.woff2",
+    "download_sha256": "197ef1e4874d6f8f59bcb8f303029b7fd40aebd7a23aa96c1b649b3faea5d57c",
+    "local_sha256": "197ef1e4874d6f8f59bcb8f303029b7fd40aebd7a23aa96c1b649b3faea5d57c"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+    "file": "google-fonts/fonts/a5de8562f3e71d80.woff2",
+    "download_sha256": "08ea4cf0a7c61077656395aa7dc728a6d184ee4bdae03a1bc34c17ee97e8f31c",
+    "local_sha256": "08ea4cf0a7c61077656395aa7dc728a6d184ee4bdae03a1bc34c17ee97e8f31c"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+    "file": "google-fonts/fonts/187f7f97f1f1f2c6.woff2",
+    "download_sha256": "7abb700b280437b795e68b3a85a1dcbfdf04bb815555762033ade4f7894f2554",
+    "local_sha256": "7abb700b280437b795e68b3a85a1dcbfdf04bb815555762033ade4f7894f2554"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+    "file": "google-fonts/fonts/5788f695d4d515e7.woff2",
+    "download_sha256": "a093b888254afd7deb8e37cccfd434e7d06ed47d22cfed9621631d80e1e81554",
+    "local_sha256": "a093b888254afd7deb8e37cccfd434e7d06ed47d22cfed9621631d80e1e81554"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+    "file": "google-fonts/fonts/c9cd65148af3a3ad.woff2",
+    "download_sha256": "8f80f993e523f2e6c2d097552740fd26331658da23ffad31d26edcdd3aeec370",
+    "local_sha256": "8f80f993e523f2e6c2d097552740fd26331658da23ffad31d26edcdd3aeec370"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+    "file": "google-fonts/fonts/fa05f58692f9f221.woff2",
+    "download_sha256": "cc762462ea67b7815649ea3cc005699e3b95b3244b59eb2ce2d22e3ad33497c2",
+    "local_sha256": "cc762462ea67b7815649ea3cc005699e3b95b3244b59eb2ce2d22e3ad33497c2"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+    "file": "google-fonts/fonts/15e4e18f7f0b68ee.woff2",
+    "download_sha256": "d5bab8e28732fe3d10dcef4f77b9c248605bbb2a87d289a2539251ceafab536a",
+    "local_sha256": "d5bab8e28732fe3d10dcef4f77b9c248605bbb2a87d289a2539251ceafab536a"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "resolved_source": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "file": "google-fonts/fonts/b877d76363543389.woff2",
+    "download_sha256": "d8e4fe0452aa2076429a9bb5d8757d00a994dd95986cf950e9a1a371b9a072a0",
+    "local_sha256": "d8e4fe0452aa2076429a9bb5d8757d00a994dd95986cf950e9a1a371b9a072a0"
+  },
+  {
+    "source": "https://unpkg.com/simple-jekyll-search@latest/package.json",
+    "resolved_source": "https://unpkg.com/simple-jekyll-search@1.10.0/package.json",
+    "file": "simple-jekyll-search/package.json",
+    "download_sha256": "0d5cde0cba98ce5fcef294a28a4407cee25a5ae7b7f0f5e0b2e8015cf07401e6",
+    "local_sha256": "0d5cde0cba98ce5fcef294a28a4407cee25a5ae7b7f0f5e0b2e8015cf07401e6"
+  },
+  {
+    "source": "https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js",
+    "resolved_source": "https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js",
+    "file": "simple-jekyll-search/simple-jekyll-search.min.js",
+    "download_sha256": "89e51cb40aef5dad896b0c3bbbe3b28eacc1a4e5b4e04f4ad7b0733fcaabc553",
+    "local_sha256": "89e51cb40aef5dad896b0c3bbbe3b28eacc1a4e5b4e04f4ad7b0733fcaabc553"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/twbs/bootstrap/v4.4.1/LICENSE",
+    "resolved_source": "https://raw.githubusercontent.com/twbs/bootstrap/v4.4.1/LICENSE",
+    "file": "bootstrap/LICENSE",
+    "download_sha256": "eaf003ef9d4321de625381657eaa69e0093fa6ab00c0201e3fd4847dd9878461",
+    "local_sha256": "eaf003ef9d4321de625381657eaa69e0093fa6ab00c0201e3fd4847dd9878461"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/jquery/jquery/3.5.1/LICENSE.txt",
+    "resolved_source": "https://raw.githubusercontent.com/jquery/jquery/3.5.1/LICENSE.txt",
+    "file": "jquery/LICENSE.txt",
+    "download_sha256": "1ff603118efdb313799567cb4a408594954384f40843ca6f29c596f5b1f8907d",
+    "local_sha256": "1ff603118efdb313799567cb4a408594954384f40843ca6f29c596f5b1f8907d"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/popperjs/popper-core/v1.16.0/LICENSE.md",
+    "resolved_source": "https://raw.githubusercontent.com/popperjs/popper-core/v1.16.0/LICENSE.md",
+    "file": "popper/LICENSE.md",
+    "download_sha256": "2961310ed05cd9373a08b8191c071425a7fede0ca5d807ca38fa5f5f61c5b834",
+    "local_sha256": "2961310ed05cd9373a08b8191c071425a7fede0ca5d807ca38fa5f5f61c5b834"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.12.1/LICENSE.txt",
+    "resolved_source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.12.1/LICENSE.txt",
+    "file": "font-awesome/LICENSE.txt",
+    "download_sha256": "e779748dfe75e84f974df3c7bc07f842011a100159158b0f1f49b2f2a5a515cb",
+    "local_sha256": "e779748dfe75e84f974df3c7bc07f842011a100159158b0f1f49b2f2a5a515cb"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lora/OFL.txt",
+    "resolved_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lora/OFL.txt",
+    "file": "google-fonts/Lora-OFL.txt",
+    "download_sha256": "1d9a970809ac804b582a6ce7f0ebc4e7fefcbfd7ff6299cad35ee656a21be716",
+    "local_sha256": "1d9a970809ac804b582a6ce7f0ebc4e7fefcbfd7ff6299cad35ee656a21be716"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/opensans/OFL.txt",
+    "resolved_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/opensans/OFL.txt",
+    "file": "google-fonts/OpenSans-OFL.txt",
+    "download_sha256": "fbbbcfef55318de350562559b671360de6d597112ecc5c73881b05092db89602",
+    "local_sha256": "fbbbcfef55318de350562559b671360de6d597112ecc5c73881b05092db89602"
+  },
+  {
+    "source": "https://unpkg.com/simple-jekyll-search@1.10.0/LICENSE.md",
+    "resolved_source": "https://unpkg.com/simple-jekyll-search@1.10.0/LICENSE.md",
+    "file": "simple-jekyll-search/LICENSE.md",
+    "download_sha256": "b01cdb3e70deb41ba9d8aeb742f57f0d001412a3e417b0c2b2c5b33dab97e217",
+    "local_sha256": "b01cdb3e70deb41ba9d8aeb742f57f0d001412a3e417b0c2b2c5b33dab97e217"
+  }
+]

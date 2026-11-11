@@ -1,28 +1,10 @@
 ---
 title: SQL Split AWK Script
+date: 2009-06-24
 author: Beej
-type: post
-date: 2009-06-24T15:41:00+00:00
-year: "2009"
-month: "2009/06"
-url: /2009/06/sql-split-awk-scrip.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 3681328765910879361
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2009/06/sql-split-awk-script.html
-dsq_thread_id:
-  - 5528972367
-categories:
 tags:
   - CommandLine
   - Database
-
 ---
 Split the output from SQL Server Management Studio (SSMS) > View > Object Explorer Details > “Script {function|view|procedure} as” into individual files
   

@@ -1,37 +1,10 @@
 ---
 title: Chrome User Script – Whack page elements based on jQuery selectors
+date: 2015-11-09
 author: Beej
-type: post
-date: 2015-11-10T05:03:00+00:00
-year: "2015"
-month: "2015/11"
-url: /2015/11/chrome-user-script-whack-page-elements.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 8226459775670079930
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2015/11/chrome-user-script-whack-page-elements.html
-blogger_thumbnail:
-  - https://2.bp.blogspot.com/-b_tH9-WysD0/VkEKhDZHIlI/AAAAAAAARzo/kmv0MBN4ufY/s1600/Snap2.png
-dsq_thread_id:
-  - 5537355402
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
 tags:
   - WebDev
-
+thumbnail-img: /images/uploads/2015/chrome-user-script-whack-page-elements-thumbnail.png
 ---
   * Tweaked this solution: [How can I use jQuery in Greasemonkey scripts in Google Chrome?][1]
   * Install: 

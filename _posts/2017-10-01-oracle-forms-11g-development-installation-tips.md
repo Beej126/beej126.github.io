@@ -1,22 +1,10 @@
 ---
 title: Oracle Forms 11g Development Installation Tips
-author: admin
-type: post
-date: 2017-10-01T21:28:41+00:00
-year: "2017"
-month: "2017/10"
-url: /2017/10/oracle-forms-11g-development-installation-tips.html
-snap_isAutoPosted:
-  - 1
-snapTW:
-  - 's:190:"a:1:{i:0;a:4:{s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"914602998038355969";s:7:"postURL";s:53:"https://twitter.com/BeejSEA/status/914602998038355969";s:5:"pDate";s:19:"2017-10-01 21:28:43";}}";'
-dsq_thread_id:
-  - 6186798565
-categories:
+date: 2017-10-01
+author: Beej
 tags:
   - Database
   - Oracle
-
 ---
 Yeah I actually said Oracle Forms, that product from the 90's... as one might guess, i happen to be on a legacy conversion project at work...
   

@@ -1,45 +1,17 @@
 ---
 title: 'Portable Air Compressor – Dust Out Your PC In Style : )'
+date: 2010-01-14
 author: Beej
-type: post
-date: 2010-01-14T21:38:00+00:00
-year: "2010"
-month: "2010/01"
-url: /2010/01/portable-air-compressor-hose-off-the.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7544800800888472626
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2010/01/portable-air-compressor-hose-off-them.html
-blogger_thumbnail:
-  - https://lh6.ggpht.com/_XlySlDLkdOc/S1HIP2OFCxI/AAAAAAAAErk/kZPLR3w6v0U/00919224000%5B2%5D.jpg?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5753672213
-categories:
 tags:
   - Hardware
-
-thumbnail-img: https://lh6.ggpht.com/_XlySlDLkdOc/S1HIP2OFCxI/AAAAAAAAErk/kZPLR3w6v0U/00919224000%5B2%5D.jpg?imgmax=800
+thumbnail-img: /images/uploads/2010/portable-air-compressor-hose-off-the-thumbnail.jpg
 ---
 ### Good References: 
 
 * [ToolCritic.com handy sortable list](https://www.toolcritic.com/very-small-portable-compressors.html?sort=dgra) 
 * [Amazon reviewer’s list](https://www.amazon.com/Portable-Compressor-Shopping/lm/R8RCNQ46DP8CK/ref=cm_lmt_dtpa_f_3_rdssss0?pf_rd_p=253466001&pf_rd_s=listmania-center&pf_rd_t=201&pf_rd_i=B000GZS6NC&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0SWDHZNHJBYAXKC72SSP) 
 
-[![](https://lh6.ggpht.com/_XlySlDLkdOc/S1HIP2OFCxI/AAAAAAAAErk/kZPLR3w6v0U/00919224000%5B2%5D.jpg?imgmax=800)](https://www.bostitch.com/default.asp?CATEGORY=BOS_COMPRESSORS&amp;TYPE=PRODUCT&amp;PARTNUMBER=CAP1516&amp;SDesc=Trim+Air+1.5+Peak+HP+Oil-Free+Contractor+Compressor)
+[![](/images/uploads/2010/portable-air-compressor-hose-off-the-thumbnail.jpg)](https://www.bostitch.com/default.asp?CATEGORY=BOS_COMPRESSORS&amp;TYPE=PRODUCT&amp;PARTNUMBER=CAP1516&amp;SDesc=Trim+Air+1.5+Peak+HP+Oil-Free+Contractor+Compressor)
 
 I found the Bostitch Model# CAP1516 to be an obvious choice based on features, price &amp; ratings.        
 
@@ -62,6 +34,6 @@ I found the Bostitch Model# CAP1516 to be an obvious choice based on features, p
 *   [Water Trap](https://www.amazon.com/exec/obidos/tg/detail/-/B000IKM09G/ref=ord_cart_shr?_encoding=UTF8&m=A2YLYLTN75J8LR&v=glance) - $20
 *   ESPECIALLY IMPORTANT IF YOU PLAN ON HOSING DOWN DELICATE ELECTRONICS … it’s a well known fact that compressing air also compresses the humidity in the air … this ultimately results in spraying a fine mist of water all over your subject if not otherwise accounted for… honestly a little bit probably wouldn’t kill something immediately but it’s jut not the kind of thing you want to be subjecting your precious toys to on a regular basis
 
-[![41P2JBVEZXL._SL500_AA280_](https://lh3.ggpht.com/_XlySlDLkdOc/S1HIWc3IM2I/AAAAAAAAEro/a9Hrib99WRw/41P2JBVEZXL._SL500_AA280_%5B2%5D.jpg?imgmax=800 "41P2JBVEZXL._SL500_AA280_")](https://www.amazon.com/exec/obidos/tg/detail/-/B00066141C/ref=ord_cart_shr?_encoding=UTF8&m=A16WXXJJ7WJVS0&v=glance)
-[![51RKJN1S99L._SS500_](https://lh6.ggpht.com/_XlySlDLkdOc/S1HIW8nZ9mI/AAAAAAAAErw/7zfHmym2pBA/51RKJN1S99L._SS500_%5B2%5D.jpg?imgmax=800 "51RKJN1S99L._SS500_")](https://www.amazon.com/exec/obidos/tg/detail/-/B0009KN9PE/ref=ord_cart_shr?_encoding=UTF8&m=ATVPDKIKX0DER&v=glance)
-[![21aTdJHJfPL._SL500_AA200_](https://lh4.ggpht.com/_XlySlDLkdOc/S1HIXiIAD7I/AAAAAAAAEr0/3CjJkulEpNY/21aTdJHJfPL._SL500_AA200_%5B2%5D.jpg?imgmax=800 "21aTdJHJfPL._SL500_AA200_")](https://www.amazon.com/exec/obidos/tg/detail/-/B000IKM09G/ref=ord_cart_shr?_encoding=UTF8&m=A2YLYLTN75J8LR&v=glance)
+[![41P2JBVEZXL._SL500_AA280_](/images/uploads/2010/portable-air-compressor-hose-off-the-b3b9a4c28a70.jpg "41P2JBVEZXL._SL500_AA280_")](https://www.amazon.com/exec/obidos/tg/detail/-/B00066141C/ref=ord_cart_shr?_encoding=UTF8&m=A16WXXJJ7WJVS0&v=glance)
+[![51RKJN1S99L._SS500_](/images/uploads/2010/portable-air-compressor-hose-off-the-ac90ba4ef99b.jpg "51RKJN1S99L._SS500_")](https://www.amazon.com/exec/obidos/tg/detail/-/B0009KN9PE/ref=ord_cart_shr?_encoding=UTF8&m=ATVPDKIKX0DER&v=glance)
+[![21aTdJHJfPL._SL500_AA200_](/images/uploads/2010/portable-air-compressor-hose-off-the-c682aebee282.jpg "21aTdJHJfPL._SL500_AA200_")](https://www.amazon.com/exec/obidos/tg/detail/-/B000IKM09G/ref=ord_cart_shr?_encoding=UTF8&m=A2YLYLTN75J8LR&v=glance)

@@ -1,19 +1,11 @@
 ---
 title: 'Syncfusion Xamarin.Forms SfDataGrid – Binding to List<Dictionary<,>>'
+date: 2017-06-23
 author: Beej
-type: post
-date: 2017-06-23T07:34:48+00:00
-year: "2017"
-month: "2017/06"
-url: /2017/06/syncfusion-xamarin-forms-sfdatagrid-binding-to-listdictionary.html
-dsq_thread_id:
-  - 5935265812
-categories:
 tags:
   - Json
   - WebDev
   - Xamarin
-
 ---
 [corresponding syncfusion forums post][1]
 

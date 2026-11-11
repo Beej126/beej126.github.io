@@ -1,11 +1,10 @@
 ---
 title: Hacking ATI x1300 into Mac OS X (Latest = Snow Leopard v10.6.8)
-author: Beej
 date: 2010-03-28
+author: Beej
 tags:
   - Hardware
   - Mac
-
 ---
 [Update: 2012 March 29] A commenter has his 7146 X1300 running Lion via EvoEnabler and no other mods… if you have a x1300 card that’s not cooperating with Lion, it would be interesting to try patching your bios to report a 7146 deviceid and see what happens… see the related comments below for links to corresponding tools. 
 

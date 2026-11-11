@@ -1,39 +1,11 @@
 ---
 title: Enable SSL Connections to SQL Server
+date: 2013-02-03
 author: Beej
-type: post
-date: 2013-02-04T04:01:00+00:00
-year: "2013"
-month: "2013/02"
-url: /2013/02/enable-ssl-connections-to-sql-server.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 3078912508509117201
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2013/02/enable-ssl-connections-to-sql-server.html
-blogger_thumbnail:
-  - https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9Neyd74/Fig.0%25255B2%25255D.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:174:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";
-dsq_thread_id:
-  - 5527718197
-categories:
 tags:
   - Database
   - Security
-
-thumbnail-img: https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9Neyd74/Fig.0%25255B2%25255D.png?imgmax=800
+thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbnail.png
 ---
 <table border="1" cellpadding="2" cellspacing="0">
   <tr>
@@ -144,31 +116,31 @@ thumbnail-img: https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9N
       
       <div class="expandee">
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:2b3a630b-f36d-466a-bbce-6343743eca79" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh4.ggpht.com/-rZC9Z8EUpUM/UQ7Bu00evzI/AAAAAAAAFJY/8om521xT8_0/Fig.0-8x6.png?imgmax=800" rel="thumbnail" title="MMC Fig.1"><img border="0" src="https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9Neyd74/Fig.0%25255B2%25255D.png?imgmax=800" height="364" width="294" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-214fdca2f4c4.png" rel="thumbnail" title="MMC Fig.1"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-thumbnail.png" height="364" width="294" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:18b2ff5f-6851-4175-8725-92e7640f4ef8" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh4.ggpht.com/-ltkJAvoZGzM/UQ7BwNB9wbI/AAAAAAAAFJo/eJkZ8_FnOUU/fig.1-8x6.png?imgmax=800" rel="thumbnail" title="MMC Fig.1"><img border="0" src="https://lh3.ggpht.com/-IONPjQdhsrU/UQ7BwvyC5XI/AAAAAAAAFJw/BK_zdgr6oZc/fig.1%25255B69%25255D.png?imgmax=800" height="255" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-9f8d8b939f4b.png" rel="thumbnail" title="MMC Fig.1"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-e01d46e3ccbf.png" height="255" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:dfb63c1b-7968-4f2d-8883-50cf032dd458" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh4.ggpht.com/-5oTN_Tdnj6w/UQ7BwxZKZ1I/AAAAAAAAFJ4/BihPDfbAIPs/Fig.2-8x6.png?imgmax=800" rel="thumbnail" title="MMC Fig.3"><img border="0" src="https://lh3.ggpht.com/-pCEi8yI54FU/UQ7BxhaqwhI/AAAAAAAAFKA/VC5G5VlSYro/Fig.2%25255B5%25255D.png?imgmax=800" height="282" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-55d4e629d776.png" rel="thumbnail" title="MMC Fig.3"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-6fd8557c47e9.png" height="282" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:9f3b02fd-f351-4fd3-8186-06ff3ced84e9" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh6.ggpht.com/-KDYH0W6GCTk/UQ7Bx0D0E3I/AAAAAAAAFKI/J92lL5qBCZE/Fig.3-8x6.png?imgmax=800" rel="thumbnail" title="MMC Fig.4"><img border="0" src="https://lh3.ggpht.com/-iiQtyN0uyTI/UQ7BytImi9I/AAAAAAAAFKQ/hvAMHUuvPos/Fig.3%25255B4%25255D.png?imgmax=800" height="292" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-5bad7005c868.png" rel="thumbnail" title="MMC Fig.4"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-308f53813a8a.png" height="292" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:668dc8d5-ca09-461f-a4ed-c6b8be286099" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh4.ggpht.com/-MYJ8Zj-4K9c/UQ7By7e-c3I/AAAAAAAAFKY/T-1ZwPrrxHE/Fig.4-8x6.png?imgmax=800" rel="thumbnail" title="MMC Fig.5"><img border="0" src="https://lh6.ggpht.com/-Pkd6zzjWmgs/UQ7BzuPt3vI/AAAAAAAAFKg/ekP-JaFZFO4/Fig.4%25255B5%25255D.png?imgmax=800" height="292" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-854e695222ce.png" rel="thumbnail" title="MMC Fig.5"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-a4774201da0f.png" height="292" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:c540f85f-20d3-41ba-a8be-a46f0ce1d345" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh3.ggpht.com/-RuHRnNjvSFs/UQ7Bz8fdjYI/AAAAAAAAFKo/aPP-DBTPyEg/Fig.5-8x6.png?imgmax=800" rel="thumbnail" title="MMC Fig.6"><img border="0" src="https://lh3.ggpht.com/-9f9Bmc3bgoU/UQ7B0P0oA-I/AAAAAAAAFKw/UJ82zKUg2DM/Fig.5%25255B5%25255D.png?imgmax=800" height="282" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-c583879a7f9a.png" rel="thumbnail" title="MMC Fig.6"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-7a1d1994bba6.png" height="282" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:c88d125f-445c-4f80-b60e-3ca0220926c4" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh6.ggpht.com/-VPTqmetxNFQ/UQ7B03KM0zI/AAAAAAAAFK4/q6ZBZ78UAyU/Export%252520Fig.8-8x6.png?imgmax=800" rel="thumbnail" title="MMC Fig.7"><img border="0" src="https://lh5.ggpht.com/-PMxKLAP8hxw/UQ7B1cZBpPI/AAAAAAAAFLA/U8lZ2sd2sY4/Export%252520Fig.8%25255B3%25255D.png?imgmax=800" height="249" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-5cb5c3fea9ac.png" rel="thumbnail" title="MMC Fig.7"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-b7400066c2d3.png" height="249" width="335" /></a>
         </div>
       </div>
     </td>
@@ -214,31 +186,31 @@ thumbnail-img: https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9N
       
       <div class="expandee">
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:dd057907-b970-479e-918f-590a65285323" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh4.ggpht.com/-87pf9as9nTM/UQ7B1o6_D3I/AAAAAAAAFLI/XuQeqF_0MOU/Fig.6-8x6.png?imgmax=800" rel="thumbnail" title="Export Fig.1"><img border="0" src="https://lh6.ggpht.com/-xQqL2GuvB4A/UQ7B2OHXzpI/AAAAAAAAFLQ/HVmdGtolT8s/Fig.6%25255B4%25255D.png?imgmax=800" height="262" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-9e7d855b5a0e.png" rel="thumbnail" title="Export Fig.1"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-6eb97a584bb4.png" height="262" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:fec4d645-e6c9-45e0-b780-431b7917cb97" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh6.ggpht.com/-CW5y0DM1WoY/UQ7B2auCI9I/AAAAAAAAFLY/Wkmboo8mpr4/Export%252520Fig.2-8x6.png?imgmax=800" rel="thumbnail" title="Export Fig.2"><img border="0" src="https://lh5.ggpht.com/-x1uAwRWbUiU/UQ7B253fUzI/AAAAAAAAFLg/h5ah_MrHaRQ/Export%252520Fig.2%25255B2%25255D.png?imgmax=800" height="256" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-c8f4a320ca30.png" rel="thumbnail" title="Export Fig.2"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-a62240db63fc.png" height="256" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:c26a30e5-a3e5-4674-bfa8-ae27b9ff368f" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh3.ggpht.com/-0KpdxFo7qic/UQ7B3cW3z_I/AAAAAAAAFLo/dTx8ujRdWa0/Export%252520Fig.3-8x6.png?imgmax=800" rel="thumbnail" title="Export Fig.3"><img border="0" src="https://lh5.ggpht.com/-1i2DeVCOIk4/UQ7B3lywILI/AAAAAAAAFLw/mkOtLy0Vi_Q/Export%252520Fig.3%25255B2%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-a9b8a733aa02.png" rel="thumbnail" title="Export Fig.3"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-1bdd43cf928b.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:7893e848-d68b-4d5f-8d3b-8e3137bf632b" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh6.ggpht.com/-yDLl-x7s-XU/UQ7B4BFfeFI/AAAAAAAAFL4/_jRRwciiv8A/Export%252520Fig.4-8x6.png?imgmax=800" rel="thumbnail" title="Export Fig.4"><img border="0" src="https://lh4.ggpht.com/-WHBnHH84598/UQ7B4XKI_OI/AAAAAAAAFMA/RPsYfVQckj0/Export%252520Fig.4%25255B2%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-e4d830b6b0a8.png" rel="thumbnail" title="Export Fig.4"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-848d68d47450.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:6f7d6687-46f5-4a20-9269-a894b0c44bf7" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh5.ggpht.com/-GDwCrF_8zYs/UQ7B4veEBTI/AAAAAAAAFMI/eikuDWJj6YA/Export%252520Fig.5-8x6.png?imgmax=800" rel="thumbnail" title="Export Fig.5"><img border="0" src="https://lh3.ggpht.com/-yPwaHTQCOq4/UQ7B5DY8dtI/AAAAAAAAFMQ/1SDLV1UJevA/Export%252520Fig.5%25255B2%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-3a69f566a246.png" rel="thumbnail" title="Export Fig.5"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-3e792ada0b70.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:cc606be5-ca7b-499e-910c-5b13be68bed8" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh6.ggpht.com/-QCXJ9_PDDVg/UQ7B5mA5ViI/AAAAAAAAFMY/3-w8n_VYWx8/Export%252520Fig.6-8x6.png?imgmax=800" rel="thumbnail" title="Export Fig.6"><img border="0" src="https://lh6.ggpht.com/-H18orc9Cnng/UQ7B58L4q-I/AAAAAAAAFMg/cEVlxKrTp7A/Export%252520Fig.6%25255B2%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-9a86e0420309.png" rel="thumbnail" title="Export Fig.6"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-6e409c4ee078.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:5e195969-9281-4966-acac-77a4ba7bf448" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh4.ggpht.com/-1pr9Ft2JoJM/UQ7B6MOJKhI/AAAAAAAAFMo/rkyV1Ul1G9s/Export%252520Fig.7-8x6.png?imgmax=800" rel="thumbnail" title="Export Fig.7"><img border="0" src="https://lh5.ggpht.com/-EXIEChRZO7Q/UQ7B6t20X8I/AAAAAAAAFMw/I4pUORvh8E8/Export%252520Fig.7%25255B2%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-3f903d49f131.png" rel="thumbnail" title="Export Fig.7"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-2a997473cce1.png" height="356" width="335" /></a>
         </div>
       </div>
     </td>
@@ -292,31 +264,31 @@ thumbnail-img: https://lh5.ggpht.com/-0168RnSFJP4/UQ7Bv-wD6WI/AAAAAAAAFJg/rJuw9N
       
       <div class="expandee">
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:cf805770-e24d-49a0-a758-cef13c9a87b3" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh3.ggpht.com/-oKYX6CjjkLI/UQ7B6_SlVYI/AAAAAAAAFM4/l2pBs-KtV5k/Import%252520Fig.1-8x6.png?imgmax=800" rel="thumbnail" title="Import Fig.1"><img border="0" src="https://lh3.ggpht.com/-vqn5vp14d9k/UQ7B7Pa8S8I/AAAAAAAAFNA/MbucCXCxiuI/Import%252520Fig.1%25255B1%25255D.png?imgmax=800" height="262" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-429ff39d5f58.png" rel="thumbnail" title="Import Fig.1"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-845e8f61aa16.png" height="262" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:77258f51-d169-4be5-9bef-6073b1be1614" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh5.ggpht.com/-ZdcJINdxfR0/UQ7B7qlw81I/AAAAAAAAFNI/DB_qoRfef8s/Import%252520Fig.2-8x6.png?imgmax=800" rel="thumbnail" title="Import Fig.2"><img border="0" src="https://lh3.ggpht.com/-RWCGsjzb0_0/UQ7B75_lErI/AAAAAAAAFNQ/iDX2R1TDhA4/Import%252520Fig.2%25255B1%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-e66a18873ac5.png" rel="thumbnail" title="Import Fig.2"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-94e6b01ae9b0.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:5bfb8c17-0493-468d-b0d9-542aad18c36c" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh3.ggpht.com/-JJdLWCGhaXg/UQ7B8CEsmEI/AAAAAAAAFNY/9mjFu6pDReE/Import%252520Fig.3-8x6.png?imgmax=800" rel="thumbnail" title="Import Fig.3"><img border="0" src="https://lh5.ggpht.com/-PeHt2pnRCQQ/UQ7B85JXUrI/AAAAAAAAFNg/t__-1JeKGn8/Import%252520Fig.3%25255B1%25255D.png?imgmax=800" height="254" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-1d2f840ad960.png" rel="thumbnail" title="Import Fig.3"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-9657cd9e08c6.png" height="254" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:42e75b74-7310-40a8-a052-c72b7288aaf4" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh5.ggpht.com/-joOfhtQfc48/UQ7B9EWG8kI/AAAAAAAAFNo/cOxbj8JmhRo/Import%252520Fig.4-8x6.png?imgmax=800" rel="thumbnail" title="Import Fig.4"><img border="0" src="https://lh5.ggpht.com/-YCAl-VoJK4Y/UQ7B9WMNRhI/AAAAAAAAFNw/oZ6KTntb8Jc/Import%252520Fig.4%25255B1%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-9596e4f81864.png" rel="thumbnail" title="Import Fig.4"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-2f61dc1e9902.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:87808f3b-93a3-4e37-9178-b1832550d854" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh6.ggpht.com/-U57jI_Yvr_c/UQ7B9zT4rlI/AAAAAAAAFN4/J75tnPVZs9k/Import%252520Fig.5-8x6.png?imgmax=800" rel="thumbnail" title="Import Fig.5"><img border="0" src="https://lh3.ggpht.com/-NbHD0SShZEM/UQ7B-eKTc2I/AAAAAAAAFOA/I1DNWcIfoMg/Import%252520Fig.5%25255B1%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-85db0a4da817.png" rel="thumbnail" title="Import Fig.5"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-fb2753b9b7ce.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:39ad9703-f588-4a11-ae04-c8faa4d2c66e" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh3.ggpht.com/-UdUU8HV9v3s/UQ7B-nxqrXI/AAAAAAAAFOI/zDctROCG8Mk/Import%252520Fig.6-8x6.png?imgmax=800" rel="thumbnail" title="Import Fig.6"><img border="0" src="https://lh6.ggpht.com/-8JjVMmIzvu4/UQ7B_BbP9rI/AAAAAAAAFOQ/tUKRbRbX7WQ/Import%252520Fig.6%25255B1%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-3ee1cd109239.png" rel="thumbnail" title="Import Fig.6"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-6b0a931e8874.png" height="356" width="335" /></a>
         </div>
         
         <div class="wlWriterEditableSmartContent" id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:8aedd55c-a98b-4eb6-a8d9-28d698f0af8c" style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;">
-          <a href="https://lh5.ggpht.com/-UizG2rpJEcY/UQ7B_RCpsMI/AAAAAAAAFOY/QGMtLIYSLQg/Import%252520Fig.7-8x6.png?imgmax=800" rel="thumbnail" title="Import Fig.7"><img border="0" src="https://lh4.ggpht.com/-SYFszFqjDf8/UQ7B_vXPGWI/AAAAAAAAFOg/RUc3V6Up8W0/Import%252520Fig.7%25255B1%25255D.png?imgmax=800" height="356" width="335" /></a>
+          <a href="/images/uploads/2013/enable-ssl-connections-to-sql-server-a01e2c42d234.png" rel="thumbnail" title="Import Fig.7"><img border="0" src="/images/uploads/2013/enable-ssl-connections-to-sql-server-c3011d0aa878.png" height="356" width="335" /></a>
         </div>
       </div>
     </td>

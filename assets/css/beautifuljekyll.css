@@ -6,6 +6,26 @@ layout: null
 
 /* --- General --- */
 
+.remote-content .remote-gist-source {
+  font-size: 0.8rem;
+  font-weight: normal;
+}
+
+.remote-content .remote-gist-file-heading {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+}
+
+.remote-gist-filename {
+  max-width: 100%;
+}
+
+.remote-content .remote-gist-file-heading .remote-gist-source {
+  white-space: nowrap;
+}
+
 html {
   font-size: 100%
 }
@@ -74,8 +94,8 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
-/* fix in-page anchors to not be behind fixed header */
-:target:before {
+/* Code rows use scroll-margin-top; an extra spacer would shift their grid cells. */
+:target:not(.gist-code-line):before {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
@@ -836,6 +856,73 @@ table tr td :last-child {
 
 /* --- Code blocks --- */
 
+.code-link-toast {
+  position: fixed;
+  z-index: 2000;
+  max-width: 280px;
+  padding: 0.35rem 0.6rem;
+  color: #fff;
+  background: #24292f;
+  border-radius: 0.3rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.75rem;
+  pointer-events: none;
+}
+
+.code-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  padding: 0.4rem 0.75rem;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-bottom: 0;
+  border-radius: 0.5rem 0.5rem 0 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.75rem;
+}
+.code-copy-status {
+  color: #57606a;
+}
+.code-copy-status:empty {
+  display: none;
+}
+.code-toolbar-inline {
+  display: inline-flex;
+  flex-wrap: wrap;
+  padding: 0;
+  background: none;
+  border: 0;
+  border-radius: 0;
+  font-weight: normal;
+}
+.code-copy-button,
+.code-wrap-button {
+  flex-shrink: 0;
+  padding: 0.2rem 0.6rem;
+  color: #24292f;
+  background: #fff;
+  border: 1px solid #d0d7de;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+.code-copy-button:hover,
+.code-wrap-button:hover {
+  background: #eaeef2;
+}
+.code-copy-button:focus-visible,
+.code-wrap-button:focus-visible {
+  outline: 2px solid #0969da;
+  outline-offset: 2px;
+}
+.has-code-toolbar .highlight.gist-numbered,
+.has-code-toolbar .highlight > pre {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
 code {
   padding: 0.125rem 0.25rem;
   color: #c7254e;
@@ -861,12 +948,80 @@ pre {
   margin: 0;
 }
 .highlight > pre {
-  background-image: linear-gradient(
-    rgba(0,0,0,0.03), rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.02) 1.5em, rgba(0,0,0,0.02) 3em);
-  background-size: auto 3em;
-  background-position-y: 0.625rem;
-  border: 1px solid rgba(0,0,0,0.1);
-  border-left: 0.4375rem solid #444;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  max-height: calc(15 * 1.5em + 2rem);
+  overflow: auto;
+}
+.highlight pre code {
+  color: inherit;
+  font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace;
+}
+.highlight.gist-numbered {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  max-height: calc(15 * 1.5em + 2rem + 2px);
+  overflow: auto;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 0.5rem;
+}
+.highlight.gist-numbered > pre {
+  max-height: none;
+  overflow: visible;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 1rem 0;
+}
+.gist-code-line {
+  display: grid;
+  grid-template-columns: calc(var(--gutter-digits) * 1ch + 1ch + 1.5rem + 1px) 1fr;
+  width: max-content;
+  min-width: 100%;
+  min-height: 1.5em;
+  scroll-margin-top: 6rem;
+}
+.gist-code-line:target {
+  background: #fff3bf;
+}
+.gist-line-content {
+  padding: 0 1rem;
+  white-space: pre;
+}
+.gist-line-number {
+  padding: 0 0.75rem;
+  border-right: 1px solid #d0d7de;
+  color: #6e7781;
+  font: inherit;
+  text-align: right;
+  white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.gist-line-number::before {
+  content: attr(data-line-number);
+}
+.gist-line-number:hover,
+.gist-line-number:focus-visible {
+  color: #0969da;
+  background: #ddf4ff;
+  text-decoration: none;
+}
+.code-wrap pre,
+.code-wrap pre code,
+.code-wrap .gist-line-content {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.code-wrap .gist-code-line {
+  width: 100%;
+  min-width: 0;
+  grid-template-columns: calc(var(--gutter-digits) * 1ch + 1ch + 1.5rem + 1px) minmax(0, 1fr);
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
   padding: 0;

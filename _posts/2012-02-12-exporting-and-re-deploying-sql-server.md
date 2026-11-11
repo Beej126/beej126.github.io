@@ -1,28 +1,9 @@
 ---
 title: Exporting and Re-deploying SQL Server 2008 Maintenance Plans
+date: 2012-02-12
 author: Beej
-type: post
-date: 2012-02-12T13:03:00+00:00
-year: "2012"
-month: "2012/02"
-url: /2012/02/exporting-and-re-deploying-sql-server.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7948791224975726051
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 2
-blogger_permalink:
-  - /2012/02/exporting-and-re-deploying-sql-server.html
-dsq_thread_id:
-  - 5508631333
 tags:
   - Database
-
 ---
 Challenge: There’s lots of chatter out there about working around various issues related to pulling an SSIS package out of an initial definition server and then reinstalling it on other servers.&nbsp; For example:
 

@@ -1,29 +1,10 @@
 ---
 title: '(Fairly) Quick & Painless Streaming of Your Local Audio'
+date: 2008-10-06
 author: Beej
-type: post
-date: 2008-10-06T21:57:00+00:00
-year: "2008"
-month: "2008/10"
-url: /2008/10/fairly-quick-painless-streaming-of-your.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 4468161047881581536
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 2
-blogger_permalink:
-  - /2008/10/fairly-quick-painless-streaming-of-your.html
-dsq_thread_id:
-  - 5508631463
 tags:
   - Music
   - Software
-
 ---
 Here's the basic pieces I plugged together:
 

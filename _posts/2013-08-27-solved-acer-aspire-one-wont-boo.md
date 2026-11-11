@@ -1,29 +1,12 @@
 ---
 title: '[SOLVED] Acer Aspire One won’t boot Syslinux USB thumbdrive'
+date: 2013-08-27
 author: Beej
-type: post
-date: 2013-08-27T21:25:00+00:00
-year: "2013"
-month: "2013/08"
-url: /2013/08/solved-acer-aspire-one-wont-boo.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 5711237384493192227
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2013/08/solved-acer-aspire-one-wont-boot.html
-dsq_thread_id:
-  - 5642392447
 tags:
   - CommandLine
   - Hardware
   - Security
   - SysAdmin
-
 ---
 Looks like my particular issue was the default partition size on my 16GB thumbdrive. Once I formatted the USB with a 2GB partition and installed Syslinux to that, it booted up right away where previously it would hang on the first “Syslinux Copyright Peter Anvin” message. More details: 
 

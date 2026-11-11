@@ -1,18 +1,10 @@
 ---
 title: “Hot Corners” for Windows (PowerShell)
+date: 2016-11-02
 author: Beej
-type: post
-date: 2016-11-02T07:42:04+00:00
-year: "2016"
-month: "2016/11"
-url: /2016/11/powershell-hot-corners.html
-dsq_thread_id:
-  - 5508631464
-categories:
 tags:
   - PowerShell
   - Productivity
-
 ---
 # [GitHub files][1]
 
@@ -68,6 +60,6 @@ tags:
 
  [1]: https://github.com/Beej126/PoShHotCorners
  [2]: https://en.wikipedia.org/wiki/Screen_hotspot
- [3]: https://cloud.githubusercontent.com/assets/6301228/20070283/ab4e62e2-a4d4-11e6-84ab-70abd4ff34b9.png
+ [3]: /images/uploads/2016/powershell-hot-corners-d8edd93282df.png
  [4]: https://www.xxcopy.com/xxcopy38.htm
  [5]: https://superuser.com/questions/453446/how-can-i-stop-windows-re-positioning-after-waking-from-sleep

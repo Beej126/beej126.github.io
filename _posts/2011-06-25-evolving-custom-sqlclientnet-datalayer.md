@@ -1,34 +1,13 @@
 ---
 title: Evolving a custom ADO.Net based repository
+date: 2011-06-25
 author: Beej
-type: post
-date: 2011-06-25T19:03:00+00:00
-year: "2011"
-month: "2011/06"
-url: /2011/06/evolving-custom-sqlclientnet-datalayer.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 4568359424671492527
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2011/06/evolving-custom-sqlclientnet-datalayer.html
-blogger_thumbnail:
-  - https://lh6.ggpht.com/-niqKmY68t9o/UhpHnXT6cgI/AAAAAAAAFVU/PgmIvRftPAE/image_thumb%25255B8%25255D.png?imgmax=800
-dsq_thread_id:
-  - 5603664508
-categories:
-  - Highlights
 tags:
   - C#
   - Dev
   - Database
   - Synthesis
-
-thumbnail-img: https://lh6.ggpht.com/-niqKmY68t9o/UhpHnXT6cgI/AAAAAAAAFVU/PgmIvRftPAE/image_thumb%25255B8%25255D.png?imgmax=800
+thumbnail-img: /images/uploads/2011/evolving-custom-sqlclientnet-datalayer-thumbnail.png
 ---
 ## [Full GitHub Source][1]
 
@@ -50,7 +29,7 @@ A framework for maintaining client side business object cache consistency with d
 
 To frame a case which demonstrates the need for typical business requirements driven side effects, take a look at the adjacent screenshot.
   
-[<img src="https://lh6.ggpht.com/-niqKmY68t9o/UhpHnXT6cgI/AAAAAAAAFVU/PgmIvRftPAE/image_thumb%25255B8%25255D.png?imgmax=800" height="400" style="float: right; margin: 0px 0px 0px 10px;" />][5]
+[<img src="/images/uploads/2011/evolving-custom-sqlclientnet-datalayer-thumbnail.png" height="400" style="float: right; margin: 0px 0px 0px 10px;" />][5]
   
 In this scenario there is a _household_ with some people in it (aka _members_ or _clients_). In this business domain only one person can be the _sponsor_ of a household at any given time. Likewise there can be only one _spouse_ set, the spouse which is not the sponsor. These designations are maintained as flags on the Clients database table. In this example, we're exploring what needs to happen when the sponsor changes from one person to another. This can happen when the existing sponsor leaves the business system which grants this privilege, yet the spouse remains in the system and can therefore assume the sponsorship privilege and nothing else needs to change.
 
@@ -129,9 +108,9 @@ View->ViewModel (MVVM) environments with robust declarative databinding, like WP
  [2]: /2010/10/wpf-net-40-application-framework.html
  [3]: https://www.google.com/search?q=+ADO.Net+Typed+DataSet
  [4]: https://msdn.microsoft.com/en-us/library/ms177564.aspx
- [5]: https://lh5.ggpht.com/-elkElflTyZI/UhpHmwpb8fI/AAAAAAAAFVM/OVJDzLoJjz4/s1600-h/image%25255B15%25255D.png
+ [5]: /images/uploads/2011/evolving-custom-sqlclientnet-datalayer-7f50f98e7003.png
  [6]: https://github.com/Beej126/itraacv2-1/blob/master/App/Model/SponsorModel.cs
  [7]: https://www.worldwidewords.org/qa/qa-huc1.htm
  [8]: https://github.com/Beej126/itraacv2-1/blob/master/App/Model/ModelBase.cs
  [9]: https://github.com/Beej126/itraacv2-1/blob/master/DB/DBObj/v2/Sponsor_SetSponsor.sql
- [10]: https://cloud.githubusercontent.com/assets/6301228/20336248/90c7ca9e-ab7d-11e6-865c-a35cde5d44cf.png
+ [10]: /images/uploads/2011/evolving-custom-sqlclientnet-datalayer-9ed1419589ef.png

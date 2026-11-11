@@ -1,38 +1,11 @@
 ---
 title: Awesome, CAD for LEGOs!
+date: 2009-01-14
 author: Beej
-type: post
-date: 2009-01-15T04:21:00+00:00
-year: "2009"
-month: "2009/01"
-url: /2009/01/awesome-cad-for-legos.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7558525206413389348
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2009/01/awesome-cad-for-legos.html
-blogger_thumbnail:
-  - https://cache.lego.com/upload/contentTemplating/LDDHomepage/images/2057/picE9286D5C-661B-4152-8292-8560AECF75EF.jpg
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5542148975
-categories:
 tags:
   - Entertainment
   - Software
-
+thumbnail-img: /images/uploads/2009/01/picE9286D5C-661B-4152-8292-8560AECF75EF.jpg
 ---
 ok i know it's been around for ages apparently... but man that's awesome anybody do a hard drive cage in the "technic" rivit oriented pieces yet? 🙂 highlights:
 
@@ -43,5 +16,5 @@ ok i know it's been around for ages apparently... but man that's awesome anybody
 
 [![Get Started][1]][2]
 
- [1]: https://cache.lego.com/upload/contentTemplating/LDDHomepage/images/2057/picE9286D5C-661B-4152-8292-8560AECF75EF.jpg
+ [1]: /images/uploads/2009/01/picE9286D5C-661B-4152-8292-8560AECF75EF.jpg
  [2]: https://ldd.lego.com/

@@ -1,38 +1,10 @@
 ---
 title: 'Yet Another Simple Audit Table Approach (YASATA : )'
+date: 2009-11-05
 author: Beej
-type: post
-date: 2009-11-05T18:17:00+00:00
-year: "2009"
-month: "2009/11"
-url: /2009/11/yet-another-simple-audit-table-approac.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 3766216935902455004
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2009/11/yet-another-simple-audit-table-approach.html
-blogger_thumbnail:
-  - https://lh5.ggpht.com/_XlySlDLkdOc/SvLcn9HbSbI/AAAAAAAAEoY/wQlRvFldGfc/image_thumb%5B9%5D.png?imgmax=800
-dsq_thread_id:
-  - 5650220440
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
 tags:
   - Database
-
-thumbnail-img: https://lh5.ggpht.com/_XlySlDLkdOc/SvLcn9HbSbI/AAAAAAAAEoY/wQlRvFldGfc/image_thumb%5B9%5D.png?imgmax=800
+thumbnail-img: /images/uploads/2009/yet-another-simple-audit-table-approac-thumbnail.png
 ---
 Feedback Update #1 [2009-11-15]:
 
@@ -57,7 +29,7 @@ Highlights/Assumptions/Considerations [2009-11-05]:
   * **Automatic Schema Change Awareness** – The HashBytes() T-SQL function is used to store the column signature that existed when the Audit\_Trigger\_CodeGen was last run … there’s a little subroutine proc that checks to see whether this hash is the same and refreshes the table’s trigger definition accordingly… if you’re really worried about runaway columns then throw a call to this checker proc at the beginning of all your update procs … currently i’m just keeping this off to the side and running a refresh when i know i’ve added a new column so i don’t have that nagging feeling that i’m zapping some nano-secs of performance for no good reason. 
   * So yes, lots of assumptions and caveats but not too shabby when it honestly came together in just 1.5 days of dedicated coding. 
 
-Teaser screen shots: [<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="https://lh5.ggpht.com/_XlySlDLkdOc/SvLcn9HbSbI/AAAAAAAAEoY/wQlRvFldGfc/image_thumb%5B9%5D.png?imgmax=800" width="628" height="187" />][1]&#160;[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="https://lh5.ggpht.com/_XlySlDLkdOc/SvLcopl8vbI/AAAAAAAAEog/FvH9E2TzjXs/image_thumb%5B7%5D.png?imgmax=800" width="503" height="162" />][2] Code Attachments:
+Teaser screen shots: [<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2009/yet-another-simple-audit-table-approac-thumbnail.png" width="628" height="187" />][1]&#160;[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2009/yet-another-simple-audit-table-approac-e46304512f41.png" width="503" height="162" />][2] Code Attachments:
 
   * First off, i’m rolling with “Google Docs” here until i find something better, they don’t support certain filetypes like .cs, so save-as accordingly 
   * Secondly, if Google Docs prompts you for a login and you don’t feel like creating an account, just change the URL to HTTPS and refresh… after that it will create the appropriate cookie and HTTP links will work… yep it’s a known bug 
@@ -88,5 +60,5 @@ Teaser screen shots: [<img style="border-right-width: 0px; display: inline; bord
     &#160; }   
     }
 
- [1]: https://lh4.ggpht.com/_XlySlDLkdOc/SvLcncmk5tI/AAAAAAAAEoU/EGdKjCBlwoI/s1600-h/image%5B15%5D.png
- [2]: https://lh6.ggpht.com/_XlySlDLkdOc/SvLcoIPHdvI/AAAAAAAAEoc/gDM8bWP2fxo/s1600-h/image%5B13%5D.png
+ [1]: /images/uploads/2009/yet-another-simple-audit-table-approac-b0dab635b9ba.png
+ [2]: /images/uploads/2009/yet-another-simple-audit-table-approac-3496c4e08788.png

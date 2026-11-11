@@ -1,7 +1,6 @@
 ---
 title: "Gen2 GuliKit TMR PS4 joystick drift fix"
 date: 2024-08-20
-type: post
 author: Beej
 tags:
   - Hardware
@@ -30,5 +29,5 @@ If you have the gusto to dive in and pull this off, my hat is truly off to you. 
 ![image1]({{ site.baseurl }}/images/uploads/2024/GuliKit-TMR-1.png)
 ![image2]({{ site.baseurl }}/images/uploads/2024/GuliKit-TMR-2.png)
 
-![image](https://github.com/user-attachments/assets/aecb14d7-ac0f-462b-a5f6-767f4a219186)
-![image](https://github.com/user-attachments/assets/8d2fe80f-d6a8-41c9-842b-f6ef930b897f)
+![image](/images/uploads/2024/Gen2-GuliKit-TMR-PS4-joystick-drift-fix-d383772306c6.png)
+![image](/images/uploads/2024/Gen2-GuliKit-TMR-PS4-joystick-drift-fix-837fcf6ad02e.png)

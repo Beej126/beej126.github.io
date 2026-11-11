@@ -1,26 +1,9 @@
 ---
 title: Recovering failed SQL Server 2012 Installation
+date: 2013-02-02
 author: Beej
-type: post
-date: 2013-02-02T22:31:00+00:00
-year: "2013"
-month: "2013/02"
-url: /2013/02/recovering-failed-sql-server-2012.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 4030947132890237414
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2013/02/recovering-failed-sql-server-2012.html
-dsq_thread_id:
-  - 5538468925
 tags:
   - Database
-
 ---
   * I have to say, SQL Server’s setup.exe seems pretty dang fragile… I realize it’s a complicated script with endless dependencies and such, just saying… year after year I continue to run into various reasons that the setup twists it’s ankle on something, bombs out midstream and leaves behind a partial installation mess that can’t be repaired or uninstalled… maybe I’m just unlucky or perhaps I’m overly hard on poor old Windows. 
   * This most recent bout was SQL Server 2012 on Windows 8… a lot of this stuff hasn’t changed all that much since SQL Server 2000… I’ve had success with most of these commands when SQL Server 2005 – 2008R2 installs have gone sour on me in the past. 

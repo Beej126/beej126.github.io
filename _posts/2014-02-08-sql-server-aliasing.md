@@ -1,37 +1,9 @@
 ---
 title: SQL Server Aliasing
+date: 2014-02-08
 author: Beej
-type: post
-date: 2014-02-08T22:55:00+00:00
-year: "2014"
-month: "2014/02"
-url: /2014/02/sql-server-aliasing.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 416643847584891793
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2014/02/sql-server-aliasing.html
-blogger_thumbnail:
-  - https://4.bp.blogspot.com/-tBsvz4YcEBU/Uva1d05QNeI/AAAAAAAADmo/1iBaJmRZzK0/s1600/SQL+Server+Configuration+Manager.png
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-dsq_thread_id:
-  - 5753675646
-categories:
 tags:
   - Database
-
 thumbnail-img: /images/uploads/2014/02/SQL-Server-Configuration-Manager.png
 ---
 <div class="separator" style="clear: both; text-align: center;">

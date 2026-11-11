@@ -1,13 +1,13 @@
 ---
 title: Configuring VMware ESXi as a Workstation
-author: Beej
 date: 2016-06-23
+author: Beej
 tags:
   - Hardware
   - iOS
   - Mac
   - Xamarin
-thumbnail-img: https://3.bp.blogspot.com/-qgcZ6beVm0k/V3C-LjucRtI/AAAAAAAAUj0/WLDupVxqgbMHoqxt4rI1xDzzBtoS-SLYQCLcB/s1600/Snap08.png
+thumbnail-img: /images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thumbnail.png
 ---
 
 # Virtualizing only Compute
@@ -56,14 +56,14 @@ thumbnail-img: https://3.bp.blogspot.com/-qgcZ6beVm0k/V3C-LjucRtI/AAAAAAAAUj0/WL
 ### VM creation settings screenshots<span>
 
 i took these screenshots via ESXi host Web client but that actually runs into various validation errors upon save... the vSphere client is therefore the go to whenever creating/modifying settings (see [Which Client?](#which_client) below)<br/><br/>
-![](https://3.bp.blogspot.com/-qgcZ6beVm0k/V3C-LjucRtI/AAAAAAAAUj0/WLDupVxqgbMHoqxt4rI1xDzzBtoS-SLYQCLcB/s1600/Snap08.png)
-![](https://3.bp.blogspot.com/-FJILG9yrTJk/V3C-Kkp5b2I/AAAAAAAAUjY/AIN1DnACKJgv226XBHPdLQGD-VbaD0cZwCLcB/s1600/Snap03.png)
-![](https://3.bp.blogspot.com/-WjyVp-BrbMg/V3C-K77ketI/AAAAAAAAUjo/1KhEAzp92wIaSPQ3OXmHdW5Z3tCxCy9wQCLcB/s1600/Snap04.png)
-![](https://3.bp.blogspot.com/-RUbSa34aqD4/V3C-LFt1JXI/AAAAAAAAUjk/AgUa29yFcgsQGnlccBzKHCEUISWAh_MNgCLcB/s1600/Snap05.png)
-![](https://3.bp.blogspot.com/-whybJL6hWEE/V3C-KnoN70I/AAAAAAAAUjU/cawRI1gEXN8f1UlYGf7v7-ZTEAHZI5t3wCLcB/s1600/Snap02.png)
-![](https://4.bp.blogspot.com/-3vlrlWdjww0/V3C-L-tYqlI/AAAAAAAAUjw/8zEnYy-0WCgUjPWikE8ttxz2CmkrD-YcwCLcB/s1600/Snap09.png)
-![](https://1.bp.blogspot.com/-XvXIHzhEKAQ/V3DNkJgoJ9I/AAAAAAAAUkU/nKIlzLE-dDUaL1Z0ZWbWa-tWhB_s_YMoQCLcB/s1600/Snap12.png)
-![](https://4.bp.blogspot.com/-eNUYtP2vBCI/V3DavGp5sII/AAAAAAAAUlI/OjRYWBVB8OM50X211pvUIlgDc2XzAL_3gCLcB/s1600/Snap12.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thumbnail.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-ac513a4b2fa6.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-e3af383cb849.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-336380c6e3a9.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-c453b16308d4.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-42664a7285a0.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6cfc6b99e915.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-3f3eb9cf27e1.png)
 </span>
 
 ### Video config
@@ -71,7 +71,7 @@ i took these screenshots via ESXi host Web client but that actually runs into va
 * Noteable: VT-d aka IOMMU aka DirectPath I/O aka passthrough provides direct physical connection from VM (i chose Windows) to PCIe devices for GPU and USB which allows for <span class="hl">running the Windows desktop directly on the ESXi box without typical need for a separate machine to remote in from</span>...
 * this does mean once the VM starts up, it completely takes over the graphics card to where the ESXi host is truly "headless"... so i've actually got 2 GPUs running, an old ATI dedicated to the Windows VM and another just for getting into ESXi shell on physical host...
 * **NOTE: single GPU configuration is very viable**... all settings (both host and VM) are done through remote clients (see [Which Client?](#which_client) below)... if for some reason that wasn't an option, you could disable VM autostart via vSphere client and thereby leave a lone GPU for troubleshooting directly on the host console after boot up... i suppose if things were ever so horked up that disabling the GPU takeover autostart remotely wasn't an option, then finding another graphics card to throw in might be the only choice... but really any old card would do (i.e. temp borrow someone else's) since it's just a text based linux console.
-* reportedly nVidia consumer grade cards like my nVidia GTX 750 Ti are specifically crippled against VT-d... nVidia reserves this for their high end $$ cards... [clever folks are mod'ing low end cards to report VT-d compatible DeviceId's](https://www.eevblog.com/forum/chat/hacking-nvidia-cards-into-their-professional-counterparts/) but i haven't found anyone doing the 750 Ti yet... also wonder about DSDT override approaches... unfortunately Windows doesn't pay attention to bootloader magic ala Clover, otherwise [FakeId](https://1.bp.blogspot.com/-uWBiM74OoIA/V3CwNHbIq_I/AAAAAAAAUjA/mY_gGi9oGtQLAJxAOaRqbncIUGNr1QCSACLcB/s1600/SDdVvBO.png) would be awesomely too easy... [ESXi does seem to support a custom DSDT](https://communities.vmware.com/thread/494835?start=0&tstart=0) -or- it looks like there's a way to [punch a DSDT into the registry](https://github.com/Microsoft/graphics-driver-samples/wiki/Install-Driver-in-a-Windows-VM) for development purposes
+* reportedly nVidia consumer grade cards like my nVidia GTX 750 Ti are specifically crippled against VT-d... nVidia reserves this for their high end $$ cards... [clever folks are mod'ing low end cards to report VT-d compatible DeviceId's](https://www.eevblog.com/forum/chat/hacking-nvidia-cards-into-their-professional-counterparts/) but i haven't found anyone doing the 750 Ti yet... also wonder about DSDT override approaches... unfortunately Windows doesn't pay attention to bootloader magic ala Clover, otherwise [FakeId](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6197d53f4c01.png) would be awesomely too easy... [ESXi does seem to support a custom DSDT](https://communities.vmware.com/thread/494835?start=0&tstart=0) -or- it looks like there's a way to [punch a DSDT into the registry](https://github.com/Microsoft/graphics-driver-samples/wiki/Install-Driver-in-a-Windows-VM) for development purposes
 * fortunately ATI doesn't cripple their consumer GPUs... the [5450 was a $30 card circa 2012](/ati-5450-with-hackintosh-lion-107x/) and supports 3 digital displays with completely passive cooling (i'm a sucker for fanless)
 * more recently I'm liking the footprint of an HP 2GB ATI 7570 i picked up for $40 used on eBay also with all 3 digital port types, including the elusive DisplayPort... the HP ones with model#'s 672462, 695635, 695633 are nice small half length cards that i can report are an essentially silent fan... keep an eye on the RAM since there's a lot of 1GB ones out there but frankly 1GB probably runs everything fine anyway
 * pretty sure could just as well run the Mac on the VT-d GPU and thereby gain full QE/CI accelerated graphics if needed (iMovie being a notable app)... VM'ing OSX with VT-d graphics providing full speed QE/CI is an interesting blend of virtual and physical versus more traditional full physical approach to the hackintosh game... i suppose it still comes down to fiddling with each of your specific I/O devices (Bluetooth, WiFi, Audio, etc)
@@ -138,37 +138,37 @@ i've found one way to workaround is to "skip" Clover by configuring a special en
 
 <p></p><input type="checkbox" class="expander"><i>screenshots of all the BIOS screen settings...</i><div>
 
-![](https://cloud.githubusercontent.com/assets/6301228/25316765/a7349f34-2821-11e7-9c99-1350fafbdbd8.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316405/b70cd170-281b-11e7-80ea-b9887756a3fa.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316407/bef2b0da-281b-11e7-87b6-848424631812.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-2086a78d15e3.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-b0a4f6064079.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-14b2717d2c5e.png)
 
 <br/>Loading the HFS driver so we can see the OSX System partition<br/>
 <br/>
-![](https://cloud.githubusercontent.com/assets/6301228/25316410/c3347d7c-281b-11e7-9efe-30dad8799715.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316411/c8a71dfa-281b-11e7-894f-74f35a0b4bda.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316414/ccd9ceae-281b-11e7-8f64-66286dcf7cdd.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316416/d00d1914-281b-11e7-9ea4-4fed9696f6f8.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316417/d3339c44-281b-11e7-8b33-d49e3d9e412a.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316421/d941b404-281b-11e7-8659-17df1fb4307a.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316422/dedc057c-281b-11e7-8a4c-5bc705888bf2.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316423/e38497c4-281b-11e7-8176-83ac3346ab77.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316589/ac9a93f0-281e-11e7-9b02-6d54e97c1a94.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316598/e2d11200-281e-11e7-8a0f-ce69d4e1d5a6.png)<br/>
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-cefb7a3dd9bd.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-857f919ed952.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-60df48dcf407.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-4497b49350e2.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6b4cc8f84904.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-fcad0ad8c7d4.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-e30f08f42fec.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-868e03495407.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-4f031168088c.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-5502d419921d.png)<br/>
 
 now hit ESC back up to the top<br/>
 Adding the Mac's boot.efi entry 
-![](https://cloud.githubusercontent.com/assets/6301228/25316425/e6f906ce-281b-11e7-8081-d08d5267f664.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316427/eb36147a-281b-11e7-81bd-1702dcbd9214.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316428/ef2352a0-281b-11e7-9981-7ec9ed530033.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316433/f3e7f1c4-281b-11e7-9d56-39f48580561c.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316435/f79d7ba4-281b-11e7-8c97-e92506c0d7f4.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316436/fb7e1c6a-281b-11e7-92c0-46d48d2ec162.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316438/fec17656-281b-11e7-9f32-3ece014d10bf.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316440/01a2faac-281c-11e7-8a79-a590488c92b0.png)<br/>
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-14019ff13f0b.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-0ebcd27368b2.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-5d9ed4b36cd3.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-2a08b6e6c380.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-d46504fb8864.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-ecfa3159b84d.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6486159c297d.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-0d0c3ffd41b6.png)<br/>
 
 Change the Boot Order to put it at the top to be the default<br/>
-![](https://cloud.githubusercontent.com/assets/6301228/25316623/72b04666-281f-11e7-8d9e-87de18a0c23e.png)
-![](https://cloud.githubusercontent.com/assets/6301228/25316687/c47c65f0-2820-11e7-99fb-75f38a76f230.png)<br/>
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-b3be8b4d9418.png)
+![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-3ee1d610a987.png)<br/>
 </div><br/>
 
 <p></p><input type="checkbox" class="expander">

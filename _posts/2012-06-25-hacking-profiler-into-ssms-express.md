@@ -1,26 +1,9 @@
 ---
 title: Hacking Profiler into SSMS Express
+date: 2012-06-25
 author: Beej
-type: post
-date: 2012-06-25T00:25:00+00:00
-year: "2012"
-month: "2012/06"
-url: /2012/06/hacking-profiler-into-ssms-express.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 4201967420601982223
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2012/06/hacking-profiler-into-ssms-express.html
-dsq_thread_id:
-  - 5533362005
 tags:
   - Database
-
 ---
   * We can download the SQL Server Management Studio Express installer for free which makes for a convenient source for this tool when firing up a new Windows machine that you just want to connect to some servers and get to work &#8211; <https://www.microsoft.com/en-us/download/details.aspx?id=22985>   
     But SSMS Express doesn't provide the Profiler (aka SQL Trace) component that I can't live without. 

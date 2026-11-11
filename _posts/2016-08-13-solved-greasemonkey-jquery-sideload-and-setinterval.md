@@ -1,22 +1,10 @@
 ---
 title: '[Solved] Greasemonkey/Tampermonkey jQuery sideload and setInterval'
+date: 2016-08-13
 author: Beej
-type: post
-date: 2016-08-13T17:19:22+00:00
-year: "2016"
-month: "2016/08"
-url: /2016/08/solved-greasemonkey-jquery-sideload-and-setinterval.html
-snapEdIT:
-  - 1
-snapTW:
-  - 's:166:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:19:"%TITLE% - %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";'
-dsq_thread_id:
-  - 5515745843
-categories:
 tags:
   - Music
   - WebDev
-
 ---
 i was having a heck of a time keeping a reliable handle on jQuery in the Pandora page... it would be there upon initial Greasemonkey script execution but then upon subsequent setInterval executions, the jQuery global variable was undefined... fascinating...
   

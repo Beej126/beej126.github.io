@@ -1,36 +1,11 @@
 ---
 title: Georeference Trail Map Image to mobile Google Earth
+date: 2012-09-12
 author: Beej
-type: post
-date: 2012-09-12T11:48:00+00:00
-year: "2012"
-month: "2012/09"
-url: /2012/09/trail-map-image-to-google-ear.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 3106344963136436541
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2012/09/trail-map-image-to-google-earth.html
-blogger_thumbnail:
-  - https://lh5.ggpht.com/-aGWvx5bGstU/UFAT-gcmngI/AAAAAAAAFGQ/vkF8uCG3obo/image_thumb%25255B2%25255D.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - 's:162:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";'
-dsq_thread_id:
-  - 5573450567
-categories:
-  - Highlights
 tags:
   - Mapping
   - Synthesis
-
-thumbnail-img: https://lh5.ggpht.com/-aGWvx5bGstU/UFAT-gcmngI/AAAAAAAAFGQ/vkF8uCG3obo/image_thumb%25255B2%25255D.png?imgmax=800
+thumbnail-img: /images/uploads/2012/trail-map-image-to-google-ear-thumbnail.png
 ---
 ## Nutshell
 
@@ -61,7 +36,7 @@ Here’s an [example KMZ]({{ site.baseurl }}/downloads/Fort_Ebey_Kettles_Park.km
 
 If you load [GE][8] on your PC, you’ll be able to double click this file to see what I’m saying. It all rotates in 3D and even gets “clamped” to the terrain! From what I can tell, once mobile GE has cached the map tiles for your desired area, you can count on it displaying even while offline on the trail.
 
-<span style="display: inline-block; margin: 0.5em 0.5em 0 0; text-align: center;">Before<br /> <a href="https://lh4.ggpht.com/-yOgqtm1YpRE/UFAT-CZ_aQI/AAAAAAAAFGI/PHCGztQlVBg/s1600-h/image%25255B6%25255D.png"><img src="https://lh5.ggpht.com/-aGWvx5bGstU/UFAT-gcmngI/AAAAAAAAFGQ/vkF8uCG3obo/image_thumb%25255B2%25255D.png?imgmax=800" alt="Before" title="image" /></a></span><span style="display: inline-block; text-align: center;">With Map<br /> <a href="https://lh6.ggpht.com/-MFr4lnqNKT0/UFAT_1lG7II/AAAAAAAAFGY/e-kJDUphsnI/s1600-h/image%25255B7%25255D.png"><img src="https://lh4.ggpht.com/-El23DmPMB2M/UFAUAZfq8eI/AAAAAAAAFGg/pTle5ETSb6M/image_thumb%25255B3%25255D.png?imgmax=800" alt="" title="image" /></a></span>
+<span style="display: inline-block; margin: 0.5em 0.5em 0 0; text-align: center;">Before<br /> <a href="/images/uploads/2012/trail-map-image-to-google-ear-dde55fed5142.png"><img src="/images/uploads/2012/trail-map-image-to-google-ear-thumbnail.png" alt="Before" title="image" /></a></span><span style="display: inline-block; text-align: center;">With Map<br /> <a href="/images/uploads/2012/trail-map-image-to-google-ear-f43dfb5a4df7.png"><img src="/images/uploads/2012/trail-map-image-to-google-ear-80581cd2bf88.png" alt="" title="image" /></a></span>
 
  [1]: https://play.google.com/store/apps/details?id=com.custommapsapp.android&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5jdXN0b21tYXBzYXBwLmFuZHJvaWQiXQ..
  [2]: https://en.wikipedia.org/wiki/Georeference

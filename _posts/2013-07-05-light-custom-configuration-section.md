@@ -1,24 +1,7 @@
 ---
 title: Light Custom Configuration Section
+date: 2013-07-05
 author: Beej
-type: post
-date: 2013-07-06T03:27:00+00:00
-year: "2013"
-month: "2013/07"
-url: /2013/07/light-custom-configuration-section.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 172384232694016442
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2013/07/light-custom-configuration-section.html
-dsq_thread_id:
-  - 5541558754
-categories:
 tags:
   - C#
   - Dev

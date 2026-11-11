@@ -1,40 +1,13 @@
 ---
 title: YASBE – Open Source Code Incremental Backup Windows WPF Application
+date: 2011-03-02
 author: Beej
-type: post
-date: 2011-03-03T07:46:00+00:00
-year: "2011"
-month: "2011/03"
-url: /2011/03/yasbe-open-source-code-incremental.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 2584202116028905886
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2011/03/yasbe-open-source-code-incremental.html
-blogger_thumbnail:
-  - https://lh3.ggpht.com/_XlySlDLkdOc/TW7WwiNKDRI/AAAAAAAAE4A/lllxfhmoIlQ/image_thumb%5B7%5D.png?imgmax=800
-dsq_thread_id:
-  - 5542099156
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
 tags:
   - C#
   - Dev
   - Database
   - WPF
-
+thumbnail-img: /images/uploads/2011/yasbe-open-source-code-incremental-thumbnail.png
 ---
 The reason I started this little project is none of the premier backup packages currently support Blu_ray… I know that sounds amazing but [check out the help forums for stuff like Acronis][1] and Paragon and Yosemite… it’s not a pretty picture out there currently with regards to Blu_ray… and of course, I had already bought my BD drive before I started to realize how dismal this all was… so I was inclined to find a solution 🙂
 
@@ -61,8 +34,8 @@ I’ll admit right up front, the UI is a a bit cluttered and terse… classic, g
   * Nero methodically clicks off percent*completes nice & fast … seems like 25GB only takes about 15mins… very doable… I did 8 x 25GB discs to cover my whole photo library while working on other things and it went by like clockwork.
 
  [1]: https://forum.acronis.com/forum/14860
- [2]: https://lh3.ggpht.com/_XlySlDLkdOc/TW7WwiNKDRI/AAAAAAAAE4A/lllxfhmoIlQ/image_thumb%5B7%5D.png?imgmax=800 "image"
- [3]: https://lh5.ggpht.com/_XlySlDLkdOc/TW7WvBi6lOI/AAAAAAAAE38/sca1Hz*yjqs/s1600*h/image%5B13%5D.png
+ [2]: /images/uploads/2011/yasbe-open-source-code-incremental-thumbnail.png "image"
+ [3]: /images/uploads/2011/yasbe-open-source-code-incremental-f38e8830525a.png
  [4]: https://github.com/Beej126/yasbe/
  [5]: /2011/12/sql*server*table*valued*stored.html
  [6]: https://code.google.com/p/yasbe/source/browse/#svn%2Ftrunk%2FDB

@@ -1,30 +1,10 @@
 ---
 title: Outlook Bulk Remove Encryption
+date: 2012-03-03
 author: Beej
-type: post
-date: 2012-03-04T05:06:00+00:00
-year: "2012"
-month: "2012/03"
-url: /2012/03/outlook-bulk-remove-encryption.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 6570582896007839120
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 2
-blogger_permalink:
-  - /2012/03/outlook-bulk-remove-encryption.html
-dsq_thread_id:
-  - 5508631620
-categories:
 tags:
   - PowerShell
   - Security
-
 ---
 ## Nutshell
 

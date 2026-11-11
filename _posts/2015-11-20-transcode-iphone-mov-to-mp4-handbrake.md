@@ -1,34 +1,11 @@
 ---
 title: Transcode MOV to MP4
+date: 2015-11-20
 author: Beej
-type: post
-date: 2015-11-20T13:56:00+00:00
-year: "2015"
-month: "2015/11"
-url: /2015/11/transcode-iphone-mov-to-mp4-handbrake.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 3009815197367005937
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2015/11/transcode-iphone-mov-to-mp4-handbrake.html
-blogger_thumbnail:
-  - https://4.bp.blogspot.com/-NVKxjcyswzU/Vk629MzkLSI/AAAAAAAAR2g/01McsMZEtoI/s1600/Snap6.png
-snapEdIT:
-  - 1
-snapTW:
-  - 's:162:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";'
-dsq_thread_id:
-  - 5526313403
-categories:
 tags:
   - PowerShell
   - Video
-
+thumbnail-img: /images/uploads/2015/transcode-iphone-mov-to-mp4-handbrake-thumbnail.png
 ---
 ## [GitHub Source][1]
 

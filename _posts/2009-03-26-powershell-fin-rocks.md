@@ -1,39 +1,11 @@
 ---
 title: PowerShell f’in rocks!
+date: 2009-03-26
 author: Beej
-type: post
-date: 2009-03-26T23:43:00+00:00
-year: "2009"
-month: "2009/03"
-url: /2009/03/powershell-fin-rocks.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 1701126082226539111
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2009/03/powershell-fin-rocks.html
-blogger_thumbnail:
-  - https://lh6.ggpht.com/_XlySlDLkdOc/ScvX--jTD_I/AAAAAAAACr0/qvC1p_EPgmw/image_thumb%5B8%5D.png?imgmax=800
-dsq_thread_id:
-  - 5531236622
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
 tags:
   - PowerShell
   - SysAdmin
-
-thumbnail-img: https://lh6.ggpht.com/_XlySlDLkdOc/ScvX--jTD_I/AAAAAAAACr0/qvC1p_EPgmw/image_thumb%5B8%5D.png?imgmax=800
+thumbnail-img: /images/uploads/2009/powershell-fin-rocks-thumbnail.png
 ---
   * <a href="https://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx" target="_blank">Main Microsoft landing page for PowerShell</a>… download and install it!!&#160; (if you’re running Windows Server 2008, it’s already loaded) 
   * Out of the box executing PowerShell scripts is completely disabled for security… there’s a couple immediate tasks to enable… 
@@ -149,7 +121,7 @@ $form.showdialog()
 
 Everybody needs a picture right?
 
-[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="https://lh6.ggpht.com/_XlySlDLkdOc/ScvX--jTD_I/AAAAAAAACr0/qvC1p_EPgmw/image_thumb%5B8%5D.png?imgmax=800" width="318" height="383" />][1]
+[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2009/powershell-fin-rocks-thumbnail.png" width="318" height="383" />][1]
 
 #### Hide-PowerShell() script source
 
@@ -186,4 +158,4 @@ function Minimize-PowerShell() {
 }
 </pre>
 
- [1]: https://lh4.ggpht.com/_XlySlDLkdOc/ScvX-TcD4LI/AAAAAAAACrw/QHM_xIprQaA/s1600-h/image%5B12%5D.png
+ [1]: /images/uploads/2009/powershell-fin-rocks-0f973d01ca4e.png

@@ -1,10 +1,9 @@
 ---
 title: Android Emulator Nuggets
+date: 2017-05-08
 author: Beej
-date: 2017-05-09
 tags:
   - Android
-
 ---
 ### Installing Google Play
 

@@ -1,0 +1,23 @@
+---
+layout: page
+title: Posts by Comments
+permalink: /by-comments/
+---
+
+{% if site.data.posts_by_comments.size > 0 %}
+<table>
+  <thead>
+    <tr><th scope="col">Post</th><th scope="col">Comments</th></tr>
+  </thead>
+  <tbody>
+    {% for entry in site.data.posts_by_comments %}
+    <tr>
+      <td><a href="{{ entry.post.url | relative_url }}">{{ entry.post.title | strip_html | escape }}</a></td>
+      <td>{{ entry.count }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>No discussions yet.</p>
+{% endif %}

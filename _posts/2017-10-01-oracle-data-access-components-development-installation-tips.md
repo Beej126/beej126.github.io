@@ -1,22 +1,10 @@
 ---
 title: Oracle Data Access Components – Development Installation Tips
-author: admin
-type: post
-date: 2017-10-01T21:56:17+00:00
-year: "2017"
-month: "2017/10"
-url: /2017/10/oracle-data-access-components-development-installation-tips.html
-snap_isAutoPosted:
-  - 1
-snapTW:
-  - 's:190:"a:1:{i:0;a:4:{s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"914609943017177088";s:7:"postURL";s:53:"https://twitter.com/BeejSEA/status/914609943017177088";s:5:"pDate";s:19:"2017-10-01 21:56:19";}}";'
-dsq_thread_id:
-  - 6184372096
-categories:
+date: 2017-10-01
+author: Beej
 tags:
   - Database
   - Oracle
-
 ---
 
 ## Oracle Provider for OLE DB
@@ -105,7 +93,7 @@ machine.config entries i wound up editing in as of current version
  [5]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
  [6]: {{ site.baseurl }}/images/uploads/2017/10/snap217.png
  [7]: https://www.maherjendoubi.io/odp-net-on-microsoft-net-core/
- [8]: {{ site.baseurl }}/images/uploads/2017/10/snap218.png
+ [8]: {{ site.baseurl }}/images/uploads/2017/unavailable-daa86faed70a.svg
  [9]: https://stackoverflow.com/a/26039859
  [10]: {{ site.baseurl }}/images/uploads/2017/10/snap220.png
  [11]: {{ site.baseurl }}/images/uploads/2017/10/snap219.png

@@ -1,28 +1,10 @@
 ---
 title: Updating 2006 MacBook Pro to Win 10
+date: 2017-02-07
 author: Beej
-type: post
-date: 2017-02-07T09:36:50+00:00
-year: "2017"
-month: "2017/02"
-url: /2017/02/win10_on_legacy_macbookpro.html
-snap_isAutoPosted:
-  - 1
-dsq_thread_id:
-  - 5529424931
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:218:"a:1:{i:0;a:8:{s:9:"timeToRun";s:0:"";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:2:"do";i:0;}}";
-categories:
 tags:
   - Mac
-
-thumbnail-img: https://cloud.githubusercontent.com/assets/6301228/24815086/cd160dc8-1b88-11e7-949d-8a9a2f0f8171.png
+thumbnail-img: /images/uploads/2017/win10_on_legacy_macbookpro-thumbnail.png
 ---
 
 ### Background
@@ -56,7 +38,7 @@ _not as easy as one might think_ &#8211; this firmware is very finicky... USB Th
       1. From the Mac side, [download the latest zip][6]... extract...
       2. and then from Mac Terminal: `sudo ./refind-install`
 
-<img src="https://cloud.githubusercontent.com/assets/6301228/24815086/cd160dc8-1b88-11e7-949d-8a9a2f0f8171.png" style="height: 200px; margin: 0 auto; display: block;" />
+<img src="/images/uploads/2017/win10_on_legacy_macbookpro-thumbnail.png" style="height: 200px; margin: 0 auto; display: block;" />
 
 ### Prep your partition and Install
 
@@ -109,7 +91,7 @@ _not as easy as one might think_ &#8211; this firmware is very finicky... USB Th
  [9]: https://social.technet.microsoft.com/Forums/windowsserver/en-US/ebc26d5d-09bc-43a6-a946-608c84d46f61/change-volume-label-of-system-volume?forum=winservercore
  [10]: https://downloadcenter.intel.com/download/20018/INF-Update-Utility-Primarily-for-Intel-6-5-4-3-900-Series-Chipsets-Zip-Format?product=1145
  [11]: https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets
- [12]: https://images.techhive.com/images/article/2014/01/device-manager-100226208-orig.png
+ [12]: /images/uploads/2017/win10_on_legacy_macbookpro-5da229e40ced.png
  [13]: https://www.catalog.update.microsoft.com/Search.aspx?q=v5200
  [14]: https://support.apple.com/en-us/HT205016
  [15]: https://digiex.net/threads/apple-windows-10-bootcamp-6-drivers-download-applebcupdate-exe-april-1st-2016.14828/
@@ -117,4 +99,4 @@ _not as easy as one might think_ &#8211; this firmware is very finicky... USB Th
  [17]: https://support.apple.com/kb/DL1636?locale=en_US
  [18]: https://support.apple.com/downloads/DL1636/en_US/BootCamp4.0.4326.zip
  [19]: https://superuser.com/questions/975717/does-windows-10-support-utc-as-bios-time
- [20]: https://cloud.githubusercontent.com/assets/6301228/22683281/1c793688-eccc-11e6-8ed6-c12c5034ab71.png
+ [20]: /images/uploads/2017/win10_on_legacy_macbookpro-6b19de8b2703.png

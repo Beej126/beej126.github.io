@@ -1,35 +1,11 @@
 ---
 title: CREE LED Based Bicycle Lights and Rechargeable Lithium Ion Batteries
+date: 2010-09-04
 author: Beej
-type: post
-date: 2010-09-04T11:33:00+00:00
-year: "2010"
-month: "2010/09"
-url: /2010/09/cree-led-based-bicycle-lights-and.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 326164624983381786
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2010/09/cree-led-based-bicycle-lights-and.html
-blogger_thumbnail:
-  - https://lh4.ggpht.com/_XlySlDLkdOc/TXzwdyL4uOI/AAAAAAAAE60/rEFD9_CFjCM/image27.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - 's:166:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:19:"%TITLE% - %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";'
-dsq_thread_id:
-  - 5517831640
-categories:
 tags:
   - Hardware
   - Outdoors
-
-thumbnail-img: https://lh4.ggpht.com/_XlySlDLkdOc/TXzwdyL4uOI/AAAAAAAAE60/rEFD9_CFjCM/image27.png?imgmax=800
+thumbnail-img: /images/uploads/2010/cree-led-based-bicycle-lights-and-thumbnail.png
 ---
 References:
 
@@ -39,7 +15,7 @@ References:
 <table border="0" cellpadding="2" cellspacing="0">
   <tr>
     <td valign="top">
-      <a href="https://shop.ebay.com/i.html?_nkw=%2B750+%2Bcree+%2BT6"><img alt="image" border="0" src="https://lh4.ggpht.com/_XlySlDLkdOc/TXzwdyL4uOI/AAAAAAAAE60/rEFD9_CFjCM/image27.png?imgmax=800" height="249" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="325" /></a>
+      <a href="https://shop.ebay.com/i.html?_nkw=%2B750+%2Bcree+%2BT6"><img alt="image" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-thumbnail.png" height="249" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="325" /></a>
     </td>
     
     <td valign="top">
@@ -50,7 +26,7 @@ References:
           </td>
           
           <td valign="top">
-            <a href="https://lh3.ggpht.com/_XlySlDLkdOc/TX5ms26x5MI/AAAAAAAAE7Y/1KzBPro9DPg/s1600-h/Untitled-2%5B3%5D.png"><img alt="Untitled-2" border="0" src="https://lh5.ggpht.com/_XlySlDLkdOc/TX5mtaVdnqI/AAAAAAAAE7c/JpAmjLVby4Y/Untitled-2_thumb%5B1%5D.png?imgmax=800" height="146" style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="Untitled-2" width="240" /></a>
+            <a href="/images/uploads/2010/cree-led-based-bicycle-lights-and-0aa1fd740f68.png"><img alt="Untitled-2" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-70b51074ccb8.png" height="146" style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="Untitled-2" width="240" /></a>
           </td>
         </tr>
       </table>
@@ -66,7 +42,7 @@ References:
           </td>
           
           <td valign="top">
-            <a href="https://shop.ebay.com/i.html?_nkw=%2B800+%2Bcree+%2Br5" target="_blank"><img alt="image" border="0" src="https://lh5.ggpht.com/_XlySlDLkdOc/TXzweWK3qfI/AAAAAAAAE64/4RAkDJG3m7s/image%5B5%5D.png?imgmax=800" height="106" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="93" /></a>
+            <a href="https://shop.ebay.com/i.html?_nkw=%2B800+%2Bcree+%2Br5" target="_blank"><img alt="image" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-0550e169a42a.png" height="106" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="93" /></a>
           </td>
         </tr>
       </table>
@@ -75,7 +51,7 @@ References:
   
   <tr>
     <td valign="top">
-      <a href="https://www.redilast.com/index.php?option=com_content&view=article&id=56&Itemid=88" target="_blank"><img alt="image" border="0" src="https://lh5.ggpht.com/_XlySlDLkdOc/TXzwfMjo9jI/AAAAAAAAE68/uT_jrHDqtN8/image21.png?imgmax=800" height="200" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="273" /></a>
+      <a href="https://www.redilast.com/index.php?option=com_content&view=article&id=56&Itemid=88" target="_blank"><img alt="image" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-3ae6d2a23cce.png" height="200" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="273" /></a>
     </td>
     
     <td valign="top">
@@ -98,7 +74,7 @@ References:
       </p>
       
       <div align="center">
-        <a href="https://4.bp.blogspot.com/-SaVNUKa8LCI/TVe3a_WgRfI/AAAAAAAABiI/13CK2uvi31o/s1600/Capacity.jpg"><img alt="image" border="0" src="https://lh5.ggpht.com/_XlySlDLkdOc/TXdhxOj5s0I/AAAAAAAAE5o/infzpJ4UDgw/image%5B8%5D.png?imgmax=800" height="347" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="593" /></a>
+        <a href="/images/uploads/2010/cree-led-based-bicycle-lights-and-945c959db02d.jpg"><img alt="image" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-4a44aa2609fc.png" height="347" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="593" /></a>
       </div>
       
       <div align="left">
@@ -106,7 +82,7 @@ References:
       </div>
       
       <div align="left">
-        <a href="https://lygte-info.dk/info/Batteries18650-2011%20UK.html" target="_blank"><img alt="image" border="0" src="https://lh4.ggpht.com/_XlySlDLkdOc/TXzwfgZV-6I/AAAAAAAAE7A/2SPog0bsFvk/image7.png?imgmax=800" height="413" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="677" /></a>
+        <a href="https://lygte-info.dk/info/Batteries18650-2011%20UK.html" target="_blank"><img alt="image" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-97d5307a2aac.png" height="413" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="677" /></a>
       </div>
       
       <div align="left">
@@ -114,14 +90,14 @@ References:
       </div>
       
       <div align="left">
-        <a href="https://light-reviews.com/forum/viewtopic.php?f=9&t=513" target="_blank"><img alt="image" border="0" src="https://lh6.ggpht.com/_XlySlDLkdOc/TXzwgf_A87I/AAAAAAAAE7E/m4T7SO-SHE0/image15.png?imgmax=800" height="541" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="725" /></a>
+        <a href="https://light-reviews.com/forum/viewtopic.php?f=9&t=513" target="_blank"><img alt="image" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-3d3b8fea9964.png" height="541" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="725" /></a>
       </div>
     </td>
   </tr>
   
   <tr>
     <td valign="top">
-      <a href="https://lh5.ggpht.com/_XlySlDLkdOc/TX5muKZa2bI/AAAAAAAAE7g/pyOXzhuRzUs/s1600-h/Untitled-4%5B7%5D.png"><img alt="Untitled-4" border="0" src="https://lh5.ggpht.com/_XlySlDLkdOc/TX5muriUSfI/AAAAAAAAE7k/MikF2rZ07Bo/Untitled-4_thumb%5B3%5D.png?imgmax=800" height="240" style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="Untitled-4" width="236" /></a>
+      <a href="/images/uploads/2010/cree-led-based-bicycle-lights-and-439db34f7be6.png"><img alt="Untitled-4" border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-92b3b920f199.png" height="240" style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="Untitled-4" width="236" /></a>
     </td>
     
     <td valign="top">
@@ -161,7 +137,7 @@ References:
                     typical eBay fare will be a light that’s electrically <u>compatible</u> with 3 x AAA or 1 x 18650 or 2 x CR123… but one must consider how they physically provide for the various battery configurations when pairing your desired light with your desired power source… these photos told me a lot:
                   </li>
                   <li>
-                    <a href="https://cgi.ebay.com/1-set-CREE-Q5-3W-Bike-Headlight-Battery-charger-Ring-/330467170592?pt=LH_DefaultDomain_0&hash=item4cf160d920" target="_blank"><img border="0" src="https://lh4.ggpht.com/_XlySlDLkdOc/TIIui6mylgI/AAAAAAAAEv4/XUFGISHnVkc/image%5B19%5D.png?imgmax=800" height="128" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /><img border="0" src="https://lh5.ggpht.com/_XlySlDLkdOc/TIIujdiVJ8I/AAAAAAAAEv8/qWIPf2oEeP8/image%5B20%5D.png?imgmax=800" height="191" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /><img border="0" src="https://lh5.ggpht.com/_XlySlDLkdOc/TIIuj-4_ifI/AAAAAAAAEwA/wAr22LRURnQ/image%5B21%5D.png?imgmax=800" height="139" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /><img border="0" src="https://lh3.ggpht.com/_XlySlDLkdOc/TIIukQcz6zI/AAAAAAAAEwE/CO2wPfPLmvk/image%5B22%5D.png?imgmax=800" height="77" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /></a>
+                    <a href="https://cgi.ebay.com/1-set-CREE-Q5-3W-Bike-Headlight-Battery-charger-Ring-/330467170592?pt=LH_DefaultDomain_0&hash=item4cf160d920" target="_blank"><img border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-44cc2078be05.png" height="128" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /><img border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-4a971fcc2c89.png" height="191" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /><img border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-33290d977f31.png" height="139" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /><img border="0" src="/images/uploads/2010/cree-led-based-bicycle-lights-and-f9609e32eaf3.png" height="77" style="border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline;" width="244" /></a>
                   </li>
                 </ul>
               </li>

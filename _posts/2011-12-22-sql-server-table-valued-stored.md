@@ -1,29 +1,11 @@
 ---
 title: 'SQL Server Table-Valued Stored Procedure Parameters <=> ADO.Net'
+date: 2011-12-22
 author: Beej
-type: post
-date: 2011-12-22T22:32:00+00:00
-year: "2011"
-month: "2011/12"
-url: /2011/12/sql-server-table-valued-stored.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 1287557296909973670
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2011/12/sql-server-table-valued-stored.html
-dsq_thread_id:
-  - 5821406805
-categories:
 tags:
   - C#
   - Dev
   - Database
-
 ---
 ## Nutshell
 

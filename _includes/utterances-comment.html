@@ -2,7 +2,12 @@
 
 <script src="https://utteranc.es/client.js"
         repo="{{ site.utterances.repository }}"
+        {% assign migrated_issue = site.data.utterances[page.path] %}
+        {% if migrated_issue %}
+        issue-number="{{ migrated_issue }}"
+        {% else %}
         issue-term="{{ site.utterances.issue-term }}"
+        {% endif %}
         theme="{{ site.utterances.theme}}"
         label="{{ site.utterances.label}}"
         crossorigin="anonymous"

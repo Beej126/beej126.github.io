@@ -1,27 +1,9 @@
 ---
 title: JavaScript (ES7) async wrappers perfect for Chrome.Bookmarks API
+date: 2017-01-23
 author: Beej
-type: post
-date: 2017-01-24T01:32:29+00:00
-year: "2017"
-month: "2017/01"
-url: /2017/01/javascript-es7-async-wrappers-perfect-for-chrome-bookmarks-api.html
-snap_isAutoPosted:
-  - 1
-dsq_thread_id:
-  - 5534054347
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:393:"a:1:{i:0;a:12:{s:2:"do";i:0;s:9:"timeToRun";s:0:"";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"823809583063781376";s:7:"postURL";s:53:"https://twitter.com/BeejSEA/status/823809583063781376";s:5:"pDate";s:19:"2017-01-24 08:28:05";}}";
-categories:
 tags:
   - WebDev
-
 ---
 ### Background:
 
@@ -87,7 +69,7 @@ let items = JSON.parse(jsonText).items;
 ```
 
  [1]: https://www.diigo.com/
- [2]: https://cloud.githubusercontent.com/assets/6301228/23633174/87f6d0ce-0279-11e7-8b9e-cd103efd366a.png
+ [2]: /images/uploads/2017/javascript-es7-async-wrappers-perfect-for-chrome-bookmarks-api-bd667035386f.png
  [3]: https://tc39.github.io/ecmascript-asyncawait/
  [4]: https://www.chromestatus.com/feature/5643236399906816
  [5]: https://developers.google.com/web/fundamentals/getting-started/primers/async-functions

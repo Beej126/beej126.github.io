@@ -1,42 +1,12 @@
 ---
 title: CAC (SmartCard) Enabling ASP.Net on IIS
+date: 2011-12-16
 author: Beej
-type: post
-date: 2011-12-16T16:31:00+00:00
-year: "2011"
-month: "2011/12"
-url: /2011/12/cac-smartcard-enabling-aspnet-on-iis.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 9002148795918164479
-blogger_author:
-  - g108669953529091704409
-blogger_comments:
-  - 2
-blogger_permalink:
-  - /2011/12/cac-smartcard-enabling-aspnet-on-iis.html
-blogger_thumbnail:
-  - https://lh4.ggpht.com/-wI03RdKtKWs/TusB39wZG-I/AAAAAAAAE9Y/mCLHvs8_Fzg/image_thumb%25255B5%25255D.png?imgmax=800
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:174:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"SNAPformat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";}}";
-dsq_thread_id:
-  - 5508631479
-categories:
 tags:
   - Dev
   - IIS
   - Security
-
-thumbnail-img: https://lh4.ggpht.com/-wI03RdKtKWs/TusB39wZG-I/AAAAAAAAE9Y/mCLHvs8_Fzg/image_thumb%25255B5%25255D.png?imgmax=800
+thumbnail-img: /images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-thumbnail.png
 ---
   * The only configuration settings required are (IIS7 screenshots below): 
       * Require SSL (this represents server side) 
@@ -55,8 +25,8 @@ Tips:
   * this is the basic command you need to generate your own SSL cert for testing: SelfSSL /N:CN=www.whatever.com /V:9999
   * find SelfSSL in the <a href="https://www.microsoft.com/download/en/confirmation.aspx?id=17275" target="_blank">IIS6 Reskit</a>
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://lh4.ggpht.com/-wI03RdKtKWs/TusB39wZG-I/AAAAAAAAE9Y/mCLHvs8_Fzg/image_thumb%25255B5%25255D.png?imgmax=800" width="496" height="379" />][2]&#160;[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://lh5.ggpht.com/-gQf1ZE4EC0I/TusB5IFd5OI/AAAAAAAAE9o/hBD5diMpub4/image_thumb%25255B3%25255D.png?imgmax=800" width="481" height="215" />][3]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-thumbnail.png" width="496" height="379" />][2]&#160;[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-b66c643c851d.png" width="481" height="215" />][3]
 
  [1]: https://iase.disa.mil/pki-pke/function_pages/tools.html#trust "https://iase.disa.mil/pki-pke/function_pages/tools.html#trust"
- [2]: https://lh3.ggpht.com/-KJPMlhOZEAY/TusB3J87fjI/AAAAAAAAE9U/3Lsup3GXUEo/s1600-h/image%25255B11%25255D.png
- [3]: https://lh6.ggpht.com/-S_lF7eqlF0s/TusB4TtN-lI/AAAAAAAAE9g/ZJ-3_bI61Aw/s1600-h/image%25255B7%25255D.png
+ [2]: /images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-c2e8f65a8f9c.png
+ [3]: /images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-72106d86adce.png

@@ -1,39 +1,11 @@
 ---
 title: PowerShell Dual Windows Explorers
+date: 2015-06-14
 author: Beej
-type: post
-date: 2015-06-15T01:14:00+00:00
-year: "2015"
-month: "2015/06"
-url: /2015/06/powershell-dual-windows-explorers.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 128197263314292581
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2015/06/powershell-dual-windows-explorers.html
-blogger_thumbnail:
-  - https://4.bp.blogspot.com/-NtEZUIcuaLQ/Vo4r9rJ8x3I/AAAAAAAAR84/3SAxaVZOGas/s1600/Snap2.png
-dsq_thread_id:
-  - 5515123033
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:199:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";
-categories:
-  - Highlights
 tags:
   - PowerShell
   - Productivity
-
+thumbnail-img: /images/uploads/2015/powershell-dual-windows-explorers-thumbnail.png
 ---
 &nbsp;
 

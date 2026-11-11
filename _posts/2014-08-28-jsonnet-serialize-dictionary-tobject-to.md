@@ -1,27 +1,9 @@
 ---
 title: 'Json.Net Serialize Dictionary<Tkey, Tobject> to List<Tobject>'
+date: 2014-08-28
 author: Beej
-type: post
-date: 2014-08-28T10:37:00+00:00
-year: "2014"
-month: "2014/08"
-url: /2014/08/jsonnet-serialize-dictionary-tobject-to.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 4606275759437963004
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2014/08/jsonnet-serialize-dictionary-tobject-to.html
-dsq_thread_id:
-  - 5513736403
-categories:
 tags:
   - Json
-
 ---
 Motivation: Wanted convenience of a Dictionary on the server side MVC controller (for some key look-up based logic), yet send the same list of objects down to Knockout Ajax client, which most readily consumes lists as Javascript object arrays.
 

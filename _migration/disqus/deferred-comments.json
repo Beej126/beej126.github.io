@@ -1,0 +1,233 @@
+[
+  {
+    "comment_id": "3129594921",
+    "thread_id": "5508631560",
+    "post": "_boring_posts/2009-05-08-short-throw-projector-optoma-ex525s.md",
+    "parent_id": null,
+    "author": "joel",
+    "created_at": "2009-05-13T14:46:00Z",
+    "body_html": "<p>looks good for close up stuff... from how far away can you project?</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594919",
+    "thread_id": "5508631560",
+    "post": "_boring_posts/2009-05-08-short-throw-projector-optoma-ex525s.md",
+    "parent_id": null,
+    "author": "Beej",
+    "created_at": "2009-05-13T22:04:00Z",
+    "body_html": "<p>It's a short range, probably not much more than 6 feet reliably.  Designed to sit close to projection surface, thereby allowing people to walk very close to the screen (for presentations)... it's definitely a business oriented projector, not home theater.  That means it won't have top specs with regards to video/games... this is the main difference between the two primary model lines out there today.</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594915",
+    "thread_id": "5508631557",
+    "post": "_boring_posts/2009-04-17-my-current-favorite-25-drive-enclosure.md",
+    "parent_id": null,
+    "author": "joel",
+    "created_at": "2009-05-14T02:25:00Z",
+    "body_html": "<p>ok you bastard.  i ordered this puppy x 2.  don't let me down... i'm blaming you!</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594918",
+    "thread_id": "5508631560",
+    "post": "_boring_posts/2009-05-08-short-throw-projector-optoma-ex525s.md",
+    "parent_id": null,
+    "author": "Beej",
+    "created_at": "2009-05-14T13:29:00Z",
+    "body_html": "<p>Update: page 17 of the user manual confirms that the unit is capable of focusing up to a 12.1 ft throw.  Now that would result in a 303 in (25ft) display image which is getting a little rediculous to physically look at in normal home theater surrounds; but it would be awesome to throw up on the outside of a house for summer movie night or something like that :)</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594973",
+    "thread_id": "5508631634",
+    "post": "_boring_posts/2009-11-03-big-swinging-developer.md",
+    "parent_id": null,
+    "author": "jay",
+    "created_at": "2009-11-04T17:57:00Z",
+    "body_html": "<p>Thanks for the kind words, it really made my day!  I like your blog and I've added it my daily RSS routine.  Keep up the writing!</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594760",
+    "thread_id": "5508631400",
+    "post": "_boring_posts/2009-10-29-play-history-for-your-blog-part-deux-or.md",
+    "parent_id": null,
+    "author": "ashokbania",
+    "created_at": "2009-12-18T18:50:44Z",
+    "body_html": "<p>Hi, <br><br>We recently released a iFrame/Image based Orgler Widget. Please grab it from <a href=\"http://www.winamp.com/user/orgler\" rel=\"nofollow noopener\" target=\"_blank\" title=\"http://www.winamp.com/user/orgler\">http://www.winamp.com/user/...</a> and try it. You feedback will be valuable for us.<br><br>-<br><br>Ashok Bania (Product Manager, Winamp)</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594886",
+    "thread_id": "5508631502",
+    "post": "_boring_posts/2010-10-28-solved-photoshop-cs5-detected-video.md",
+    "parent_id": null,
+    "author": "Lockheed",
+    "created_at": "2010-11-13T03:46:46Z",
+    "body_html": "<p>You rock!</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594957",
+    "thread_id": "5508631626",
+    "post": "_boring_posts/2011-07-09-configuring-pc-as-wifi-router.md",
+    "parent_id": null,
+    "author": "JBA.windycity",
+    "created_at": "2011-08-15T02:15:27Z",
+    "body_html": "<p>Try <a href=\"http://www.connectify.me/\" rel=\"nofollow noopener\" target=\"_blank\" title=\"http://www.connectify.me/\">http://www.connectify.me/</a><br><br>Overview and Features<br>Connectify is an easy to use software router for laptops and smart phones. With Connectify, users can wirelessly share any Internet connection: a cable modem, a cellular card, or even another Wi-Fi network. Other Wi-Fi enabled devices can see and join your Connectify hotspot just like any other Wi-Fi access point and are kept safe and secure by password-protected WPA2 Encryption.</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594728",
+    "thread_id": "5508631365",
+    "post": "_boring_posts/2010-10-23-self-hosting-zenphoto-on-windows-7-iis7.md",
+    "parent_id": null,
+    "author": "Anonymous",
+    "created_at": "2012-01-18T17:47:22Z",
+    "body_html": "<p>Thats great... but in this little tutorial of yours you don't touch the .cfg and .log file security issue.<br><br>Zenphoto's default for windows is so insecure that literally anyone that visits your site can access all your logs and cfg. That's pretty bad because people can guess passwords much better having this kind of information.</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594729",
+    "thread_id": "5508631365",
+    "post": "_boring_posts/2010-10-23-self-hosting-zenphoto-on-windows-7-iis7.md",
+    "parent_id": null,
+    "author": "Beej",
+    "created_at": "2012-01-18T18:36:17Z",
+    "body_html": "<p>@Anonymous[Jan 18, 2012] - IIS won't serve files with anything but well known sanctioned extensions... Apache must behave this way as well... (I'll confirm that these are excluded when I get home tonight).<br><br>The next thing that strikes me is that even with the MySQL password, they would need access to the database server to use that information. In my case, that's behind a router and I'd never forward that port through.<br><br>This does suggest an area where there could be some more documentation about the recommended environment... mentioning ports and NAT'ed routers, firewalls, etc.<br><br>But then, you must forgive me, this blog is primarily intended as a self reference first... unless/until someone chimes in, I'll spend my time on more obvious ROI's :) When someone does, it is a good opportunity to give it a little more time.<br><br>Anyway, taking those other layers of security into account, is there still a concern?<br>If so, please briefly describe an access breach scenario you have in mind so it could be checked.</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594731",
+    "thread_id": "5508631365",
+    "post": "_boring_posts/2010-10-23-self-hosting-zenphoto-on-windows-7-iis7.md",
+    "parent_id": null,
+    "author": "Anonymous",
+    "created_at": "2012-01-19T18:41:56Z",
+    "body_html": "<p>Sorry I wasn't specific. The problem arises with Windows + Apache. Zenphoto's default .htaccess files simply aren't enough for protecting the site while in a NTFS filesystem.<br><br>Even if it isn't exactly ok visitors being able to see MySQLs root password the bigger problem is the log file, which may lead to unauthorized access through educated guessing based on unsuccessful logon info... and that is possible no matter what other layers of security are in place (besides disabling Zenphoto's logs or reconfiguring Apache and/or Windows permissions, of course).</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594723",
+    "thread_id": "5508631365",
+    "post": "_boring_posts/2010-10-23-self-hosting-zenphoto-on-windows-7-iis7.md",
+    "parent_id": null,
+    "author": "Beej",
+    "created_at": "2012-01-19T19:22:02Z",
+    "body_html": "<p>@Anoymous - I only dabble in Apache occasionally so you're not going to get any valuable direction out of me... but I wouldn't mind educating myself a bit, and clarifying this topic for other passersby, if you're up for it... <br><br>The default Zenphoto .htaccess installed on my system is only a list of RewriteRule's... so it doesn't seem like it's really involved in securing the Zenphoto site.  Briefly reading Apache's .htaccess tutorial one quickly gets the gist that security matters should be administered at the server .htaccess file level anyway, not at a site level .htaccess file.  Could you elaborate on \"Zenphoto's default .htaccess files simply aren't enough for protecting the site while in a NTFS filesystem.\"  Or provide references which demonstrate the specific concern?<br><br>What is the proposed malicious access path to either config or log files?  I'd be really surprised if it's that difficult to configure Apache to not serve certain raw files/folders... that's basic security we should count on in any web server at this point.  So i'm still not tracking on what you think the nefarious access path is here.  I guess if we simply say Zenphoto may have buffer-overrun bugs which allow someone access to these files through manipulating Zenphoto's own executables... then yes it's a problem, but this common problem must be solved by counting on eliminating those bugs and eventually having a solid product.  It's tough to implement a layer of security that is smart enough to know that this executable that would normally be allowed to access files, is somehow not allowed to access files in an errant circumstance, correct?<br><br>I really don't mean to burden you do death here but it seems like you have a particular vulnerability in mind that would be nice to identify more specifically... i.e. is there a key phrase for this vulnerability? you aware of any writeups that tee up what we should be watching out for?</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594730",
+    "thread_id": "5508631365",
+    "post": "_boring_posts/2010-10-23-self-hosting-zenphoto-on-windows-7-iis7.md",
+    "parent_id": null,
+    "author": "Anonymous",
+    "created_at": "2012-01-20T19:06:28Z",
+    "body_html": "<p>I'm not saying the vulnerability isn't fixable. It just takes effort, and it's not mentioned on your article... so so called \"noobs\" may setup a broken site without knowing better, that's all.<br><br>Anyway, going fw in my quest for the perfect Photo Gallery server I just tried Piwingo + \"Stripped\" extension (for theme) and it's looking good. It's as clean as Zenphoto's default template, plus it adapts dynamically for screen size really well and for me it's a killer feature. I guess I'm done with Zenphoto for now.<br><br>Here's a demo if you want to see what it looks like: <a href=\"http://photomathias.eu/photos/piwigo/\" rel=\"nofollow noopener\" target=\"_blank\" title=\"http://photomathias.eu/photos/piwigo/\">http://photomathias.eu/phot...</a></p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594887",
+    "thread_id": "5508631502",
+    "post": "_boring_posts/2010-10-28-solved-photoshop-cs5-detected-video.md",
+    "parent_id": null,
+    "author": "Anonymous",
+    "created_at": "2012-03-21T15:47:46Z",
+    "body_html": "<p>I love you ! I've been searching for day and here is my salvation !<br>Thanks &gt;.&lt;</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594885",
+    "thread_id": "5508631502",
+    "post": "_boring_posts/2010-10-28-solved-photoshop-cs5-detected-video.md",
+    "parent_id": null,
+    "author": "Anonymous",
+    "created_at": "2012-04-25T11:38:05Z",
+    "body_html": "<p>There's actually a registry tweak to force the opengl settings to be on. <br><br>Go to:<br>HKEY_CURRENT_USERSoftwareAdobePhotoshop12.0 <br>and create a new DWord:<br>AllowOldGPUS<br>And set the value to 1<br><br>This will force photoshop to enable the advanced features for your GPU. Good for cases like mine where you know your GPU can handle 3d graphics but Photoshop is being really stubborn.</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594962",
+    "thread_id": "5508631630",
+    "post": "_boring_posts/2011-03-09-garmin-10x-bluetooth-gps-receiver.md",
+    "parent_id": null,
+    "author": "Bluetooth / Mobile Accessories",
+    "created_at": "2012-04-29T17:54:00Z",
+    "body_html": "<p>I think you are kinda creative in a sense that you were able to make some alternatives for your broken clip. At least the machine was not been damaged.</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594997",
+    "thread_id": "5508631502",
+    "post": "_boring_posts/2010-10-28-solved-photoshop-cs5-detected-video.md",
+    "parent_id": "3129594885",
+    "author": "Anonymous",
+    "created_at": "2012-05-18T22:48:45Z",
+    "body_html": "<p>Thank yoooouuu Mr. Anonymous! This solved all my frustrations! :D :D</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594998",
+    "thread_id": "5508631502",
+    "post": "_boring_posts/2010-10-28-solved-photoshop-cs5-detected-video.md",
+    "parent_id": "3129594885",
+    "author": "Anonymous",
+    "created_at": "2012-06-02T20:44:21Z",
+    "body_html": "<p>This worked for me too! Thanks so much!</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129595000",
+    "thread_id": "5508631502",
+    "post": "_boring_posts/2010-10-28-solved-photoshop-cs5-detected-video.md",
+    "parent_id": "3129594885",
+    "author": "Anonymous",
+    "created_at": "2013-02-04T23:51:07Z",
+    "body_html": "<p>Thank you very much Anonymous, this worked for me on windows 7! I will try to remember it, it's a clever and useful trick.</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "3129594862",
+    "thread_id": "5508631466",
+    "post": "_boring_posts/2014-07-04-solved-comodo-blocking-https-on-windows.md",
+    "parent_id": null,
+    "author": "sderricosebastien derrico",
+    "created_at": "2016-09-16T22:14:21Z",
+    "body_html": "<p>Thank you very much! Had an issue and your post solve it!</p>",
+    "deleted": false,
+    "spam": false
+  },
+  {
+    "comment_id": "4452758900",
+    "thread_id": "5514693661",
+    "post": "_boring_posts/2016-08-21-greasemonkey-hacking-gmail.md",
+    "parent_id": null,
+    "author": "Militsa Chervenkova",
+    "created_at": "2019-05-07T11:14:51Z",
+    "body_html": "<p>Take a look at this <a href=\"https://flow-e.com/inbox-zero/\" rel=\"nofollow noopener\" target=\"_blank\" title=\"https://flow-e.com/inbox-zero/\">article on Inbox Zero</a> too.</p>",
+    "deleted": false,
+    "spam": false
+  }
+]

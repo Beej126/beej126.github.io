@@ -1,28 +1,10 @@
 ---
 title: Xamarin iOS Provisioning Gotchas
+date: 2017-01-10
 author: Beej
-type: post
-date: 2017-01-11T03:55:35+00:00
-year: "2017"
-month: "2017/01"
-url: /2017/01/xamarin-ios-provisioning-gotchas.html
-snap_isAutoPosted:
-  - 1
-snapEdIT:
-  - 1
-snapTW:
-  - |
-    s:324:"a:1:{i:0;a:11:{s:2:"do";s:1:"1";s:9:"timeToRun";s:0:"";s:10:"SNAPformat";s:27:"%TITLE%
-    %URL%
-    
-    %EXCERPT%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:4:"doTW";s:1:"1";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"819030015492796416";s:5:"pDate";s:19:"2017-01-11 03:55:49";}}";
-dsq_thread_id:
-  - 5508647724
-categories:
 tags:
   - iOS
   - Xamarin
-
 ---
 I managed to create scenario where debugging from **Visual Studio 2017** to iOS Simulator was giving me absolute fits because the error messages are so unhelpful... as usual, it was my own fault of course, but gosh it's scary how easily one can fall in that deep dark pit where hopes and dreams go to die ; )
 
@@ -54,4 +36,4 @@ Somehow I'd never really run smack into this but one pertinent difference _durin
 [![image][2]][2]
 
  [1]: https://stackoverflow.com/a/17999469/813599
- [2]: https://cloud.githubusercontent.com/assets/6301228/21834849/4225598a-d76d-11e6-87b1-6188a28f600a.png
+ [2]: /images/uploads/2017/xamarin-ios-provisioning-gotchas-2c62a6f833f5.png

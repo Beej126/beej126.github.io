@@ -1,26 +1,9 @@
 ---
 title: Bash script – loop over inline list of files
+date: 2015-10-25
 author: Beej
-type: post
-date: 2015-10-26T00:51:00+00:00
-year: "2015"
-month: "2015/10"
-url: /2015/10/bash-script-loop-over-inline-list-of.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 3355700281367272659
-blogger_author:
-  - g108832383968142578199
-blogger_permalink:
-  - /2015/10/bash-script-loop-over-inline-list-of.html
-dsq_thread_id:
-  - 5529355788
 tags:
   - CommandLine
-
 ---
 <pre class="prettyprint">#!/bin/bash
 

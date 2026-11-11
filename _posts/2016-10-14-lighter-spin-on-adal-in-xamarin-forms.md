@@ -1,19 +1,11 @@
 ---
 title: Lighter Spin on ADAL in Xamarin Forms
+date: 2016-10-14
 author: Beej
-type: post
-date: 2016-10-14T23:45:54+00:00
-year: "2016"
-month: "2016/10"
-url: /2016/10/lighter-spin-on-adal-in-xamarin-forms.html
-dsq_thread_id:
-  - 5515883840
-categories:
 tags:
   - Azure
   - Security
   - Xamarin
-
 ---
 # tl;dr
 

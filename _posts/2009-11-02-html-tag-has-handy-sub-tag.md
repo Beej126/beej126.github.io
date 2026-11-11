@@ -1,25 +1,9 @@
 ---
 title: 'HTML Table tag has a handy Caption sub-tag'
+date: 2009-11-02
 author: Beej
-type: post
-date: 2009-11-02T17:02:00+00:00
-year: "2009"
-month: "2009/11"
-url: /2009/11/html-tag-has-handy-sub-tag.html
-blogger_bid:
-  - 7726907200224433699
-blogger_blog:
-  - www.beejblog.com
-blogger_id:
-  - 7300415393535526187
-blogger_author:
-  - g108669953529091704409
-blogger_permalink:
-  - /2009/11/html-tag-has-handy-sub-tag.html
-categories:
 tags:
   - WebDev
-
 ---
 (again, who knew?!) 
 
