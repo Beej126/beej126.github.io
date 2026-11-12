@@ -18,7 +18,7 @@ after that was in the bag, i couldn't help dwelling on what else might be possib
 
 but then it struck me, jQuery is global... and what if they're getting these values via jQuery.ajax... such that i could override and tweak... sure enough, that approach panned all the way out!
   
-update &#8211; after that last round, i realized the whole thing about sideloading jQuery was unnecessary, i just needed to use the inline script approach to make sure my code executed on the page context vs whatever weird context TamperMonkey normally does... so the following script now reflects the cleaner evolved approach
+update - after that last round, i realized the whole thing about sideloading jQuery was unnecessary, i just needed to use the inline script approach to make sure my code executed on the page context vs whatever weird context TamperMonkey normally does... so the following script now reflects the cleaner evolved approach
 
 ```js
 // ==UserScript==

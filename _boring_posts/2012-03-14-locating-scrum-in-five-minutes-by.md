@@ -1,5 +1,5 @@
 ---
-title: Locating “Scrum In Five Minutes” By www.Softhouse.se
+title: Locating "Scrum In Five Minutes" By www.Softhouse.se
 author: Beej
 type: post
 date: 2012-03-15T03:15:00+00:00
@@ -23,7 +23,7 @@ tags:
   - ProjMgmt
 
 ---
-It’s not on their main downloads page anymore. Here’s their registration page with immediate PDF download after: <s>[https://softhouseeducation.com/material/scrum-five-minutes][1]</s>
+It's not on their main downloads page anymore. Here's their registration page with immediate PDF download after: <s>[https://softhouseeducation.com/material/scrum-five-minutes][1]</s>
   
 [Updated download][2], now via free cart checkout
 

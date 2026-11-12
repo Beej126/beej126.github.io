@@ -29,8 +29,8 @@ Digital cameras and phones typically save video to MOV (Motion JPEG) files. I sh
 #### Install:
 
   1. save [transcode.ps1][9] to a known location
-  2. install FileMenu Tools and disable all the commands you don’t want.
-  3. Configure a “transcode” command as shown in screenshot below... **edit for your path**
+  2. install FileMenu Tools and disable all the commands you don't want.
+  3. Configure a "transcode" command as shown in screenshot below... **edit for your path**
 
   * updated FMT Arguments: `-Command "{path}\transcode.ps1" -list %TEMPFILEPATHS% -rotate auto`
 

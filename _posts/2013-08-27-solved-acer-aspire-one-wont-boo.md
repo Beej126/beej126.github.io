@@ -1,5 +1,5 @@
 ---
-title: '[SOLVED] Acer Aspire One won’t boot Syslinux USB thumbdrive'
+title: '[SOLVED] Acer Aspire One won't boot Syslinux USB thumbdrive'
 date: 2013-08-27
 author: Beej
 tags:
@@ -8,12 +8,12 @@ tags:
   - Security
   - SysAdmin
 ---
-Looks like my particular issue was the default partition size on my 16GB thumbdrive. Once I formatted the USB with a 2GB partition and installed Syslinux to that, it booted up right away where previously it would hang on the first “Syslinux Copyright Peter Anvin” message. More details: 
+Looks like my particular issue was the default partition size on my 16GB thumbdrive. Once I formatted the USB with a 2GB partition and installed Syslinux to that, it booted up right away where previously it would hang on the first "Syslinux Copyright Peter Anvin" message. More details: 
 
-  * Acer Aspire One model#: 722-C62bb (looks like this is an 11” model) 
+  * Acer Aspire One model#: 722-C62bb (looks like this is an 11" model) 
   * Always handy to have another computer to work from (for web searching, trial and error formats on the USB drive, etc) when trying to fiddle with boot issues on another… my other computer is a Win8 desktop. 
-  * Syslinux actually came into my picture because I was looking to create Comodo’s Rescue Disk. Comodo (v6.2) has a convenient point and click process to push their linux based rescue disk to a USB. 
-  * I used diskpart (on my Win8 box) to create the smaller partition… here’s the core commands: 
+  * Syslinux actually came into my picture because I was looking to create Comodo's Rescue Disk. Comodo (v6.2) has a convenient point and click process to push their linux based rescue disk to a USB. 
+  * I used diskpart (on my Win8 box) to create the smaller partition… here's the core commands: 
       * list vol (to get a feel for your windows drive letters and not format the wrong one 🙂 
       * list disk (same for raw physical disks) 
       * select disk X (MAKE SURE YOU CHOOSE THE RIGHT ONE!!) 
@@ -21,5 +21,5 @@ Looks like my particular issue was the default partition size on my 16GB thumbdr
       * clean (THIS WIPES THE DISK!!!) 
       * create part primary size=2048 (2GB worked for me in this context) 
       * active 
-      * format fs=fat label=”COMODO” quick (I chose old school FAT filesystem looking for most downlevel compatibility, not sure if it was actually necessary vs FAT32. NTFS is notably the least compatible option for linux booting. Quick means do a quick format.) 
-  * Then I just let Comodo do it’s thing and that result booted up right away for me – yay 🙂
+      * format fs=fat label="COMODO" quick (I chose old school FAT filesystem looking for most downlevel compatibility, not sure if it was actually necessary vs FAT32. NTFS is notably the least compatible option for linux booting. Quick means do a quick format.) 
+  * Then I just let Comodo do it's thing and that result booted up right away for me – yay 🙂

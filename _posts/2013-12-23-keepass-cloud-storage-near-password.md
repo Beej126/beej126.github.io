@@ -13,7 +13,7 @@ thumbnail-img: /images/uploads/2013/keepass-cloud-storage-near-password-thumbnai
 
 Update 2015-09-27: Neato! In June of 2015 [the author has applied a mod][2] which allows for KeePassHttp to be served from somewhere other than localhost... there are security implications to be considered here but as long as you know how to cover your bases it opens some nice possibilities to have a single KeepPass instance provide password resolution to multiple clients... e.g. a VM guest, other machines in your home, etc. Not provided in ready to run plgx file yet but following the self compile instructions [found in the readme][3] was fairly trivial.
 
-[KeePass2][4] &#8211; Password management application
+[KeePass2][4] - Password management application
 
   * 10 years mature
   * Free
@@ -26,7 +26,7 @@ Update 2015-09-27: Neato! In June of 2015 [the author has applied a mod][2] whic
 ![][7]
 
   * Mac (and Linux) can run the Windows.exe via Mono
-  * Initially ran native [KyPass Companion][8] on the Mac side (~$8). Have since switched back to the free mainstream build (see below)</p> 
+  * Initially ran native [KyPass Companion][8] on the Mac side (~$8). Have since switched back to the free mainstream build (see below)
   * On Android phone using [Keepass2Android][9] (free) with solid results
 
   * Provides special keyboard which facilitates autofill
@@ -35,7 +35,7 @@ Update 2015-09-27: Neato! In June of 2015 [the author has applied a mod][2] whic
   * Handy yet still secure Quick Unlock feature
   * Consider a good android lock screen as additional layer of protection
 
-I’m glad I finally took the time.&nbsp; I (forced ;) my wife to run the Windows version on her desktop and we share the same database file with our financial, healthcare, etc logins. So either of us can get into whatever we need wherever we are. It gives me peace of mind that she would have ready access to those important things in case I was somehow unavailable (knock wood). If you're putting up with some other convoluted hodge podge as I was, please give this general idea a shot by wading in slowly and see if it makes your life easier as it has for me.
+I'm glad I finally took the time.  I (forced ;) my wife to run the Windows version on her desktop and we share the same database file with our financial, healthcare, etc logins. So either of us can get into whatever we need wherever we are. It gives me peace of mind that she would have ready access to those important things in case I was somehow unavailable (knock wood). If you're putting up with some other convoluted hodge podge as I was, please give this general idea a shot by wading in slowly and see if it makes your life easier as it has for me.
 
 &nbsp;2013-01-01: My main password file was corrupted
 
@@ -54,7 +54,7 @@ DropBox really shines
 
   * Thanks to DropBox's inherent versioning I could readily fallback to a working copy
   * Dropbox also showed the disturbing progression in larger file sizes over short amount of time
-  * as well as which client that was driving those suspect saves &#8211; KyPass on my Mac
+  * as well as which client that was driving those suspect saves - KyPass on my Mac
   * really gotta hand it to that product team, top notch stuff
 
 KyPass's questionable involvement gave me a reason to give the mainline KeePass2 another look...
@@ -92,7 +92,7 @@ Debug notes:
   * First, enable debugger break on SocketException: Run > Exceptions > enter SocketException in the search
   * Run > Debug Application > browse to keepass.exe
 
-  * Xamarin Studio will also reverse gen back to C# source (not that we need it in this case but it's good to know for future) &#8211; just create a new project and add the assembly (DLL or EXE) as a reference and click into it to see the readable source conversion of all classes.
+  * Xamarin Studio will also reverse gen back to C# source (not that we need it in this case but it's good to know for future) - just create a new project and add the assembly (DLL or EXE) as a reference and click into it to see the readable source conversion of all classes.
 
  [1]: {{ site.baseurl }}/images/uploads/2013/12/KeePassHttp-remote-host.png
  [2]: https://github.com/pfn/keepasshttp/pull/217

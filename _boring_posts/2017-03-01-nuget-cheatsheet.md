@@ -29,4 +29,4 @@ tags:
 | uninstall all packages matching pattern | `get-package | ? {$_.Id -like "Human*" } | % { uninstall-package $_.id }` <sup id="fnref-1785-1"><a href="#fn-1785-1" class="jetpack-footnote">1</a></sup> |
 
 <li id="fn-1785-1">
-  speaking of Humanzier, just install Humanizer.Core to get English only&#160;<a href="#fnref-1785-1">&#8617;</a> </fn></footnotes>
+  speaking of Humanzier, just install Humanizer.Core to get English only <a href="#fnref-1785-1">&#8617;</a> </fn></footnotes>

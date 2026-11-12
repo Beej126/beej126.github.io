@@ -1,5 +1,5 @@
 ---
-title: “Hot Corners” for Windows (PowerShell)
+title: "Hot Corners" for Windows (PowerShell)
 date: 2016-11-02
 author: Beej
 tags:

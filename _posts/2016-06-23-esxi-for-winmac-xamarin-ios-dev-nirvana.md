@@ -16,7 +16,7 @@ thumbnail-img: /images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thum
 
   * i was looking for a single machine Mac + Win solution... working from one primary desktop and remoting to the other...
   * this is of course the general posture of all the popular VM "Workstation" products but they gave me heartburn for one reason or another (see Motivation)
-  * ESXi &#8211;VMWare's FREE HyperVisor product&#8211; can support Mac (unlike Windows Hyper-V) yet requires some configurations of HDD, Video & USB to accomplish the desired **single machine** workstation footprint, hence these notes
+  * ESXi -VMWare's FREE HyperVisor product- can support Mac (unlike Windows Hyper-V) yet requires some configurations of HDD, Video & USB to accomplish the desired **single machine** workstation footprint, hence these notes
 
 <p></p><input type="checkbox" class="expander" />
 
@@ -37,7 +37,7 @@ thumbnail-img: /images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thum
 
   * [mobo: Gigabyte GA-X99-UD4 (BIOS F22)](/x99build/)
   * GPU: ATI 5450
-  * ESXi 6.0.0U2 &#8211; [download](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6), <input type="checkbox" class="expander"><span class="hl">[Update: 2017-02-15] ESXi 6.5.0-4564106 was a no-go for me</span>...<div>Frozen Windows logo upon booting the Win10 RDM. Tried creating fresh VM definition and using the new SATA controller instead of SCSI with no luck... bummer because the new ESXi Host Web Client was notably better at saving the necessary settings; didn't have to resort to vSphere Client... fingers crossed future releases will resolve... for the record, the ESXi installer is thankfully smart enough to leave our datastore partition intact, conducive to quickly trying ESXi upgrades by simply REATTACHING the VM's after install</div>
+  * ESXi 6.0.0U2 - [download](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6), <input type="checkbox" class="expander"><mark>[Update: 2017-02-15] ESXi 6.5.0-4564106 was a no-go for me</mark>...<span>Frozen Windows logo upon booting the Win10 RDM. Tried creating fresh VM definition and using the new SATA controller instead of SCSI with no luck... bummer because the new ESXi Host Web Client was notably better at saving the necessary settings; didn't have to resort to vSphere Client... fingers crossed future releases will resolve... for the record, the ESXi installer is thankfully smart enough to leave our datastore partition intact, conducive to quickly trying ESXi upgrades by simply REATTACHING the VM's after install</span>
     * [unlocker 2.0.8](https://www.insanelymac.com/forum/topic/303311-workstation-1112-player-712-fusion-78-and-esxi-6-mac-os-x-unlocker-2/) (there is now a [2.0.9 RC](https://github.com/DrDonk/unlocker) targeting ESXi 6.5, the author does caution that it's not quite ready, but there's [at least one successful report](https://ithinkvirtual.com/2017/02/12/create-macos-os-x-vm-on-vmware-esxi-6-5-vmware-workstation-12-x))
       Windows 10 (v1607 build 14393.693)
       El Capitan OS X v10.11.5, now running fine on Sierra as well
@@ -47,13 +47,13 @@ thumbnail-img: /images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thum
 * [install ESXi](https://www.virten.net/2014/12/howto-create-a-bootable-esxi-installer-usb-flash-drive/)
 * install <a href="https://www.insanelymac.com/forum/files/file/339-unlocker/">unlocker</a>
 * boot up your ESXi host - <em>yeah, it was just that easy : )</em>
-* install [vSphere Client](https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2089791)</a> on a remote machine
+* install [vSphere Client](https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2089791) on a remote machine
 * use client to remote into the host by ip and root/password
 * create your VM's paying attention to the following screenshots & config notes
 
 <p></p><input type="checkbox" class="expander">
 
-### VM creation settings screenshots<span>
+### VM creation settings screenshots
 
 i took these screenshots via ESXi host Web client but that actually runs into various validation errors upon save... the vSphere client is therefore the go to whenever creating/modifying settings (see [Which Client?](#which_client) below)<br/><br/>
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thumbnail.png)
@@ -64,11 +64,10 @@ i took these screenshots via ESXi host Web client but that actually runs into va
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-42664a7285a0.png)
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6cfc6b99e915.png)
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-3f3eb9cf27e1.png)
-</span>
 
 ### Video config
 
-* Noteable: VT-d aka IOMMU aka DirectPath I/O aka passthrough provides direct physical connection from VM (i chose Windows) to PCIe devices for GPU and USB which allows for <span class="hl">running the Windows desktop directly on the ESXi box without typical need for a separate machine to remote in from</span>...
+* Noteable: VT-d aka IOMMU aka DirectPath I/O aka passthrough provides direct physical connection from VM (i chose Windows) to PCIe devices for GPU and USB which allows for <mark>running the Windows desktop directly on the ESXi box without typical need for a separate machine to remote in from</mark>...
 * this does mean once the VM starts up, it completely takes over the graphics card to where the ESXi host is truly "headless"... so i've actually got 2 GPUs running, an old ATI dedicated to the Windows VM and another just for getting into ESXi shell on physical host...
 * **NOTE: single GPU configuration is very viable**... all settings (both host and VM) are done through remote clients (see [Which Client?](#which_client) below)... if for some reason that wasn't an option, you could disable VM autostart via vSphere client and thereby leave a lone GPU for troubleshooting directly on the host console after boot up... i suppose if things were ever so horked up that disabling the GPU takeover autostart remotely wasn't an option, then finding another graphics card to throw in might be the only choice... but really any old card would do (i.e. temp borrow someone else's) since it's just a text based linux console.
 * reportedly nVidia consumer grade cards like my nVidia GTX 750 Ti are specifically crippled against VT-d... nVidia reserves this for their high end $$ cards... [clever folks are mod'ing low end cards to report VT-d compatible DeviceId's](https://www.eevblog.com/forum/chat/hacking-nvidia-cards-into-their-professional-counterparts/) but i haven't found anyone doing the 750 Ti yet... also wonder about DSDT override approaches... unfortunately Windows doesn't pay attention to bootloader magic ala Clover, otherwise [FakeId](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-6197d53f4c01.png) would be awesomely too easy... [ESXi does seem to support a custom DSDT](https://communities.vmware.com/thread/494835?start=0&tstart=0) -or- it looks like there's a way to [punch a DSDT into the registry](https://github.com/Microsoft/graphics-driver-samples/wiki/Install-Driver-in-a-Windows-VM) for development purposes
@@ -78,7 +77,7 @@ i took these screenshots via ESXi host Web client but that actually runs into va
 
 ### HD config
 
-* [this post](https://www.vm-help.com/esx40i/SATA_RDMs.php) details how to create RDM (Raw Device Mapping) vmdk's to <span class="hl">mount our <u>**consumer sata drives**</u> containing existing physical Win and Mac boot installations directly as VMs</span>, nice! ... Nutshell steps:
+* [this post](https://www.vm-help.com/esx40i/SATA_RDMs.php) details how to create RDM (Raw Device Mapping) vmdk's to <mark>mount our <u>**consumer sata drives**</u> containing existing physical Win and Mac boot installations directly as VMs</mark>, nice! ... Nutshell steps:
 
     ```shell
     #one time only md /vmfs/volumes/datastore1/RDMs
@@ -101,7 +100,7 @@ i took these screenshots via ESXi host Web client but that actually runs into va
 
 ### Network
 
-* <span class="hl">Make sure you use VMXNET3 virtual NIC</span>
+* <mark>Make sure you use VMXNET3 virtual NIC</mark>
 * the Intel E1000 default definitely sucks! it was giving me only 20 mbit downloads on my 30 mbit line
 * [special instructions for Mac](https://www.virtuallyghetto.com/2016/10/vmxnet3-driver-now-included-in-mac-os-x-10-11-el-capitan.html) ... i edited my VMX file directly (see [vmx edit](#vmx_edit) tip below)
 
@@ -114,8 +113,8 @@ i took these screenshots via ESXi host Web client but that actually runs into va
 
 * it's wild how many different clients VMware has cooking... and they all have annoyances... vSphere Client, vCenter Web Client, VMware Remote Console (VMRC), ESXi Embedded Host Client and i hadn't realized VMware Workstation's UI will readily console into remote VMs in addition to its main function
 * FYI, if you get an "HCMON" conflict error with any of the installers – just run the installer exe as admin
-* **vCenter Web Client** – oft touted as the leading functionality bits (other clients warn of decreased VMware v11 hardware capability) ... <input type="checkbox" class="expander"><span class="hl">but it requires licensed vSphere Server...</span> <div>...i.e. $ and another Windows Server or Linux box... will NOT install on Windows DESKTOP skus... previous versions we could fairly easily mod the MSI to ignore Server check, but latest v6.5's MSIs are signed and won't run after modded... AppCompat HighVersionLie shim didn't work because it's stuck on NTProductType (1=Desktop, 3=Server) not version and i was too scared to try an old tool like [NTSwitch](https://archive.oreilly.com/pub/a/oreilly//news/differences_nt.html) on my main rig... saving that for rainy day VM excercise</div>
-* **VMWare Remote Console** – for quick remote desktop into the Mac i've settled on (rather undoc'd) parms for [VMRC](https://www.virtuallyghetto.com/2014/10/standalone-vmrc-vm-remote-console-re-introduced-in-vsphere-5-5-update-2b.html#comment-41274) `"C:\Program Files (x86)\VMwareVMware Remote Console\vmrc.exe" -H esxi_ip -U userid -P password -M vmid`
+* **vCenter Web Client** – oft touted as the leading functionality bits (other clients warn of decreased VMware v11 hardware capability) ... <input type="checkbox" class="expander"><mark>but it requires licensed vSphere Server...</mark> <span>...i.e. $ and another Windows Server or Linux box... will NOT install on Windows DESKTOP skus... previous versions we could fairly easily mod the MSI to ignore Server check, but latest v6.5's MSIs are signed and won't run after modded... AppCompat HighVersionLie shim didn't work because it's stuck on NTProductType (1=Desktop, 3=Server) not version and i was too scared to try an old tool like [NTSwitch](https://archive.oreilly.com/pub/a/oreilly//news/differences_nt.html) on my main rig... saving that for rainy day VM excercise</span>
+* **VMWare Remote Console** – for quick remote desktop into the Mac i've settled on (rather undoc'd) parms for [VMRC](https://www.virtuallyghetto.com/2014/10/standalone-vmrc-vm-remote-console-re-introduced-in-vsphere-5-5-update-2b.html#comment-41274) `"C:\Program Files (x86)\VMware\VMware Remote Console\vmrc.exe" -H esxi_ip -U userid -P password -M vmid`
   * locate vmid via ESXi Shell: `vim-cmd vmsvc/getallvms`
   * these modern clients seamlessly auto resize the mac desktop resolution just by dragging the console windows handles, nice!... just make sure to bump the paltry default 4MB VRAM via your VM > Edit Settings > Hardware tab > Video card... 64MB seems plenty... this setting supersedes the oft mentioned sVGA.vramsize vmx setting
 * **ESXI Embedded Host Web Client** – for admin/settings the [Host Client](https://labs.vmware.com/flings/esxi-embedded-host-client) is nicely capable w/o installing anything... access via: https://esxi_ip_addr/ui/
@@ -132,11 +131,15 @@ Sometimes it's handy to physically boot into the Mac... one reason is to get ful
 
 TL;DR: Add a new entry to the ESXi EFI BIOS Boot Manager for OSX's /System/Library/CoreServices/boot.efi
 
-<p></p><input type="checkbox" class="expander"><i>The long story...</i><div>
+<p></p><input type="checkbox" class="expander"><i>The long story...</i>
+
+<div markdown="1">
 
 i've found one way to workaround is to "skip" Clover by configuring a special entry in the VMware EFI BIOS boot selection screen (i.e. the "F2" menu)...
 
-<p></p><input type="checkbox" class="expander"><i>screenshots of all the BIOS screen settings...</i><div>
+<p></p><input type="checkbox" class="expander"><i>screenshots of all the BIOS screen settings...</i>
+
+<div markdown="1">
 
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-2086a78d15e3.png)
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-b0a4f6064079.png)
@@ -169,7 +172,9 @@ Adding the Mac's boot.efi entry
 Change the Boot Order to put it at the top to be the default<br/>
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-b3be8b4d9418.png)
 ![](/images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-3ee1d610a987.png)<br/>
-</div><br/>
+</div>
+
+<br/>
 
 <p></p><input type="checkbox" class="expander">
 ### EFI Shell BFCG gone missing???
@@ -189,7 +194,9 @@ Change the Boot Order to put it at the top to be the default<br/>
 * for the google record, the error i run into with Clover beyond r3265 under VMware was *"firmware encountered an unexpected exception"* 
 * i've just tried Clover r4061 2017-04-19 and it's still busted => seems the bug is [already reported](https://sourceforge.net/p/cloverefiboot/tickets/354/)...  
 * and i indeed have now come to require a more recent Clover release than r3265 under physical Mac ([due to this](https://nickwoodhams.com/x99-hackintosh-osxaptiofixdrv-allocaterelocblock-error-update/))
-</div></br>
+</div>
+
+<br/>
 
 ## Unfiltered Tips
 

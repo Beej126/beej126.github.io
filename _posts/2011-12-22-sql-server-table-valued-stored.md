@@ -109,7 +109,7 @@ tags:
 
 ## Tips
 
-* If the login that [SqlCommandBuilder.DeriveParameters](https://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlcommandbuilder.deriveparameters.aspx#3) is run under does not have permission to access the UDT, no error will be thrown &#8211; the method will return successfully, but the SqlCommand.Parameters collection will not contain the UDT parameter.!!!
+* If the login that [SqlCommandBuilder.DeriveParameters](https://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlcommandbuilder.deriveparameters.aspx#3) is run under does not have permission to access the UDT, no error will be thrown - the method will return successfully, but the SqlCommand.Parameters collection will not contain the UDT parameter.!!!
 * Granting permissions on a type ([from here](https://www.sqlteam.com/article/sql-server-2008-table-valued-parameters)): GRANT EXECUTE ON TYPE::dbo.MyType TO public;
 
 ## Links

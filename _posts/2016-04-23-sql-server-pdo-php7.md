@@ -6,7 +6,7 @@ tags:
   - Database
   - PHP
 ---
-  1. [get the DLL][1] &#8211; grab latest x64.zip
+  1. [get the DLL][1] - grab latest x64.zip
   2. add to your php.ini extension list: 
         [ExtensionList]
         extension=php_pdo_sqlsrv_7_nts.dll

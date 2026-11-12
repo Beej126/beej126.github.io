@@ -23,4 +23,4 @@ tags:
   - SysAdmin
 
 ---
-Is this a standard???&#160; I can’t find reference to this hot key sequence out there in Google land. You need to hit CTRL, release and then hit 1, not CTRL-1, i.e don’t hold down CTRL. On my (\*non\* Windows Media Keys Keyboard under Windows 7) system here, it works with both left and right CTRL and main keyboard or numeric keyboard “1”. &#160; Google Keywords: Windows 7, Audio, Mute, Volume, Control, CTRL, 1, One
+Is this a standard???  I can't find reference to this hot key sequence out there in Google land. You need to hit CTRL, release and then hit 1, not CTRL-1, i.e don't hold down CTRL. On my (\*non\* Windows Media Keys Keyboard under Windows 7) system here, it works with both left and right CTRL and main keyboard or numeric keyboard "1".   Google Keywords: Windows 7, Audio, Mute, Volume, Control, CTRL, 1, One

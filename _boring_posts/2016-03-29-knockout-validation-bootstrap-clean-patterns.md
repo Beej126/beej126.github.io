@@ -60,12 +60,12 @@ above _field name in error message_ examples require the following global rule.m
     ko.validation.rules["required"].message = "{0} required";
     
 
-### HTML sample &#8211; basic knockout data-bind'ing (in case you're new : )
+### HTML sample - basic knockout data-bind'ing (in case you're new : )
 
     <input type="text" class="form-control" placeholder="Order Id" data-bind="value: orderId">
     
 
-### HTML sample &#8211; summary error block
+### HTML sample - summary error block
 
     <div data-bind="visible: validation.isAnyMessageShown()" class="bg-danger errorGroup">please enter required fields</div>
     

@@ -7,10 +7,11 @@ tags:
   - Security
 thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbnail.png
 ---
+{::nomarkdown}
 <table border="1" cellpadding="2" cellspacing="0">
   <tr>
     <td valign="top">
-      “SQL Server Transport Encryption” is a good Google phrase for this technology.<br /> Reference: <a href="https://msdn.microsoft.com/en-us/library/ms191192.aspx" title="https://msdn.microsoft.com/en-us/library/ms191192.aspx">https://msdn.microsoft.com/en-us/library/ms191192.aspx</a>
+      "SQL Server Transport Encryption" is a good Google phrase for this technology.<br /> Reference: <a href="https://msdn.microsoft.com/en-us/library/ms191192.aspx" title="https://msdn.microsoft.com/en-us/library/ms191192.aspx">https://msdn.microsoft.com/en-us/library/ms191192.aspx</a>
     </td>
     
     <td valign="top">
@@ -24,7 +25,7 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
       </h4>
       
       <p>
-        A self signed certificate is easy and works fine... here’s one way:
+        A self signed certificate is easy and works fine... here's one way:
       </p>
       
       <ul>
@@ -35,7 +36,7 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
           All you'll need is the "SelfSSL.exe" tool so the custom install is minimal.
         </li>
         <li>
-          Find SelfSSL.exe in default install path: C:Program FilesIIS Resources
+          Find SelfSSL.exe in default install path: C:\Program Files\IIS Resources
         </li>
         <li>
           Good reference for SelfSSL usage: <a href="https://www.sslshopper.com/article-how-to-create-a-self-signed-certificate-in-iis-7.html">https://www.sslshopper.com/article-how-to-create-a-self-signed-certificate-in-iis-7.html</a>, scroll down to "Generate a Self Signed Certificate with the Correct Common Name"
@@ -58,16 +59,16 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
               The /V: part is the validity duration of your cert, in days. I believe 1999999 is the max, which corresponds to around 5475 years in the future (that ought'a last ya ;)
             </li>
             <li>
-              The /N:CN= part is the “Common Name” this cert will be tied to… in this case that needs to be the true machine name of your database server.
+              The /N:CN= part is the "Common Name" this cert will be tied to… in this case that needs to be the true machine name of your database server.
             </li>
           </ul>
         </li>
         
         <li>
-          “Do you want to replace the SSL settings for site 1 (Y/N)?” => No
+          "Do you want to replace the SSL settings for site 1 (Y/N)?" => No
         </li>
         <li>
-          Now you have a cert registered in your “personal certificate store” &#8211; next we’ll extract it for installation on db server.
+          Now you have a cert registered in your "personal certificate store" - next we'll extract it for installation on db server.
         </li>
       </ul>
     </td>
@@ -78,7 +79,7 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
   
   <tr>
     <td valign="top">
-      Fire up the MMC “Certificates Console” to manage your new cert </p> 
+      Fire up the MMC "Certificates Console" to manage your new cert </p> 
       
       <ul>
         <li>
@@ -164,13 +165,13 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
           Right mouse desired certifcate > All Tasks > Export > Next ... (Export Fig.2)
         </li>
         <li>
-          “Export the private key?” => Yes … Next… (Export Fig.3)
+          "Export the private key?" => Yes … Next… (Export Fig.3)
         </li>
         <li>
-          Select PFX format, "Include all certs...", "Export extended", NOT “Delete…”, Next … (Export Fig.4)
+          Select PFX format, "Include all certs...", "Export extended", NOT "Delete…", Next … (Export Fig.4)
         </li>
         <li>
-          Enter a password, hit Next… (Export Fig.5) – ** REMEMBER THAT PASSWORD **
+          Enter a password, hit Next… (Export Fig.5) – <strong>REMEMBER THAT PASSWORD</strong>
         </li>
         <li>
           Save the pfx file (Export Fig.6)
@@ -245,10 +246,10 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
           Next … (Import Fig.4)
         </li>
         <li>
-          Enter Password, select “Mark this key as exportable”, Next… (Import Fig.5)
+          Enter Password, select "Mark this key as exportable", Next… (Import Fig.5)
         </li>
         <li>
-          “Place all certificates in the following store” => Personal… Next… (Import Fig.6)
+          "Place all certificates in the following store" => Personal… Next… (Import Fig.6)
         </li>
         <li>
           Finish (Import Fig.7)
@@ -302,7 +303,7 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
       
       <ul>
         <li>
-          Fire up SQL Server’s Network Configuration Utility <ul>
+          Fire up SQL Server's Network Configuration Utility <ul>
             <li>
               Start&nbsp; > All Programs > Microsoft SQL Server {version} > Configuration Tools > SQL Server Configuration Manager"&nbsp;
             </li>
@@ -357,3 +358,4 @@ thumbnail-img: /images/uploads/2013/enable-ssl-connections-to-sql-server-thumbna
     </td>
   </tr>
 </table>
+{:/nomarkdown}

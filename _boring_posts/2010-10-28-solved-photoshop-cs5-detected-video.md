@@ -35,19 +35,19 @@ tags:
 ---
 ### TL;DR
 
-Just go into `Help > System Info` before you do anything else, that’s it.
+Just go into `Help > System Info` before you do anything else, that's it.
 
 ### TS;WM
 
-Unbelievable but this works 100% of the time on my current rig running Photoshop CS5 on Windows 7 with an ATI x1300 Pro graphics card (yeah yeah it’s far from a graphics superstar but honestly it does everything I need, including Photoshop 3D mode just fine thank you 🙂
+Unbelievable but this works 100% of the time on my current rig running Photoshop CS5 on Windows 7 with an ATI x1300 Pro graphics card (yeah yeah it's far from a graphics superstar but honestly it does everything I need, including Photoshop 3D mode just fine thank you 🙂
 
 Anyway, the area under `Edit > Preferences > Performance > GPU Settings > Detected Video Card` would always come up blank. This was absolutely driving me nuts because I want all the 3D mode stuff that only comes when Photoshop is happy with your OpenGL bits.
 
-There are several forum posts about Photoshop being sensitive to what your video card spits out when PS does an OpenGL “capability scan”. Sure is cool to have such an easy fix… found it totally by chance. Obviously it would be nice if Adobe could find it in their hearts to run the video detect code through the System Info code but I’m sure they’ve got a ton of bigger fish to fry.
+There are several forum posts about Photoshop being sensitive to what your video card spits out when PS does an OpenGL "capability scan". Sure is cool to have such an easy fix… found it totally by chance. Obviously it would be nice if Adobe could find it in their hearts to run the video detect code through the System Info code but I'm sure they've got a ton of bigger fish to fry.
 
 **[Update: 01 Feb 2011]** Photoshop CS5 on the Mac side has no such issues recognizing this card.
 
-**[Update: 04 May 2011]** Photoshop CS5 64bit on Win7 seems to find the card straight away, nice. **Note: I had to install the ATI Catalyst drivers, the default Windows WDDM drivers didn’t provide the right kind of OpenGL support… for this old card [Catalyst v10.2 seems to be the “legacy” cutoff point][1].
+**[Update: 04 May 2011]** Photoshop CS5 64bit on Win7 seems to find the card straight away, nice. **Note: I had to install the ATI Catalyst drivers, the default Windows WDDM drivers didn't provide the right kind of OpenGL support… for this old card [Catalyst v10.2 seems to be the "legacy" cutoff point][1].
 
 More keywords for Google to bring home other wayward souls: Photoshop, CS5, No Detected Video Card, Enable OpenGL Drawing, Enable Graphics Hardware Acceleration is unavailable, GPU Settings
 

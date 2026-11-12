@@ -29,9 +29,9 @@ tags:
 
 &nbsp;
 
-I have a Panasonic DMC-ZS5 (<a href="https://www.dpreview.com/news/1001/10012604panazs5.asp" target="_blank">dpreview</a>, <a href="https://panasonic.net/avc/lumix/compact/zs5_tz8/" target="_blank">Panasonic</a>) which creates .MOV files that contain the <a href="https://en.wikipedia.org/wiki/Motion_Jpeg" target="_blank">Motion JPEG</a> (M-JPEG) “format” (for want of a more technical term).
+I have a Panasonic DMC-ZS5 (<a href="https://www.dpreview.com/news/1001/10012604panazs5.asp" target="_blank">dpreview</a>, <a href="https://panasonic.net/avc/lumix/compact/zs5_tz8/" target="_blank">Panasonic</a>) which creates .MOV files that contain the <a href="https://en.wikipedia.org/wiki/Motion_Jpeg" target="_blank">Motion JPEG</a> (M-JPEG) "format" (for want of a more technical term).
 
-In order to stream those videos from my IIS/PHP based <a href="https://virgulestar.com/Photos/" target="_blank">photo gallery</a> (<a href="https://www.zenphoto.org/" target="_blank">zenPhoto.org</a>), they must be converted to a more “web compatible” format like <a href="https://en.wikipedia.org/wiki/MPEG-4" target="_blank">MPEG-4</a>.&nbsp; I haven’t found a more straightforward approach than direct batch conversion to another format… you can readily automate the conversion of say all the videos in a folder so it’s pretty much turnkey and ignore.
+In order to stream those videos from my IIS/PHP based <a href="https://virgulestar.com/Photos/" target="_blank">photo gallery</a> (<a href="https://www.zenphoto.org/" target="_blank">zenPhoto.org</a>), they must be converted to a more "web compatible" format like <a href="https://en.wikipedia.org/wiki/MPEG-4" target="_blank">MPEG-4</a>.  I haven't found a more straightforward approach than direct batch conversion to another format… you can readily automate the conversion of say all the videos in a folder so it's pretty much turnkey and ignore.
 
 Update 2015-01-05: This is my current go-to:
 
@@ -57,16 +57,16 @@ VLC will do this via a command line like so:
 
 Notes:
 
-  * I’ve had to remove the acodec=mpga for my iPhone MOV’s or else I get garbled audio.
-  * I included the vfilter=”rotate…” for rotation syntax since it was so hard for me to find but only include if you want rotation.
+  * I've had to remove the acodec=mpga for my iPhone MOV's or else I get garbled audio.
+  * I included the vfilter="rotate…" for rotation syntax since it was so hard for me to find but only include if you want rotation.
 
 However, I noticed that VLC chops off the last 2 seconds no matter what I do… it seemed a little better choosing a different vcodec but h264 is too rocking to use anything else.
 
-So I wound up going with QuickTime as my go-to transcoder for now.&nbsp; It doesn’t truncate any video and creates a slightly smaller output file than VLC.&nbsp; The compression is dramatic and h264 does an awesome job with preserving quality… even while maintaining 1280 x 720 HD, a 100MB MJPG will go down to a 5MB h264/MPEG file.
+So I wound up going with QuickTime as my go-to transcoder for now.  It doesn't truncate any video and creates a slightly smaller output file than VLC.  The compression is dramatic and h264 does an awesome job with preserving quality… even while maintaining 1280 x 720 HD, a 100MB MJPG will go down to a 5MB h264/MPEG file.
 
-Following <a href="https://www.skylark.ie/qt4.net/samplecode.asp" target="_blank">code stolen from here</a> and tweaked a little, automates the QuickTime COM API to convert a directory full of MJPG’s (see sample code for Chapter.8 > “BatchExport.js”).
+Following <a href="https://www.skylark.ie/qt4.net/samplecode.asp" target="_blank">code stolen from here</a> and tweaked a little, automates the QuickTime COM API to convert a directory full of MJPG's (see sample code for Chapter.8 > "BatchExport.js").
 
-There’s no reason why this shouldn’t be in PowerShell… it’d be interesting to see if it was any more readable.
+There's no reason why this shouldn't be in PowerShell… it'd be interesting to see if it was any more readable.
 
 <pre class="prettyprint">//----------------------------------------------------------------------------------
 //

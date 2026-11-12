@@ -23,13 +23,13 @@ DNS admin warnings advise against doing a "bare" (no prefix) CNAME along with an
 
 ## Disclaimer
 
-What i'm successfully demonstrating here is <span class="hl">clearly non-standard according to the specs</span>...
+What i'm successfully demonstrating here is <mark>clearly non-standard according to the specs</mark>...
   
 however, i've proven it does work for SOME servers implementation of the standards (including major provider Office 365 on the MX side) so it's worth trying with your servers if this provides a convenient solution for your needs... and it will be immediately verifiably working or not; no "sometimes" ambiguity to worry about.
 
 ## Solution
 
-Very simple &#8211; just try <span class="hl">positioning the MX record <strong>ABOVE</strong> the CNAME in the record order</span>, e.g.
+Very simple - just try <mark>positioning the MX record <strong>ABOVE</strong> the CNAME in the record order</mark>, e.g.
   
 ![][3]
 

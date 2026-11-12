@@ -6,7 +6,7 @@ tags:
   - Hardware
 thumbnail-img: /images/uploads/2009/10/Snap1.png
 ---
-Update 2015-01-07: Replacing the HDD cage fan &#8211; mine got a bad case of the rattles 
+Update 2015-01-07: Replacing the HDD cage fan - mine got a bad case of the rattles 
       
 *   Nutshell: [Silverstone FM83](https://www.google.com/search?q=fm83+fan)
 *   92mm fan on 80mm mount holes = somewhat rare

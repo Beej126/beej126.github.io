@@ -26,6 +26,6 @@ This value is specific to my scenario but is of course editable to your specific
 
 You can test it is working by creating the "1" value yourself and it should disappear.
 
-Another good way to test is to fire gpupdate.exe force a group policy update &#8211; again, if you need this, that should make sense 🙂
+Another good way to test is to fire gpupdate.exe force a group policy update - again, if you need this, that should make sense 🙂
 
 More Google search keywords: block registry key

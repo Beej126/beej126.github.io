@@ -70,7 +70,7 @@ div.gallery + p img {
 
 - <img style="float: right; height: 300px; margin: 0.6em;" src="/images/uploads/2019/gBox-resurrected-fab74f545d12.png" /> I was particularly relieved to finally stumble into [SFX](https://www.tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-4.html) form factor PSUs (wait, this has been a standard since 1997!?)
   - This case absolutely requires the short 100mm depth of more recently defined "PS3" sub species of SFX... any deeper and the power cable bundle would run into the optical drive bay.  So this got me into the right depth, but the stock SFX height didn't fill out the entire opening on the back of this case :\...
-  - After fretting quite a bit, I finally noticed these can be fitted with an <u>extension plate</u> that covers the standard ATX PSU opening, exactly what I needed! <span class="hl">The ATX face plate combined with the SFX short depth is an absolute dream fit for this case</span>.
+  - After fretting quite a bit, I finally noticed these can be fitted with an <u>extension plate</u> that covers the standard ATX PSU opening, exactly what I needed! <mark>The ATX face plate combined with the SFX short depth is an absolute dream fit for this case</mark>.
   - The horsepower these vendors are cramming into such a small box is pretty amazing when you look at a full size ATX PSU next to it.
   - The difference between the stock PSU this kit came with is rediculous. It's so cool we have such an abundant selection of high end supplies to choose from mainstream manufacturers like Corsair at this point: 750 watts, gold / even platinum level 80 plus certification, powder coated paint jobs, <u>modular cables</u>, of course including all the extra 12v lines required by modern multicore CPUs.
 

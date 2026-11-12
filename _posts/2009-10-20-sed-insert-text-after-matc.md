@@ -8,7 +8,7 @@ tags:
 ---
 General syntax:
 
-  * sed “s/search-for-regex/& replace-with/” filename.txt
+  * sed "s/search-for-regex/& replace-with/" filename.txt
 
 Example:
 
@@ -17,5 +17,5 @@ Example:
 Explanation:
 
   * s/search-for-regex/replace-with/ = search and replace command
-  * & = the matched text (effectively leaves the matched text alone rather than “replacing” it)
+  * & = the matched text (effectively leaves the matched text alone rather than "replacing" it)
   * n = carriage return

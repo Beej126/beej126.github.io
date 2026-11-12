@@ -1,5 +1,5 @@
 ---
-title: '[SOLVED] Win8.1 Upgrade – No “Keep Windows settings, personal files, and apps” option'
+title: '[SOLVED] Win8.1 Upgrade – No "Keep Windows settings, personal files, and apps" option'
 author: Beej
 type: post
 date: 2014-01-20T16:43:00+00:00
@@ -77,4 +77,4 @@ To remove the package:
 
 <pre class="prettyprint">dism /image:c: /remove-package /packagename:{long_name_from_above_output}</pre>
 
-That ran for a few minutes to completion and when I booted back into my main instance and retried the upgrade, I was met with the new desired option to preserve my applications as well &#8211; yay 🙂
+That ran for a few minutes to completion and when I booted back into my main instance and retried the upgrade, I was met with the new desired option to preserve my applications as well - yay 🙂

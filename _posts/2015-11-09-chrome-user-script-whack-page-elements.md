@@ -8,7 +8,7 @@ thumbnail-img: /images/uploads/2015/chrome-user-script-whack-page-elements-thumb
 ---
   * Tweaked this solution: [How can I use jQuery in Greasemonkey scripts in Google Chrome?][1]
   * Install: 
-      1. save this as something.**user**.js &#8211; the “user.js” is critical for Chrome to accept
+      1. save this as something.**user**.js - the "user.js" is critical for Chrome to accept
       2. navigate to chrome://extensions/
       3. drag/drop the file to the Chrome Extensions page
 
@@ -35,9 +35,9 @@ function main() {
 // load jQuery and execute the main function
 addJQuery(main);</pre>
 
-![enter image description here][2]</img>
+![enter image description here][2]
   
-![enter image description here][3]</img>
+![enter image description here][3]
 
  [1]: https://stackoverflow.com/questions/2246901/how-can-i-use-jquery-in-greasemonkey-scripts-in-google-chrome
  [2]: {{ site.baseurl }}/images/uploads/2015/11/Snap2.png ""

@@ -1,5 +1,5 @@
 ---
-title: WinAmp Play History Blog “Badge”
+title: WinAmp Play History Blog "Badge"
 author: Beej
 type: post
 date: 2009-10-30T05:53:00+00:00
@@ -39,16 +39,16 @@ tags:
 
 &nbsp;
 
-  * So hopefully you’re already a WinAmp fan if you’re reading this but if not, load up the latest [WinAmp][1] (v5.56 at the moment)
-  * [Orgler][2] is the name for WinAmp’s recent Play History plug-in
+  * So hopefully you're already a WinAmp fan if you're reading this but if not, load up the latest [WinAmp][1] (v5.56 at the moment)
+  * [Orgler][2] is the name for WinAmp's recent Play History plug-in
   * Sign up for a music.AOL.com account via the Orgler options menu shown below (this provides the bucket for your personal play history data… takes 2 seconds, no fee)
   * Play some music 🙂
   * (a) Your feed will start showing up at a URL like this: [https://music.aol.com/profile/beej126@hotmail.com][3]
-  * Now here’s the fun part… fire up [Yahoo Pipes][4]
+  * Now here's the fun part… fire up [Yahoo Pipes][4]
   * Search for Orgler and you should find my published pipe that already does the right filtering
-  * Clone it and replace the “Fetch Page” URL with your own like (a) above
+  * Clone it and replace the "Fetch Page" URL with your own like (a) above
   * Then you can publish it to your blog with various badges… sure wish I could show you a screenshot of that but the Yahoo gods appear to have the [pipe usage quota dialed way down low… I run into 999 errors all over the place.][5]
-  * I didn’t have any luck with the specific Blogger badge… never changed from a continual “working on it…” style generic Pipes image… So I just went with a plain vanilla RSS feed widget. 
+  * I didn't have any luck with the specific Blogger badge… never changed from a continual "working on it…" style generic Pipes image… So I just went with a plain vanilla RSS feed widget. 
     [![image][6]][7] [![image][8]][9] [![image][10]][11]
 
  [1]: https://www.winamp.com/media-player/

@@ -18,7 +18,7 @@ where Fields is a Dictionary property on your _DictionaryWrapper_ class.
 
 I couldn't get List<Dictionary<string, object>> working directly without the wrapper class "hiding" the dictionary from what I think is an SfDataGrid bug. The app crash exception call stack ultimately winds up on an invalid Linq related get_Item() call.
 
-Below is sample working code including "SimpleTable" wrapper for List and <span class="hl">Newtonsoft type converter for deserializing Json "table" directly into this datastructure</span>... this facilitates delivery of tabular resultsets from web api's... see my [SqlClientHelpers][3].ToJson method as one implementation that works succinctly within Azure Functions for example.
+Below is sample working code including "SimpleTable" wrapper for List and <mark>Newtonsoft type converter for deserializing Json "table" directly into this datastructure</mark>... this facilitates delivery of tabular resultsets from web api's... see my [SqlClientHelpers][3].ToJson method as one implementation that works succinctly within Azure Functions for example.
 
 FYI, I believe there is also a bug with SfDataGrid column sorting logic when bound to this kind of Dictionary, a non-fatal exception fires. I worked around by implementing grid.SortColumnsChanging.
 

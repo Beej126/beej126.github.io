@@ -13,23 +13,23 @@ There's a fair amount of noise to wade through out there on this topic... this p
 
 ### My Specific Hardware
 
-  * MacBook Pro 2,1 17&#8243; Late 2006, model A1212 &#8211; Core 2 Duo T7600 "Merom"
+  * MacBook Pro 2,1 17&#8243; Late 2006, model A1212 - Core 2 Duo T7600 "Merom"
 
 Hopefully these basic steps are still helpful to folks with similar oldness.
 
 ### Creating Bootable Win10 Install Media
 
-_not as easy as one might think_ &#8211; this firmware is very finicky... USB Thumbdrive based boot is a complete no-go (everybody has tried, you won't be the first : )... we must create a **very specifically formatted boot DVD**... but it's not that bad
+_not as easy as one might think_ - this firmware is very finicky... USB Thumbdrive based boot is a complete no-go (everybody has tried, you won't be the first : )... we must create a **very specifically formatted boot DVD**... but it's not that bad
 
-  1. **[Media Creation Tool][1]** &#8211; from any other working Win10 x64 you have handy, we get to start with MSFT's very pleasant Windows 10 download utility... this will readily get us to an ISO file ... but we'll need to jack with a bit... 
-  2. **"Multi-catalog" fix** &#8211; this era of Apple machines were born with a rather anemic version of 32 bit EFI which only supports a very specific DVD ISO format ([this guy had a good explanation under "How-to: Making a standard Linux distro ISO compatible with 32-bit EFI Macs"][2])... the gist is that MSFT tends to provide especially it's x64 media via "Multi-catalog" ISO format, intended to support both "legacy" BIOS style booting as well as EFI... but our firmware is too brain dead and even though it's kinda EFI, it can actually only handle BIOS style booting. 
+  1. **[Media Creation Tool][1]** - from any other working Win10 x64 you have handy, we get to start with MSFT's very pleasant Windows 10 download utility... this will readily get us to an ISO file ... but we'll need to jack with a bit... 
+  2. **"Multi-catalog" fix** - this era of Apple machines were born with a rather anemic version of 32 bit EFI which only supports a very specific DVD ISO format ([this guy had a good explanation under "How-to: Making a standard Linux distro ISO compatible with 32-bit EFI Macs"][2])... the gist is that MSFT tends to provide especially it's x64 media via "Multi-catalog" ISO format, intended to support both "legacy" BIOS style booting as well as EFI... but our firmware is too brain dead and even though it's kinda EFI, it can actually only handle BIOS style booting. 
       1. first go ahead and mount that stock ISO on your working Win10 box...
       2. then the reformat is accomplished via [oscdimg.exe][3] cmdline:
   
         `oscdimg.exe -n -m -be:\boot\etfsboot.com e:\ Win10_fixed.iso`
   
         (replace `e:` above with whatever drive letter is assigned to your mounted iso)
-  3. **Burn Baby !!** &#8211; now we're clear to go ahead and burn that resulting "Win10_fixed.iso" to a DVD (I'm keen on [ImgBurn][4]).
+  3. **Burn Baby !!** - now we're clear to go ahead and burn that resulting "Win10_fixed.iso" to a DVD (I'm keen on [ImgBurn][4]).
 
 ### Pretty Boot Selector Anyone ?
 
@@ -42,25 +42,25 @@ _not as easy as one might think_ &#8211; this firmware is very finicky... USB Th
 
 ### Prep your partition and Install
 
-  1. **Create New Partition** &#8211; if you don't already have an existing BootCamp parition &#8211; for the record, nothing specifically depends on using Mac Bootcamp Assistant tool's magic... it's totally fair game to use standard [Mac Disk Utility to open a new partition][7] for Windows to be installed to
-  2. **INSTALL** &#8211; we're finally ready to insert the DVD, power cycle while holding <kbd>option</kbd> and select the DVD icon to begin installing! 
-      * **BIG TIP**: make sure to <span class="hl">disconnect any additional hard drives prior to going into the Win10 install</span>... the installer is notorious for [jacking with other drives' boot sectors][8]
-  3. (OPTIONAL) **Format Existing Partition** &#8211; after a couple prompts, you'll get to the Win10 installer's "partition selection" screen... if you've already got a previous Windows install, there's a decision to be made... by default the installer will leave any previous Windows files on the drive under "windows.old" folder, to facilitate migrating your personal data... in my case, my drive is so small that i knew i had to format my existing BootCamp partition to provide all the room possible... this partition screen has handy options to do many basic partition maintenance tasks including format... 
-      * if you're OCD like me, you can even jump out to a CMD.EXE prompt via <kbd>SHIFT+F10</kbd> and do things like [DISKPART to format][9] with your preferred volume label (i'm keen on "BOOTCAMP"... <span class="hl">be very careful to select the right disk and volume before executing FORMAT</span>... DISKPART has zero safety rails.
+  1. **Create New Partition** - if you don't already have an existing BootCamp parition - for the record, nothing specifically depends on using Mac Bootcamp Assistant tool's magic... it's totally fair game to use standard [Mac Disk Utility to open a new partition][7] for Windows to be installed to
+  2. **INSTALL** - we're finally ready to insert the DVD, power cycle while holding <kbd>option</kbd> and select the DVD icon to begin installing! 
+      * **BIG TIP**: make sure to <mark>disconnect any additional hard drives prior to going into the Win10 install</mark>... the installer is notorious for [jacking with other drives' boot sectors][8]
+  3. (OPTIONAL) **Format Existing Partition** - after a couple prompts, you'll get to the Win10 installer's "partition selection" screen... if you've already got a previous Windows install, there's a decision to be made... by default the installer will leave any previous Windows files on the drive under "windows.old" folder, to facilitate migrating your personal data... in my case, my drive is so small that i knew i had to format my existing BootCamp partition to provide all the room possible... this partition screen has handy options to do many basic partition maintenance tasks including format... 
+      * if you're OCD like me, you can even jump out to a CMD.EXE prompt via <kbd>SHIFT+F10</kbd> and do things like [DISKPART to format][9] with your preferred volume label (i'm keen on "BOOTCAMP"... <mark>be very careful to select the right disk and volume before executing FORMAT</mark>... DISKPART has zero safety rails.
 
-### Post Install &#8211; Detailed driver links and notes
+### Post Install - Detailed driver links and notes
 
-  1. **[Intel Chipset Drivers][10]** &#8211; given this mobo is [Core 2 Duo, ICH7 cira 2006][11], it most likely corresponds to Intel's "900 series"... but there's no real guesswork to be done here since the Intel chipset bundles cover a wide compatibility range and the most applicable one was last updated Version: 9.2.0.1030, Date: 4/21/2011... in my experience, chipset drivers can mean the difference between random crashes and rock solid stability so this install should not be skipped... if nothing else it tends to eliminate a lot of [Device Manager _red squigglies_][12]
-  2. **Video** &#8211; ATI x1650 with DeviceId 71c5 &#8211; [Microsoft provides a bundle technically labeled for "ATI FireGL V5200"][13] but the corresponding INF files actually support many other related DeviceIds... make sure to go after the Win7 v8.561.0.0 bundle of the larger 20MB size (the smaller one didn't hit for me)... 
-      * <span class="hl">this is really the toughest piece to locate and get slammed in so, once you've got it nailed, the rest is all down hill =)</span>
-  3. **BootCamp (v6)** &#8211; it appears this old model Mac hardware aligns with the drivers included with BootCamp as of v4... but it seems a few bits _might_ have been updated since then... so as one approach, start with installing v6 and then peanut butter the v4 bundle over that 
+  1. **[Intel Chipset Drivers][10]** - given this mobo is [Core 2 Duo, ICH7 cira 2006][11], it most likely corresponds to Intel's "900 series"... but there's no real guesswork to be done here since the Intel chipset bundles cover a wide compatibility range and the most applicable one was last updated Version: 9.2.0.1030, Date: 4/21/2011... in my experience, chipset drivers can mean the difference between random crashes and rock solid stability so this install should not be skipped... if nothing else it tends to eliminate a lot of [Device Manager _red squigglies_][12]
+  2. **Video** - ATI x1650 with DeviceId 71c5 - [Microsoft provides a bundle technically labeled for "ATI FireGL V5200"][13] but the corresponding INF files actually support many other related DeviceIds... make sure to go after the Win7 v8.561.0.0 bundle of the larger 20MB size (the smaller one didn't hit for me)... 
+      * <mark>this is really the toughest piece to locate and get slammed in so, once you've got it nailed, the rest is all down hill =)</mark>
+  3. **BootCamp (v6)** - it appears this old model Mac hardware aligns with the drivers included with BootCamp as of v4... but it seems a few bits _might_ have been updated since then... so as one approach, start with installing v6 and then peanut butter the v4 bundle over that 
       * [BootCamp v4 & 5 are readily available via Apple Support][14] but v6 is not... if you have a working Mac install around, the Boot Camp Assistant (BCA) will download the latest bundle... in Sierra's BCA it'll be under the "Action" menu... I wound up with v6.0.6136 as of 2017-06-13.
       * If you don't have access to BCA, I found [this helpful post][15] which referenced [direct Apple link to v6.0 build 6136][16]
       * unzip that BootCamp v6 rar exe and fire up $\Apple\BootCamp.msi (**as administrator** required)... this will blast thru loading a bunch of drivers... many of which won't actually apply to this machine's hardware but really no harm-no foul as an initial base layer... if nothing else, it's nice to have the latest BootCamp Control Panel icon in your task tray =)
-  4. **BootCamp v4** &#8211; now go back and fill in the following Win10 working drivers from BootCamp v4 bundle ([v4.0.4326][17], [direct][18]): 
+  4. **BootCamp v4** - now go back and fill in the following Win10 working drivers from BootCamp v4 bundle ([v4.0.4326][17], [direct][18]): 
       1. **Audio** = IDT SigmaTel (this'll turn off the red light in the headphone jack : )
       2. **iSight** Web Cam
-      3. **BlueTooth** &#8211; nothing kicked in till i ran Bluetooth "Enabler" Installer
+      3. **BlueTooth** - nothing kicked in till i ran Bluetooth "Enabler" Installer
 
 ### Nirvana!
 
@@ -68,7 +68,7 @@ _not as easy as one might think_ &#8211; this firmware is very finicky... USB Th
   * Hardware accelerated video
   * HiDef Audio
   * iSight WebCam
-  * <s>BlueTooth</s> &#8211; spoke too soon... Bluetooth stack was present and superficially happy looking but wouldn't successfully complete pairing with Apple Keyboard... fortunately i also had a spare Broadcom BCM20702 Bluetooth 4.0 USB dongle and it lit right up and worked straight away... i'm loosely going to chalk this up to Windows 10 not having all the bits aligned to go back to the Bluetooth 2.0 era. 
+  * <s>BlueTooth</s> - spoke too soon... Bluetooth stack was present and superficially happy looking but wouldn't successfully complete pairing with Apple Keyboard... fortunately i also had a spare Broadcom BCM20702 Bluetooth 4.0 USB dongle and it lit right up and worked straight away... i'm loosely going to chalk this up to Windows 10 not having all the bits aligned to go back to the Bluetooth 2.0 era. 
   * Working Sleep behavior via Lid Close, etc.
   * and Cute little BootCamp Control Panel tray icon
 

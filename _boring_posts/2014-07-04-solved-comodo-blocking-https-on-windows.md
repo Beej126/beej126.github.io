@@ -36,17 +36,17 @@ Comodo v7.0.317799.4142
 
 And [this guy][1] explains what's necessary for FTP very nicely...
 
-  * in comodo > global settings > application rule &#8211; add 20,21 & 5000-6000 as allowed incoming TCP ports on "Windows Operating System"... you will also hopefully get prompted to allow svchost which is responsible for running the ftpsvc
-  * on internet router &#8211; forward ports 20,21 and 5000-6000
+  * in comodo > global settings > application rule - add 20,21 & 5000-6000 as allowed incoming TCP ports on "Windows Operating System"... you will also hopefully get prompted to allow svchost which is responsible for running the ftpsvc
+  * on internet router - forward ports 20,21 and 5000-6000
   * in IIS FTP settings
   * require SSL
-  * firewall support &#8211; put external wan address in&nbsp;
-  * firewall support at \*SERVER\* level (not site) &#8211; set ports 5000-6000
+  * firewall support - put external wan address in&nbsp;
+  * firewall support at \*SERVER\* level (not site) - set ports 5000-6000
   * point ftp site a folder
   * create login for ftp and make sure it has access to folder
   * <a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank">when "</a>
 <li style="display: inline !important;">
-  <a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank"></a><a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank">Response: 530 User cannot log in, home directory inaccessible.&nbsp;</a>
+  <a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank"></a><a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank">Response: 530 User cannot log in, home directory inaccessible. </a>
 </li>
 <li style="display: inline !important;">
   <a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank">Error: Critical error: Could not connect to server</a>"

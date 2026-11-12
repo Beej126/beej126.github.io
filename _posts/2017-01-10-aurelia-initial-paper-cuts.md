@@ -53,7 +53,7 @@ No iOS browser provides any debugger tools -BUT- on Mac, we can fire up the Xcod
   * Install [Xcode from the App Store (free)][11]
   * Launch Simulator from Xcode > Xcode main menu > Open Developer Tool > Simulator 
       * fire up your url in iOS Chrome/Safari
-  * [Stack-o post][12] for Mac Safari remote debug config &#8211; the gist: 
+  * [Stack-o post][12] for Mac Safari remote debug config - the gist: 
       * Mac Safari > Preferences > Advanced > "Show Develop menu in menu bar"
       * Mac Safari > Develop menu > Simulator > choose desired browser tab by url
 
@@ -64,7 +64,7 @@ No iOS browser provides any debugger tools -BUT- on Mac, we can fire up the Xcod
   * i needed above js debug because my app skeleton's "Fetch data" page worked on Windows Chrome but failed on iOS Chrome...
   * wound up finding this [issue (over 1yr old)][14]...
   
-    referring to [fetch polyfill][15] <i class="fa fa-hand-o-right"></i> `npm install whatwg-fetch --save`... which sure enough, along with Aurelia's [Bring your own polyfill docs][16], wound up resolving my issue &#8211; yay!
+    referring to [fetch polyfill][15] <i class="fa fa-hand-o-right"></i> `npm install whatwg-fetch --save`... which sure enough, along with Aurelia's [Bring your own polyfill docs][16], wound up resolving my issue - yay!
   
     `$\ClientApp\app\components\fetchdata\fetchdata.ts`
     ```ts

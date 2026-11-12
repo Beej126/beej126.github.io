@@ -35,7 +35,7 @@ admittedly, maybe not super dramatic when you boil it down like that but it real
 
 ### Great async reference articles:
 
-  * [Async functions &#8211; making promises friendly][5]
+  * [Async functions - making promises friendly][5]
   * [Understand promises before you start using async/await][6]
 
 ### Code Nugget:

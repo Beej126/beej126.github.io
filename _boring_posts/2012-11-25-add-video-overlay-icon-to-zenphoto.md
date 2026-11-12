@@ -33,7 +33,7 @@ tags:
   - Photography
 
 ---
-  * Edit _zp-coretemplate-functions.php_, look for _printCustomSizedImage()_ function and edit it to switch to using _style=”background:url(‘’)”_ as shown below. 
+  * Edit _zp-coretemplate-functions.php_, look for _printCustomSizedImage()_ function and edit it to switch to using _style="background:url('')"_ as shown below. 
   * Configure overlay image: 
       * Start with a completely transparent png the same height and width as your thumbnails (168 pixels in my case) 
       * Find a preferred icon for the image (perhaps via Google Image Search) and paste that into your transparent background… 

@@ -27,7 +27,7 @@ Tips:
   * your web server has to be reachable on the public internet at the domain url (port 80) you wish to gen the cert for
   * the win tool will be most automatic when you plug your domain into the host-header (port 80)
 
-Note: The LetEncrypt certs come set to expire in 90 days &#8211; BUT, the windows tool schedules a recurring task to reach out and automatically renew the certs before that expiration. Pretty slick... will have watch if that actually works come time.
+Note: The LetEncrypt certs come set to expire in 90 days - BUT, the windows tool schedules a recurring task to reach out and automatically renew the certs before that expiration. Pretty slick... will have watch if that actually works come time.
   
 &nbsp;
 

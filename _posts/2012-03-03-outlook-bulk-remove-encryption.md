@@ -12,11 +12,11 @@ PowerShell Script to scan through specified Outlook folder and remove the encryp
 
 ## Background
 
-We tend to cycle smart cards over the years in my environment. The old certs from those cards must be maintained in order to be able to pull up old emails sent to you which were encrypted with your old public key(s). This also makes it interesting to hand off a PST full of emails piled up as a simple knowledge base to someone else, since you really wouldn’t want to give them your certs of course.
+We tend to cycle smart cards over the years in my environment. The old certs from those cards must be maintained in order to be able to pull up old emails sent to you which were encrypted with your old public key(s). This also makes it interesting to hand off a PST full of emails piled up as a simple knowledge base to someone else, since you really wouldn't want to give them your certs of course.
 
 Removing the encryption flag via the Outlook COM API turns out to be pleasantly trivial… literally just one line of code and a resave. (look for "beef")
 
-The rest of this script is a simple UI and the optional folder recursion logic. If you don’t have a particular cert loaded, the script will output the subject of the failed message and then it’s a matter of getting that missing cert loaded on your system and retrying.
+The rest of this script is a simple UI and the optional folder recursion logic. If you don't have a particular cert loaded, the script will output the subject of the failed message and then it's a matter of getting that missing cert loaded on your system and retrying.
 
 ## Crucial
 

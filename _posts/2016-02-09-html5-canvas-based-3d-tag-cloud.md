@@ -36,7 +36,7 @@ Due to internal use of getElementById, it appears our canvas element must be tar
     </canvas>
     
 
-If you don't have server side control, just apply necessary elements via jQuery prior to calling .tagcanvas() shown above &#8211; WordPress TagCloud sample
+If you don't have server side control, just apply necessary elements via jQuery prior to calling .tagcanvas() shown above - WordPress TagCloud sample
 
       jQuery(".tagcloud").wrap('<canvas id="canvas3dTagCloud" width="256" height="256"></canvas>');
 

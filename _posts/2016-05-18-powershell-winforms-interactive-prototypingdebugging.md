@@ -59,7 +59,7 @@ create RunSpaceWinForm.ps1 as such
     }
     
 
-and here is simple usage... spin up a running WinForm and <span class="hl">give control back to the powershell prompt</span>
+and here is simple usage... spin up a running WinForm and <mark>give control back to the powershell prompt</mark>
 
     Add-Type -AssemblyName System.Windows.Forms
     $frmMain = New-Object System.Windows.Forms.Form

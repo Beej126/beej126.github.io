@@ -27,7 +27,7 @@ tags:
 
 ## .Net Core Projects and "ODP.NET Managed Driver" aka ManagedDataAccess
 
-  * Just reference through Nuget <span class="hl">however it is not .Net Core Runtime compatible yet</span> ([supposedly .Net Core 2.0 savvy version coming end of 2017][7])... 
+  * Just reference through Nuget <mark>however it is not .Net Core Runtime compatible yet</mark> ([supposedly .Net Core 2.0 savvy version coming end of 2017][7])... 
   * Must run on top of traditional .Net Framework until Oracle releases their .Net Core 2.0 compatible update 
   * Under VS2017 the ASP.Net Core MVC project template is friendly to this mix (see next screenshot below) 
       * which also gives us the necessary clue to spin up other less flexible Core project templates and manually edit the csproj to <TargetFramework>net461</TargetFramework>
@@ -43,7 +43,7 @@ tags:
   
     `new NPoco.Database(ConnectionString, NPoco.DatabaseType.OracleManaged, Oracle.ManagedDataAccess.Client.OracleClientFactory.Instance)`
 
-### Tip &#8211; Generally fixing .Net Framework based Nuget lib's configuration under .Net Core projects
+### Tip - Generally fixing .Net Framework based Nuget lib's configuration under .Net Core projects
 
   1. spin up a quick traditional framework console app
   2. nuget reference the culprit Nuget lib as usual ("Oracle.ManagedDataAccess" in this case)

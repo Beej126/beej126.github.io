@@ -1,5 +1,5 @@
 ---
-title: Auto Generate PNG’s for Font Awesome icons
+title: Auto Generate PNG's for Font Awesome icons
 author: Beej
 type: post
 date: 2016-10-01T17:38:00+00:00

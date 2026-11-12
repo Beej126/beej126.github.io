@@ -17,7 +17,7 @@ tags:
 
 i wanted to see if i could get category bundling working in gmail ala outlook... it's always been a nice mental flow for me to carve out pending events from littering my  "[inbox zero][1]" but still see them right there in front so i don't forget to check up on them vs a click away hidden under a "folder"
   
-<span style="font-size: x-large">update</span> &#8211; don't miss [the google "labs" functionality][2] for doing exactly this kind of category bundling
+<span style="font-size: x-large">update</span> - don't miss [the google "labs" functionality][2] for doing exactly this kind of category bundling
   
 # success!
 

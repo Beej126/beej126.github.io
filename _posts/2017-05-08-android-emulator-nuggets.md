@@ -45,7 +45,7 @@ tags:
   * [Android Studio download][5]... main tools: 
       * SDK Manage
       * AVD Manager
-      * Device Monitor &#8211; event log and GUI file explorer
+      * Device Monitor - event log and GUI file explorer
   * [Google Play APK Downloader][6]
   * [ChainFire's "How To SU"][7]
   * Windows AVD Folder where the runnable virtual machines sit: %UserProfile%&#46;android\avd 

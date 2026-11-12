@@ -26,7 +26,7 @@ My notes on top of this [getting started guide][2]:
   2. create a <u>Web type</u> entry for your Function under `New Portal > Azure Active Directory > App registrations`... all the defaults are good, except you'll need to create the Reply URLs that are valid for you... reply url is a parameter to your ADAL.js client call... in the end this entry provides the crucial <u>Application Id aka Client Id</u>
   3. now configure this web registration for AD Auth via `New Portal > App Services > {your Function app} > Function app settings > Configure authentication > Authentication Providers > Azure AD > Express >`
       1. `Azure AD App` = the Web App registration name you gave above
-  4. Now create another Azure AD > App registration as <u>Native type</u> and <span class="HL">(HERE'S THE KICKER) > Settings > Required Permissions > Add > Select an API > <u>TYPE IN YOUR web App registration name in the search box</u> and it'll show up to be selected</span>
+  4. Now create another Azure AD > App registration as <u>Native type</u> and <mark>(HERE'S THE KICKER) > Settings > Required Permissions > Add > Select an API > <u>TYPE IN YOUR web App registration name in the search box</u> and it'll show up to be selected</mark>
   5. finally, use the Application Id guid from your web app as the RESOURCE parameter to the AcquireTokenAsync() call in your native app 
 
 ### Working ADAL.js web client code sample
@@ -95,8 +95,8 @@ i was also getting these where {app} was the resource i was passing when i had t
 ### Helpful references
 
   * [Mat Velloso's Troubleshooting common Azure Active Directory Errors][3]
-  * MSFT's offcial Azure AD docs &#8211; [Authentication Scenarios for Azure AD][4]
-  * [GitHub Azure Samples &#8211; ADAL.js][5]
+  * MSFT's offcial Azure AD docs - [Authentication Scenarios for Azure AD][4]
+  * [GitHub Azure Samples - ADAL.js][5]
   * [ADAL client "Developer Portal" guides][2]
   * have to mention [Vittorio Bertocci's blog][6] as a primary internal MSFT source of ADAL progress
 
@@ -104,7 +104,7 @@ i was also getting these where {app} was the resource i was passing when i had t
 
 Wanted to mention this in closing since "Tentant" is currently so ambiguously referred to in the documentation i ran into...
   
-New Portal > Azure Active Directory > App registrations > Endpoints is where you pull the "Authority" Url from the "OAUTH 2.0 AUTHORIZATION ENDPOINT" slot &#8211; the main argument for `new AuthenticationContext()`
+New Portal > Azure Active Directory > App registrations > Endpoints is where you pull the "Authority" Url from the "OAUTH 2.0 AUTHORIZATION ENDPOINT" slot - the main argument for `new AuthenticationContext()`
 
 for example:
           

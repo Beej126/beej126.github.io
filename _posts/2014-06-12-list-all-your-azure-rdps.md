@@ -1,5 +1,5 @@
 ---
-title: List all your Azure RDP’s
+title: List all your Azure RDP's
 date: 2014-06-12
 author: Beej
 tags:

@@ -23,9 +23,9 @@ tags:
 ---
 Nutshell:
 
-  * Windows 8 Metro search doesn’t include Outlook indexed items at all.
+  * Windows 8 Metro search doesn't include Outlook indexed items at all.
   * Windows 8 Explorer can be told to search Outlook items but only with Outlook 2010 (or older).
-  * If you want to search Outlook 2013 in Win8, you must use Outlook 2013’s search.
+  * If you want to search Outlook 2013 in Win8, you must use Outlook 2013's search.
 
 References:
 

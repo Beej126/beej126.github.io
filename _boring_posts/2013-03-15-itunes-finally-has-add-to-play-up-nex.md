@@ -1,5 +1,5 @@
 ---
-title: iTunes finally has “add to play up next”
+title: iTunes finally has "add to play up next"
 author: Beej
 type: post
 date: 2013-03-15T06:44:00+00:00
@@ -33,7 +33,7 @@ tags:
 ---
 WHY did that take till 2013?!?
   
-Can’t believe they whacked CoverFlow in iTunes 11… I guess I’ll probably forget how much I liked the full screen CoverFlow eventually but man what a wild judgment call on Apple’s part there.
+Can't believe they whacked CoverFlow in iTunes 11… I guess I'll probably forget how much I liked the full screen CoverFlow eventually but man what a wild judgment call on Apple's part there.
   
 [<img alt="image" border="0" height="386" src="https://lh3.ggpht.com/-akLLv-SQqF0/UULDZQ3HNmI/AAAAAAAAFPA/CwAx0dZeN5U/image_thumb%25255B2%25255D.png?imgmax=800" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="1066" />][1]
 

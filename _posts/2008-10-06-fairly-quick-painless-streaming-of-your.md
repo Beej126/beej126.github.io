@@ -13,7 +13,7 @@ Here's the basic pieces I plugged together:
 
   * EdCast (formerly "OddCast") comes in various implementations, one of which is a WinAmp plugin that sends your current song to a ShoutCast (or IceCast) server: <https://www.oddsock.org/tools/edcast/> 
       1. I chose the EdCast plugin versus ShoutCast's own plugin because EdCast got the song name and artist to come through Media Monkey and ShoutCast's plugin has a known issue that this feature only works with WinAmp 
-  * ShoutCast DNAS (Distributed Network Audio Server) &#8211; streams the audio out to clients: <https://www.shoutcast.com/download-files> 
+  * ShoutCast DNAS (Distributed Network Audio Server) - streams the audio out to clients: <https://www.shoutcast.com/download-files> 
 
 Install/configure/run:
 

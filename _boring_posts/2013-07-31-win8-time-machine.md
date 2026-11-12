@@ -1,5 +1,5 @@
 ---
-title: What’s this? A pretty decent “Time Machine” built into Win8!?
+title: What's this? A pretty decent "Time Machine" built into Win8!?
 author: Beej
 type: post
 date: 2013-08-01T06:45:00+00:00
@@ -40,13 +40,13 @@ tags:
   
 i've always considered the Vista/Win7 "previous versions" facility to be pretty similar to Time Machine just lacking Apple's meticulous care to making it drop dead easy to use. 
   
-i hadn't yet noticed the MS boys had taken yet another swipe at simplifying the UI in Win8... i'm assuming there's still a usability gap that the Mac boys can laugh at us, but gee, first impression is "not bad Balmer you ol’ dog”
+i hadn't yet noticed the MS boys had taken yet another swipe at simplifying the UI in Win8... i'm assuming there's still a usability gap that the Mac boys can laugh at us, but gee, first impression is "not bad Balmer you ol' dog"
 
   1. search for "file history" in win8 home screen 
   2. fire up the ui 
   3. select my backup drive 
   4. click the "turn on" button 
-  5. in normal explorer window right mouse all my favorite folders and <a href="https://marcoditullio.wordpress.com/2012/10/29/windows-8-file-history-add-custom-folders/" target="_blank">add them to the documents "library"</a> &#8211; since that's included in what gets backed up (libraries are those fancy pants folder buckets that came along probably with Vista) 
+  5. in normal explorer window right mouse all my favorite folders and <a href="https://marcoditullio.wordpress.com/2012/10/29/windows-8-file-history-add-custom-folders/" target="_blank">add them to the documents "library"</a> - since that's included in what gets backed up (libraries are those fancy pants folder buckets that came along probably with Vista) 
   6. click the "run now" link 
   7. click "restore personal files" link and yep sure enough all the stuff is piling up out there
 

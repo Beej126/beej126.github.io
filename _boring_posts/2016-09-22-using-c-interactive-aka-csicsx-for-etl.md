@@ -1,5 +1,5 @@
 ---
-title: 'Using “C# Interactive” aka CSI/CSX for ETL'
+title: 'Using "C# Interactive" aka CSI/CSX for ETL'
 author: Beej
 type: post
 date: 2016-09-22T19:12:44+00:00

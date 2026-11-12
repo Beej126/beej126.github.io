@@ -15,12 +15,12 @@ There's some rough edges getting these old bits to install and run that i wanted
 
   * my project is tied to the Oracle Forms v11g stack... the latest 11.x version at this time appears to be 11.1.2.2.0
   * we're using the web servlet stuff which runs our forms as java applets... it's actually a pretty slick rich client arrangement for the bygone era it heralds from
-  * <span class="hl">the primary breakthrough i made was getting it all installed once and then doing "xcopy" deploy of the main "Oracle Home" folder (c:\oracle\middleware) to my other team members' machines</span>... plus the appropriate registry branch (e.g. HKEY\_LOCAL\_MACHINE\SOFTWARE\ORACLE\KEY_OH1949191890)
+  * <mark>the primary breakthrough i made was getting it all installed once and then doing "xcopy" deploy of the main "Oracle Home" folder (c:\oracle\middleware) to my other team members' machines</mark>... plus the appropriate registry branch (e.g. HKEY\_LOCAL\_MACHINE\SOFTWARE\ORACLE\KEY_OH1949191890)
 
 # Java dependency
 
-  * JDK required &#8211; JRE's not enough
-  * JDK 1.6.0u35 &#8211; through painful trial and error i've settled on this fairly dated release... i've seen various components in this whole stack run on more recent JDK's but subsequent obscure runtime errors beat me into submission
+  * JDK required - JRE's not enough
+  * JDK 1.6.0u35 - through painful trial and error i've settled on this fairly dated release... i've seen various components in this whole stack run on more recent JDK's but subsequent obscure runtime errors beat me into submission
 
 ### both 32 & 64bit required
 
@@ -43,13 +43,13 @@ There's some rough edges getting these old bits to install and run that i wanted
 
 # Main Installation Steps
 
-  1. stop your virus checker's active file scan &#8211; we're on McAfee enterprise and everybody is pretty spooked that it interferes with these ancient installs and i had enough problems to go ahead and rule it out
-  2. WebLogic Server <span class="hl">v1.0.3.6 hard dependency</span> 
+  1. stop your virus checker's active file scan - we're on McAfee enterprise and everybody is pretty spooked that it interferes with these ancient installs and i had enough problems to go ahead and rule it out
+  2. WebLogic Server <mark>v1.0.3.6 hard dependency</mark> 
       * i loosely understand weblogic as the web server backend, "servlets", which deliver the pages and java applets
       * as mentioned, we're targeting the 11g/11.x stack which drives this 1.0.3.6 version requirement... seriously, trust me, save yourself the trouble, any other version is not going to work with the 11.x Oracle Forms stack which comes next
       * [see download links at the bottom of this page][1]
-      * <span class="hl">CRUCIAL &#8211; make sure to get the "Generic" jar &#8211; specifically wls1036_generic.jar</span>
-      * <span class="hl">CRUCIAL &#8211; launch wls1036_generic.jar specifically via the golden JDK above under ELEVATED aka Admin command line like so</span> 
+      * <mark>CRUCIAL - make sure to get the "Generic" jar - specifically wls1036_generic.jar</mark>
+      * <mark>CRUCIAL - launch wls1036_generic.jar specifically via the golden JDK above under ELEVATED aka Admin command line like so</mark> 
           * `C:\Program Files\Java\jdk1.6.0_35\bin -jar wls1036_generic.jar`
       * DO NOT just double click the .jar to launch, that will typically launch via JRE WHICH WILL ACTUALLY INSTALL WITHOUT ERROR AND THEN BITE YOU when it comes to the Oracle Forms piece... i know, nuts!
       * we went with the default c:\oracle "home" path... which wound up creating a single c:\oracle\middleware folder
@@ -57,7 +57,7 @@ There's some rough edges getting these old bits to install and run that i wanted
       * the x64 zips worked for us...
       * download & extract those zips and fire up the Disk1\setup.exe ELEVATED
       * the prompts are pretty straightforward... 
-          * and one big important choice is to choose "Install Software &#8211; Do Not Configure"... we'll do the configure step next
+          * and one big important choice is to choose "Install Software - Do Not Configure"... we'll do the configure step next
           * we stuck with the default "Oracle_FRHome1" path
           * skip security updates (that ship has long since sailed ;)
       * once the install finishes then fire up c:\oracle\middleware\Oracle_FRHome1\bin\config.bat ELEVATED 
@@ -72,7 +72,7 @@ There's some rough edges getting these old bits to install and run that i wanted
       * copy our `tnsnames.ora` and `sqlnet.ora` => c:\oracle\middleware\FORMInstance\config
       * copy `jacob.jar` => c:\oracle\middleware\Oracle_FRHome1\forms\java
       * copy `jacob.dll` => c:\oracle\middleware\Oracle_FRHome1\forms\webutil (NOT down to either \win32|\win64)
-      * CRUCIAL &#8211; update registry `HKEY_LOCAL_MACHINE\SOFTWARE\ORACLE\KEY_OH1949191890\FORMS_PATH` to include your forms ".fmb, .mmb, etc" file paths... we had separate folders for images, forms, libs & menus files to be included there 
+      * CRUCIAL - update registry `HKEY_LOCAL_MACHINE\SOFTWARE\ORACLE\KEY_OH1949191890\FORMS_PATH` to include your forms ".fmb, .mmb, etc" file paths... we had separate folders for images, forms, libs & menus files to be included there 
           * this "KEY_OH1949191890" path is probably different for each installation
 
  [1]: https://www.oracle.com/technetwork/middleware/weblogic/downloads/wls-main-097127.html

@@ -25,11 +25,11 @@ tags:
       * Parallel Linq Extensions 
   * C# 4.0 New Features (_all good stuff IMPO, variance being the hardest to grok_) 
       * Named and Optional Parameters – already use this quite a bit 
-      * Dynamic Support – handy way to ignore the complexity of ‘dynamically’ generated type declarations (e.g. linq results & COM Interop) 
-      * Co/Contra-Variance – primarily intended to make .Net Framework methods with Generic type parameters like IEnumerable<T> “_work like we’d expect_” as is often quoted in explanatory texts (look for Jon Skeet and Eric Lippert).&#160; It removes a couple rather unexpected annoyances that C# 3 would’ve snagged on.
-      * Covariance represents “upcastable”.&#160; Concerns types coming out of an API.&#160; Represented by “out” keyword, e.g. public interface IEnumerable<out T>
-      * Contravariance is “downcastable”. Typically concerns types passed into an API.&#160; e.g. public interface IComparer<in T>
-      * Invariance is when something must go both in and out of a method and it can’t be declared differently on either side of the interface, it must be the same coming and going.
+      * Dynamic Support – handy way to ignore the complexity of 'dynamically' generated type declarations (e.g. linq results & COM Interop) 
+      * Co/Contra-Variance – primarily intended to make .Net Framework methods with Generic type parameters like IEnumerable<T> "_work like we'd expect_" as is often quoted in explanatory texts (look for Jon Skeet and Eric Lippert).  It removes a couple rather unexpected annoyances that C# 3 would've snagged on.
+      * Covariance represents "upcastable".  Concerns types coming out of an API.  Represented by "out" keyword, e.g. public interface IEnumerable<out T>
+      * Contravariance is "downcastable". Typically concerns types passed into an API.  e.g. public interface IComparer<in T>
+      * Invariance is when something must go both in and out of a method and it can't be declared differently on either side of the interface, it must be the same coming and going.
     
       * COM Interop 
           * Dynamic Vars 

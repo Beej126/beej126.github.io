@@ -23,7 +23,7 @@ setup the .csx to runner file association
 
 _%~2 means all args starting with #2... see [ftype docs][4] for more_
 
-_FYI for [TCC LE][5] folks, apparently i've stumbled into a rare backwards compatibility gap... TCC LE doesn't seem to support the %~2 syntax like cmd.exe and it escapes "%" differently, so substitute that portion of the ftype line above with "%%1 &#8212; %%2 %%3 %%4"_
+_FYI for [TCC LE][5] folks, apparently i've stumbled into a rare backwards compatibility gap... TCC LE doesn't seem to support the %~2 syntax like cmd.exe and it escapes "%" differently, so substitute that portion of the ftype line above with "%%1 - %%2 %%3 %%4"_
 
 lastly, edit your PATHEXT system environment variable to include .CSX which allows us to leave off the extension to launch our scripts just like native commands! =)
 

@@ -1,5 +1,5 @@
 ---
-title: 'SQL Server – [SOLVED] “Unable to initialize SSL encryption because a valid certificate could not be found, and it is not possible to create a self-signed certificate."'
+title: 'SQL Server – [SOLVED] "Unable to initialize SSL encryption because a valid certificate could not be found, and it is not possible to create a self-signed certificate."'
 date: 2012-02-11
 author: Beej
 tags:
@@ -18,7 +18,7 @@ I read through dozens of folks wrestling with this issue and various suggested r
 
 ### Root Cause
 
-For me, my SQL Server 2008 R2 (v10.50.1600.1) install went wonky (ran into some group policy brick walls) and somehow the default self-signed certificate must've gotten wiped out. Interestingly, on other servers where the install ran without issue, this certificate entry is also blank… so that tells me we’re fortunate SQL Server is able to utilize this new one we throw in.   
+For me, my SQL Server 2008 R2 (v10.50.1600.1) install went wonky (ran into some group policy brick walls) and somehow the default self-signed certificate must've gotten wiped out. Interestingly, on other servers where the install ran without issue, this certificate entry is also blank… so that tells me we're fortunate SQL Server is able to utilize this new one we throw in.   
 <a name="cert"><i class="fa fa-anchor"></i></a>
 
 ### How to get an appropriate cert
@@ -28,14 +28,14 @@ One fairly straight shot at generating self-signed certs is with "SelfSSL.exe" f
     SelfSSL /N:CN={database server name} /V:1999999
     
 
-  * If you're not already familiar with certs, the name following "/N:CN=" above <span class="hl">must EXACTLY match the "network" name of the machine you're installing it to</span>... otherwise it gets hidden or rejected at various levels... for example, it won’t show up in SQL Server Configuration Manager’s certificate drop down list… this name should be the “FQDN” (Fully Qualified Domain Name) aka Canonical Name... typically the “Full Computer Name” as listed under `Control Panel > System`.
+  * If you're not already familiar with certs, the name following "/N:CN=" above <mark>must EXACTLY match the "network" name of the machine you're installing it to</mark>... otherwise it gets hidden or rejected at various levels... for example, it won't show up in SQL Server Configuration Manager's certificate drop down list… this name should be the "FQDN" (Fully Qualified Domain Name) aka Canonical Name... typically the "Full Computer Name" as listed under `Control Panel > System`.
   * The /V option is the #days the cert is valid for... it appears 1999999 is the max allowed… that currently pushes expiration out to the year 7487, which will hopefully last ya ;)
-  * Note: SelfSSL often spews “Error opening metabase: 0x80040154” … This would probably be bad news if you wanted to use this certificate for IIS SSL but apparently it’s not a factor for SQL Server SSL.
-  * Examine the certificates that have been generated this way by launching CertMgr.msc from <kbd>Win+R</kbd> and looking into the “Personal” certificate store... or if that doesn't exist, launch MMC.exe, <kbd>CTRL+M</kbd> to add the "Certificates" snap in and select “Computer account”.
+  * Note: SelfSSL often spews "Error opening metabase: 0x80040154" … This would probably be bad news if you wanted to use this certificate for IIS SSL but apparently it's not a factor for SQL Server SSL.
+  * Examine the certificates that have been generated this way by launching CertMgr.msc from <kbd>Win+R</kbd> and looking into the "Personal" certificate store... or if that doesn't exist, launch MMC.exe, <kbd>CTRL+M</kbd> to add the "Certificates" snap in and select "Computer account".
 
 ![Snap1][5]
 
-In a blatant attempt to cast a wide net on search hits, here’s a typical sql log that’ll be spewed along with the aforementioned error:
+In a blatant attempt to cast a wide net on search hits, here's a typical sql log that'll be spewed along with the aforementioned error:
 
 | timestamp              | type   | message                                                                                                                                                                                           |
 | ---------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

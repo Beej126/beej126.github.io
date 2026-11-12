@@ -60,7 +60,7 @@ tags:
       * **networkid**: make yours up
       * **datadir**: crucial your other files are in the current working folder
       * **dev**: developer mode... this seems to make certain initialization steps do a faster minimal burn 
-      * **unlock**: this will prompt you for password and thereby <span class="hl">start server with specified etherbase aka coinbase account unlocked to enable spending ether which is REQUIRED TO SUBMIT ANY TRANSACTIONS, including our first hello world sample smart contract!! =)</span>
+      * **unlock**: this will prompt you for password and thereby <mark>start server with specified etherbase aka coinbase account unlocked to enable spending ether which is REQUIRED TO SUBMIT ANY TRANSACTIONS, including our first hello world sample smart contract!! =)</mark>
       * **etherbase**: update this with your primary account, next step...
       * **password**: create pw.txt with the same password you specify in next step...
       * **rpc**: fire up the http-rpc endpoint... defaults to: https://localhost:8545
@@ -69,7 +69,7 @@ tags:
  10. stop the server with CTRL-D
  11. plug this account# into genesis.json and ethStart.cmd > coinbase & alloc properties... and add the unlock parm back into ethStart.cmd
  12. drumroll... restart `ethStart.cmd` ... watch for any errors in the output
- 13. <span class="hl">i had to wait a few minutes for mining activity like below to kick in... it would be interesting to hear what it's doing during this extended delay... </span>
+ 13. <mark>i had to wait a few minutes for mining activity like below to kick in... it would be interesting to hear what it's doing during this extended delay... </mark>
   
       ```batch
       I1222 23:12:12.999058 miner/worker.go:542] commit new work on block 8 with 0 txs & 0 uncles. Took 0s
@@ -94,7 +94,7 @@ tags:
       I1222 23:07:20.620876 ethdb/database.go:176] closed db:C:\Users\beej1\AppData\Roaming\Ethereum\beejnet\geth\chaindata
       I1222 23:07:20.621873 node/node.go:175] instance: Geth/v1.5.3-stable-978737f5/windows/go1.7.3
       I1222 23:07:20.621873 ethdb/database.go:83] Allotted 128MB cache and 1024 file handles to C:\Users\beej1\AppData\Roaming\Ethereum\beejnet\geth\chaindata
-      <span class="hl">I1222 23:07:20.661879 core/genesis.go:93] Genesis block already in chain. Writing canonical number<br /> I1222 23:07:20.662377 eth/backend.go:282] Successfully wrote custom genesis block: e5be92145a301820111f91866566e3e99ee344d155569e4556a39bc71238f3bc</span>
+      <mark>I1222 23:07:20.661879 core/genesis.go:93] Genesis block already in chain. Writing canonical number<br /> I1222 23:07:20.662377 eth/backend.go:282] Successfully wrote custom genesis block: e5be92145a301820111f91866566e3e99ee344d155569e4556a39bc71238f3bc</mark>
       I1222 23:07:20.662877 eth/backend.go:301] ethash used in test mode
       I1222 23:07:20.663381 eth/backend.go:193] Protocol Versions: [63 62], Network Id: 399524671
       I1222 23:07:20.663381 eth/backend.go:221] Chain config: {ChainID: 0 Homestead: <nil> DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: <nil> EIP158: <nil>}
@@ -110,7 +110,7 @@ tags:
       I1222 23:07:22.800262 node/node.go:340] IPC endpoint opened: \.\pipe\geth.ipc
       I1222 23:07:22.813263 node/node.go:410] HTTP endpoint opened: https://localhost:8545
       Unlocking account 0 | Attempt 1/3
-      <span class="hl">Passphrase: </span>
+      <mark>Passphrase: </mark>
       I1222 23:08:28.727457 cmd/geth/accountcmd.go:200] Unlocked account 057c86cae703b08c59fa6a9f066dbcc241da52a7
       I1222 23:08:28.727954 miner/miner.go:137] Starting mining operation (CPU=1 TOT=2)
       I1222 23:08:28.728455 miner/worker.go:542] commit new work on block 7 with 0 txs & 0 uncles. Took 0s
@@ -177,7 +177,7 @@ now we can jump into the [greeter hello world sample][5]
       I1222 23:58:58.069301 internal/ethapi/api.go:1045] Tx(0x293ae70fcfaa52d875cbc8fb72937da69983724016321eea944eda2b1a87732b) created: 0xec99e07dc19d075761456f8c33558ba2148eb048
       Contract transaction send: TransactionHash: 0x293ae70fcfaa52d875cbc8fb72937da69983724016321eea944eda2b1a87732b waiting to be mined...
       ```
-  3. <span class="hl">again, sit and twiddle your thumbs for an excruciatingly long time (7 minutes for me!?!?)... and hopefully you eventually see output</span>
+  3. <mark>again, sit and twiddle your thumbs for an excruciatingly long time (7 minutes for me!?!?)... and hopefully you eventually see output</mark>
       ```bash
       Contract mined! Address: 0xec99e07dc19d075761456f8c33558ba2148eb048
       ```
@@ -195,7 +195,7 @@ now we can jump into the [greeter hello world sample][5]
   
     > Each BlockApps node exposes a RESTful api to interact with the node. This allows you to deploy contracts/publish transactions with simple REST calls. Bloc-server also generates a REST api for each smart contract you deploy with it. This allows for a clean separation from your dapps frontend and smart contracts 
 
-  * [Solidity extension for Visual Studio][6] has an nicely easy run through on setting up BlockApps</p> 
+  * [Solidity extension for Visual Studio][6] has an nicely easy run through on setting up BlockApps
   * [BlockApps Strato GitHub Readme][7] is also short install guide with the following steps
 
   1. install nodeJS / npm via: `choco install nodejs`
@@ -225,7 +225,7 @@ now we can jump into the [greeter hello world sample][5]
       * the next error i'm stuck on now is `The method _ does not exist/is not available`... _so something is off_
       * even though Strato is basically happy with my Ethereum install enough to execute the new user APIs no problem
       * i posted [issue on their forum][12]... 
-      * [update 2016-12-24] not only did support respond promptly next day but it was [Kieren James-Lubin][13] (kjameslubin) the founder no less! turns out, quote: "<span class="hl">You must run a Strato node to be able to use bloc. No other Ethereum client supports it</span>... You can use strato-dev4.blockapps.net:9000 or launch one from the Azure market place or contact us at hello@blockapps.net to install."... so, that is welcome clarity straight from the horse's mouth... a rare luxury that i am grateful for on this christmas eve... we'll hop over to those other options ... and the adventure continues... 🙂
+      * [update 2016-12-24] not only did support respond promptly next day but it was [Kieren James-Lubin][13] (kjameslubin) the founder no less! turns out, quote: "<mark>You must run a Strato node to be able to use bloc. No other Ethereum client supports it</mark>... You can use strato-dev4.blockapps.net:9000 or launch one from the Azure market place or contact us at hello@blockapps.net to install."... so, that is welcome clarity straight from the horse's mouth... a rare luxury that i am grateful for on this christmas eve... we'll hop over to those other options ... and the adventure continues... 🙂
 
 &nbsp;
 
@@ -234,21 +234,21 @@ now we can jump into the [greeter hello world sample][5]
 
 ## Handy References
   * [BlockApps Strato full REST API][15]
-<footnotes>
+<div markdown="0">
 <ul>
 <li id="fn-1457-guide2">
-  another short and sweet private network <a href="https://vanderwijk.info/blog/getting-started-ethereum/">getting started guide that filled in several blanks for me</a>&#160;<a href="#fnref-1457-guide2">&#8617;</a>
+  another short and sweet private network <a href="https://vanderwijk.info/blog/getting-started-ethereum/">getting started guide that filled in several blanks for me</a> <a href="#fnref-1457-guide2">&#8617;</a>
 </li>
 <li id="fn-1457-geth_CLI">
-  all the <a href="https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options">geth CLI options</a>&#160;<a href="#fnref-1457-geth_CLI">&#8617;</a>
+  all the <a href="https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options">geth CLI options</a> <a href="#fnref-1457-geth_CLI">&#8617;</a>
 </li>
 <li id="fn-1457-guide1">
-  good <a href="https://ethereum.stackexchange.com/a/2787">getting started guide with troubleshooting tips</a>&#160;<a href="#fnref-1457-guide1">&#8617;</a>
+  good <a href="https://ethereum.stackexchange.com/a/2787">getting started guide with troubleshooting tips</a> <a href="#fnref-1457-guide1">&#8617;</a>
 </li>
 <li id="fn-1457-strato">
-  <a href="https://ethereum.stackexchange.com/questions/9905/whats-the-real-value-in-using-blockapps-strato">What's the real value in using BlockApps Strato?</a>&#160;<a href="#fnref-1457-strato">&#8617;</a> </fn>
+  <a href="https://ethereum.stackexchange.com/questions/9905/whats-the-real-value-in-using-blockapps-strato">What's the real value in using BlockApps Strato?</a> <a href="#fnref-1457-strato">&#8617;</a> </li>
 </ul>
-</footnotes>
+</div>
 
  [1]: https://ethereum.org/cli
  [2]: https://geth.ethereum.org/downloads/

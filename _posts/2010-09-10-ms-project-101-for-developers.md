@@ -10,7 +10,7 @@ thumbnail-img: /images/uploads/2010/ms-project-101-for-developers-thumbnail.png
 
 ## TL;DR
 
-The simple idea here is that it’s quite easy to project your aggregated Remaining Duration estimates into a quickie calendar date.
+The simple idea here is that it's quite easy to project your aggregated Remaining Duration estimates into a quickie calendar date.
 
 see screenshot below for example
 
@@ -25,8 +25,8 @@ see screenshot below for example
 1. now go down the entire list of "leaf" tasks and spend a little time entering super rough work-days estimates into the `Duration` column for each task...
    - don't enter how many calendar days you think it'll actually drag with all your other distractions, think in terms of raw heads down completion time... you can add all those kinds of padding later…
    - to get through this without being miserable, **don't get too hung up on accuracy**... think macroscopically, days versus hours
-   - leverage the _out of body experience_ of pretending you’re not the poor sap that’s gotta do all this work
-   - it can be sorta fun in a twisted way and a **surprisingly worthwhile organizational moment** if you’re lighthearted about this... psych yourself to see this as a fun break of playing "task invaders" versus a chore<br/><br/>
+   - leverage the _out of body experience_ of pretending you're not the poor sap that's gotta do all this work
+   - it can be sorta fun in a twisted way and a **surprisingly worthwhile organizational moment** if you're lighthearted about this... psych yourself to see this as a fun break of playing "task invaders" versus a chore<br/><br/>
 1. now fully expand your outline (Project > Outline > Show > All Subtasks)
 1. select all your tasks from top to bottom
 1. and link them together (Edit > Link Tasks or <kbd>Ctrl+F2</kbd>) - this takes the very simplistic initial assumption that all tasks must be completed sequentially... once you get this cooking, by all means break out what you can into parallel tracks
@@ -54,10 +54,10 @@ when it's time to review your progress...
 ## References
 
 - [The different kinds of _Percent Complete_](https://www.office-forums.com/threads/complete-vs-wok-complete-vs-physical-complete.68544/#post-186014)
-  - `% Complete` &#8211; deals with time
-  - `% Work Complete` &#8211; deals with man-hours
-  - `% Physical Complete` &#8211; deals with physical progress ...
-      - in Development land, “physical” of course gets very abstract and therefore makes it fun deciding where to draw the line on what is the smallest "thing" to be a trackable task...
+  - `% Complete` - deals with time
+  - `% Work Complete` - deals with man-hours
+  - `% Physical Complete` - deals with physical progress ...
+      - in Development land, "physical" of course gets very abstract and therefore makes it fun deciding where to draw the line on what is the smallest "thing" to be a trackable task...
       - if you're looking for concrete examples - as mentioned above, functional bundles like screens, stored procedures and classes are granular enough things typically worthy of tracking completion... start there and hopefully you'll start to see the things you are naturally drawn to
 
 ![image](/images/uploads/2010/ms-project-101-for-developers-thumbnail.png)
