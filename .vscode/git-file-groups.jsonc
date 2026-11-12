@@ -1,8 +1,6 @@
 {
   "default_group": "uncategorized",
   "groups": [],
-  "assignments": {
-    "_posts/2008-08-31-samsung-q1u-umpc.md": "uncategorized"
-  },
-  "auto_sync": false
+  "assignments": {},
+  "auto_sync": true
 }
