@@ -88,7 +88,11 @@ Highlights:
 These units have been out since late 2006 in various models so there's a nice amount of solid info out there.  The reviews from a year ago when it was nearly twice the price were a little more scathing... it's a tricky product genre to review because peoples' expectations are all over the board in this new of a niche.  If you read between the lines and focus on what you want they stack up pretty darn good... Everybody immediately recognizes that Vista is a too much for these baby CPUs... and just like everybody else, I dropped back to XP Tablet and it runs great.  Don't forget to load up XPLite and trim it all down to the bare minimum.
 <br />
 <br />
-I see basically <strike>three</strike> four generations out there:
+I see basically
+<strike>
+  three
+</strike>
+four generations out there:
 <ol>
   <li>
     1st gen = the original Q1 (distinguished by no keyboard on the side panels)... basically old enough to scare me away
@@ -100,7 +104,9 @@ I see basically <strike>three</strike> four generations out there:
     3rd gen = Q1U-P (Ultra Premium) – significantly more expensive but comes with the most hardware pre-loaded (faster CPU, 2GB RAM (an easy upgrade for the Q1U), a high speed cellular card (also a doable upgrade for the previous model), etc) … a year has now passed and I'm seeing refurbished Premuim models going for $700 range.
   </li>
   <li>
-    4th gen = Q1EX-71G – this seems to have come out Q3/4 2009… 1.2GHz Via Nano U2500 CPU, 2GB RAM stock, SiRF Star GPS (missing from shipping models!?! :(, no keys = <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;field-keywords=samsung+q1ex&amp;x=0&amp;y=0" target="_blank">$522 on Amazon 07 Sep 2010</a>. Damn, doesn't look like the GPS made it into production units :( And looks like they changed the dang battery form factor (different SKUs).
+    4th gen = Q1EX-71G – this seems to have come out Q3/4 2009… 1.2GHz Via Nano U2500 CPU, 2GB RAM stock, SiRF Star GPS (missing from shipping models!?! :(, no keys =
+    <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;field-keywords=samsung+q1ex&amp;x=0&amp;y=0" target="_blank">
+      $522 on Amazon 07 Sep 2010</a>. Damn, doesn't look like the GPS made it into production units :( And looks like they changed the dang battery form factor (different SKUs).
   </li>
 </ol>
 <br />
@@ -110,11 +116,17 @@ Notable Accessories
   <tbody>
     <tr>
       <td>
-        RAM-Mounts handlebar mount          <a href="https://www.gpscity.com/ram-mount-strap-rail-base-with-standard-arm-round-assembly.html" target="_blank"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="ramb108u" border="0" alt="ramb108u" src="/images/uploads/2008/samsung-q1u-umpc-a50082b5b5b8.jpg" width="160" height="160" /></a>
+        RAM-Mounts handlebar mount
+        <a href="https://www.gpscity.com/ram-mount-strap-rail-base-with-standard-arm-round-assembly.html" target="_blank">
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="ramb108u" border="0" alt="ramb108u" src="/images/uploads/2008/samsung-q1u-umpc-a50082b5b5b8.jpg" width="160" height="160" />
+        </a>
       </td>
       <td valign="top">
         <br />
-        <a href="https://www.ram-mount.com/mount/samsung_q1_ultra_mount.htm">RAM Mounts</a> is mounting nirvana... all kinds of mounting parts to perch this tablet on a ball pivot above bicycle handlebars, etc.
+        <a href="https://www.ram-mount.com/mount/samsung_q1_ultra_mount.htm">
+          RAM Mounts
+        </a>
+        is mounting nirvana... all kinds of mounting parts to perch this tablet on a ball pivot above bicycle handlebars, etc.
         <br />
         <br />
         Both of these RAM-Mounts parts are absolutely top notch.
@@ -126,10 +138,15 @@ Notable Accessories
       <td>
         RAM-Mounts custom cradle
         <br />
-        <a href="https://www.gpscity.com/ram-mount-samsung-q1-ultra-umpc-cradle.html" target="_blank"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="RAM-HOL-SAM2U" border="0" alt="RAM-HOL-SAM2U" src="/images/uploads/2008/samsung-q1u-umpc-9986e73eca4f.png" width="240" height="156" /></a>
+        <a href="https://www.gpscity.com/ram-mount-samsung-q1-ultra-umpc-cradle.html" target="_blank">
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="RAM-HOL-SAM2U" border="0" alt="RAM-HOL-SAM2U" src="/images/uploads/2008/samsung-q1u-umpc-9986e73eca4f.png" width="240" height="156" />
+        </a>
       </td>
       <td valign="top">
-        <a href="https://www.gpscity.com" target="_blank">GPSCity</a> has been very good with solid inventory, fast shipment and competitive prices on the whole RAM production line… they have a nice body of customer reviews to get a good feel for how most parts stand up in real usage.
+        <a href="https://www.gpscity.com" target="_blank">
+          GPSCity
+        </a>
+        has been very good with solid inventory, fast shipment and competitive prices on the whole RAM production line… they have a nice body of customer reviews to get a good feel for how most parts stand up in real usage.
         <br />
         <br />
         Make sure to search for shopping cart discount codes.
@@ -139,7 +156,9 @@ Notable Accessories
     </tr>
     <tr>
       <td>
-        <a href="https://www.amazon.com/gp/product/B004BLIMOU/ref=pd_lpo_k2_dp_sr_2?pf_rd_p=1278548962&amp;pf_rd_s=lpo-top-stripe-1&amp;pf_rd_t=201&amp;pf_rd_i=B0041O200O&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=11TDP6DKDC7P7RMTSEKN" target="_blank"><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2008/samsung-q1u-umpc-2f366894ba56.png" width="406" height="171" /></a>
+        <a href="https://www.amazon.com/gp/product/B004BLIMOU/ref=pd_lpo_k2_dp_sr_2?pf_rd_p=1278548962&amp;pf_rd_s=lpo-top-stripe-1&amp;pf_rd_t=201&amp;pf_rd_i=B0041O200O&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=11TDP6DKDC7P7RMTSEKN" target="_blank">
+          <img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2008/samsung-q1u-umpc-2f366894ba56.png" width="406" height="171" />
+        </a>
       </td>
       <td valign="top">
         These are a great development for us tableteers… basically nano sized USB dongles that take a micro SD card into them and present very little profile to get whacked around on a mobile device where you need some more easy space.
@@ -147,7 +166,10 @@ Notable Accessories
     </tr>
     <tr>
       <td>
-        Sierra Wireless MC8781          HPDSA/3G Cell Modem + GPS          <a href="https://shop.ebay.com/?_nkw=SIERRA+MC8781" target="_blank"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="SierraWireless_MC8781" border="0" alt="SierraWireless_MC8781" src="/images/uploads/2008/samsung-q1u-umpc-9bd1931374c9.png" width="227" height="191" /></a>
+        Sierra Wireless MC8781          HPDSA/3G Cell Modem + GPS
+        <a href="https://shop.ebay.com/?_nkw=SIERRA+MC8781" target="_blank">
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="SierraWireless_MC8781" border="0" alt="SierraWireless_MC8781" src="/images/uploads/2008/samsung-q1u-umpc-9bd1931374c9.png" width="227" height="191" />
+        </a>
       </td>
       <td valign="top">
         Going after one of these now…
@@ -160,36 +182,53 @@ Notable Accessories
         </ul>
         <ul>
           <li>
-            <a href="https://www.sierrawireless.com/product/em_comparison.aspx" target="_blank">Model family specs comparison</a>
+            <a href="https://www.sierrawireless.com/product/em_comparison.aspx" target="_blank">
+              Model family specs comparison
+            </a>
           </li>
           <li>
             I'm thinking that "gpsOne" facility is worth going after
           </li>
           <li>
-            <a href="https://himax60.blogspot.com/2008/01/my-q1u-gets-hsdpa.html" target="_blank">Someone that installed the mc8775 model in same exact tablet model as mine</a>
+            <a href="https://himax60.blogspot.com/2008/01/my-q1u-gets-hsdpa.html" target="_blank">
+              Someone that installed the mc8775 model in same exact tablet model as mine
+            </a>
           </li>
           <li>
-            <a href="https://forums.whirlpool.net.au/forum-replies-archive.cfm/1108594.html" target="_blank">Firmware and instructions for activating the GPS functionality</a>
+            <a href="https://forums.whirlpool.net.au/forum-replies-archive.cfm/1108594.html" target="_blank">
+              Firmware and instructions for activating the GPS functionality
+            </a>
           </li>
           <li>
-            <a href="https://www.kaskus.us/showthread.php?s=9a4b2b54b08499801a3906260362d4ee&amp;t=1155572&amp;page=12" target="_blank">Good installed pics</a> at this forum
+            <a href="https://www.kaskus.us/showthread.php?s=9a4b2b54b08499801a3906260362d4ee&amp;t=1155572&amp;page=12" target="_blank">
+              Good installed pics
+            </a>
+            at this forum
           </li>
         </ul>
         <ul>
           <li>
-            Been using the external <a href="https://buy.garmin.com/shop/shop.do?pID=423" target="_blank">Garmin 10x Bluetooth receiver</a> unit this whole year and it's served me well but Bluetooth connections are annoyingly flakey sometimes and I'd love to lose the external fob finally.
+            Been using the external
+            <a href="https://buy.garmin.com/shop/shop.do?pID=423" target="_blank">
+              Garmin 10x Bluetooth receiver
+            </a>
+            unit this whole year and it's served me well but Bluetooth connections are annoyingly flakey sometimes and I'd love to lose the external fob finally.
           </li>
         </ul>
-        <a href="/images/uploads/2008/samsung-q1u-umpc-58245c1b2948.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2008/samsung-q1u-umpc-eb559cdcb258.png" width="87" height="69" /></a>
+        <a href="/images/uploads/2008/samsung-q1u-umpc-58245c1b2948.png">
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2008/samsung-q1u-umpc-eb559cdcb258.png" width="87" height="69" />
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.bixnet.com/unpowbat.html">Super High Capacity Universal External Battery Pack - BP150
-        <br />
-        <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="laptopupgrade_2067_1399911" border="0" alt="laptopupgrade_2067_1399911" src="/images/uploads/2008/samsung-q1u-umpc-174f96bf0295.gif" width="200" height="156" />
-        <br />
-        <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Connector-big-c2" border="0" alt="Connector-big-c2" src="/images/uploads/2008/samsung-q1u-umpc-ee3878967f16.jpg" width="343" height="256" /> </a>
+        <a href="https://www.bixnet.com/unpowbat.html">
+          Super High Capacity Universal External Battery Pack - BP150
+          <br />
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="laptopupgrade_2067_1399911" border="0" alt="laptopupgrade_2067_1399911" src="/images/uploads/2008/samsung-q1u-umpc-174f96bf0295.gif" width="200" height="156" />
+          <br />
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Connector-big-c2" border="0" alt="Connector-big-c2" src="/images/uploads/2008/samsung-q1u-umpc-ee3878967f16.jpg" width="343" height="256" />
+        </a>
       </td>
       <td valign="top">
         <ul>
@@ -217,37 +256,70 @@ Notable Accessories
             3lbs is obviously something consider…very doable for a bike, annoying for a backpack
           </li>
           <li>
-            At $200 this one is much more bang for the buck than <a href="https://www.samsung.com/us/consumer/detail/accessories.do?group=computersperipherals&amp;type=mobilecomputing&amp;subtype=ultramobilepcs&amp;model_cd=NP-Q1U/000/SEA#" target="_blank">Samsung's external pack (AA-PL1UC8B)</a> which I doubt is even manufactured anymore.
+            At $200 this one is much more bang for the buck than
+            <a href="https://www.samsung.com/us/consumer/detail/accessories.do?group=computersperipherals&amp;type=mobilecomputing&amp;subtype=ultramobilepcs&amp;model_cd=NP-Q1U/000/SEA#" target="_blank">
+              Samsung's external pack (AA-PL1UC8B)
+            </a>
+            which I doubt is even manufactured anymore.
           </li>
           <li>
-            <a href="https://www.bixnet.com/cntc2.html" target="_blank">This is the exact spec on the DC-in power tip dimensions</a> … it does come with the BP150
+            <a href="https://www.bixnet.com/cntc2.html" target="_blank">
+              This is the exact spec on the DC-in power tip dimensions
+            </a>
+            … it does come with the BP150
           </li>
           <li>
-            <a href="https://www.buy-laptop-battery.org/external-universal-laptop-battery.htm" target="_blank">Cheaper ($120'ish) Toshiba unit with half the horses (74Wh)</a> – Model#: EEXT001WO1
+            <a href="https://www.buy-laptop-battery.org/external-universal-laptop-battery.htm" target="_blank">
+              Cheaper ($120'ish) Toshiba unit with half the horses (74Wh)
+            </a>
+            – Model#: EEXT001WO1
           </li>
           <li>
-            <a href="https://www.batterygeek.net/Batterygeek-15-21-130-External-Laptop-Battery-p/15-21-130_batterygeek.htm" target="_blank">BatteryGeeks.net</a> has some awesome looking units but they're pricey.. $300 for 130Wh
+            <a href="https://www.batterygeek.net/Batterygeek-15-21-130-External-Laptop-Battery-p/15-21-130_batterygeek.htm" target="_blank">
+              BatteryGeeks.net
+            </a>
+            has some awesome looking units but they're pricey.. $300 for 130Wh
           </li>
         </ul>
-        I have a buddy that got the <a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16855997152&amp;cm_re=tekkeon-_-55-997-152-_-Product" target="_blank">"Tekkeon myPower All" (Model#: MP3450) for $109 from NewEgg</a>… seems like a nicely flexible 50Wh battery for multiple purposes, 9 included adapter tips and selectable voltages: 5V, 6V, 7.5V, 9V, 12V, 14V, 16V, 19V. Make sure to compare currently three slightly different models MP3450 R2, MP3750 R2, MP3450i R2 (comparison tables <a href="https://www.tekkeon.com/products-mypowerall.html" target="_blank">here</a> and <a href="https://www.tekkeon.com/products-mypall-features.html" target="_blank">here</a>), differences are very subtle… MP3450 has most selectable voltages &amp; travel charger, MP3450i is a little more beefy/expensive.          <a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16855997152&amp;cm_re=tekkeon-_-55-997-152-_-Product" target="_blank"><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Untitled" border="0" alt="Untitled" src="/images/uploads/2008/samsung-q1u-umpc-e9b1848679e3.png" width="240" height="170" /></a>
+        I have a buddy that got the
+        <a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16855997152&amp;cm_re=tekkeon-_-55-997-152-_-Product" target="_blank">
+          "Tekkeon myPower All" (Model#: MP3450) for $109 from NewEgg</a>… seems like a nicely flexible 50Wh battery for multiple purposes, 9 included adapter tips and selectable voltages: 5V, 6V, 7.5V, 9V, 12V, 14V, 16V, 19V. Make sure to compare currently three slightly different models MP3450 R2, MP3750 R2, MP3450i R2 (comparison tables
+        <a href="https://www.tekkeon.com/products-mypowerall.html" target="_blank">
+          here
+        </a>
+        and
+        <a href="https://www.tekkeon.com/products-mypall-features.html" target="_blank">
+          here</a>), differences are very subtle… MP3450 has most selectable voltages &amp; travel charger, MP3450i is a little more beefy/expensive.
+        <a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16855997152&amp;cm_re=tekkeon-_-55-997-152-_-Product" target="_blank">
+          <img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Untitled" border="0" alt="Untitled" src="/images/uploads/2008/samsung-q1u-umpc-e9b1848679e3.png" width="240" height="170" />
+        </a>
       </td>
     </tr>
     <tr>
       <td>
-        AverMedia QuickPlay          PC VGA to TV          <a href="https://www.avermedia-usa.com/presentation/product_quickplay.asp"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2008/samsung-q1u-umpc-2572e23ac0e9.png" width="208" height="204" /></a>
+        AverMedia QuickPlay          PC VGA to TV
+        <a href="https://www.avermedia-usa.com/presentation/product_quickplay.asp">
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2008/samsung-q1u-umpc-2572e23ac0e9.png" width="208" height="204" />
+        </a>
       </td>
       <td valign="top">
-        Results vary wildly on this since it depends on which signal format you're able to go with… single composite video is not so hot… but "YPbPr" composite has turned out very crisp for me on a recent display.  If you're ready to carry a bunch of cables and be happy that you have a connection at all, this unit is "ok" for <a href="https://www.google.com/products/catalog?hl=en&amp;q=avermedia+quickplay&amp;cid=2525492441776978560&amp;sa=button#scoring=p" target="_blank">$70 street price</a>… that's a little steep for what you get out of this so don't go any higher.
+        Results vary wildly on this since it depends on which signal format you're able to go with… single composite video is not so hot… but "YPbPr" composite has turned out very crisp for me on a recent display.  If you're ready to carry a bunch of cables and be happy that you have a connection at all, this unit is "ok" for
+        <a href="https://www.google.com/products/catalog?hl=en&amp;q=avermedia+quickplay&amp;cid=2525492441776978560&amp;sa=button#scoring=p" target="_blank">
+          $70 street price</a>… that's a little steep for what you get out of this so don't go any higher.
       </td>
     </tr>
     <tr>
       <td>
         Bluetooth Keyboard
         <br />
-        Sierra model by ThinkOutside (discontinued)          <a href="https://jkontherun.blogs.com/jkontherun/2006/09/thinkoutside_si.html" target="_blank"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="sierra1[1]" border="0" alt="sierra1[1]" src="/images/uploads/2008/samsung-q1u-umpc-e25af2a9f1e8.jpg" width="240" height="179" /></a>
+        Sierra model by ThinkOutside (discontinued)
+        <a href="https://jkontherun.blogs.com/jkontherun/2006/09/thinkoutside_si.html" target="_blank">
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="sierra1[1]" border="0" alt="sierra1[1]" src="/images/uploads/2008/samsung-q1u-umpc-e25af2a9f1e8.jpg" width="240" height="179" />
+        </a>
       </td>
       <td valign="top">
-        <a href="https://jkontherun.blogs.com/jkontherun/2006/09/thinkoutside_si.html">This BlueTooth keyboard is pretty nifty</a>... actually managed to get my hands on one from eBay for $65 ... it looks like some idiots acquired that company and nixed the whole keyboard product line so they're no longer manufactured... it does have a good feel and the case is slick.
+        <a href="https://jkontherun.blogs.com/jkontherun/2006/09/thinkoutside_si.html">
+          This BlueTooth keyboard is pretty nifty</a>... actually managed to get my hands on one from eBay for $65 ... it looks like some idiots acquired that company and nixed the whole keyboard product line so they're no longer manufactured... it does have a good feel and the case is slick.
         <br />
         <br />
         Naturally something this small can't be very sturdy… I've already lost a screw due to a weak plastic screw hole but it's holding together ok.
@@ -255,10 +327,19 @@ Notable Accessories
     </tr>
     <tr>
       <td>
-        Otter Box case                    <a href="https://www.otterbox.com/samsung-q1u-p-defender-case" target="_blank"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="OtterBox" border="0" alt="OtterBox" src="/images/uploads/2008/samsung-q1u-umpc-e4b33ab41b5b.png" width="240" height="175" /></a>
+        Otter Box case
+        <a href="https://www.otterbox.com/samsung-q1u-p-defender-case" target="_blank">
+          <img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="OtterBox" border="0" alt="OtterBox" src="/images/uploads/2008/samsung-q1u-umpc-e4b33ab41b5b.png" width="240" height="175" />
+        </a>
       </td>
       <td>
-        This protective case by <a href="https://www.otterbox.com/pc-tablet-umpc-cases/samsung-q1up-case/">&quot;Otter Box&quot; </a>looks pretty sweet in the ads but after having it for a while <u>I don't really recommend it</u>.
+        This protective case by
+        <a href="https://www.otterbox.com/pc-tablet-umpc-cases/samsung-q1up-case/">
+          &quot;Otter Box&quot;
+        </a>
+        looks pretty sweet in the ads but after having it for a while
+        <u>
+          I don't really recommend it</u>.
         <br />
         It's not a very polished product.
         <br />
@@ -266,7 +347,8 @@ Notable Accessories
         <br />
         Just get a couple screen protectors since that's really all that needs protecting.
         <br />
-        I do wish RAM-Mounts made an "Aqua Box" that was large enough for a full waterproof solution (<a title="https://www.gpscity.com/aqua-box-mount" href="https://www.gpscity.com/aqua-box-mount">https://www.gpscity.com/aqua-box-mount</a>).
+        I do wish RAM-Mounts made an "Aqua Box" that was large enough for a full waterproof solution
+        (<a title="https://www.gpscity.com/aqua-box-mount" href="https://www.gpscity.com/aqua-box-mount">https://www.gpscity.com/aqua-box-mount</a>).
         <br />
         <br />
         They had to make it generic enough to handle a couple different units with different features.
@@ -277,7 +359,10 @@ Notable Accessories
         <br />
         Those clips held up just fine under the jostling of a hike... kinda worried about wearing them down taking the tablet in &amp; out between hikes.
         <br />
-        The rubber feels hardy… it covers the back almost entirely... <u>I wish the whole thing was made of that thick rubber and no plastic!</u>
+        The rubber feels hardy… it covers the back almost entirely...
+        <u>
+          I wish the whole thing was made of that thick rubber and no plastic!
+        </u>
         <br />
         <br />
         I'd say the biggest disappointment is the thick flexible clear plastic cover for the tablet screen and side buttons.
@@ -303,16 +388,26 @@ Notable Accessories
 Misc Links:
 <ul>
   <li>
-    <a href="https://www.tabletpcreview.com/default.asp?newsID=1070">Showing Ubuntu loaded up</a>
+    <a href="https://www.tabletpcreview.com/default.asp?newsID=1070">
+      Showing Ubuntu loaded up
+    </a>
   </li>
   <li>
-    <a href="https://shop.vendio.com/malibu281/item/996351118/index.html">Cheapest vendor I've found</a> for the Q1U's
+    <a href="https://shop.vendio.com/malibu281/item/996351118/index.html">
+      Cheapest vendor I've found
+    </a>
+    for the Q1U's
   </li>
   <li>
-    <a href="https://ubertablet.blogspot.com/2007/06/how-to-upgrade-q1-ultra-to-2gb-ram.html">How to get the bugger open for upgrades (RAM, etc.)</a>
+    <a href="https://ubertablet.blogspot.com/2007/06/how-to-upgrade-q1-ultra-to-2gb-ram.html">
+      How to get the bugger open for upgrades (RAM, etc.)
+    </a>
   </li>
   <li>
-    <a href="https://jkontherun.blogs.com/">jkontherun.blogs.com</a> - tons of good hands on mobile hardware info including the Samsungs
+    <a href="https://jkontherun.blogs.com/">
+      jkontherun.blogs.com
+    </a>
+    - tons of good hands on mobile hardware info including the Samsungs
   </li>
 </ul>
 <br />
@@ -320,7 +415,9 @@ Reviews:
 <br />
 <ul>
   <li>
-    <a href="https://www.mobiletechreview.com/notebooks/Samsung-Q1-Ultra.htm">Mobile Tech Review</a>
+    <a href="https://www.mobiletechreview.com/notebooks/Samsung-Q1-Ultra.htm">
+      Mobile Tech Review
+    </a>
   </li>
 </ul>
 <br />
