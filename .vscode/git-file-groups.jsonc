@@ -1,6 +1,25 @@
 {
   "default_group": "uncategorized",
   "groups": [],
-  "assignments": {},
+  "assignments": {
+    "_posts/2010-09-04-cree-led-based-bicycle-lights-and.md": "uncategorized",
+    "_remote_content/3f0e6000478da4c3d79b367a9e4d3b7d92753c9c3634c008e1c1a4ec5e192a31.json": "uncategorized",
+    "_posts/2013-08-27-solved-acer-aspire-one-wont-boo.md": "uncategorized",
+    "_posts/2016-11-02-powershell-hot-corners.md": "uncategorized",
+    "_posts/2008-08-31-samsung-q1u-umpc.md": "uncategorized",
+    "_posts/2010-09-23-logitech-s715i-portable-ipod-speakers.md": "uncategorized",
+    "_posts/2011-03-02-yasbe-open-source-code-incremental.md": "uncategorized",
+    "_posts/2011-06-25-evolving-custom-sqlclientnet-datalayer.md": "uncategorized",
+    "_posts/2015-04-05-osx-v2p.md": "uncategorized",
+    "_posts/2015-09-04-x99build.md": "uncategorized",
+    "_posts/2016-10-24-php-sql-server-blob-hosting.md": "uncategorized",
+    "_posts/2017-02-07-win10_on_legacy_macbookpro.md": "uncategorized",
+    "_posts/2018-06-03-pure-css-expander.md": "uncategorized",
+    "_posts/2009-11-02-html-tag-has-handy-sub-tag.md": "uncategorized",
+    "_boring_posts/2009-11-02-html-tag-has-handy-sub-tag.md": "uncategorized",
+    "_posts/2011-06-25-ode-to-griffin-airclick-usb-radio.md": "uncategorized",
+    "_posts/2012-04-04-samsung-galaxy-tab-77-p6800.md": "uncategorized",
+    "_posts/2010-03-28-ati-x1300-pro-on-mac-os-x-snow-leopard.md": "uncategorized"
+  },
   "auto_sync": true
 }

@@ -102,5 +102,5 @@ For the record, it's not valid html to apply :before/after psuedo elements to fo
 
 ### [JS Fiddle Demo](https://jsfiddle.net/h3c3cb3m/110/)
 
-### [Demo post (rendered via Markdown)](/osx-v2p.html)
+### [Demo post (rendered via Markdown)](/osx-v2p/)
 

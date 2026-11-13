@@ -53,4 +53,4 @@ see [this post][2] for sql server driver downloads
     ?>
 
  [1]: https://social.msdn.microsoft.com/Forums/sqlserver/en-US/ecca0613-bde3-45f6-abc7-dbf3dade4597/retrieving-and-displaying-images?forum=sqldriverforphp
- [2]: /2016/04/sql-server-pdo-php7.html
+ [2]: /sql-server-pdo-php7/

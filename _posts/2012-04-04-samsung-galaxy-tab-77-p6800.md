@@ -31,7 +31,7 @@ Some rather obscure downsides I've noticed so far:
 * The microSD card natively mounts to /mnt/sdcard/extStorages/SdCard … [there doesn't appear to be an Android standard established](https://stackoverflow.com/questions/7251793/android-absolute-location-of-external-sd-card) so (some) apps don't know where to find it.
                                 
                                 
-### [[Update: 2012-12-18] Upgrading to Samsung OEM Ice Cream Sandwich Android v4.0](/2012/12/loading-ice-cream-sandwich-ics-android.html)
+### [Update: 2012-12-18] Upgrading to Samsung OEM Ice Cream Sandwich Android v4.0
                                 
 #### Recommended (and not) Accessories:
                                 

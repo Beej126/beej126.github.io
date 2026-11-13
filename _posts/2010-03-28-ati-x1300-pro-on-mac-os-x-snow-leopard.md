@@ -126,7 +126,7 @@ Misc Notes:
       * It's fanless (literally silent) 
       * I'm kicking myself for going with the noisy, expensive ATI 3870 in the first place! Boy was I wrong about my video hardware requirements. 
       * [Update: 30 Jun 2010] Ok so Photoshop CS5 is way cool (try the new "Refine Edge" button under the Quick Selection Tool, they've amazingly solved the classic carving-out-hair-from-a-background problem) <strike>… anyway, PS CS5 barked at me about a few things it wasn't going to manage in 3D mode with the AT X1300… and some other motions were a little more pokey than i'd like… so there is some reason to miss my beefier card.</strike> 
-      * [Update: 14 Jul 2010] Loaded the latest ATI drivers (duh) and Photoshop CS5 was then happy with all the OpenGL bits it was previously missing… so the little ATI x1300 really is all I need. [Upate: 28 Oct 2010] Actually, enabling hardware acceleration in Photoshop <a href="/solved-photoshop-cs5-detected-video/" target="_blank">wasn't quite as easy as I originally thought</a>. 
+      * [Update: 14 Jul 2010] Loaded the latest ATI drivers (duh) and Photoshop CS5 was then happy with all the OpenGL bits it was previously missing… so the little ATI x1300 really is all I need. [Upate: 28 Oct 2010] Actually, enabling hardware acceleration in Photoshop wasn't quite as easy as I originally thought... there is some quirk in recognizing GPU capabilities. I stumbled into navigating to `Help > System Info` to bump photoshop into rechecking and that works every time.
       * [Update: 01 Feb 2011] Photoshop CS5 on the Mac side has no such issues recognizing this card. 
       * [Update: 12 Aug 2011] CS5 under Win7 64bit behaved properly straight away. 
   * My main objective was iMovie which requires QE/CI. 

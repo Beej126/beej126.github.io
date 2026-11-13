@@ -37,9 +37,9 @@ I'll admit right up front, the UI is a a bit cluttered and terse… classic, goo
  [2]: /images/uploads/2011/yasbe-open-source-code-incremental-thumbnail.png "image"
  [3]: /images/uploads/2011/yasbe-open-source-code-incremental-f38e8830525a.png
  [4]: https://github.com/Beej126/yasbe/
- [5]: /2011/12/sql*server*table*valued*stored.html
+ [5]: /sql-server-table-valued-stored/
  [6]: https://code.google.com/p/yasbe/source/browse/#svn%2Ftrunk%2FDB
- [7]: /2010/10/wpf*net*40*application*framework.html
+ [7]: /wpf-net-40-application-framework/
  [8]: https://code.google.com/p/yasbe/source/browse/trunk/App/FileSystemNode.cs
  [9]: https://code.google.com/p/yasbe/source/browse/trunk/App/MainWindow.xaml
  [10]: https://www.nero.com/eng/downloads*nbl*free.php

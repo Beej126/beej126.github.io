@@ -108,7 +108,7 @@ View->ViewModel (MVVM) environments with robust declarative databinding, like WP
       4. Lastly, when committing to the DB, you fire the typical upsert proc which checks if it's doing an insert or update by seeing if the PK exists and acting accordingly.
 
  [1]: https://github.com/Beej126/itraacv2-1
- [2]: /2010/10/wpf-net-40-application-framework.html
+ [2]: /wpf-net-40-application-framework/
  [3]: https://www.google.com/search?q=+ADO.Net+Typed+DataSet
  [4]: https://msdn.microsoft.com/en-us/library/ms177564.aspx
  [5]: /images/uploads/2011/evolving-custom-sqlclientnet-datalayer-7f50f98e7003.png

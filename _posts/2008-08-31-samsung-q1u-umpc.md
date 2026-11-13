@@ -8,7 +8,7 @@ tags:
   - Mapping
 thumbnail-img: /images/uploads/2008/08/204996604.jpg
 ---
-* [Update:  5 Apr 2012] Just popped for a [Samsung Galaxy Tab 7.7](/2012/04/samsung-galaxy-tab-77-p6800.html).
+* [Update:  5 Apr 2012] Just popped for a [Samsung Galaxy Tab 7.7](/samsung-galaxy-tab-77-p6800/).
 * [Update: 19 Aug 2009] Windows 7 totally rocks on this thing!!! At least as peppy as XP, probably better.   
 ![Samsung Q1U Ultra Mobile PC]({{ site.baseurl }}/images/uploads/2008/08/204996604.jpg)
 ![](/images/uploads/2008/samsung-q1u-umpc-64c04dfb3685.jpg)

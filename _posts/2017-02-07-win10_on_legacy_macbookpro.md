@@ -87,7 +87,7 @@ _not as easy as one might think_ - this firmware is very finicky... USB Thumbdri
  [5]: https://www.rodsbooks.com/refind/index.html
  [6]: https://www.rodsbooks.com/refind/getting.html
  [7]: https://fgimian.github.io/blog/2016/03/12/installing-windows-10-on-a-mac-without-bootcamp/#partitioning-your-drive
- [8]: /2015/08/windowsuefi.html#NotesLessonsLearned
+ [8]: /windowsuefi/#notes--lessons-learned
  [9]: https://social.technet.microsoft.com/Forums/windowsserver/en-US/ebc26d5d-09bc-43a6-a946-608c84d46f61/change-volume-label-of-system-volume?forum=winservercore
  [10]: https://downloadcenter.intel.com/download/20018/INF-Update-Utility-Primarily-for-Intel-6-5-4-3-900-Series-Chipsets-Zip-Format?product=1145
  [11]: https://en.wikipedia.org/wiki/List_of_Intel_chipsets#Core_2_chipsets
