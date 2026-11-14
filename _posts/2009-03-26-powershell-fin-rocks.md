@@ -7,19 +7,19 @@ tags:
   - SysAdmin
 thumbnail-img: /images/uploads/2009/powershell-fin-rocks-thumbnail.png
 ---
-  * <a href="https://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx" target="_blank">Main Microsoft landing page for PowerShell</a>… download and install it!!  (if you're running Windows Server 2008, it's already loaded) 
+  * [Main Microsoft landing page for PowerShell](https://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx)… download and install it!!  (if you're running Windows Server 2008, it's already loaded) 
   * Out of the box executing PowerShell scripts is completely disabled for security… there's a couple immediate tasks to enable… 
       * Go find the PowerShell icon and fire it up… Vista (booo hiss!) > Start > Programs > Windows PowerShell 1.0 … Win7 (yay!) > Start > Programs > Accessories > Windows PowerShell 
       * Turn on ability to run PowerShell script files via 
   
         "Set-ExecutionPolicy RemoteSigned" … you'll need to do this right up front (only once) since this is locked down by default 
-      * Download and install the <a href="https://www.codeplex.com/Pscx" target="_blank">PowerShell Community Extensions</a> (PSCX)… all kinds of baseline goodies 
+      * Download and install the [PowerShell Community Extensions](https://www.codeplex.com/Pscx) (PSCX)… all kinds of baseline goodies 
       * The PSCX install will establish a default "profile.ps1" script that establishes a bunch of handy default shell and script functionality 
       * Profile.ps1 lives here: "%USERPROFILE%My DocumentsWindowsPowerShellProfile.ps1" (don't worry, Vista maps "My Documents" to the appropriate new physical folder for backwards compatibility with XP) 
   * One of the main advantages that PowerShell provides beyond previously existing scripting technologies (Windows or otherwise) is this: they've taken the power of command line piping and implemented it at an object oriented level versus simple flat text… this alone makes PowerShell game changingly more powerful than what Unix/OS X/Linux could lay claim to fame. 
       * For an immeidate mental example to take in how profound this is… take a common task like piping _LS_ to _SORT_ so that you can sort by <u>file size</u> (ls does not support file size sorting via an argument)… eg: 
       * ls -al | sort +4nr 
-      * the problem is (<a href="https://linux-journal.blogspot.com/2005/04/ls-sort-files.html" target="_blank">as this immediate Google hit proves</a>) that this depends on hard coding which column of the flat text output you want operate on 
+      * the problem is ([as this immediate Google hit proves](https://linux-journal.blogspot.com/2005/04/ls-sort-files.html)) that this depends on hard coding which column of the flat text output you want operate on 
       * PowerShell elegantly eliminates this issue by allowing us to pass true <u>data structures</u> along the pipeline such that we can cleanly sort on the "size" property!!  not some random column of flat text… eg: 
       * PS C:> dir | sort-object Length –descending 
       * Is that not freaking beautiful or what!?!?  They've really taken some effort to make the commands and syntax humanly readable… i think that is giving a big nod to the fact that the unfortunate evolution of Windows has created a class of so called Sys Admins that are dismally dependent on clicking pretty buttons rather than automating away their recurring issues 
@@ -27,9 +27,9 @@ thumbnail-img: /images/uploads/2009/powershell-fin-rocks-thumbnail.png
   * Cmdlets are just more PowerShell code bundled in a subroutine (plus .Net "snapin" DLLs where needed) so there has been tons of rapid adoption where folks are creating nice pretty PowerShell cmdlet wrappers around _everything_ with more and more publicly available cmdlet libraries all the time. 
   * Windows Forms via PowerShell is pretty cool… PowerShell's script is a pretty easy flowing syntax that washes away the usual pain of stuff like declaring variables of the proper type and has loads of friendly libraries available to do all the heavy lifting… marry that with .Net Forms GUIs and you can get some nifty stuff rolling in a day… 
   * See my first script below… it does a nice batch of meat and potatoes ditch work in about 75 short lines of fairly readable code 
-  * "<a href="https://www.leeholmes.com/blog/GetTheOwnerOfAProcessInPowerShellPInvokeAndRefOutParameters.aspx" target="_blank">Invoke-Win32</a>" - The code gods have already built us an awesome "_function which uses code generation to dynamically create a .Net P/Invoke definition_" so that we can fire Win32 API's on a whim! Toss just the Invoke-Win32 function from that page into your Profile.ps1 right after everything else. 
-  * <a href="https://www.vistax64.com/powershell/190763-possible-run-powershell-script-no-taskbar-window.html" target="_blank">Hide-PowerShell()</a> – (code posted below) very handy for hiding the PowerShell console when all you really want to see is the Window Forms stuff you threw together… just toss this short code into your Profile.ps1 as well 
-  * <a href="https://www.idera.com/Products/PowerShell/" target="_blank">PowerShellPlus</a> – very nice IDE with gonzo Intellisense & context Help for E-VER-Y-THING in _da Shell_… love it… running 2.1.0.45 Beta, hasn't crashed once. [Update: 21 Sep 2010] Looks like they're already up to v3.5 
+  * "[Invoke-Win32](https://www.leeholmes.com/blog/GetTheOwnerOfAProcessInPowerShellPInvokeAndRefOutParameters.aspx)" - The code gods have already built us an awesome "_function which uses code generation to dynamically create a .Net P/Invoke definition_" so that we can fire Win32 API's on a whim! Toss just the Invoke-Win32 function from that page into your Profile.ps1 right after everything else. 
+  * [Hide-PowerShell()](https://www.vistax64.com/powershell/190763-possible-run-powershell-script-no-taskbar-window.html) – (code posted below) very handy for hiding the PowerShell console when all you really want to see is the Window Forms stuff you threw together… just toss this short code into your Profile.ps1 as well 
+  * [PowerShellPlus](https://www.idera.com/Products/PowerShell/) – very nice IDE with gonzo Intellisense & context Help for E-VER-Y-THING in _da Shell_… love it… running 2.1.0.45 Beta, hasn't crashed once. [Update: 21 Sep 2010] Looks like they're already up to v3.5 
   * [Update: 21 Sep 2010] Windows 7 includes a very decent IDE for free: Start > Program > Accessories > Windows PowerShell > Windows PowerShell ISE 
 
 My First PowerShell Script (awww aint she a cutie ;)
@@ -41,7 +41,8 @@ My First PowerShell Script (awww aint she a cutie ;)
 
 This little ditty is a great example for scripting… it wrappers another legacy app with a front end that compensates for something lacking.
 
-<pre class="prettyprint lang-powershell">Hide-PowerShell 
+```powershell
+Hide-PowerShell 
 
 $cn = new-object system.data.SqlClient.SqlConnection("Data Source=blah;User ID=blah;Password=blah"); 
 $ds = new-object "System.Data.DataSet" "dsTaxOffices" 
@@ -117,15 +118,16 @@ $form.Controls.Add($btnSelect)
 
 # Show window 
 $form.showdialog()
-</pre>
+```
 
 Everybody needs a picture right?
 
-[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2009/powershell-fin-rocks-thumbnail.png" width="318" height="383" />][1]
+[![image](/images/uploads/2009/powershell-fin-rocks-thumbnail.png "image"){: style="height: 383px; width: 318px; border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" border="0" }][1]
 
 #### Hide-PowerShell() script source
 
-<pre class="prettyprint lang-powershell">function ShowWindowAsync([IntPtr] $hWnd, [Int32] $nCmdShow) 
+```powershell
+function ShowWindowAsync([IntPtr] $hWnd, [Int32] $nCmdShow) 
 { 
   $parameterTypes = [IntPtr], [Int32]  
   $parameters = $hWnd, $nCmdShow 
@@ -156,6 +158,6 @@ function Hide-PowerShell() {
 function Minimize-PowerShell() {  
     $null = ShowWindowAsync (Get-Process -Id $pid).MainWindowHandle 2  
 }
-</pre>
+```
 
  [1]: /images/uploads/2009/powershell-fin-rocks-0f973d01ca4e.png

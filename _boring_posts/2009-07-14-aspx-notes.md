@@ -31,9 +31,9 @@ It's been long enough that the little things tripped me when I fired up a new pr
       * Check the <%@ Page > directive & make sure it says CodeFile="" not CodeBehind="" 
       * If not then you'll be getting errors like "Could not load type …" 
       * CodeFile came along with ASP.Net 2.0 and corresponds to a "Web Project" (aka "Web Site") vs. a "Web Application" which was the only option in ASP.Net 1.x 
-      * <a href="https://msdn.microsoft.com/en-us/library/ydy4x04a.aspx" target="_blank">MSDN @ Page Reference</a>  
+      * [MSDN @ Page Reference](https://msdn.microsoft.com/en-us/library/ydy4x04a.aspx)  
       * Would love to know what bits need to be twiddled to make CodeFile the default rather than creating a new Web Site project and copying everything over??? 
-      * <a href="https://derek-morrison.com/post/ASPNET-Web-ldquo%3BSitesrdquo%3B-Versus-Web-ldquo%3BApplicationsrdquo%3B.aspx" target="_blank">This guy really goes deep</a> into the differences between Web Sites and Apps <geez, who knew?!?> 
+      * [This guy really goes deep](https://derek-morrison.com/post/ASPNET-Web-ldquo%3BSitesrdquo%3B-Versus-Web-ldquo%3BApplicationsrdquo%3B.aspx) into the differences between Web Sites and Apps <geez, who knew?!?> 
   * "Invalid FORMATETC structure"… just reload all the controls in the Ajax toolbox… how annoying 
   * "Ajax client-side framework failed to load" error … this is when the shine on all that spiffy new Ajax stuff gets dull in a hurry 
       * Absolutely TUUUUNS!! of reasons out there for this… for me it wound up working when I disabled debugging in the web.config on the production server: <compilation debug="False" strict="false"> … ok, yeah, i know that's not really an answer but i don't debug on that server anyway so for me it's a <a href="https://en.wikipedia.org/wiki/IBM_Program_temporary_fix" target="_blank"><em>permanent temporary fix</em></a>_ _;) 
@@ -63,7 +63,7 @@ It's been long enough that the little things tripped me when I fired up a new pr
       * Problem was, whenever you would click any of the CommandFields links, the corresponding nested GridView and Panel would just "go away" once the Async Postback's refresh completed… the Panel appeared to be collapsed but even if you tried to expand it the GridView content was totally gone. 
       * Banged all around trying to figure out why by debugging through the events that fired… was about to give up and then finally read [something][5] that mentioned Submit buttons behave differently than LinkButtons… 
       * So I ditched the CommandField and just tossed in my own LinkButtons to do the same thing and voila, the Grid maintains its state… again, who knew!? 
-  * DataBinding nested controls declaratively – <a href="https://www.devx.com/dotnet/Article/31405/1954" target="_blank">this was a good tip</a>… but only for READ ONLY stuff 
+  * DataBinding nested controls declaratively – [this was a good tip](https://www.devx.com/dotnet/Article/31405/1954)… but only for READ ONLY stuff 
       * rather than messing with code behind, just declare your nested List control's DataSource like this: 
       * DataSource='<%#((DataRowView)Container.DataItem).CreateChildView("ProviderOfficeContact")%>' 
       * unfortunately the limited way that _RowEditing just tosses all existing data contexts conflicts with this elegant approach, so you can't go into edit mode with this kind of approach and have to stick with doing the nested DataSource assignment in the parent's RowDataBound handler. 
@@ -75,12 +75,12 @@ It's been long enough that the little things tripped me when I fired up a new pr
     } 
   * GridView.RowUpdating event 
       * if we're manually databinding (vs a DataSource control) we have to to extract values ourselves (i.e. GridViewUpdateEventArgs.NewValues wil be empty) 
-      * <a href="https://weblogs.asp.net/davidfowler/archive/2008/12/12/getting-your-data-out-of-the-data-controls.aspx?CommentPosted=true" target="_blank">here's a good reference</a> to get the values out with the minimum of fuss 
+      * [here's a good reference](https://weblogs.asp.net/davidfowler/archive/2008/12/12/getting-your-data-out-of-the-data-controls.aspx?CommentPosted=true) to get the values out with the minimum of fuss 
       * that page also gives a quick blurb on how to access the "DataKeys": (sender as GridView).DataKeys[e.RowIndex].Values[fieldName] 
   * jQuery: 
       * don't forget to set the DOCTYPE!!! I know this is posted all over the jQuery tutorials, but it's so subtle i keep forgetting and bang my head for a good hour before i remember: 
           * <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "<https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">> 
-      * <a href="https://docs.jquery.com/Events/live#typefn" target="_blank">live()</a> vs bind() – live() makes sure you bind to elements that might not be currently available… exactly what you need when you're doing some Ajax that creates elements dynamically (<a href="https://blog.dreamlabsolutions.com/post/2009/03/25/jQuery-live-and-ASPNET-Ajax-asynchronous-postback.aspx" target="_blank">stumbled on this here</a>, thanks Arnold!!)
+      * [live()](https://docs.jquery.com/Events/live#typefn) vs bind() – live() makes sure you bind to elements that might not be currently available… exactly what you need when you're doing some Ajax that creates elements dynamically ([stumbled on this here](https://blog.dreamlabsolutions.com/post/2009/03/25/jQuery-live-and-ASPNET-Ajax-asynchronous-postback.aspx), thanks Arnold!!)
 
  [1]: https://forums.asp.net/t/1403132.aspx "https://forums.asp.net/t/1403132.aspx"
  [2]: https://mosesofegypt.net/post/Master5cDetail-with-CollapsiblePanelExtender-and-edit-detail-with-HoverMenuExtender-using-GridView.aspx "https://mosesofegypt.net/post/Master5cDetail-with-CollapsiblePanelExtender-and-edit-detail-with-HoverMenuExtender-using-GridView.aspx"

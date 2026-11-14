@@ -6,16 +6,18 @@ tags:
   - CommandLine
   - Database
 ---
-Split the output from SQL Server Management Studio (SSMS) > View > Object Explorer Details > "Script {function|view|procedure} as" into individual files
+
+Split the output from SQL Server Management Studio (SSMS) > View > Object Explorer Details > "Script {function\|view\|procedure} as" into individual files
   
 Note: The current RegEx's are tailored around the following scripting options (see comments to change):
 
-  * "Include descriptive headers" = true&nbsp; (this is the default after SSMS 2008 install) – located under:&nbsp; SSMS > Tools > Options > SQL Server Object Explorer > Scripting > General scripting options) 
-  * "Schema qualify object names" =&nbsp; false (**NOT the default**) - under: … > Object scripting options 
+  * "Include descriptive headers" = true (this is the default after SSMS 2008 install) – located under: SSMS > Tools > Options > SQL Server Object Explorer > Scripting > General scripting options) 
+  * "Schema qualify object names" = false (**NOT the default**) - under: … > Object scripting options 
 
-Download GAWK.exe for Windows: <a href="https://sourceforge.net/project/showfiles.php?group_id=23617&package_id=16431" target="_blank">link1</a>, <a href="https://www.google.com/search?q=download+gawk+windows&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a" target="_blank">link2</a>
+Download GAWK.exe for Windows: [link1](https://sourceforge.net/project/showfiles.php?group_id=23617&package_id=16431), [link2](https://www.google.com/search?q=download+gawk+windows&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a)
 
-<pre class="prettyprint"># example: gawk -f sqlsplit.awk file-to-split.sql
+```awk
+# example: gawk -f sqlsplit.awk file-to-split.sql
 
 BEGIN {
   outfile = "erase_me.sql" #start off with a dummy file to get the ball rolling
@@ -81,4 +83,5 @@ END {
 
 { 
   print  >>outfile
-}</pre>
+}
+```

@@ -18,7 +18,7 @@ Nice, someone's gone and created the perfect pill for even the most serious case
 <div>
 </div>
 
-[<img style="WIDTH: 320px; CURSOR: hand" border="0" alt="" src="/images/uploads/2008/transparent-command-shell-windows-thumbnail.jpg" />][1]
+[![](/images/uploads/2008/transparent-command-shell-windows-thumbnail.jpg){: style="width: 320px; CURSOR: hand" border="0" }][1]
 
 <div>
 </div>

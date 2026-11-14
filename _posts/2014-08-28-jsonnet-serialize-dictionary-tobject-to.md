@@ -9,7 +9,8 @@ Motivation: Wanted convenience of a Dictionary on the server side MVC controller
 
 Could've just exposed the List<Object> as another property but wanted to see if I could roll it all into one property just to learn a little more about the Json.Net API.Nice that Json.Net's tokenization framework has already abstracted away from specific types within the overridden method scope on custom JsonConverter class, so this approach generically handles \*any\* Dictionary<object, object> without any additional effort.
 
-<pre class="prettyprint linenums lang-cs">using Newtonsoft.Json;
+```csharp
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -74,4 +75,4 @@ namespace YouNameIt {
     public List Addons { get { return _addons ?? (_addons = new List()); } }
   }
 }
-</pre>
+```

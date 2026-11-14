@@ -1,5 +1,5 @@
 ---
-title: What's this? A pretty decent "Time Machine" built into Win8!?
+title: 'What''s this? A pretty decent "Time Machine" built into Win8!?'
 author: Beej
 type: post
 date: 2013-08-01T06:45:00+00:00
@@ -34,7 +34,7 @@ tags:
   - Windows 8+
 
 ---
-[<img align="right" alt="image" border="0" src="https://lh6.ggpht.com/-E_DP18yTlyg/UfmhgCq0LYI/AAAAAAAAFT8/oIw66EGADnM/image_thumb%25255B3%25255D.png?imgmax=800" height="393" style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: inline; float: right; margin: 5px 0px 0px 10px; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="646" />][1] 
+[![image](https://lh6.ggpht.com/-E_DP18yTlyg/UfmhgCq0LYI/AAAAAAAAFT8/oIw66EGADnM/image_thumb%25255B3%25255D.png?imgmax=800 "image"){: style="height: 393px; width: 646px; background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: inline; float: right; margin: 5px 0px 0px 10px; padding-left: 0px; padding-right: 0px; padding-top: 0px" align="right" border="0" }][1] 
   
 <https://lifehacker.com/5958865/how-to-use-windows-8s-new-file-history-backup-aka-time-machine-for-windows> 
   
@@ -46,7 +46,7 @@ i hadn't yet noticed the MS boys had taken yet another swipe at simplifying the 
   2. fire up the ui 
   3. select my backup drive 
   4. click the "turn on" button 
-  5. in normal explorer window right mouse all my favorite folders and <a href="https://marcoditullio.wordpress.com/2012/10/29/windows-8-file-history-add-custom-folders/" target="_blank">add them to the documents "library"</a> - since that's included in what gets backed up (libraries are those fancy pants folder buckets that came along probably with Vista) 
+  5. in normal explorer window right mouse all my favorite folders and [add them to the documents "library"](https://marcoditullio.wordpress.com/2012/10/29/windows-8-file-history-add-custom-folders/) - since that's included in what gets backed up (libraries are those fancy pants folder buckets that came along probably with Vista) 
   6. click the "run now" link 
   7. click "restore personal files" link and yep sure enough all the stuff is piling up out there
 

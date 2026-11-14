@@ -45,7 +45,7 @@ thumbnail-img: /images/uploads/2016/esxi-for-winmac-xamarin-ios-dev-nirvana-thum
 ## Main Steps
 
 * [install ESXi](https://www.virten.net/2014/12/howto-create-a-bootable-esxi-installer-usb-flash-drive/)
-* install <a href="https://www.insanelymac.com/forum/files/file/339-unlocker/">unlocker</a>
+* install [unlocker](https://www.insanelymac.com/forum/files/file/339-unlocker/)
 * boot up your ESXi host - <em>yeah, it was just that easy : )</em>
 * install [vSphere Client](https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2089791) on a remote machine
 * use client to remote into the host by ip and root/password

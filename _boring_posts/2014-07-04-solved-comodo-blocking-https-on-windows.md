@@ -44,7 +44,7 @@ And [this guy][1] explains what's necessary for FTP very nicely...
   * firewall support at \*SERVER\* level (not site) - set ports 5000-6000
   * point ftp site a folder
   * create login for ftp and make sure it has access to folder
-  * <a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank">when "</a>
+  * [when "](https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html)
 <li style="display: inline !important;">
   <a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank"></a><a href="https://manage.accuwebhosting.com/knowledgebase/941/FTP-Error-530-User-cannot-log-in-home-directory-inaccessible.html" target="_blank">Response: 530 User cannot log in, home directory inaccessible. </a>
 </li>

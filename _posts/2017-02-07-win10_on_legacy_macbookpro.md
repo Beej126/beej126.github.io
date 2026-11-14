@@ -38,7 +38,7 @@ _not as easy as one might think_ - this firmware is very finicky... USB Thumbdri
       1. From the Mac side, [download the latest zip][6]... extract...
       2. and then from Mac Terminal: `sudo ./refind-install`
 
-<img src="/images/uploads/2017/win10_on_legacy_macbookpro-thumbnail.png" style="height: 200px; margin: 0 auto; display: block;" />
+![](/images/uploads/2017/win10_on_legacy_macbookpro-thumbnail.png){: style="height: 200px; margin: 0 auto; display: block" }
 
 ### Prep your partition and Install
 

@@ -8,11 +8,15 @@ tags:
 ---
 General syntax:
 
-  * sed "s/search-for-regex/& replace-with/" filename.txt
+```bash
+sed "s/search-for-regex/& replace-with/" filename.txt
+```
 
 Example:
 
-  * sed "s/BEGIN AS/& nnSET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED/" Plans_s.sql
+```bash
+sed "s/BEGIN AS/& nnSET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED/" Plans_s.sql
+```
 
 Explanation:
 

@@ -7,7 +7,7 @@ tags:
 thumbnail-img: /images/uploads/2010/overclocking-skeletor-q9450-round-2-thumbnail.png
 ---
 
-(see <a href="/overclocking-skeletor-q9540-v10/" target="_blank">round 1 notes</a> for full specs) After watching a quick youtube of a guy that hit 3.9Ghz (485MHz FSB) where he didn't bat and eye about leaving his DDR2 at something around 1000MHz, I decided to copy his lead and give up on the 1:1 DRAM:FSB thing and just go for the CPU gusto… I wasn't seeing much love at 485… it would somehow boot if I goosed the DRAM to 1349 or something like that… but Win7 would reset after boot logo… lower DRAM frequencies wouldn't even boot until I set it to auto and it came back with 971 🙁 I'm at 420 FSB with 1400 DRAM now and holding in Win7 for a nice stretch here… that's around 3.4GHz which is at respectable 26% increase… we shall see. Primary OC BIOS settings (gleaned <a href="https://www.youtube.com/watch?v=_-ksS41TxvI" target="_blank">from here</a>) 
+(see [round 1 notes](/overclocking-skeletor-q9540-v10/) for full specs) After watching a quick youtube of a guy that hit 3.9Ghz (485MHz FSB) where he didn't bat and eye about leaving his DDR2 at something around 1000MHz, I decided to copy his lead and give up on the 1:1 DRAM:FSB thing and just go for the CPU gusto… I wasn't seeing much love at 485… it would somehow boot if I goosed the DRAM to 1349 or something like that… but Win7 would reset after boot logo… lower DRAM frequencies wouldn't even boot until I set it to auto and it came back with 971 🙁 I'm at 420 FSB with 1400 DRAM now and holding in Win7 for a nice stretch here… that's around 3.4GHz which is at respectable 26% increase… we shall see. Primary OC BIOS settings (gleaned [from here](https://www.youtube.com/watch?v=_-ksS41TxvI)) 
 
   * CPU Ratio = 8 
   * C1E = disabled (I have no idea) 
@@ -26,7 +26,7 @@ CPU #1 / Core #1    44 °C  (111 °F)
 CPU #1 / Core #2    44 °C  (111 °F)   
 CPU #1 / Core #3    43 °C  (109 °F)   
 CPU #1 / Core #4    41 °C  (106 °F)     
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2010/overclocking-skeletor-q9450-round-2-thumbnail.png" width="355" height="348" />][1][<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2010/overclocking-skeletor-q9450-round-2-23932216bb66.png" width="351" height="348" />][2]
+[![image](/images/uploads/2010/overclocking-skeletor-q9450-round-2-thumbnail.png "image"){: style="height: 348px; width: 355px; background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" border="0" }][1][![image](/images/uploads/2010/overclocking-skeletor-q9450-round-2-23932216bb66.png "image"){: style="height: 348px; width: 351px; background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" border="0" }][2]
 
  [1]: /images/uploads/2010/overclocking-skeletor-q9450-round-2-b37f0b66e8c0.png
  [2]: /images/uploads/2010/overclocking-skeletor-q9450-round-2-582d307c0c4b.png

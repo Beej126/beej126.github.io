@@ -12,7 +12,8 @@ thumbnail-img: /images/uploads/2015/chrome-user-script-whack-page-elements-thumb
       2. navigate to chrome://extensions/
       3. drag/drop the file to the Chrome Extensions page
 
-<pre class="prettyprint">// ==UserScript==
+```javascript
+// ==UserScript==
 // @name VipLeague.se AdBlock Hack
 // @match https://www.vipleague.se/*
 // ==/UserScript==
@@ -33,7 +34,8 @@ function main() {
 }
 
 // load jQuery and execute the main function
-addJQuery(main);</pre>
+addJQuery(main);
+```
 
 ![enter image description here][2]
   

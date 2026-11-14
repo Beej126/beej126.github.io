@@ -42,12 +42,12 @@ Wondering if the short throw would provide for easier location swapping... less 
 Was hoping to drive it from my mini tablet pc for more varied locations but am worried that it's VGA only output isn't going to be very satisfying image quality… I do have DVI-I output available from primary desktop PC in living room area which should be top notch. Reviews:
 
   * [ProjectorCentral.com][1] finally got their review out
-  * <a href="https://www.itp.net/reviews/details.php?id=3355" target="_blank">ITP.Net</a> 
-  * <a href="https://www.youtube.com/watch?v=bygSe4D0AqU&eurl=http%3A%2F%2Fvideo%2Eaol%2Ecom%2Fvideo%2Ddetail%2Foptoma%2Dex525st%2Dprojector%2Dreview%2Dby%2Dfocused%2Dtechnology%2F152697883&feature=player_embedded" target="_blank">YouTube Video Review</a> 
+  * [ITP.Net](https://www.itp.net/reviews/details.php?id=3355) 
+  * [YouTube Video Review](https://www.youtube.com/watch?v=bygSe4D0AqU&eurl=http%3A%2F%2Fvideo%2Eaol%2Ecom%2Fvideo%2Ddetail%2Foptoma%2Dex525st%2Dprojector%2Dreview%2Dby%2Dfocused%2Dtechnology%2F152697883&feature=player_embedded) 
 
 Highlights:
 
-  * <a href="https://www.provantage.com/YOPTO0HQ.htm" target="_blank">$1020 including APO shipping from "ProVantage"</a> a reputable dealer (right at the top end of my desired budget) 
+  * [$1020 including APO shipping from "ProVantage"](https://www.provantage.com/YOPTO0HQ.htm) a reputable dealer (right at the top end of my desired budget) 
   * 1024 x 768 native resolution (1600 x 1200 max input so supports 720p and 1080i HDTV inputs with down scaling… 720p is technically 1280 x 720 so it doesn't quite nail that resolution natively but there are many LCD/Plasma TV's which get away with calling this 720p so it must be fairly "ok") 
   * all the common video input types…s-video, composite, PC VGA and even digital (DVI-I which is adaptable to HDMI) 
   * great brightness/contrast specs  = 2500 / 2500 
@@ -55,7 +55,7 @@ Highlights:
   * low noise = 30 dB's 
   * ceiling mountable (mount holes and flip image mode) 
   * looks to be a decent remote control 
-  * 3 year warranty on parts/labor, 1 yr on the lamp (both very typical)… <a href="https://www.bhphotovideo.com/bnh/controller/home?O=&sku=588559&Q=&is=REG&A=details" target="_blank">looks like lamps are about $300-$350</a> which is a little high but common 
+  * 3 year warranty on parts/labor, 1 yr on the lamp (both very typical)… [looks like lamps are about $300-$350](https://www.bhphotovideo.com/bnh/controller/home?O=&sku=588559&Q=&is=REG&A=details) which is a little high but common 
   * - definitely a business class projector – there's a well known "rainbow effect" with the 'slower' DLP hardware typically used in business class projectors vs true "home theater" projectors… it can bother certain people while running moving images… I don't know whether we would notice this or not. 
   * - does NOT come with a case 
 

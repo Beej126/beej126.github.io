@@ -29,6 +29,6 @@ Nutshell:
 
 References:
 
-  * <a href="https://www.slipstick.com/how-to-outlook/searching-outlook-in-windows-8/" target="_blank" title="https://www.slipstick.com/how-to-outlook/searching-outlook-in-windows-8/">slipstick.com</a>
-  * <a href="https://www.outlook-tips.net/tips/tip-1039-searching-outlook-windows-8/" target="_blank">outlook-tips.net</a>
-  * <a href="https://answers.microsoft.com/en-us/office/forum/office_2010-outlook/outlook-pst-files-not-being-indexed-in-windows-8/6b5a3934-6850-4eaa-8d02-e21ec7473f52?msgId=2781c8a0-3208-46ad-bb4c-627b34f63969&page=2" target="_blank" title="https://answers.microsoft.com">answers.microsoft.com</a>
+  * [slipstick.com](https://www.slipstick.com/how-to-outlook/searching-outlook-in-windows-8/ "https://www.slipstick.com/how-to-outlook/searching-outlook-in-windows-8/")
+  * [outlook-tips.net](https://www.outlook-tips.net/tips/tip-1039-searching-outlook-windows-8/)
+  * [answers.microsoft.com](https://answers.microsoft.com/en-us/office/forum/office_2010-outlook/outlook-pst-files-not-being-indexed-in-windows-8/6b5a3934-6850-4eaa-8d02-e21ec7473f52?msgId=2781c8a0-3208-46ad-bb4c-627b34f63969&page=2 "https://answers.microsoft.com")

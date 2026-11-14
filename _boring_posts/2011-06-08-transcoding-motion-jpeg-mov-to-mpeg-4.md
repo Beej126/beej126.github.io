@@ -25,18 +25,19 @@ tags:
 ---
 &nbsp;
 
-## please see => <a href="/2015/11/transcode-iphone-mov-to-mp4-handbrake.html" target="_blank">Newer Approach</a>
+## please see => [Newer Approach](/2015/11/transcode-iphone-mov-to-mp4-handbrake.html)
 
 &nbsp;
 
-I have a Panasonic DMC-ZS5 (<a href="https://www.dpreview.com/news/1001/10012604panazs5.asp" target="_blank">dpreview</a>, <a href="https://panasonic.net/avc/lumix/compact/zs5_tz8/" target="_blank">Panasonic</a>) which creates .MOV files that contain the <a href="https://en.wikipedia.org/wiki/Motion_Jpeg" target="_blank">Motion JPEG</a> (M-JPEG) "format" (for want of a more technical term).
+I have a Panasonic DMC-ZS5 ([dpreview](https://www.dpreview.com/news/1001/10012604panazs5.asp), [Panasonic](https://panasonic.net/avc/lumix/compact/zs5_tz8/)) which creates .MOV files that contain the [Motion JPEG](https://en.wikipedia.org/wiki/Motion_Jpeg) (M-JPEG) "format" (for want of a more technical term).
 
-In order to stream those videos from my IIS/PHP based <a href="https://virgulestar.com/Photos/" target="_blank">photo gallery</a> (<a href="https://www.zenphoto.org/" target="_blank">zenPhoto.org</a>), they must be converted to a more "web compatible" format like <a href="https://en.wikipedia.org/wiki/MPEG-4" target="_blank">MPEG-4</a>.  I haven't found a more straightforward approach than direct batch conversion to another format… you can readily automate the conversion of say all the videos in a folder so it's pretty much turnkey and ignore.
+In order to stream those videos from my IIS/PHP based [photo gallery](https://virgulestar.com/Photos/) ([zenPhoto.org](https://www.zenphoto.org/)), they must be converted to a more "web compatible" format like [MPEG-4](https://en.wikipedia.org/wiki/MPEG-4).  I haven't found a more straightforward approach than direct batch conversion to another format… you can readily automate the conversion of say all the videos in a folder so it's pretty much turnkey and ignore.
 
 Update 2015-01-05: This is my current go-to:
 
-<pre class="prettyprint">for %v in (*.mov) do ffmpeg -i "%v" -vcodec h264 -acodec aac -strict -2 "%~nv.mp4"
-</pre>
+```batch
+for %v in (*.mov) do ffmpeg -i "%v" -vcodec h264 -acodec aac -strict -2 "%~nv.mp4"
+```
 
 Notes:
 
@@ -45,15 +46,18 @@ Notes:
 
 Update 2015-07-18: cropping 3D movies down to single image
 
-<pre class="prettyprint">ffmpeg -i "in_movie_file.ext" -vf "crop=960:800:0:0,setdar=4:2" -vcodec h264 -acodec aac -strict -2 "out_movie_file.mp4"</pre>
+```batch
+ffmpeg -i "in_movie_file.ext" -vf "crop=960:800:0:0,setdar=4:2" -vcodec h264 -acodec aac -strict -2 "out_movie_file.mp4"
+```
 
   * obviously check the real resolution before setting the crop... just divide it by 2
   * "setdar" is the aspect ratio... i found it was necessary... one way to find it is with VLC CTRL-J on the original video
 
 VLC will do this via a command line like so:
 
-<pre class="prettyprint">"c:Program Files (x86)VLCvlc.exe" -vvv %1 --sout=#transcode{acodec=mpga,vcodec=h264,venc=x264,deinterlace,vfilter="rotate{angle=270}"}:standard{mux=mp4,dst="%~n1.mp4"}, vlc://quit
-</pre>
+```batch
+"c:Program Files (x86)VLCvlc.exe" -vvv %1 --sout=#transcode{acodec=mpga,vcodec=h264,venc=x264,deinterlace,vfilter="rotate{angle=270}"}:standard{mux=mp4,dst="%~n1.mp4"}, vlc://quit
+```
 
 Notes:
 
@@ -64,11 +68,12 @@ However, I noticed that VLC chops off the last 2 seconds no matter what I do… 
 
 So I wound up going with QuickTime as my go-to transcoder for now.  It doesn't truncate any video and creates a slightly smaller output file than VLC.  The compression is dramatic and h264 does an awesome job with preserving quality… even while maintaining 1280 x 720 HD, a 100MB MJPG will go down to a 5MB h264/MPEG file.
 
-Following <a href="https://www.skylark.ie/qt4.net/samplecode.asp" target="_blank">code stolen from here</a> and tweaked a little, automates the QuickTime COM API to convert a directory full of MJPG's (see sample code for Chapter.8 > "BatchExport.js").
+Following [code stolen from here](https://www.skylark.ie/qt4.net/samplecode.asp) and tweaked a little, automates the QuickTime COM API to convert a directory full of MJPG's (see sample code for Chapter.8 > "BatchExport.js").
 
 There's no reason why this shouldn't be in PowerShell… it'd be interesting to see if it was any more readable.
 
-<pre class="prettyprint">//----------------------------------------------------------------------------------
+```javascript
+//----------------------------------------------------------------------------------
 //
 //    Written by    :    John Cromie
 //    Copyright    :    ? 2006 Skylark Associates Ltd.
@@ -236,6 +241,6 @@ for (; !fc.atEnd(); fc.moveNext())
  
 // Tidy up
 qtPlayerSrc.Close();
-</pre>
+```
 
  [1]: https://ffmpeg.zeranoe.com/builds/

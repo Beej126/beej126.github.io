@@ -8,8 +8,8 @@ thumbnail-img: /images/uploads/2009/yet-another-simple-audit-table-approac-thumb
 ---
 Feedback Update #1 [2009-11-15]:
 
-  * Two different vectors of peer feedback highlight my myopia for sending all the audit data to a single table… and yes, why the heck i felt comfortable cramming disparate data into one table in the first place seems very bonehead :)  having mirror copies of each table where the audit data resides seems much more <a href="https://en.wikipedia.org/wiki/KISS_principle" target="_blank">KISS</a>… and i figure i better scramble my design in that direction before anybody really gets cranking on this new system 
-  * Another point of feedback is SQL Server 2008's "<a href="https://www.zdnetasia.com/techguide/storage/0,39045058,62050506,00.htm" target="_blank">Change Data Control</a>" (CDC) facility… i wasn't actively tracking on this and it'll be great to head towards… the author even suggests that there is some support for this in SQL Server 2005… given the basic approach, coding something ourselves doesn't seem that tough… it's probably stuff like the built-in automatic schema change handling in 2008 that we'd be missing in 2005. 
+  * Two different vectors of peer feedback highlight my myopia for sending all the audit data to a single table… and yes, why the heck i felt comfortable cramming disparate data into one table in the first place seems very bonehead :)  having mirror copies of each table where the audit data resides seems much more [KISS](https://en.wikipedia.org/wiki/KISS_principle)… and i figure i better scramble my design in that direction before anybody really gets cranking on this new system 
+  * Another point of feedback is SQL Server 2008's "[Change Data Control](https://www.zdnetasia.com/techguide/storage/0,39045058,62050506,00.htm)" (CDC) facility… i wasn't actively tracking on this and it'll be great to head towards… the author even suggests that there is some support for this in SQL Server 2005… given the basic approach, coding something ourselves doesn't seem that tough… it's probably stuff like the built-in automatic schema change handling in 2008 that we'd be missing in 2005. 
 
 Highlights/Assumptions/Considerations [2009-11-05]:
 
@@ -29,16 +29,16 @@ Highlights/Assumptions/Considerations [2009-11-05]:
   * **Automatic Schema Change Awareness** – The HashBytes() T-SQL function is used to store the column signature that existed when the Audit\_Trigger\_CodeGen was last run … there's a little subroutine proc that checks to see whether this hash is the same and refreshes the table's trigger definition accordingly… if you're really worried about runaway columns then throw a call to this checker proc at the beginning of all your update procs … currently i'm just keeping this off to the side and running a refresh when i know i've added a new column so i don't have that nagging feeling that i'm zapping some nano-secs of performance for no good reason. 
   * So yes, lots of assumptions and caveats but not too shabby when it honestly came together in just 1.5 days of dedicated coding. 
 
-Teaser screen shots: [<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2009/yet-another-simple-audit-table-approac-thumbnail.png" width="628" height="187" />][1] [<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/images/uploads/2009/yet-another-simple-audit-table-approac-e46304512f41.png" width="503" height="162" />][2] Code Attachments:
+Teaser screen shots: [![image](/images/uploads/2009/yet-another-simple-audit-table-approac-thumbnail.png "image"){: style="height: 187px; width: 628px; border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" border="0" }][1] [![image](/images/uploads/2009/yet-another-simple-audit-table-approac-e46304512f41.png "image"){: style="height: 162px; width: 503px; border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" border="0" }][2] Code Attachments:
 
   * First off, i'm rolling with "Google Docs" here until i find something better, they don't support certain filetypes like .cs, so save-as accordingly 
   * Secondly, if Google Docs prompts you for a login and you don't feel like creating an account, just change the URL to HTTPS and refresh… after that it will create the appropriate cookie and HTTP links will work… yep it's a known bug 
 
-  * <a href="https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfM2M1NXAyd2Rk&hl=en" target="_blank">DataLayer.cs</a> – the greatest Proc class ever writen ;) 
-  * <a href="https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfN2Y4dDk5emc5&hl=en" target="_blank">ReflectionHelpers.cs</a> (referenced in DataLayer.cs so you'll want it) 
-  * <a href="https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfNWNnYmdqY2Rt&hl=en" target="_blank">Audit_Trigger_Checker.sql</a> – the HashBytes() stuff 
-  * <a href="https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfNHI4Z2RzcW43&hl=en" target="_blank">Audit_Trigger_CodeGen.sql</a> – here's the beef 
-  * <a href="https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfNmdtOXFjOWQ3&hl=en" target="_blank">SqlDataSource_snippet.cs.sql</a> – how to slap in SqlDataSources w/o much effort 
+  * [DataLayer.cs](https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfM2M1NXAyd2Rk&hl=en) – the greatest Proc class ever writen ;) 
+  * [ReflectionHelpers.cs](https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfN2Y4dDk5emc5&hl=en) (referenced in DataLayer.cs so you'll want it) 
+  * [Audit\_Trigger\_Checker.sql](https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfNWNnYmdqY2Rt&hl=en) – the HashBytes() stuff 
+  * [Audit\_Trigger\_CodeGen.sql](https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfNHI4Z2RzcW43&hl=en) – here's the beef 
+  * [SqlDataSource\_snippet.cs.sql](https://docs.google.com/Doc?docid=0AS8Y50ZAhKVDZGN4Z3ZkbnRfNmdtOXFjOWQ3&hl=en) – how to slap in SqlDataSources w/o much effort 
   * Audit Table:
   
     > CREATE TABLE \[Audit\](   

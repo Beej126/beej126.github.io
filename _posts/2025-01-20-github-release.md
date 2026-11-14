@@ -18,7 +18,7 @@ thumbnail-img: /images/uploads/2025/github-release-thumbnail.png
        - right mouse the one with the description you prefer
        -  make sure to clean up the description box before pushing back to origin
     1. lastly, push the mods back up via the far right toolbar button
-    ![image](/images/uploads/2025/github-release-thumbnail.png){:width="400px"}
+    ![image](/images/uploads/2025/github-release-thumbnail.png){: style="width: 400px;" }
 - see this minimal [custom github workflow](https://github.com/Beej126/KingstonFuryRgbCLI/blob/main/.github/workflows/build-release.yml) for my simple take on rolling the commit messages into release notes along with a compiled build zipped into an "asset" attached to each release
   - i'm choosing to make the release a manual launch vs pure CD upon commit so i can take the time to squash before creating the release
   - having clean commits via squashing plays right into using them direcctly for release notes

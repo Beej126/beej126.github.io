@@ -67,14 +67,20 @@ Apparently a language pack can't be removed from a running Windows instance, it 
 
 To find which language packs are installed ("Language" is case sensitive):
 
-<pre class="prettyprint">dism /image:c: /get-packages | find "Language"</pre>
+```batch
+dism /image:c: /get-packages | find "Language"
+```
 
 Which output something long like this:
 
-<pre class="prettyprint none">Package Identity : Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-GB~6.2.9200.16384</pre>
+```text
+Package Identity : Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-GB~6.2.9200.16384
+```
 
 To remove the package:
 
-<pre class="prettyprint">dism /image:c: /remove-package /packagename:{long_name_from_above_output}</pre>
+```batch
+dism /image:c: /remove-package /packagename:{long_name_from_above_output}
+```
 
 That ran for a few minutes to completion and when I booted back into my main instance and retried the upgrade, I was met with the new desired option to preserve my applications as well - yay 🙂

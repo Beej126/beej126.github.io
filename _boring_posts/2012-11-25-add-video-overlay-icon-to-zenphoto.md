@@ -42,9 +42,10 @@ tags:
 
 For example:
   
-[<img alt="Video_Overlay" src="https://lh6.ggpht.com/-Z7mqgQlMOOI/ULKan_C4lOI/AAAAAAAAFHM/pOPqz7BxIJ4/Video_Overlay_thumb%25255B2%25255D.png?imgmax=800" height="168" style="display: inline;" title="Video_Overlay" width="168" />][1]
+[![Video\_Overlay](https://lh6.ggpht.com/-Z7mqgQlMOOI/ULKan_C4lOI/AAAAAAAAFHM/pOPqz7BxIJ4/Video_Overlay_thumb%25255B2%25255D.png?imgmax=800 "Video_Overlay"){: style="height: 168px; width: 168px; display: inline" }][1]
 
-<pre class="prettyprint">function printCustomSizedImage($alt, $size, $width=NULL, $height=NULL, $cropw=NULL, $croph=NULL, $cropx=NULL, $cropy=NULL, $class=NULL, $id=NULL, $thumbStandin=false, $effects=NULL) {
+```php
+function printCustomSizedImage($alt, $size, $width=NULL, $height=NULL, $cropw=NULL, $croph=NULL, $cropx=NULL, $cropy=NULL, $class=NULL, $id=NULL, $thumbStandin=false, $effects=NULL) {
     global $_zp_current_image;
     if (is_null($_zp_current_image)) return;
     if (!$_zp_current_image->getShow()) {
@@ -84,6 +85,6 @@ function VideoOverlayIcon($url)
     if (isImageVideo()) return '/Photos/albums/Video_Overlay.png" style="background:url(' . $url . ')';
     else return $url;
 }
-</pre>
+```
 
  [1]: https://lh3.ggpht.com/-6u4N74pJ8-8/ULKanCkQrkI/AAAAAAAAFHE/kVg29WJKxHo/s1600-h/Video_Overlay%25255B4%25255D.png

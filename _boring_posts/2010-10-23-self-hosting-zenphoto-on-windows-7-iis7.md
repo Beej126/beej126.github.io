@@ -41,20 +41,20 @@ The main thing I dig is that i can point it at my main photos folder on my hard 
 
   * I installed them all to c:Program Files because that's my speedy SSD and I want this site to be as performant as possible 
       * then i simply SymLink my main photos folder (on a RAID1 volume elsewhere) over the top of c:Program Fileszenphotoalbums 
-      * here's an awesome <a href="https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html" target="_blank">SymLink utility</a> for Windows Explorer!! 
+      * here's an awesome [SymLink utility](https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) for Windows Explorer!! 
   * IIS - I'm on Win7 so it's IIS7 - Apache's cool and all but i saw a note somewhere that gave me the impression that on Windows, IIS + PHP via FastCGI module is  going to be more performant than Apache... otherwise, I did previously run it all on Apache just fine via the nifty "XAMPP" stack that installs everything for you in minutes and it "just works" which was honestly much less trouble than getting it all to hang together under IIS7 myself. 
-  * <a href="https://windows.php.net/download/)" target="_blank">PHP</a> - there's a specific Windows/IIS "Fast CGI" version (current version: 5.3.3) (<a href="https://www.iis-aid.com/articles/my_word/difference_between_php_thread_safe_and_non_thread_safe_binaries" target="_blank">see this for Thread Safe vs Non Thread Safe binaries</a>, non thread safe + IIS FastCGI is most performant) 
-  * <a href="https://dev.mysql.com/downloads/" target="_blank">MySQL</a> - and their WorkBench tool is handy (current version: 5.1.51) 
+  * [PHP](https://windows.php.net/download/\)) - there's a specific Windows/IIS "Fast CGI" version (current version: 5.3.3) ([see this for Thread Safe vs Non Thread Safe binaries](https://www.iis-aid.com/articles/my_word/difference_between_php_thread_safe_and_non_thread_safe_binaries), non thread safe + IIS FastCGI is most performant) 
+  * [MySQL](https://dev.mysql.com/downloads/) - and their WorkBench tool is handy (current version: 5.1.51) 
       * there's a lot of environmental tuning questions during the install wizard but i mostly selected default settings 
       * I chose to go with a MySQL_Data subfolder for the datafiles 
       * configure for TCP/IP access (i don't yet know how to configure PHP to connect to MySQL over named pipes) 
-  * <a href="https://www.zenphoto.org/index.php" target="_blank">ZenPhoto</a> - just an unzip (current version: 1.3.1.2) 
-  * <a href="https://blueskywebcreations.com/zpgalleriffic/themes/zpgalleriffic/readme.html" target="_blank">zpGallerific</a> theme (current version: 1.0) 
+  * [ZenPhoto](https://www.zenphoto.org/index.php) - just an unzip (current version: 1.3.1.2) 
+  * [zpGallerific](https://blueskywebcreations.com/zpgalleriffic/themes/zpgalleriffic/readme.html) theme (current version: 1.0) 
 
 <u>**FIREWALL!!!**</u> turn it completely off to begin with so you know whether it's your main problem or not 
 
   * I had to add these two rules to BitDefender 
-  * [<img title="image" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="image" src="https://lh6.ggpht.com/_XlySlDLkdOc/TMMSU9BrwgI/AAAAAAAAE0w/Ft6SInH1-RM/image_thumb%5B6%5D.png?imgmax=800" width="958" height="46" />][1] 
+  * [![image](https://lh6.ggpht.com/_XlySlDLkdOc/TMMSU9BrwgI/AAAAAAAAE0w/Ft6SInH1-RM/image_thumb%5B6%5D.png?imgmax=800 "image"){: style="height: 46px; width: 958px; border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" }][1] 
   * THE ORDER OF THE RULES MATTERS... MOVE THESE TO THE VERY TOP of the list with the arrow buttons!! 
   * helpful: <https://forum.bitdefender.com/index.php?showtopic=12764> 
   * nutshell: to see what's blocked "Increase Verbosity" and "Show Log" on Activity tab  
@@ -77,7 +77,7 @@ The main thing I dig is that i can point it at my main photos folder on my hard 
       * once I got everything fired up I realized that it'd be nice to support my old URLs that I've mailed out to everybody already 
       * interesting thing was, Apache was doing something cool I didn't realize… it was mod_rewrite'ing my php urls for me so they looked like pretty folders 
       * actually zenphoto was kicking out the pretty urls and mod_rewrite was translating them back into /index.php?album=blah format behind the covers 
-      * IIS doesn't do that right out of the box but they have a nice free <a href="https://www.iis.net/download/urlrewrite" target="_blank">URL Rewrite module</a> you can drop in to do this very same thing (v2.0 currently) 
+      * IIS doesn't do that right out of the box but they have a nice free [URL Rewrite module](https://www.iis.net/download/urlrewrite) you can drop in to do this very same thing (v2.0 currently) 
       * you have to restart IIS Manager GUI after you install to see the "URL Rewrite" icon under the "IIS" section of your web site 
       * it has a good wizard for the easy stuff which is all I needed to map "photos/(.*)/" to "photos/index.php?album={R:1}" 
       * also under conditionals, input: {REQUEST_FILENAME} => "Is Not a File" & "Is Not a Folder" was crucial to allow the real URLs for direct downloading of images and such to continue working 
@@ -243,7 +243,7 @@ The main thing I dig is that i can point it at my main photos folder on my hard 
 >   </div></p>
 > </div>
 > 
-> [<img title="Create Self-Signed Cert IIS7" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="Create Self-Signed Cert IIS7" src="https://lh4.ggpht.com/_XlySlDLkdOc/TbxXEY9WyDI/AAAAAAAAE8M/NNqMOakeZL0/Create%20Self-Signed%20Cert%20IIS7_thumb%5B3%5D.png?imgmax=800" width="590" height="412" />][3] 
+> [![Create Self-Signed Cert IIS7](https://lh4.ggpht.com/_XlySlDLkdOc/TbxXEY9WyDI/AAAAAAAAE8M/NNqMOakeZL0/Create%20Self-Signed%20Cert%20IIS7_thumb%5B3%5D.png?imgmax=800 "Create Self-Signed Cert IIS7"){: style="height: 412px; width: 590px; border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" }][3] 
 
 **<u>PHP Setup:</u>**
 

@@ -35,6 +35,6 @@ WHY did that take till 2013?!?
   
 Can't believe they whacked CoverFlow in iTunes 11… I guess I'll probably forget how much I liked the full screen CoverFlow eventually but man what a wild judgment call on Apple's part there.
   
-[<img alt="image" border="0" height="386" src="https://lh3.ggpht.com/-akLLv-SQqF0/UULDZQ3HNmI/AAAAAAAAFPA/CwAx0dZeN5U/image_thumb%25255B2%25255D.png?imgmax=800" style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px;" title="image" width="1066" />][1]
+[![image](https://lh3.ggpht.com/-akLLv-SQqF0/UULDZQ3HNmI/AAAAAAAAFPA/CwAx0dZeN5U/image_thumb%25255B2%25255D.png?imgmax=800 "image"){: style="height: 386px; width: 1066px; background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: inline; padding-left: 0px; padding-right: 0px; padding-top: 0px" border="0" }][1]
 
  [1]: https://lh3.ggpht.com/-kMo4YkoDze8/UULDYhOO3_I/AAAAAAAAFO4/qneUD8QzNoo/s1600-h/image%25255B4%25255D.png

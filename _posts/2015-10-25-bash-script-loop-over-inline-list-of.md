@@ -5,7 +5,9 @@ author: Beej
 tags:
   - CommandLine
 ---
-<pre class="prettyprint">#!/bin/bash
+
+```bash
+#!/bin/bash
 
 #echo $BASH_VERSION
 
@@ -31,4 +33,5 @@ do
   stat "${filePath}"
 done
 
-unset IFS</pre>
+unset IFS
+```

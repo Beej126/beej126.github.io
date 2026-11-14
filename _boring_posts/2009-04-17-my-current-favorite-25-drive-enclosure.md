@@ -37,8 +37,8 @@ tags:
 ---
 Drive:
 
-  * <a title="TigerDirect" href="https://www.seagate.com/ww/v/index.jsp?locale=en-US&name=st9500420asg-momentus-7200.4-sata-gf-500-gb-hd&vgnextoid=3a07bfafecadd110VgnVCM100000f5ee0a0aRCRD&vgnextchannel=819a2c74f15dd110VgnVCM100000f5ee0a0aRCRD&reqPage=Model" target="_blank">Seagate Momentus 7200.4 G</a> (Model#: **ST9500420ASG**; note**:** 'G' = Shock Protection, there's a ST9500420AS, sans "G" as well) 
-  * <a href="https://www.provantage.com/seagate-st9500420asg~7SEGS1VJ.htm" target="_blank">$120 @ ProVantage</a> 
+  * [Seagate Momentus 7200.4 G](https://www.seagate.com/ww/v/index.jsp?locale=en-US&name=st9500420asg-momentus-7200.4-sata-gf-500-gb-hd&vgnextoid=3a07bfafecadd110VgnVCM100000f5ee0a0aRCRD&vgnextchannel=819a2c74f15dd110VgnVCM100000f5ee0a0aRCRD&reqPage=Model "TigerDirect") (Model#: **ST9500420ASG**; note**:** 'G' = Shock Protection, there's a ST9500420AS, sans "G" as well) 
+  * [$120 @ ProVantage](https://www.provantage.com/seagate-st9500420asg~7SEGS1VJ.htm) 
   * 500GB ! 
   * 7200RPM 
   * 16MB Buffer 
@@ -46,8 +46,8 @@ Drive:
 
 Enclosure:
 
-  * <a href="https://www.coolmaxusa.com/productDetails.asp?item=HD-250L-eSATA&details=overview&subcategory=eSATA&category=2.5SATA" target="_blank">CoolMax HD-250L-eSATA</a> 
-  * TigerDirect = <a title="TigerDirect.com Product Detail" href="https://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=3603274&sku=T13-1082" target="_blank">$25</a> 
+  * [CoolMax HD-250L-eSATA](https://www.coolmaxusa.com/productDetails.asp?item=HD-250L-eSATA&details=overview&subcategory=eSATA&category=2.5SATA) 
+  * TigerDirect = [$25](https://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=3603274&sku=T13-1082 "TigerDirect.com Product Detail") 
   * It's leather so it hides greasy fingerprints very nicely compared to other hard shells 
   * The cables are a bit long & bulky compared to the nice little ones that come with say the WD Passport… but the outer case has a nice little pocket that keeps them in check. 
 
@@ -56,7 +56,7 @@ Enclosure:
   Previous Fave':
 
   * <a href="https://www.wdc.com/en/products/products.asp?driveid=477" target="_blank">Western Digital Scorpio "Black" with <strong>Free Fall Sensor</strong></a> (Model#: WD3200BJKT) 
-  * ~<a href="https://www.google.com/products/catalog?hl=en&q=WD3200BJKT&cid=13330041035018023775&scoring=p#ps-sellers" target="_blank">$80 street</a> 
+  * ~[$80 street](https://www.google.com/products/catalog?hl=en&q=WD3200BJKT&cid=13330041035018023775&scoring=p#ps-sellers) 
   * 320GB 
   * 7200 RPM 
   * 16MB Buffer   

@@ -16,13 +16,13 @@ thumbnail-img: /images/uploads/2026/two_drives_mounted.jpg
 - [2 x 10 Lego plate (everybody has an old lego stash right? =)](https://www.bricklink.com/v2/catalog/catalogitem.page?id=718&idColor=11#T=S)
 
 ### Stock trays
-![image1]({{ site.baseurl }}/images/uploads/2026/stock_drive_trays.png){:width="400px"}
+![image1]({{ site.baseurl }}/images/uploads/2026/stock_drive_trays.png){: style="width: 400px;" }
 ### Add on Brackets
-![image1]({{ site.baseurl }}/images/uploads/2026/HDD_bracket.png){:width="300px"}
+![image1]({{ site.baseurl }}/images/uploads/2026/HDD_bracket.png){: style="width: 300px;" }
 ### Lego =)
 ![image1]({{ site.baseurl }}/images/uploads/2026/lego_plate.png)
 ### Finished
-![image1]({{ site.baseurl }}/images/uploads/2026/two_drives_mounted.jpg){:width="400px"}
+![image1]({{ site.baseurl }}/images/uploads/2026/two_drives_mounted.jpg){: style="width: 400px;" }
 
 
 ## Tips

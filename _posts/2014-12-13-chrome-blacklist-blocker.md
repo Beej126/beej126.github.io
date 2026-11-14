@@ -8,7 +8,7 @@ tags:
 ---
 If you need this, you'll know why ;)
 
-Save <a href="https://raw.githubusercontent.com/Beej126/PowerShell/master/ChromeBlacklistBlocker/ChromeBlacklistBlocker.ps1" target="_blank">ChromeBlacklistBlocker.ps1</a> somewhere local.
+Save [ChromeBlacklistBlocker.ps1](https://raw.githubusercontent.com/Beej126/PowerShell/master/ChromeBlacklistBlocker/ChromeBlacklistBlocker.ps1) somewhere local.
 
 You can run it via right mouse > "Run with PowerShell".
   

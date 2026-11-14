@@ -15,7 +15,7 @@ I'll admit right up front, the UI is a a bit cluttered and terse… classic, goo
 
 [![image][2]][3]
 
-  * <strike><a href="https://code.google.com/p/yasbe/source/browse/#svn%2Ftrunk%2FApp%253Fstate%253Dclosed" target="_blank">full source svn repo</a></strike> Update 3/24/15 * Google is shutting down code.google.com 🙁 but provided easy migration to github: [New source link][4].
+  * <strike>[full source svn repo](https://code.google.com/p/yasbe/source/browse/#svn%2Ftrunk%2FApp%253Fstate%253Dclosed)</strike> Update 3/24/15 * Google is shutting down code.google.com 🙁 but provided easy migration to github: [New source link][4].
   * Basically, it just works like a champ… I really like how it came together… WPF is awesome… it all feels _very_ peppy & responsive on my "aging" Quad Core 2…
   * currently implemented on sql server 2008 (express)… should be relatively database agnostic in theory, but…
   * The one big sql server 2008 dependency that I do use is _[SQL Server table*valued stored proc parameters][5]._

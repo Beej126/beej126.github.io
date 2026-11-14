@@ -21,11 +21,11 @@ Tips:
       * <%=Page.Request.ClientCertificate.IsPresent%> 
       * <%=Page.Request.ClientCertificate.Subject%> 
   * It's probably also helpful to go ahead and make sure your server side SSL cert is properly named & not expired, such that you don't get any warnings when you browse to the page… I was getting some errors related to that when I was working with the Client Cert's required.
-  * <a href="https://www.sslshopper.com/article-how-to-create-a-self-signed-certificate-in-iis-7.html" target="_blank">this reference was helpful</a>, see the section titled "Generate a Self Signed Certificate with the Correct Common Name"
+  * [this reference was helpful](https://www.sslshopper.com/article-how-to-create-a-self-signed-certificate-in-iis-7.html), see the section titled "Generate a Self Signed Certificate with the Correct Common Name"
   * this is the basic command you need to generate your own SSL cert for testing: SelfSSL /N:CN=www.whatever.com /V:9999
-  * find SelfSSL in the <a href="https://www.microsoft.com/download/en/confirmation.aspx?id=17275" target="_blank">IIS6 Reskit</a>
+  * find SelfSSL in the [IIS6 Reskit](https://www.microsoft.com/download/en/confirmation.aspx?id=17275)
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-thumbnail.png" width="496" height="379" />][2] [<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-b66c643c851d.png" width="481" height="215" />][3]
+[![image](/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-thumbnail.png "image"){: style="height: 379px; width: 496px; background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" border="0" }][2] [![image](/images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-b66c643c851d.png "image"){: style="height: 215px; width: 481px; background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" border="0" }][3]
 
  [1]: https://iase.disa.mil/pki-pke/function_pages/tools.html#trust "https://iase.disa.mil/pki-pke/function_pages/tools.html#trust"
  [2]: /images/uploads/2011/cac-smartcard-enabling-aspnet-on-iis-c2e8f65a8f9c.png

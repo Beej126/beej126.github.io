@@ -78,7 +78,7 @@ I live in the Seattle area, apparently we get a nice windy storm around every Th
 
 #### Fig.1 {#fig1}
 
-<img height="200" src="{{ site.baseurl }}/images/uploads/2015/11/Snap4.png" />
+![]({{ site.baseurl }}/images/uploads/2015/11/Snap4.png){: style="height: 200px;" }
 
  [1]: https://www.power-solutions.com/watts-va
  [2]: https://en.wikipedia.org/wiki/Power_factor

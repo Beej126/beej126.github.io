@@ -28,7 +28,7 @@ tags:
   - Networking
 
 ---
-<a href="https://www.techpinas.com/2009/09/what-is-google-or-bloggers-nameserver.html" target="_blank">(taken from here)</a> 
+[(taken from here)](https://www.techpinas.com/2009/09/what-is-google-or-bloggers-nameserver.html) 
 
 <table style="border-collapse: collapse" cellspacing="0" cellpadding="2" border="1">
   <tr>
